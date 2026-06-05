@@ -8,7 +8,7 @@ pubDate: 2019-07-16
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512060.avif"
-heroImageAlt: "RealRip-큰손들이 영어를 배우는 이유"
+heroImageAlt: "ZBZ-큰손들이 영어를 배우는 이유"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

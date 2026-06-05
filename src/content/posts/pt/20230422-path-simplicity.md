@@ -9,7 +9,7 @@ pubDate: 2025-03-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820281.avif"
-heroImageAlt: "RealRip-O Caminho da Simplicidade: Uma Filosofia de Vida para Explorar"
+heroImageAlt: "ZBZ-O Caminho da Simplicidade: Uma Filosofia de Vida para Explorar"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

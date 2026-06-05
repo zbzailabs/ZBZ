@@ -9,7 +9,7 @@ pubDate: 2024-09-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332739.avif"
-heroImageAlt: "RealRip-영화 관람 경험, 투자 환경 및 전기 사기의 문제"
+heroImageAlt: "ZBZ-영화 관람 경험, 투자 환경 및 전기 사기의 문제"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -7,7 +7,7 @@
   - "innovation"
 "pubDate": "2019-12-05"
 "heroImage": "https://cos.zbz.ai/images/202310181512028.avif"
-"heroImageAlt": "RealRip-شعب البلد كله لا يتفق مع ذلك"
+"heroImageAlt": "ZBZ-شعب البلد كله لا يتفق مع ذلك"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

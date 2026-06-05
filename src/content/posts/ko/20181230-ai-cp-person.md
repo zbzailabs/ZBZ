@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-인간과 AI, 천생연분인가 라이벌인가"
+heroImageAlt: "ZBZ-인간과 AI, 천생연분인가 라이벌인가"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

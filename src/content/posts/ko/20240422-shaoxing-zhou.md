@@ -9,7 +9,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip-책상에 '조' 자를 새긴다고 해서 성공할 수 있는 것은 아니다."
+heroImageAlt: "ZBZ-책상에 '조' 자를 새긴다고 해서 성공할 수 있는 것은 아니다."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202310181512113.avif"
-heroImageAlt: "RealRip-Emprendimiento agrícola: Lean Startup"
+heroImageAlt: "ZBZ-Emprendimiento agrícola: Lean Startup"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

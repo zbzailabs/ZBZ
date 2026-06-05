@@ -8,7 +8,7 @@ pubDate: 2024-09-19
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929914.avif"
-heroImageAlt: "RealRip-Präzises Management von Talent-, Kapital- und Ressourcenanteilen"
+heroImageAlt: "ZBZ-Präzises Management von Talent-, Kapital- und Ressourcenanteilen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

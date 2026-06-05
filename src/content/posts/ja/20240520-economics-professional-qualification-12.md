@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290924281.avif"
-heroImageAlt: "RealRip-農業の多機能性と農村の多元的価値"
+heroImageAlt: "ZBZ-農業の多機能性と農村の多元的価値"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

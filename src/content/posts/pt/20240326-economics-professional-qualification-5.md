@@ -8,7 +8,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-A Posição da Agricultura na Economia Nacional e Estágios de Desenvolvimento"
+heroImageAlt: "ZBZ-A Posição da Agricultura na Economia Nacional e Estágios de Desenvolvimento"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

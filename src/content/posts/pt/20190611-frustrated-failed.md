@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-10-07
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-Como as startups falham"
+heroImageAlt: "ZBZ-Como as startups falham"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

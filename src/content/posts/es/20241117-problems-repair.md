@@ -8,7 +8,7 @@ pubDate: "2024-11-24"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202411241329452.avif"
-heroImageAlt: "RealRip-Algunos problemas y reflexiones recientes"
+heroImageAlt: "ZBZ-Algunos problemas y reflexiones recientes"
 heroImageWidth: 2400
 heroImageHeight: 1350
 draft: false

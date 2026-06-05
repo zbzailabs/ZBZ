@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: "2025-11-15"
 heroImage: "https://cos.zbz.ai/images/202310121153884.avif"
-heroImageAlt: "RealRip-人工智能与数字农业创新"
+heroImageAlt: "ZBZ-人工智能与数字农业创新"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-29
 heroImage: "https://cos.zbz.ai/images/202310181512112.avif"
-heroImageAlt: "RealRip-베트남 농업에서 창업한다는 것"
+heroImageAlt: "ZBZ-베트남 농업에서 창업한다는 것"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2020-07-26
 heroImage: "https://cos.zbz.ai/images/202310181512026.avif"
-heroImageAlt: "RealRip-Речь на симпозиуме предпринимателей"
+heroImageAlt: "ZBZ-Речь на симпозиуме предпринимателей"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

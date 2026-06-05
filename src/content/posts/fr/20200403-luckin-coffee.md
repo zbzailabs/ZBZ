@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-04-03
 heroImage: https://cos.realrip.com/images/202310181512062.avif
-heroImageAlt: "RealRip-Regardez autour de vous, si vous ne voyez pas le vendeur, alors c'est vous."
+heroImageAlt: "ZBZ-Regardez autour de vous, si vous ne voyez pas le vendeur, alors c'est vous."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

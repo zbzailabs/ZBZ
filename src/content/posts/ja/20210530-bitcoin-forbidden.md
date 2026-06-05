@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-今週は「Camel Guest」三部作を見ました。主に弓矢と速射銃の対決について語っています。個人戦闘では、弓矢は銃と決闘できる唯一の冷兵器です。現在でも、弓に似たクロスボウは攻撃的な武器としてよく使用されます。"
+heroImageAlt: "ZBZ-今週は「Camel Guest」三部作を見ました。主に弓矢と速射銃の対決について語っています。個人戦闘では、弓矢は銃と決闘できる唯一の冷兵器です。現在でも、弓に似たクロスボウは攻撃的な武器としてよく使用されます。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

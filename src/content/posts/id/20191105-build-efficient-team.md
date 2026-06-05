@@ -8,7 +8,7 @@
   - "innovation"
 "pubDate": "2019-11-05"
 "heroImage": "https://cos.zbz.ai/images/202310181512029.avif"
-"heroImageAlt": "RealRip-Bangun tim yang efisien"
+"heroImageAlt": "ZBZ-Bangun tim yang efisien"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

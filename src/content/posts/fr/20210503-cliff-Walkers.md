@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2021-05-03
 heroImage: "https://cos.zbz.ai/images/202310031635856.avif"
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1959
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2015-07-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548981.avif"
-heroImageAlt: "RealRip-Esforçando-me pela jactância que fiz uma vez"
+heroImageAlt: "ZBZ-Esforçando-me pela jactância que fiz uma vez"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

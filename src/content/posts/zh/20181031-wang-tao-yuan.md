@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-31
 heroImage: "https://cos.zbz.ai/images/202310181536593.avif"
-heroImageAlt: "RealRip-王桃园的今天，是中国乡村的明天"
+heroImageAlt: "ZBZ-王桃园的今天，是中国乡村的明天"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

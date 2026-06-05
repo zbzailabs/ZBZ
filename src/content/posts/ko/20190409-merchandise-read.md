@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2025-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip-빨간불 아니면 사지 말고, 초록불 아니면 팔지 마라"
+heroImageAlt: "ZBZ-빨간불 아니면 사지 말고, 초록불 아니면 팔지 마라"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

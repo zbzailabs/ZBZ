@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2018-11-10
 heroImage: "https://cos.zbz.ai/images/202310181536592.avif"
-heroImageAlt: "RealRip-Глобальный взгляд: делайте ставку на Китай"
+heroImageAlt: "ZBZ-Глобальный взгляд: делайте ставку на Китай"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

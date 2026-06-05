@@ -9,7 +9,7 @@ pubDate: 2024-03-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403280939756.avif"
-heroImageAlt: "RealRip- Important Theories and Applications in Agricultural Economics"
+heroImageAlt: "ZBZ- Important Theories and Applications in Agricultural Economics"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

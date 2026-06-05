@@ -8,7 +8,7 @@ pubDate: 2024-11-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548966.avif"
-heroImageAlt: "RealRip-Industri dan Pasar Pupuk Silikon"
+heroImageAlt: "ZBZ-Industri dan Pasar Pupuk Silikon"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

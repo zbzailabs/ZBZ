@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-21
 heroImage: "https://cos.zbz.ai/images/202310181512096.avif"
-heroImageAlt: "RealRip-纽约曼哈顿印象"
+heroImageAlt: "ZBZ-纽约曼哈顿印象"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

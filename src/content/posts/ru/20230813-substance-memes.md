@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- Полезная информация и мемы — двойная роль в распространении информации"
+heroImageAlt: "ZBZ- Полезная информация и мемы — двойная роль в распространении информации"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

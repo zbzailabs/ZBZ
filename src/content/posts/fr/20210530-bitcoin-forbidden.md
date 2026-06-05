@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-J'ai regardé la trilogie 'Camel Guest' cette semaine, racontant principalement la confrontation entre arcs et flèches et armes rapides. En combat individuel, les arcs et les flèches sont les seules armes blanches qui peuvent rivaliser avec les armes à feu. Même maintenant, les arbalètes similaires aux arcs sont souvent utilisées comme armes offensives."
+heroImageAlt: "ZBZ-J'ai regardé la trilogie 'Camel Guest' cette semaine, racontant principalement la confrontation entre arcs et flèches et armes rapides. En combat individuel, les arcs et les flèches sont les seules armes blanches qui peuvent rivaliser avec les armes à feu. Même maintenant, les arbalètes similaires aux arcs sont souvent utilisées comme armes offensives."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

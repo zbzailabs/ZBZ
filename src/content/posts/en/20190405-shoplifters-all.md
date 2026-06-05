@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-It Doesn't Matter If You Can't See the Fireworks, What Matters Is Who You Watch Them With"
+heroImageAlt: "ZBZ-It Doesn't Matter If You Can't See the Fireworks, What Matters Is Who You Watch Them With"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2024-06-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548964.avif"
-heroImageAlt: "RealRip-インテリジェントな苗工場の建設は不可欠です"
+heroImageAlt: "ZBZ-インテリジェントな苗工場の建設は不可欠です"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-Branche und Markt für Obst- und Gemüsekonservierungsmittel"
+heroImageAlt: "ZBZ-Branche und Markt für Obst- und Gemüsekonservierungsmittel"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

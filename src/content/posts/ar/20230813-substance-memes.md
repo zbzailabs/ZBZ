@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip-干货与迷因是现代社会信息传播的双重角色"
+heroImageAlt: "ZBZ-干货与迷因是现代社会信息传播的双重角色"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290924281.avif"
-heroImageAlt: "RealRip-농업의 다양한 기능과 농촌의 다원적 가치"
+heroImageAlt: "ZBZ-농업의 다양한 기능과 농촌의 다원적 가치"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

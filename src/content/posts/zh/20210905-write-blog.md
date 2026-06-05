@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-09-05
 heroImage: https://cos.realrip.com/images/202310181244293.avif
-heroImageAlt: "RealRip-博客还是要继续写"
+heroImageAlt: "ZBZ-博客还是要继续写"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

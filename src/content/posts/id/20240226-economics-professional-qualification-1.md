@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip-Situasi Perkembangan Pertanian dan Pedesaan di Era Baru"
+heroImageAlt: "ZBZ-Situasi Perkembangan Pertanian dan Pedesaan di Era Baru"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

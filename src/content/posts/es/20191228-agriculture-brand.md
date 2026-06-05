@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-21
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-Reflexiones sobre la construcción de marca agrícola"
+heroImageAlt: "ZBZ-Reflexiones sobre la construcción de marca agrícola"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

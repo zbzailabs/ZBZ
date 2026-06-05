@@ -10,7 +10,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip-今は生活であり、今は活力であり、今は実践であり、今は創作である"
+heroImageAlt: "ZBZ-今は生活であり、今は活力であり、今は実践であり、今は創作である"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

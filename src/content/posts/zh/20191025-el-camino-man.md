@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-10-25"
 heroImage: "https://cos.zbz.ai/images/202310181512040.avif"
-heroImageAlt: "RealRip-续命之徒"
+heroImageAlt: "ZBZ-续命之徒"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

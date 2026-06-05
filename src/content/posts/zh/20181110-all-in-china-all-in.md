@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2018-11-10
 heroImage: "https://cos.zbz.ai/images/202310181536592.avif"
-heroImageAlt: "RealRip-全球视野，下注中国"
+heroImageAlt: "ZBZ-全球视野，下注中国"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

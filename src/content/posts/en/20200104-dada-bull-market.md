@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2020-01-04
 heroImage: "https://cos.zbz.ai/images/202310181512055.avif"
-heroImageAlt: "RealRip-At the Start of a Big Bull Market"
+heroImageAlt: "ZBZ-At the Start of a Big Bull Market"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

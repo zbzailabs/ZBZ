@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-Humains et IA : couple idéal ou ennemis jurés ?"
+heroImageAlt: "ZBZ-Humains et IA : couple idéal ou ennemis jurés ?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

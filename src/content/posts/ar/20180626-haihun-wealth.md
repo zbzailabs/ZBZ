@@ -9,7 +9,7 @@ pubDate: 2025-09-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-ثروة الماركيس هايخون"
+heroImageAlt: "ZBZ-ثروة الماركيس هايخون"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2025-03-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820281.avif"
-heroImageAlt: "RealRip-Der Weg der Einfachheit: Eine Lebensphilosophie zur Erforschung"
+heroImageAlt: "ZBZ-Der Weg der Einfachheit: Eine Lebensphilosophie zur Erforschung"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

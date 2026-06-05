@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip-暑假，飞往美国"
+heroImageAlt: "ZBZ-暑假，飞往美国"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

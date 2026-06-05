@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-06-12
 heroImage: https://cos.realrip.com/images/202310281704596.avif
-heroImageAlt: "RealRip-不能忘记，不能原谅，不能发生"
+heroImageAlt: "ZBZ-不能忘记，不能原谅，不能发生"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

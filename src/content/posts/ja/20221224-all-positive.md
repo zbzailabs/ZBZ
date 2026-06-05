@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-12-25
 heroImage: "https://cos.zbz.ai/images/202309280820279.avif"
-heroImageAlt: "RealRip-誰もが陽性であるべき"
+heroImageAlt: "ZBZ-誰もが陽性であるべき"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

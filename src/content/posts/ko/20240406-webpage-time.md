@@ -9,7 +9,7 @@ pubDate: 2024-04-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404061153893.avif"
-heroImageAlt: "RealRip-일상생활의 웹화 디자인, 모듈화 사고로 시간 최적화"
+heroImageAlt: "ZBZ-일상생활의 웹화 디자인, 모듈화 사고로 시간 최적화"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

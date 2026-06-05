@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-花火が見えなくても、誰と見るかが大事"
+heroImageAlt: "ZBZ-花火が見えなくても、誰と見るかが大事"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

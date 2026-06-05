@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-11-20
 heroImage: "https://cos.zbz.ai/images/202310181512144.avif"
-heroImageAlt: "RealRip-Gatsby 블로그 템플릿"
+heroImageAlt: "ZBZ-Gatsby 블로그 템플릿"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

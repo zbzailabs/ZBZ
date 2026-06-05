@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-11-17
 heroImage: https://cos.realrip.com/images/202310181512145.avif
-heroImageAlt: "RealRip-为 Gatsby 安装 Waline 评论组件"
+heroImageAlt: "ZBZ-为 Gatsby 安装 Waline 评论组件"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

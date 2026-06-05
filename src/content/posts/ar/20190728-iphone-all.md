@@ -8,7 +8,7 @@ pubDate: 2019-07-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512057.avif"
-heroImageAlt: "RealRip-كِدت أدخل السجن"
+heroImageAlt: "ZBZ-كِدت أدخل السجن"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

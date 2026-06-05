@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-06-02
 heroImage: "https://cos.zbz.ai/images/202310181512045.avif"
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

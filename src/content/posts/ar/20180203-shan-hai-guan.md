@@ -8,7 +8,7 @@ pubDate: 2024-12-27
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512141.avif"
-heroImageAlt: "RealRip-ثلاث قصص من ما وراء الممر"
+heroImageAlt: "ZBZ-ثلاث قصص من ما وراء الممر"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

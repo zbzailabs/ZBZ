@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-The Marquis of Haihun’s Secrets to Amassing Wealth"
+heroImageAlt: "ZBZ-The Marquis of Haihun’s Secrets to Amassing Wealth"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

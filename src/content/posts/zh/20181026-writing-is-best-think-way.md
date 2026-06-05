@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-08-26
 heroImage: "https://cos.zbz.ai/images/202310181512123.avif"
-heroImageAlt: "RealRip-写作是最好的思考方式"
+heroImageAlt: "ZBZ-写作是最好的思考方式"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

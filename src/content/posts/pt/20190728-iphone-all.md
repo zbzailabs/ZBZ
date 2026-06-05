@@ -8,7 +8,7 @@ pubDate: 2019-07-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512057.avif"
-heroImageAlt: "RealRip-Por pouco fui parar na cadeia"
+heroImageAlt: "ZBZ-Por pouco fui parar na cadeia"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

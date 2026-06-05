@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-11-21
 heroImage: "https://cos.zbz.ai/images/202309131332736.avif"
-heroImageAlt: "RealRip-Die Hauptmelodie Hollywoods"
+heroImageAlt: "ZBZ-Die Hauptmelodie Hollywoods"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

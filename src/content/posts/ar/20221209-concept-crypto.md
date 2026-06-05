@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-12-10
 heroImage: "https://cos.zbz.ai/images/202309280820276.avif"
-heroImageAlt: "RealRip-عدة مفاهيم مهمة في مجال التشفير"
+heroImageAlt: "ZBZ-عدة مفاهيم مهمة في مجال التشفير"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-12-27
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-On ne réveille pas quelqu’un qui fait semblant d’être ivre"
+heroImageAlt: "ZBZ-On ne réveille pas quelqu’un qui fait semblant d’être ivre"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

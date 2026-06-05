@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2020-01-29
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-Впечатления от Праздника весны 2020"
+heroImageAlt: "ZBZ-Впечатления от Праздника весны 2020"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

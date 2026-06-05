@@ -8,7 +8,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip-Strategien zur Lebensmittelsicherheit"
+heroImageAlt: "ZBZ-Strategien zur Lebensmittelsicherheit"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

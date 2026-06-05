@@ -9,7 +9,7 @@ pubDate: 2023-10-08
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310101613604.avif"
-heroImageAlt: "RealRip-イスラエルの国土はますます大きくなる"
+heroImageAlt: "ZBZ-イスラエルの国土はますます大きくなる"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

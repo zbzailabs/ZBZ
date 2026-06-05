@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536585.avif"
-heroImageAlt: "RealRip-稻田里的玛丽莲梦露"
+heroImageAlt: "ZBZ-稻田里的玛丽莲梦露"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

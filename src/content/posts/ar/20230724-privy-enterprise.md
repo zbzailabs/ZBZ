@@ -9,7 +9,7 @@ pubDate: 2023-07-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929913.avif"
-heroImageAlt: "RealRip-私营企业及私营企业家"
+heroImageAlt: "ZBZ-私营企业及私营企业家"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

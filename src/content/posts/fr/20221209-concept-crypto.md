@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-12-10
 heroImage: "https://cos.zbz.ai/images/202309280820276.avif"
-heroImageAlt: "RealRip-Plusieurs concepts importants dans le domaine de la crypto"
+heroImageAlt: "ZBZ-Plusieurs concepts importants dans le domaine de la crypto"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

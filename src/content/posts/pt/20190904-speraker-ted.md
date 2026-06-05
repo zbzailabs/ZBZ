@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-09-04"
 heroImage: "https://cos.zbz.ai/images/202310181512044.avif"
-heroImageAlt: "RealRip-Fale como o TED"
+heroImageAlt: "ZBZ-Fale como o TED"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

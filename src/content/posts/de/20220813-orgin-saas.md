@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-Die Fähigkeit des Menschen, Vorteile zu suchen und Nachteile zu vermeiden, ist in den Genen verankert"
+heroImageAlt: "ZBZ-Die Fähigkeit des Menschen, Vorteile zu suchen und Nachteile zu vermeiden, ist in den Genen verankert"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

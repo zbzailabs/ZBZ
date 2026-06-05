@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2020-07-26
 heroImage: "https://cos.zbz.ai/images/202310181512026.avif"
-heroImageAlt: "RealRip-企業家座談会での演説"
+heroImageAlt: "ZBZ-企業家座談会での演説"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512100.avif"
-heroImageAlt: "RealRip-アメリカの道路と交通"
+heroImageAlt: "ZBZ-アメリカの道路と交通"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

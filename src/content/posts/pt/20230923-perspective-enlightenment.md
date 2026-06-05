@@ -8,7 +8,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-Mudando de perspectiva para obter novas inspirações"
+heroImageAlt: "ZBZ-Mudando de perspectiva para obter novas inspirações"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

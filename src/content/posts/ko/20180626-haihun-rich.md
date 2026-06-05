@@ -7,7 +7,7 @@ tags:
   - "roam"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909225005370.avif"
-heroImageAlt: "RealRip-내 재산을 지켜줘서 고맙다"
+heroImageAlt: "ZBZ-내 재산을 지켜줘서 고맙다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

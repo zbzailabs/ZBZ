@@ -9,7 +9,7 @@ pubDate: 2025-09-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250909225005370.avif"
-heroImageAlt: "RealRip-ثروة ليو خه الناجية"
+heroImageAlt: "ZBZ-ثروة ليو خه الناجية"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

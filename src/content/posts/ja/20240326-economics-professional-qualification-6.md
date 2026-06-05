@@ -9,7 +9,7 @@ pubDate: 2024-03-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403280939756.avif"
-heroImageAlt: "RealRip-農業経済における重要な理論と応用"
+heroImageAlt: "ZBZ-農業経済における重要な理論と応用"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

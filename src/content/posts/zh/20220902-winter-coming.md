@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-09-02
 heroImage: https://cos.realrip.com/images/202310281647779.avif
-heroImageAlt: "RealRip-凛冬将至"
+heroImageAlt: "ZBZ-凛冬将至"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

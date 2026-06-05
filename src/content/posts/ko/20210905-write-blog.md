@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-09-05
 heroImage: "https://cos.zbz.ai/images/202310181244293.avif"
-heroImageAlt: "RealRip-블로그는 여전히 작성해야 합니다"
+heroImageAlt: "ZBZ-블로그는 여전히 작성해야 합니다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

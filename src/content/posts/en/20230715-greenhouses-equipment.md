@@ -9,7 +9,7 @@ pubDate: 2023-07-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-Development of Facility Agriculture Needs to Consider the Sustainability"
+heroImageAlt: "ZBZ-Development of Facility Agriculture Needs to Consider the Sustainability"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

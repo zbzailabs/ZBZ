@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-Posisi Pertanian dalam Ekonomi Nasional dan Tahap Perkembangannya"
+heroImageAlt: "ZBZ-Posisi Pertanian dalam Ekonomi Nasional dan Tahap Perkembangannya"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

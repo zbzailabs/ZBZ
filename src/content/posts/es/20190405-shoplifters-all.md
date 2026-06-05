@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-No importa si no puedes ver los fuegos artificiales, lo que importa es con quién los miras"
+heroImageAlt: "ZBZ-No importa si no puedes ver los fuegos artificiales, lo que importa es con quién los miras"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2020-01-29
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-2020年の春節見聞"
+heroImageAlt: "ZBZ-2020年の春節見聞"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

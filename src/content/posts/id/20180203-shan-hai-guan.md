@@ -8,7 +8,7 @@ pubDate: 2024-12-27
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512141.avif"
-heroImageAlt: "RealRip-Tiga Cerita Investasi Kecil yang Tidak Melewati Gerbang Shanhai"
+heroImageAlt: "ZBZ-Tiga Cerita Investasi Kecil yang Tidak Melewati Gerbang Shanhai"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

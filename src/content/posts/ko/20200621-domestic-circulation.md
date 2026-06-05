@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-06-28
 heroImage: "https://cos.zbz.ai/images/202310181512026.avif"
-heroImageAlt: "RealRip-지적 정직성"
+heroImageAlt: "ZBZ-지적 정직성"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

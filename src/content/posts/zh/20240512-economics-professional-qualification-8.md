@@ -9,7 +9,7 @@ pubDate: 2024-05-13
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643937.avif"
-heroImageAlt: "RealRip-农业生产要素与服务保障"
+heroImageAlt: "ZBZ-农业生产要素与服务保障"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

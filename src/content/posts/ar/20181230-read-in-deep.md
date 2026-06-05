@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536584.avif"
-heroImageAlt: "RealRip-هل ما زلنا قادرين على القراءة العميقة؟"
+heroImageAlt: "ZBZ-هل ما زلنا قادرين على القراءة العميقة؟"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

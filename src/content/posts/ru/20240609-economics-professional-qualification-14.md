@@ -8,7 +8,7 @@ pubDate: 2024-06-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202406091102137.avif"
-heroImageAlt: "RealRip- Ускорение модернизации сельского хозяйства и сельских районов"
+heroImageAlt: "ZBZ- Ускорение модернизации сельского хозяйства и сельских районов"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

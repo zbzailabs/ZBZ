@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512090.avif"
-heroImageAlt: "RealRip-Um passeio aleatório por Harvard e pelo MIT"
+heroImageAlt: "ZBZ-Um passeio aleatório por Harvard e pelo MIT"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

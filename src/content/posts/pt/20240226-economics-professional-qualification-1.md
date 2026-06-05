@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip-Situação do Desenvolvimento da Agricultura e das Zonas Rurais"
+heroImageAlt: "ZBZ-Situação do Desenvolvimento da Agricultura e das Zonas Rurais"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

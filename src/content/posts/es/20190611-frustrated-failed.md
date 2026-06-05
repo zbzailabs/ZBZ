@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-10-07
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-Cómo fracasan las startups"
+heroImageAlt: "ZBZ-Cómo fracasan las startups"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

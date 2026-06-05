@@ -12,7 +12,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-Capte las señales de tendencia bajista y obtenga ganancias\
+"heroImageAlt": "ZBZ-Capte las señales de tendencia bajista y obtenga ganancias\
   \ rápidamente"
 heroImageWidth: 1960
 heroImageHeight: 1102

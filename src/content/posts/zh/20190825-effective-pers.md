@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-25"
 heroImage: "https://cos.zbz.ai/images/202310181512046.avif"
-heroImageAlt: "RealRip-《卓有成效的管理者》读书笔记"
+heroImageAlt: "ZBZ-《卓有成效的管理者》读书笔记"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

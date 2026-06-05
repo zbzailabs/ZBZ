@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-大道至簡——シンプルこそ最善、古典は最も効く"
+heroImageAlt: "ZBZ-大道至簡——シンプルこそ最善、古典は最も効く"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

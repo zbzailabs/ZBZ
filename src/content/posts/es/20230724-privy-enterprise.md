@@ -9,7 +9,7 @@ pubDate: 2023-07-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929913.avif"
-heroImageAlt: "RealRip-Empresas Privadas y Empresarios"
+heroImageAlt: "ZBZ-Empresas Privadas y Empresarios"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

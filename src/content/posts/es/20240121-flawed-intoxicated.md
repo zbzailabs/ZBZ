@@ -9,7 +9,7 @@ pubDate: 2024-08-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202401211016094.avif"
-heroImageAlt: "RealRip- Siempre Defectuoso, Por Siempre Embriagado"
+heroImageAlt: "ZBZ- Siempre Defectuoso, Por Siempre Embriagado"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

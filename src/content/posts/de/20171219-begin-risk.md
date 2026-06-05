@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536606.avif"
-heroImageAlt: "RealRip-Was tun, wenn keine Finanzierung möglich ist"
+heroImageAlt: "ZBZ-Was tun, wenn keine Finanzierung möglich ist"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

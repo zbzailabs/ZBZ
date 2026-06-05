@@ -8,7 +8,7 @@ pubDate: 2024-12-23
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536625.avif"
-heroImageAlt: "RealRip-Think More and Move Less, Learn While Watching"
+heroImageAlt: "ZBZ-Think More and Move Less, Learn While Watching"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

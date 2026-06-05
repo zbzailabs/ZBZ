@@ -9,7 +9,7 @@ pubDate: 2024-03-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403280939756.avif"
-heroImageAlt: "RealRip-농업 경제의 중요한 이론과 응용"
+heroImageAlt: "ZBZ-농업 경제의 중요한 이론과 응용"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

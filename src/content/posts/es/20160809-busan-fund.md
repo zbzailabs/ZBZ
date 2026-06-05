@@ -8,7 +8,7 @@ pubDate: 2023-09-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536628.avif"
-heroImageAlt: "RealRip-Tren a Busan, examen de fondos y la partida de los peces gordos"
+heroImageAlt: "ZBZ-Tren a Busan, examen de fondos y la partida de los peces gordos"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

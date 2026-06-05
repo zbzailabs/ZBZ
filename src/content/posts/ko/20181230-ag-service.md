@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181512110.avif"
-heroImageAlt: "RealRip-애그테크에서는 현장에서 흙을 밟아야 한다"
+heroImageAlt: "ZBZ-애그테크에서는 현장에서 흙을 밟아야 한다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-12-27
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-You Can Never Wake Someone Pretending to Be Drunk"
+heroImageAlt: "ZBZ-You Can Never Wake Someone Pretending to Be Drunk"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2019-09-01"
 heroImage: "https://cos.zbz.ai/images/202310181512045.avif"
-heroImageAlt: "RealRip-Первая пробежка на 10 км под дождем"
+heroImageAlt: "ZBZ-Первая пробежка на 10 км под дождем"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

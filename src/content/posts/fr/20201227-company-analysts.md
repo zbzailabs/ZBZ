@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-Pas de mal sans comparaison, une épidémie a percé tous les tigres de papier de l'Occident, une guerre commerciale a fait voir aux gens la cruauté de la concurrence entre les pays"
+heroImageAlt: "ZBZ-Pas de mal sans comparaison, une épidémie a percé tous les tigres de papier de l'Occident, une guerre commerciale a fait voir aux gens la cruauté de la concurrence entre les pays"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

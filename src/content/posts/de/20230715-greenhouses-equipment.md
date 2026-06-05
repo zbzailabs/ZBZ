@@ -9,7 +9,7 @@ pubDate: 2023-07-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-Entwicklung der Gewächshauslandwirtschaft muss die Nachhaltigkeit"
+heroImageAlt: "ZBZ-Entwicklung der Gewächshauslandwirtschaft muss die Nachhaltigkeit"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

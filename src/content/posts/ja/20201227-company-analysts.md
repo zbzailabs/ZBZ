@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-比較がなければ害はない。疫病が西側のすべての張り子の虎を突き刺し、貿易戦争が人々に国家間の競争の残酷さを見せつけた"
+heroImageAlt: "ZBZ-比較がなければ害はない。疫病が西側のすべての張り子の虎を突き刺し、貿易戦争が人々に国家間の競争の残酷さを見せつけた"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

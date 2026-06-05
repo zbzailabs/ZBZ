@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536584.avif"
-heroImageAlt: "RealRip-Будем ли мы ещё читать глубоко?"
+heroImageAlt: "ZBZ-Будем ли мы ещё читать глубоко?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

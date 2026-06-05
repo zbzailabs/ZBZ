@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-11-23
 heroImage: "https://cos.zbz.ai/images/202309131432648.avif"
-heroImageAlt: "RealRip-Стрелок-судья"
+heroImageAlt: "ZBZ-Стрелок-судья"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

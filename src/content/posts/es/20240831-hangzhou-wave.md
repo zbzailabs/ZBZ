@@ -10,7 +10,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip- Hangzhou mejora y refuerza su capacidad urbana al albergar eventos"
+heroImageAlt: "ZBZ- Hangzhou mejora y refuerza su capacidad urbana al albergar eventos"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

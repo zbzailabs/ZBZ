@@ -8,7 +8,7 @@ pubDate: 2023-07-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536631.avif"
-heroImageAlt: "RealRip-Цзуньи, разрывание дьяволов и разрывание шелковых кукол"
+heroImageAlt: "ZBZ-Цзуньи, разрывание дьяволов и разрывание шелковых кукол"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

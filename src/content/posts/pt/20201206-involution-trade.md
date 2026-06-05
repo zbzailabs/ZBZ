@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-O padrão econômico e comercial sob o efeito de involução"
+heroImageAlt: "ZBZ-O padrão econômico e comercial sob o efeito de involução"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

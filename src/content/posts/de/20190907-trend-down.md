@@ -12,7 +12,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-Erfassen Sie die Abwärtstrendsignale und nehmen Sie zeitnah\
+"heroImageAlt": "ZBZ-Erfassen Sie die Abwärtstrendsignale und nehmen Sie zeitnah\
   \ Gewinne mit"
 heroImageWidth: 1960
 heroImageHeight: 1102

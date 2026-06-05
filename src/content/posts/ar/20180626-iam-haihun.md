@@ -8,7 +8,7 @@ pubDate: 2025-09-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250909224527555.avif"
-heroImageAlt: "RealRip-أنا الماركيس هايخون"
+heroImageAlt: "ZBZ-أنا الماركيس هايخون"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290924281.avif"
-heroImageAlt: "RealRip-Beragam Fungsi Pertanian dan Nilai-nilai Beragam Pedesaan"
+heroImageAlt: "ZBZ-Beragam Fungsi Pertanian dan Nilai-nilai Beragam Pedesaan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

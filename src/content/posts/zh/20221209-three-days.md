@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-12-09
 heroImage: https://cos.realrip.com/images/202310281623139.avif
-heroImageAlt: "RealRip-不出三天事就过去了"
+heroImageAlt: "ZBZ-不出三天事就过去了"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

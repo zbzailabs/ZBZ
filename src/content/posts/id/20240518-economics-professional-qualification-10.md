@@ -10,7 +10,7 @@ pubDate: 2024-05-18
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643941.avif"
-heroImageAlt: "RealRip-Praktik dan Teori Pasar dan Industri Produk Pertanian"
+heroImageAlt: "ZBZ-Praktik dan Teori Pasar dan Industri Produk Pertanian"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

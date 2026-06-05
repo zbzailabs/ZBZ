@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-果物・野菜用保存剤の産業と市場"
+heroImageAlt: "ZBZ-果物・野菜用保存剤の産業と市場"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

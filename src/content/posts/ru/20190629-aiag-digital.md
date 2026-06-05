@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-15
 heroImage: "https://cos.zbz.ai/images/202310121153884.avif"
-heroImageAlt: "RealRip-ИИ и цифровое сельское хозяйство"
+heroImageAlt: "ZBZ-ИИ и цифровое сельское хозяйство"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

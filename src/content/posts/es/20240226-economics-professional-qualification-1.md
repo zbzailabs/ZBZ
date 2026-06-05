@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip- Tendencias de Desarrollo de la Agricultura y Áreas Rurales en"
+heroImageAlt: "ZBZ- Tendencias de Desarrollo de la Agricultura y Áreas Rurales en"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

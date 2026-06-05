@@ -8,7 +8,7 @@ pubDate: 2025-01-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512137.avif"
-heroImageAlt: "RealRip-Usia Paruh Baya: Bagaimana Menghindari Kecanduan Game?"
+heroImageAlt: "ZBZ-Usia Paruh Baya: Bagaimana Menghindari Kecanduan Game?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

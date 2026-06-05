@@ -8,7 +8,7 @@ pubDate: 2023-07-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536631.avif"
-heroImageAlt: "RealRip-쭌이, 악마를 찢고 비단 인형을 찢다"
+heroImageAlt: "ZBZ-쭌이, 악마를 찢고 비단 인형을 찢다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

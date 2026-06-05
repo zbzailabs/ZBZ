@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-04-20
 heroImage: https://cos.realrip.com/images/202310281713795.avif
-heroImageAlt: "RealRip-坚持这件事"
+heroImageAlt: "ZBZ-坚持这件事"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

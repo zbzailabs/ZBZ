@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip-实施乡村振兴战略要着眼实际问题"
+heroImageAlt: "ZBZ-实施乡村振兴战略要着眼实际问题"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

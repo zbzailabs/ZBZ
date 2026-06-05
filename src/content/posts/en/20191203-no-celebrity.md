@@ -6,7 +6,7 @@
   - "risk"
 "pubDate": "2019-12-03"
 "heroImage": "https://cos.zbz.ai/images/202310181512018.avif"
-"heroImageAlt": "RealRip-Not all internet celebrities can carry goods"
+"heroImageAlt": "ZBZ-Not all internet celebrities can carry goods"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

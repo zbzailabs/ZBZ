@@ -8,7 +8,7 @@ pubDate: 2015-07-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548981.avif"
-heroImageAlt: "RealRip-S'efforcer de réaliser la vantardise que j'ai faite autrefois"
+heroImageAlt: "ZBZ-S'efforcer de réaliser la vantardise que j'ai faite autrefois"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-Fruit and Vegetable Preservative Industry and Market"
+heroImageAlt: "ZBZ-Fruit and Vegetable Preservative Industry and Market"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

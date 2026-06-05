@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-23
 heroImage: "https://cos.zbz.ai/images/202310281639448.avif"
-heroImageAlt: "RealRip-また一つのGoogle製品が中国本土から撤退"
+heroImageAlt: "ZBZ-また一つのGoogle製品が中国本土から撤退"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

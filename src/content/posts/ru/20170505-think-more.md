@@ -8,7 +8,7 @@ pubDate: 2024-12-23
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536625.avif"
-heroImageAlt: "RealRip-Думайте больше и двигайтесь меньше, учитесь, наблюдая"
+heroImageAlt: "ZBZ-Думайте больше и двигайтесь меньше, учитесь, наблюдая"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

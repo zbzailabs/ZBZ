@@ -10,7 +10,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-Gagner de Nouvelles Perspectives en Changeant de Point de Vue"
+heroImageAlt: "ZBZ-Gagner de Nouvelles Perspectives en Changeant de Point de Vue"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

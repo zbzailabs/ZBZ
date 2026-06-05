@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-12-27
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-酔ったふりをする人を起こすことはできない"
+heroImageAlt: "ZBZ-酔ったふりをする人を起こすことはできない"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

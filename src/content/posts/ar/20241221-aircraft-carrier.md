@@ -8,7 +8,7 @@ pubDate: 2024-12-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20241221205948231.avif"
-heroImageAlt: "RealRip-قصة وصول فارياغ إلى الصين"
+heroImageAlt: "ZBZ-قصة وصول فارياغ إلى الصين"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

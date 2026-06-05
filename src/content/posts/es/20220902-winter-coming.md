@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-09-02
 heroImage: "https://cos.zbz.ai/images/202310281647779.avif"
-heroImageAlt: "RealRip-Se acerca el invierno"
+heroImageAlt: "ZBZ-Se acerca el invierno"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909224050627.avif"
-heroImageAlt: "RealRip-O marquês de Haihun, culto e refinado"
+heroImageAlt: "ZBZ-O marquês de Haihun, culto e refinado"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

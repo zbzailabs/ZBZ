@@ -8,7 +8,7 @@ pubDate: 2017-12-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512155.avif"
-heroImageAlt: "RealRip-Agritech Startups Bring Hope to Citrus Greening Disease Management"
+heroImageAlt: "ZBZ-Agritech Startups Bring Hope to Citrus Greening Disease Management"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

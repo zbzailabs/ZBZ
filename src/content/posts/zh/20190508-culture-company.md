@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512076.avif"
-heroImageAlt: "RealRip-砸掉企业文化墙吧"
+heroImageAlt: "ZBZ-砸掉企业文化墙吧"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

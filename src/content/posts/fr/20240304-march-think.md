@@ -9,7 +9,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip- Face aux défis, il est nécessaire de se concentrer sur l'amélioration"
+heroImageAlt: "ZBZ- Face aux défis, il est nécessaire de se concentrer sur l'amélioration"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

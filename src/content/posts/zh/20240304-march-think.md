@@ -9,7 +9,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip-面对挑战，需要专注于提升自我管理能力、专注力、身体健康、信息获取的质量、写作技能和专业技能"
+heroImageAlt: "ZBZ-面对挑战，需要专注于提升自我管理能力、专注力、身体健康、信息获取的质量、写作技能和专业技能"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

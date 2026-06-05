@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-El patrón económico y comercial bajo el efecto de la involución"
+heroImageAlt: "ZBZ-El patrón económico y comercial bajo el efecto de la involución"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

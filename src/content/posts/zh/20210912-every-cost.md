@@ -7,7 +7,7 @@ tags:
   - "innovation"
 pubDate: 2021-09-12
 heroImage: https://cos.realrip.com/images/202310181244295.avif
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

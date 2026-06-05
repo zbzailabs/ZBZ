@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536606.avif"
-heroImageAlt: "RealRip-資金調達ができない場合、どうすればいいのか"
+heroImageAlt: "ZBZ-資金調達ができない場合、どうすればいいのか"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

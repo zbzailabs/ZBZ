@@ -8,7 +8,7 @@ pubDate: 2023-09-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536628.avif"
-heroImageAlt: "RealRip-قطار إلى بوسان، امتحان الصندوق ورحيل الكبار"
+heroImageAlt: "ZBZ-قطار إلى بوسان، امتحان الصندوق ورحيل الكبار"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

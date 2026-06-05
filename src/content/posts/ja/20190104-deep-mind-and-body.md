@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512108.avif"
-heroImageAlt: "RealRip-内なる力に比べれば、外なる物は些末だ"
+heroImageAlt: "ZBZ-内なる力に比べれば、外なる物は些末だ"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-Mengapa Menerapkan Strategi Revitalisasi Pedesaan"
+heroImageAlt: "ZBZ-Mengapa Menerapkan Strategi Revitalisasi Pedesaan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

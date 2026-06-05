@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-Nanchang — où le marquis de Haihun se tut et où Wang Bo versa des larmes"
+heroImageAlt: "ZBZ-Nanchang — où le marquis de Haihun se tut et où Wang Bo versa des larmes"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

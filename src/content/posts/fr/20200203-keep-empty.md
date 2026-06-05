@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2020-02-03
 heroImage: "https://cos.zbz.ai/images/202310181512019.avif"
-heroImageAlt: "RealRip-Protéger le capital pendant l’épidémie"
+heroImageAlt: "ZBZ-Protéger le capital pendant l’épidémie"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

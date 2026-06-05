@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-19"
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-株式市場の満ち欠け"
+heroImageAlt: "ZBZ-株式市場の満ち欠け"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

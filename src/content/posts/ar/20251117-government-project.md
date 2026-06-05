@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-العملية الكاملة لمشاريع الحكومة من البدء إلى توقيع العقد"
+heroImageAlt: "ZBZ-العملية الكاملة لمشاريع الحكومة من البدء إلى توقيع العقد"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

@@ -10,7 +10,7 @@ pubDate: 2024-03-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403061003933.avif"
-heroImageAlt: "RealRip-Umfassende Förderung der ländlichen Revitalisierung und Beschleunigung"
+heroImageAlt: "ZBZ-Umfassende Förderung der ländlichen Revitalisierung und Beschleunigung"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

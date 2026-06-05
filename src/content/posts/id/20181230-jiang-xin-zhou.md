@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512118.avif"
-heroImageAlt: "RealRip-Selamat tinggal, kunang-kunang; selamat tinggal, Jiangxinzhou"
+heroImageAlt: "ZBZ-Selamat tinggal, kunang-kunang; selamat tinggal, Jiangxinzhou"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

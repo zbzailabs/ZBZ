@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512124.avif"
-heroImageAlt: "RealRip-植保无人机在水稻田效果怎样"
+heroImageAlt: "ZBZ-植保无人机在水稻田效果怎样"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

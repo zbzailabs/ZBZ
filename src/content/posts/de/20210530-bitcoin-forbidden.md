@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-Habe diese Woche die 'Camel Guest'-Trilogie gesehen, die hauptsächlich von der Konfrontation zwischen Pfeil und Bogen und schnellen Waffen erzählt. Im Einzelkampf sind Pfeil und Bogen die einzigen kalten Waffen, die sich mit Waffen duellieren können. Auch heute noch werden bogenähnliche Armbrüste oft als Angriffswaffen eingesetzt."
+heroImageAlt: "ZBZ-Habe diese Woche die 'Camel Guest'-Trilogie gesehen, die hauptsächlich von der Konfrontation zwischen Pfeil und Bogen und schnellen Waffen erzählt. Im Einzelkampf sind Pfeil und Bogen die einzigen kalten Waffen, die sich mit Waffen duellieren können. Auch heute noch werden bogenähnliche Armbrüste oft als Angriffswaffen eingesetzt."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

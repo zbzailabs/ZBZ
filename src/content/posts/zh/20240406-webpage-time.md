@@ -9,7 +9,7 @@ pubDate: 2024-04-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404061153893.avif"
-heroImageAlt: "RealRip-日常生活的网页化设计：用模块化思维优化使用时间"
+heroImageAlt: "ZBZ-日常生活的网页化设计：用模块化思维优化使用时间"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

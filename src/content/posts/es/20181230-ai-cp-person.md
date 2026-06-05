@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-¿Humanos e IA: pareja ideal o enemigos?"
+heroImageAlt: "ZBZ-¿Humanos e IA: pareja ideal o enemigos?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

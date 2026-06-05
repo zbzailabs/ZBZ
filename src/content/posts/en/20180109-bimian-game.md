@@ -8,7 +8,7 @@ pubDate: 2024-01-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512137.avif"
-heroImageAlt: "RealRip-How to Avoid Gaming Addiction in Middle Age"
+heroImageAlt: "ZBZ-How to Avoid Gaming Addiction in Middle Age"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

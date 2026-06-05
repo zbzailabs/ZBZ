@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-Proceso completo de proyectos gubernamentales desde el inicio hasta la licitación y firma"
+heroImageAlt: "ZBZ-Proceso completo de proyectos gubernamentales desde el inicio hasta la licitación y firma"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

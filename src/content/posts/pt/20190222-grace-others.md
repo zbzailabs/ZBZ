@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-28
 heroImage: "https://cos.zbz.ai/images/202310181512094.avif"
-heroImageAlt: "RealRip-Grace — ocupada em reformar os outros, não a si mesma"
+heroImageAlt: "ZBZ-Grace — ocupada em reformar os outros, não a si mesma"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

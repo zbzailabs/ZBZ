@@ -8,7 +8,7 @@ pubDate: 2024-07-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536636.avif"
-heroImageAlt: "RealRip-빅 데이터는 이런 방식으로 농업을 변화시킵니다"
+heroImageAlt: "ZBZ-빅 데이터는 이런 방식으로 농업을 변화시킵니다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

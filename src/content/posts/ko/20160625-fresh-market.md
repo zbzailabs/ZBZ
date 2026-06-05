@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-과일·채소 보존제 산업과 시장"
+heroImageAlt: "ZBZ-과일·채소 보존제 산업과 시장"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -7,7 +7,7 @@
   - "risk"
 "pubDate": "2019-12-03"
 "heroImage": "https://cos.zbz.ai/images/202310181512018.avif"
-"heroImageAlt": "RealRip-لا يستطيع جميع مشاهير الإنترنت حمل البضائع"
+"heroImageAlt": "ZBZ-لا يستطيع جميع مشاهير الإنترنت حمل البضائع"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

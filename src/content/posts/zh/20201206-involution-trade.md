@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-内卷效应下的经贸格局"
+heroImageAlt: "ZBZ-内卷效应下的经贸格局"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

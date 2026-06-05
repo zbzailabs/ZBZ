@@ -8,7 +8,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-Studie und Anwendung der Erfahrungen des „Tausend-Dörfer-Demonstrationsprojekts,"
+heroImageAlt: "ZBZ-Studie und Anwendung der Erfahrungen des „Tausend-Dörfer-Demonstrationsprojekts,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-23
 heroImage: "https://cos.zbz.ai/images/202310281639448.avif"
-heroImageAlt: "RealRip-Еще один продукт Google покидает материковый Китай"
+heroImageAlt: "ZBZ-Еще один продукт Google покидает материковый Китай"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

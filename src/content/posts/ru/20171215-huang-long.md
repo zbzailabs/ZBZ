@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512155.avif"
-heroImageAlt: "RealRip-Стартапы в сфере агротехнологий приносят надежду на борьбу с болезнью"
+heroImageAlt: "ZBZ-Стартапы в сфере агротехнологий приносят надежду на борьбу с болезнью"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

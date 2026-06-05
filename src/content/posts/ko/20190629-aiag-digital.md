@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-15
 heroImage: "https://cos.zbz.ai/images/202310121153884.avif"
-heroImageAlt: "RealRip-인공지능과 디지털 농업"
+heroImageAlt: "ZBZ-인공지능과 디지털 농업"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

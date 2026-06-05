@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-09-04"
 heroImage: "https://cos.zbz.ai/images/202310181512044.avif"
-heroImageAlt: "RealRip-Говори как на TED"
+heroImageAlt: "ZBZ-Говори как на TED"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2023-12-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202312301156100.avif"
-heroImageAlt: "RealRip-Killers of the Flower Moon' und 'Die Dritte Einheit"
+heroImageAlt: "ZBZ-Killers of the Flower Moon' und 'Die Dritte Einheit"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

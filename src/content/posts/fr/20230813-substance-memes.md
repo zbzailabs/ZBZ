@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- Les informations clés et les mèmes sont les rôles doubles de"
+heroImageAlt: "ZBZ- Les informations clés et les mèmes sont les rôles doubles de"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

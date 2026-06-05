@@ -8,7 +8,7 @@ pubDate: 2024-09-19
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929914.avif"
-heroImageAlt: "RealRip-Gestión precisa de las acciones de talento, capital y recursos"
+heroImageAlt: "ZBZ-Gestión precisa de las acciones de talento, capital y recursos"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

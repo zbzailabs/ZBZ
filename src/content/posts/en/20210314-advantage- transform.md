@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-Although our form is corporate, our attitude is partnership"
+heroImageAlt: "ZBZ-Although our form is corporate, our attitude is partnership"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-28
 heroImage: "https://cos.zbz.ai/images/202310181512094.avif"
-heroImageAlt: "RealRip-Grace — sibuk membenahi orang lain, bukan dirinya sendiri"
+heroImageAlt: "ZBZ-Grace — sibuk membenahi orang lain, bukan dirinya sendiri"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2019-09-01"
 heroImage: "https://cos.zbz.ai/images/202310181512045.avif"
-heroImageAlt: "RealRip-أول ركض لمسافة 10 كيلومترات في المطر"
+heroImageAlt: "ZBZ-أول ركض لمسافة 10 كيلومترات في المطر"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2024-07-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536636.avif"
-heroImageAlt: "RealRip-Le Big Data transforme l'agriculture de cette manière"
+heroImageAlt: "ZBZ-Le Big Data transforme l'agriculture de cette manière"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-看不到烟花不重要，重要的是与谁一起看"
+heroImageAlt: "ZBZ-看不到烟花不重要，重要的是与谁一起看"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

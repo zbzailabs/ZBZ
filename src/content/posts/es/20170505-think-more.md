@@ -8,7 +8,7 @@ pubDate: 2024-12-23
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536625.avif"
-heroImageAlt: "RealRip-Piensa más y muévete menos, aprende mientras miras"
+heroImageAlt: "ZBZ-Piensa más y muévete menos, aprende mientras miras"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

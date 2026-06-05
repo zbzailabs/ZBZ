@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-12-09
 heroImage: "https://cos.zbz.ai/images/202310281623139.avif"
-heroImageAlt: "RealRip-3日もすれば過ぎ去るだろう"
+heroImageAlt: "ZBZ-3日もすれば過ぎ去るだろう"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

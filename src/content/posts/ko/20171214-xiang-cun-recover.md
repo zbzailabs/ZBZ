@@ -9,7 +9,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-왜 농촌 진흥 전략을 실행해야 하는가"
+heroImageAlt: "ZBZ-왜 농촌 진흥 전략을 실행해야 하는가"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

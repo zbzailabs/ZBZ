@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2019-09-01"
 heroImage: "https://cos.zbz.ai/images/202310181512045.avif"
-heroImageAlt: "RealRip-Première course de 10 km sous la pluie"
+heroImageAlt: "ZBZ-Première course de 10 km sous la pluie"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

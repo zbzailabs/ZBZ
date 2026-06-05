@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181512110.avif"
-heroImageAlt: "RealRip-In Agtech braucht es Stiefel am Acker"
+heroImageAlt: "ZBZ-In Agtech braucht es Stiefel am Acker"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

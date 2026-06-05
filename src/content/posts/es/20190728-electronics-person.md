@@ -8,7 +8,7 @@ pubDate: 2019-07-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512056.avif"
-heroImageAlt: "RealRip-Sentir la innovación eléctrica"
+heroImageAlt: "ZBZ-Sentir la innovación eléctrica"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

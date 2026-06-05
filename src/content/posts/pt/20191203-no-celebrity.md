@@ -7,7 +7,7 @@
   - "risk"
 "pubDate": "2019-12-03"
 "heroImage": "https://cos.zbz.ai/images/202310181512018.avif"
-"heroImageAlt": "RealRip-Nem todas as celebridades da internet podem transportar mercadorias"
+"heroImageAlt": "ZBZ-Nem todas as celebridades da internet podem transportar mercadorias"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

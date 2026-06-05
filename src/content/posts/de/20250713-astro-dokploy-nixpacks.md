@@ -8,7 +8,7 @@ pubDate: 2025-07-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250714082742453.avif"
-heroImageAlt: "RealRip-Astro-Projekte mit Dokploy und Nixpacks bereitstellen und Caching aktivieren, um die Build-Geschwindigkeit zu optimieren"
+heroImageAlt: "ZBZ-Astro-Projekte mit Dokploy und Nixpacks bereitstellen und Caching aktivieren, um die Build-Geschwindigkeit zu optimieren"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

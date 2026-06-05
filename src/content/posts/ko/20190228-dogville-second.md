@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512089.avif"
-heroImageAlt: "RealRip-도그빌 — 두 번은 보고 싶지 않다"
+heroImageAlt: "ZBZ-도그빌 — 두 번은 보고 싶지 않다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- 実用情報とミームは現代社会における情報伝達の二重の役割を担っている"
+heroImageAlt: "ZBZ- 実用情報とミームは現代社会における情報伝達の二重の役割を担っている"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

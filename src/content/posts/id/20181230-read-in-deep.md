@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536584.avif"
-heroImageAlt: "RealRip-Apakah kita masih akan membaca secara mendalam?"
+heroImageAlt: "ZBZ-Apakah kita masih akan membaca secara mendalam?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -10,7 +10,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-視点を変えることで新たな啓示を得る"
+heroImageAlt: "ZBZ-視点を変えることで新たな啓示を得る"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

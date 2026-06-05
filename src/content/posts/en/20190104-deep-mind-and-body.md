@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512108.avif"
-heroImageAlt: "RealRip-Compared to Inner Strength, External Things Are Trivial"
+heroImageAlt: "ZBZ-Compared to Inner Strength, External Things Are Trivial"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip- Promouvoir Efficacement la Revitalisation Rurale en Apprenant"
+heroImageAlt: "ZBZ- Promouvoir Efficacement la Revitalisation Rurale en Apprenant"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

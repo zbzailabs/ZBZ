@@ -8,7 +8,7 @@ pubDate: 2019-07-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-Ich streiche über Altertümer in der Xiling-Siegelgesellschaft"
+heroImageAlt: "ZBZ-Ich streiche über Altertümer in der Xiling-Siegelgesellschaft"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

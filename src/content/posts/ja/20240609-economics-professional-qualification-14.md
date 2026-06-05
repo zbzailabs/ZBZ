@@ -9,7 +9,7 @@ pubDate: 2024-06-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202406091102137.avif"
-heroImageAlt: "RealRip-農業と農村の現代化を加速する"
+heroImageAlt: "ZBZ-農業と農村の現代化を加速する"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

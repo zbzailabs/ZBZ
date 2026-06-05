@@ -9,7 +9,7 @@ pubDate: 2023-06-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954485.avif"
-heroImageAlt: "RealRip-일상 업무에서의 ChatGPT 활용"
+heroImageAlt: "ZBZ-일상 업무에서의 ChatGPT 활용"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

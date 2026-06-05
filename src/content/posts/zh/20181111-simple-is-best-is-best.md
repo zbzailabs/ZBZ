@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-大道至简，老生常谈最管用"
+heroImageAlt: "ZBZ-大道至简，老生常谈最管用"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

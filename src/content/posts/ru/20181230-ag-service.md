@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181512110.avif"
-heroImageAlt: "RealRip-В агротехе нужно держать ботинки в грязи"
+heroImageAlt: "ZBZ-В агротехе нужно держать ботинки в грязи"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

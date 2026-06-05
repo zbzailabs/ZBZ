@@ -8,7 +8,7 @@ pubDate: 2024-09-11
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512158.avif"
-heroImageAlt: "RealRip-互联网+现代农业星辰大海"
+heroImageAlt: "ZBZ-互联网+现代农业星辰大海"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

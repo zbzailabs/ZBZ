@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: "RealRip-徐皓峰は最初に小説「師父」を書き、後にそれを映画化し、「師父」を通じて中華民国の現実の世界を復元しようとしました。"
+heroImageAlt: "ZBZ-徐皓峰は最初に小説「師父」を書き、後にそれを映画化し、「師父」を通じて中華民国の現実の世界を復元しようとしました。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

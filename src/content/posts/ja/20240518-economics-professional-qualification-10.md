@@ -9,7 +9,7 @@ pubDate: 2024-05-18
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643941.avif"
-heroImageAlt: "RealRip-農産物市場と農産物産業理論と実務"
+heroImageAlt: "ZBZ-農産物市場と農産物産業理論と実務"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

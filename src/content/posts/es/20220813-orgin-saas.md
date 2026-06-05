@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-La capacidad humana de buscar ventajas y evitar desventajas está escrita en los genes"
+heroImageAlt: "ZBZ-La capacidad humana de buscar ventajas y evitar desventajas está escrita en los genes"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

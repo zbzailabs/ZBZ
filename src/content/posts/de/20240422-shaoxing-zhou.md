@@ -8,7 +8,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip-Das Wort früh in die Schulbank zu ritzen, wird dir nicht zum Erfolg"
+heroImageAlt: "ZBZ-Das Wort früh in die Schulbank zu ritzen, wird dir nicht zum Erfolg"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2023-07-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-시설 농업 발전 시 운영 및 수익성 지속 가능성을 고려해야 한다"
+heroImageAlt: "ZBZ-시설 농업 발전 시 운영 및 수익성 지속 가능성을 고려해야 한다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

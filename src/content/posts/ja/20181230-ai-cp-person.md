@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-人類とAIは相性抜群か、宿敵か"
+heroImageAlt: "ZBZ-人類とAIは相性抜群か、宿敵か"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

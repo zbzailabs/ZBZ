@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-Menschen und KI: Traumpaar oder Erzfeinde?"
+heroImageAlt: "ZBZ-Menschen und KI: Traumpaar oder Erzfeinde?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

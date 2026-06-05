@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2025-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip-赤くならなければ買わず、緑にならなければ売らない"
+heroImageAlt: "ZBZ-赤くならなければ買わず、緑にならなければ売らない"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- Os conteúdos valiosos e memes são os papéis duplos na disseminação"
+heroImageAlt: "ZBZ- Os conteúdos valiosos e memes são os papéis duplos na disseminação"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: "2018-05-25"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536597.avif"
-heroImageAlt: "RealRip-初家是山东莱州驿道镇一个有上百年历史的古村落，四面环山，曾经与世隔绝。经过几年的连续建设，这个小村庄一改旧时破败模样，成为山东美丽乡村建设的典型之一"
+heroImageAlt: "ZBZ-初家是山东莱州驿道镇一个有上百年历史的古村落，四面环山，曾经与世隔绝。经过几年的连续建设，这个小村庄一改旧时破败模样，成为山东美丽乡村建设的典型之一"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

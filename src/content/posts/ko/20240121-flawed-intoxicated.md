@@ -9,7 +9,7 @@ pubDate: 2024-08-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202401211016094.avif"
-heroImageAlt: "RealRip-예전의 상처, 이제는 취하다"
+heroImageAlt: "ZBZ-예전의 상처, 이제는 취하다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

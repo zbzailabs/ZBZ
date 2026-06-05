@@ -8,7 +8,7 @@ pubDate: 2025-07-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250714082742453.avif"
-heroImageAlt: "RealRip-Déployer des projets Astro avec Dokploy et Nixpacks et activer le cache pour optimiser la vitesse de construction"
+heroImageAlt: "ZBZ-Déployer des projets Astro avec Dokploy et Nixpacks et activer le cache pour optimiser la vitesse de construction"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

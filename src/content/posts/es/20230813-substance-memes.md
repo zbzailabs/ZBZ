@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- El contenido esencial y los memes son los roles duales de la"
+heroImageAlt: "ZBZ- El contenido esencial y los memes son los roles duales de la"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2024-06-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548964.avif"
-heroImageAlt: "RealRip-Es imperativo construir una fábrica de plántulas inteligente"
+heroImageAlt: "ZBZ-Es imperativo construir una fábrica de plántulas inteligente"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

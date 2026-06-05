@@ -13,7 +13,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-After Apple, who is the king of consumer electronics?"
+"heroImageAlt": "ZBZ-After Apple, who is the king of consumer electronics?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

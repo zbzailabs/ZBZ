@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512090.avif"
-heroImageAlt: "RealRip-하버드와 MIT를 무작정 거닐다"
+heroImageAlt: "ZBZ-하버드와 MIT를 무작정 거닐다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

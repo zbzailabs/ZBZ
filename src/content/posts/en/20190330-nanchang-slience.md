@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-Nanchang — where the Marquis of Haihun found silence and Wang Bo found tears"
+heroImageAlt: "ZBZ-Nanchang — where the Marquis of Haihun found silence and Wang Bo found tears"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

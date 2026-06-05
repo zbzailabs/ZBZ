@@ -9,7 +9,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip-Menulis karakter pagi di meja sekolah tidak akan membantumu berhasil."
+heroImageAlt: "ZBZ-Menulis karakter pagi di meja sekolah tidak akan membantumu berhasil."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

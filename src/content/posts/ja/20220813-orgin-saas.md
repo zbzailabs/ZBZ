@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-利を求め害を避ける人間の識別能力は遺伝子に刻まれている"
+heroImageAlt: "ZBZ-利を求め害を避ける人間の識別能力は遺伝子に刻まれている"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

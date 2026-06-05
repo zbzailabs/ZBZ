@@ -10,7 +10,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip-지금은 삶이고, 지금은 활력이고, 지금은 실천이고, 지금은 창작이다"
+heroImageAlt: "ZBZ-지금은 삶이고, 지금은 활력이고, 지금은 실천이고, 지금은 창작이다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-11-20
 heroImage: "https://cos.zbz.ai/images/202310181512144.avif"
-heroImageAlt: "RealRip-Eine Gatsby-Blog-Vorlage"
+heroImageAlt: "ZBZ-Eine Gatsby-Blog-Vorlage"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

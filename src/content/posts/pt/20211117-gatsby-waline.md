@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-11-17
 heroImage: "https://cos.zbz.ai/images/202310181512145.avif"
-heroImageAlt: "RealRip-Instalar o componente de comentário Waline para Gatsby"
+heroImageAlt: "ZBZ-Instalar o componente de comentário Waline para Gatsby"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

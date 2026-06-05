@@ -8,7 +8,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-Die Rolle der Landwirtschaft in der Volkswirtschaft und Entwicklungsphasen"
+heroImageAlt: "ZBZ-Die Rolle der Landwirtschaft in der Volkswirtschaft und Entwicklungsphasen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

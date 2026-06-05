@@ -9,7 +9,7 @@ pubDate: 2024-09-11
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512158.avif"
-heroImageAlt: "RealRip-Internet+ Pertanian Modern: Bintang dan Laut"
+heroImageAlt: "ZBZ-Internet+ Pertanian Modern: Bintang dan Laut"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

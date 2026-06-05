@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-국민 경제에서 농업의 위치와 발전 단계"
+heroImageAlt: "ZBZ-국민 경제에서 농업의 위치와 발전 단계"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

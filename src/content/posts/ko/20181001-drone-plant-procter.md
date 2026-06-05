@@ -8,7 +8,7 @@ pubDate: 2018-10-01
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512124.avif"
-heroImageAlt: "RealRip-벼 논에서의 드론 방제 효과"
+heroImageAlt: "ZBZ-벼 논에서의 드론 방제 효과"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

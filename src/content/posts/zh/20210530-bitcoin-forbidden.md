@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: https://cos.realrip.com/images/202309131332747.avif
-heroImageAlt: "RealRip-本周看了《骆驼客》三部曲，主要讲述弓箭与快枪的对接，单兵作战中，弓箭是唯一可以和枪对决的冷兵器。即使在现在，与弓类似的弩，也常被用来作为进攻性武器。"
+heroImageAlt: "ZBZ-本周看了《骆驼客》三部曲，主要讲述弓箭与快枪的对接，单兵作战中，弓箭是唯一可以和枪对决的冷兵器。即使在现在，与弓类似的弩，也常被用来作为进攻性武器。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2025-01-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512137.avif"
-heroImageAlt: "RealRip-중년기: 게임 중독을 피하는 방법"
+heroImageAlt: "ZBZ-중년기: 게임 중독을 피하는 방법"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

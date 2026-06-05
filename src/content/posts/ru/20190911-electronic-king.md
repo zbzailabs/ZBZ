@@ -14,7 +14,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-Кто после Apple является королем бытовой электроники?"
+"heroImageAlt": "ZBZ-Кто после Apple является королем бытовой электроники?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

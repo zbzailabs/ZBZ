@@ -9,7 +9,7 @@ pubDate: 2023-06-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954485.avif"
-heroImageAlt: "RealRip-The Application of ChatGPT in Daily Work"
+heroImageAlt: "ZBZ-The Application of ChatGPT in Daily Work"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

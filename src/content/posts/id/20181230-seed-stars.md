@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-29
 heroImage: "https://cos.zbz.ai/images/202310181512112.avif"
-heroImageAlt: "RealRip-Seperti apa berwirausaha di pertanian Vietnam"
+heroImageAlt: "ZBZ-Seperti apa berwirausaha di pertanian Vietnam"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

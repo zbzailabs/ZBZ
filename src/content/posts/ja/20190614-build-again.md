@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2019-06-14
 heroImage: "https://cos.zbz.ai/images/202310181512064.avif"
-heroImageAlt: "RealRip-再び訪れた双創"
+heroImageAlt: "ZBZ-再び訪れた双創"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

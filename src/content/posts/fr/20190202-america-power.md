@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-Chercher le moteur intérieur qui maintient l’Amérique au rang de superpuissance"
+heroImageAlt: "ZBZ-Chercher le moteur intérieur qui maintient l’Amérique au rang de superpuissance"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

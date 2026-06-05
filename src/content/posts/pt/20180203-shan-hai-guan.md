@@ -8,7 +8,7 @@ pubDate: 2024-12-27
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512141.avif"
-heroImageAlt: "RealRip-Três pequenas histórias de investimento que não passaram do Passo"
+heroImageAlt: "ZBZ-Três pequenas histórias de investimento que não passaram do Passo"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

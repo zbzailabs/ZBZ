@@ -10,7 +10,7 @@ pubDate: 2024-12-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536626.avif"
-heroImageAlt: "RealRip-创业公司股权设置那些坑"
+heroImageAlt: "ZBZ-创业公司股权设置那些坑"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

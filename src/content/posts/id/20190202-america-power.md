@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-Menelusuri mesin batin yang menjaga Amerika sebagai superpower"
+heroImageAlt: "ZBZ-Menelusuri mesin batin yang menjaga Amerika sebagai superpower"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

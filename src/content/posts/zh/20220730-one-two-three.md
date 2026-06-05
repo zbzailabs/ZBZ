@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-07-30
 heroImage: https://cos.realrip.com/images/202310281658908.avif
-heroImageAlt: "RealRip-大伯二舅未婚夫"
+heroImageAlt: "ZBZ-大伯二舅未婚夫"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

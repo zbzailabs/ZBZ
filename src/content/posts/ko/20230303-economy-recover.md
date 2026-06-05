@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2023-03-03
 heroImage: "https://cos.zbz.ai/images/202310031546138.avif"
-heroImageAlt: "RealRip-경제 회복 하의 네 가지 짧은 이야기"
+heroImageAlt: "ZBZ-경제 회복 하의 네 가지 짧은 이야기"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

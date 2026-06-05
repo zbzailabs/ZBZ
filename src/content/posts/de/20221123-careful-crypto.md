@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-11-23
 heroImage: "https://cos.zbz.ai/images/202310281632593.avif"
-heroImageAlt: "RealRip-Seien Sie vorsichtig, wenn Sie an der Kryptoindustrie teilnehmen"
+heroImageAlt: "ZBZ-Seien Sie vorsichtig, wenn Sie an der Kryptoindustrie teilnehmen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

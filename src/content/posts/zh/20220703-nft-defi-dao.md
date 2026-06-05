@@ -7,7 +7,7 @@ tags:
 
 pubDate: 2022-07-03
 heroImage: https://cos.realrip.com/images/202310281700174.avif
-heroImageAlt: "RealRip-Web3 的三大方向"
+heroImageAlt: "ZBZ-Web3 的三大方向"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

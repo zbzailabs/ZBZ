@@ -8,7 +8,7 @@ pubDate: 2024-09-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280735641.avif"
-heroImageAlt: "RealRip- Kebijakan Privasi"
+heroImageAlt: "ZBZ- Kebijakan Privasi"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: true

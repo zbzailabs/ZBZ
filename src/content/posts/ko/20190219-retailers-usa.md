@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-09-16
 heroImage: "https://cos.zbz.ai/images/202310181512097.avif"
-heroImageAlt: "RealRip-미국 소매업의 현황과 딜레마"
+heroImageAlt: "ZBZ-미국 소매업의 현황과 딜레마"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-하락 추세 신호를 파악하고 빠르게 차익을 실현하세요"
+"heroImageAlt": "ZBZ-하락 추세 신호를 파악하고 빠르게 차익을 실현하세요"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

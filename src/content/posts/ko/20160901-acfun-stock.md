@@ -10,7 +10,7 @@ pubDate: 2024-12-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536626.avif"
-heroImageAlt: "RealRip-스타트업 지분 설정의 함정"
+heroImageAlt: "ZBZ-스타트업 지분 설정의 함정"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

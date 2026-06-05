@@ -8,7 +8,7 @@ pubDate: 2024-06-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548964.avif"
-heroImageAlt: "RealRip-Es ist zwingend erforderlich, eine intelligente Sämlingsfabrik zu bauen"
+heroImageAlt: "ZBZ-Es ist zwingend erforderlich, eine intelligente Sämlingsfabrik zu bauen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

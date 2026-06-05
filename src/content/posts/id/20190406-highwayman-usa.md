@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-25
 heroImage: "https://cos.zbz.ai/images/202309131332746.avif"
-heroImageAlt: "RealRip-Para ranger tua yang tenang"
+heroImageAlt: "ZBZ-Para ranger tua yang tenang"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

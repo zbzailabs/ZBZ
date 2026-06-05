@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-No hay daño sin comparación, una epidemia pinchó a todos los tigres de papel de Occidente, una guerra comercial hizo que la gente viera la crueldad de la competencia entre países"
+heroImageAlt: "ZBZ-No hay daño sin comparación, una epidemia pinchó a todos los tigres de papel de Occidente, una guerra comercial hizo que la gente viera la crueldad de la competencia entre países"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

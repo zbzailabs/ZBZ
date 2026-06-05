@@ -13,7 +13,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-بعد أبل من هو ملك الإلكترونيات الاستهلاكية؟"
+"heroImageAlt": "ZBZ-بعد أبل من هو ملك الإلكترونيات الاستهلاكية؟"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

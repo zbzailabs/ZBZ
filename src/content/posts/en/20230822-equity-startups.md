@@ -8,7 +8,7 @@ pubDate: 2024-09-19
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929914.avif"
-heroImageAlt: "RealRip-Fine Management of Talent Shares, Capital Shares, and Resource"
+heroImageAlt: "ZBZ-Fine Management of Talent Shares, Capital Shares, and Resource"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

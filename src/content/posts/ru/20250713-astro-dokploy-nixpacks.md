@@ -8,7 +8,7 @@ pubDate: 2025-07-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250714082742453.avif"
-heroImageAlt: "RealRip-Развертывание проектов Astro с помощью Dokploy и Nixpacks и включение кэширования для оптимизации скорости сборки"
+heroImageAlt: "ZBZ-Развертывание проектов Astro с помощью Dokploy и Nixpacks и включение кэширования для оптимизации скорости сборки"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

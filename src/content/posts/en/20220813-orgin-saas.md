@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-The Ability to Seek Advantages and Avoid Disadvantages Is Written into Human Genes"
+heroImageAlt: "ZBZ-The Ability to Seek Advantages and Avoid Disadvantages Is Written into Human Genes"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

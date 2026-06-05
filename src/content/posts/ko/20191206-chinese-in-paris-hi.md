@@ -8,7 +8,7 @@
   - "media"
 "pubDate": "2019-12-06"
 "heroImage": "https://cos.zbz.ai/images/202309131332744.avif"
-"heroImageAlt": "RealRip-파리 인민해방군"
+"heroImageAlt": "ZBZ-파리 인민해방군"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

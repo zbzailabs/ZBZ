@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-23
 heroImage: "https://cos.zbz.ai/images/202310281639448.avif"
-heroImageAlt: "RealRip-Outro produto do Google sai da China continental"
+heroImageAlt: "ZBZ-Outro produto do Google sai da China continental"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

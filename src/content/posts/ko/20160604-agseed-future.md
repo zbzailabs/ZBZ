@@ -8,7 +8,7 @@ pubDate: 2016-06-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548972.avif"
-heroImageAlt: "RealRip-국산 환금 작물 종자의 미래"
+heroImageAlt: "ZBZ-국산 환금 작물 종자의 미래"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

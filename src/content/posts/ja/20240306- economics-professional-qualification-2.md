@@ -9,7 +9,7 @@ pubDate: 2024-03-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403061003933.avif"
-heroImageAlt: "RealRip-全面的に農村振興を推進し、農業強国の建設を加速する"
+heroImageAlt: "ZBZ-全面的に農村振興を推進し、農業強国の建設を加速する"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

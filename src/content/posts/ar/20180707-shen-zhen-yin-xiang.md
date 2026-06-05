@@ -8,7 +8,7 @@ pubDate: 2025-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512126.avif"
-heroImageAlt: "RealRip-انطباعات عن شنجن"
+heroImageAlt: "ZBZ-انطباعات عن شنجن"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

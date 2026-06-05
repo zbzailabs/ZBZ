@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: "2019-11-05"
 heroImage: "https://cos.zbz.ai/images/202310181512029.avif"
-heroImageAlt: "RealRip-打造高效团队"
+heroImageAlt: "ZBZ-打造高效团队"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

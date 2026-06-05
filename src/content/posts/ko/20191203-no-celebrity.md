@@ -6,7 +6,7 @@
   - "risk"
 "pubDate": "2019-12-03"
 "heroImage": "https://cos.zbz.ai/images/202310181512018.avif"
-"heroImageAlt": "RealRip-모든 인터넷 연예인이 물건을 가지고 다닐 수 있는 것은 아니다"
+"heroImageAlt": "ZBZ-모든 인터넷 연예인이 물건을 가지고 다닐 수 있는 것은 아니다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2016-06-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548972.avif"
-heroImageAlt: "RealRip-Masa Depan Benih Tanaman Komersial Domestik"
+heroImageAlt: "ZBZ-Masa Depan Benih Tanaman Komersial Domestik"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

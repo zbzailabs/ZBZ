@@ -10,7 +10,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip- Hoy es vida, hoy es vitalidad, hoy es práctica, hoy es creación"
+heroImageAlt: "ZBZ- Hoy es vida, hoy es vitalidad, hoy es práctica, hoy es creación"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

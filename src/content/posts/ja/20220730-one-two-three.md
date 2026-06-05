@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-長男の叔父、次男の叔父、そして婚約者"
+heroImageAlt: "ZBZ-長男の叔父、次男の叔父、そして婚約者"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

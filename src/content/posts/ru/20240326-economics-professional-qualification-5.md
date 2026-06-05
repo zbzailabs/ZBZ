@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip- Роль и Этапы Развития Сельского Хозяйства в Национальной Экономике"
+heroImageAlt: "ZBZ- Роль и Этапы Развития Сельского Хозяйства в Национальной Экономике"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

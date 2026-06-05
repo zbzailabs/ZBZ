@@ -8,7 +8,7 @@ pubDate: 2024-05-13
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643937.avif"
-heroImageAlt: "RealRip-Agrarproduktionsfaktoren und Dienstleistungsgarantie"
+heroImageAlt: "ZBZ-Agrarproduktionsfaktoren und Dienstleistungsgarantie"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

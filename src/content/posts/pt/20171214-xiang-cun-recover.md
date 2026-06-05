@@ -9,7 +9,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-Por que implementar a estratégia de revitalização rural"
+heroImageAlt: "ZBZ-Por que implementar a estratégia de revitalização rural"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

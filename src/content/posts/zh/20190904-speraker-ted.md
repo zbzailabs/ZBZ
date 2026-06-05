@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-09-04"
 heroImage: "https://cos.zbz.ai/images/202310181512044.avif"
-heroImageAlt: "RealRip-像TED一样演讲"
+heroImageAlt: "ZBZ-像TED一样演讲"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

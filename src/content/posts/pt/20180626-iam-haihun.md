@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909224527555.avif"
-heroImageAlt: "RealRip-Eu sou o marquês de Haihun"
+heroImageAlt: "ZBZ-Eu sou o marquês de Haihun"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

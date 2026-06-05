@@ -9,7 +9,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip- Facing challenges requires focusing on improving self-management,"
+heroImageAlt: "ZBZ- Facing challenges requires focusing on improving self-management,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

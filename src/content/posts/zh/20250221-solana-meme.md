@@ -8,7 +8,7 @@ pubDate: 2025-02-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250221101356441.avif"
-heroImageAlt: "RealRip-Meme 交易能以小博大，也能倾家荡产，DYOR"
+heroImageAlt: "ZBZ-Meme 交易能以小博大，也能倾家荡产，DYOR"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2025-03-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820281.avif"
-heroImageAlt: "RealRip-大道至简，探索事物本质的生活哲学"
+heroImageAlt: "ZBZ-大道至简，探索事物本质的生活哲学"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

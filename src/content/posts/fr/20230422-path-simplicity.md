@@ -9,7 +9,7 @@ pubDate: 2025-03-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820281.avif"
-heroImageAlt: "RealRip-La Voie de la Simplicité : Une Philosophie de Vie pour Explorer"
+heroImageAlt: "ZBZ-La Voie de la Simplicité : Une Philosophie de Vie pour Explorer"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

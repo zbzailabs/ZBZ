@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2023-01-10
 heroImage: https://cos.realrip.com/images/202310031546136.avif
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip-挑戦に直面して、自分の管理能力、集中力、体力、情報取得の質、文章力、専門スキルの向上に集中する必要があります。"
+heroImageAlt: "ZBZ-挑戦に直面して、自分の管理能力、集中力、体力、情報取得の質、文章力、専門スキルの向上に集中する必要があります。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

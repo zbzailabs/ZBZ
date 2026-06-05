@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-Full Process of Government Projects from Initiation to Bidding and Signing"
+heroImageAlt: "ZBZ-Full Process of Government Projects from Initiation to Bidding and Signing"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

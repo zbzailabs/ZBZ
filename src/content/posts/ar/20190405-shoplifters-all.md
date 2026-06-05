@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-ليس من المهم أن ترى الألعاب النارية، المهم هو مع من تشاهدها"
+heroImageAlt: "ZBZ-ليس من المهم أن ترى الألعاب النارية، المهم هو مع من تشاهدها"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

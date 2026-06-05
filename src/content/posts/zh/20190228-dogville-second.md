@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-27
 heroImage: https://cos.realrip.com/images/202310181512089.avif
-heroImageAlt: "RealRip-再也不想看第二遍的狗镇"
+heroImageAlt: "ZBZ-再也不想看第二遍的狗镇"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

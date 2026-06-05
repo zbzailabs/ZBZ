@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-Paman Tertua, Paman Kedua, dan Tunangan"
+heroImageAlt: "ZBZ-Paman Tertua, Paman Kedua, dan Tunangan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -8,7 +8,7 @@ pubDate: 2016-06-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548971.avif"
-heroImageAlt: "RealRip-Индивидуализм и быстрое потребление"
+heroImageAlt: "ZBZ-Индивидуализм и быстрое потребление"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

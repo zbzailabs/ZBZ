@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512089.avif"
-heroImageAlt: "RealRip-Dogville — фильм, который я не хочу смотреть во второй раз"
+heroImageAlt: "ZBZ-Dogville — фильм, который я не хочу смотреть во второй раз"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-Embora nossa forma seja corporativa, nossa atitude é de parceria"
+heroImageAlt: "ZBZ-Embora nossa forma seja corporativa, nossa atitude é de parceria"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

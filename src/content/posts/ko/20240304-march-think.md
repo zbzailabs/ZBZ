@@ -9,7 +9,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip-도전에 직면하여, 우리는 자기 관리 능력, 집중력, 신체 건강, 정보 습득의 질, 글쓰기 능력, 전문 기술 향상에"
+heroImageAlt: "ZBZ-도전에 직면하여, 우리는 자기 관리 능력, 집중력, 신체 건강, 정보 습득의 질, 글쓰기 능력, 전문 기술 향상에"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

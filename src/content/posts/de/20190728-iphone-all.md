@@ -8,7 +8,7 @@ pubDate: 2019-07-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512057.avif"
-heroImageAlt: "RealRip-Beinahe hinter Gittern"
+heroImageAlt: "ZBZ-Beinahe hinter Gittern"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

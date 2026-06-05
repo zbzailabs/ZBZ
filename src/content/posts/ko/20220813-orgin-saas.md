@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-이익을 쫓고 해를 피하는 인간의 식별 능력은 유전자에 새겨져 있다"
+heroImageAlt: "ZBZ-이익을 쫓고 해를 피하는 인간의 식별 능력은 유전자에 새겨져 있다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

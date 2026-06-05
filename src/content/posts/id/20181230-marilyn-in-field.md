@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536585.avif"
-heroImageAlt: "RealRip-Marilyn Monroe di sawah padi"
+heroImageAlt: "ZBZ-Marilyn Monroe di sawah padi"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

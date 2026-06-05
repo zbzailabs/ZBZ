@@ -10,7 +10,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310230959160.avif"
-heroImageAlt: "RealRip- Избегайте поверхностного подхода"
+heroImageAlt: "ZBZ- Избегайте поверхностного подхода"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

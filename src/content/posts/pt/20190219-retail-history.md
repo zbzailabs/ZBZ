@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-09-18
 heroImage: "https://cos.zbz.ai/images/202310181512101.avif"
-heroImageAlt: "RealRip-Breve história do varejo"
+heroImageAlt: "ZBZ-Breve história do varejo"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

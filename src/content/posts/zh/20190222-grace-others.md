@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-28
 heroImage: https://cos.realrip.com/images/202310181512094.avif
-heroImageAlt: "RealRip-忙着改造别人而不改造自己的格蕾丝"
+heroImageAlt: "ZBZ-忙着改造别人而不改造自己的格蕾丝"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

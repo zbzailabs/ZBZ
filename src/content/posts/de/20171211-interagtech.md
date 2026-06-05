@@ -9,7 +9,7 @@ pubDate: 2024-09-11
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512158.avif"
-heroImageAlt: "RealRip-Internet+ moderne Landwirtschaft: Sternenhimmel und Ozean"
+heroImageAlt: "ZBZ-Internet+ moderne Landwirtschaft: Sternenhimmel und Ozean"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

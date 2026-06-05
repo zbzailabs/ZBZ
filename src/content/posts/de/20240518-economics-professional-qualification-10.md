@@ -8,7 +8,7 @@ pubDate: 2024-05-18
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643941.avif"
-heroImageAlt: "RealRip-Praktiken und Theorie des Agrarmarktes und der Agrarindustrie"
+heroImageAlt: "ZBZ-Praktiken und Theorie des Agrarmarktes und der Agrarindustrie"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

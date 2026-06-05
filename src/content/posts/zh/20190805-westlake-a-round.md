@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip-步行绕西湖一圈要多久"
+heroImageAlt: "ZBZ-步行绕西湖一圈要多久"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

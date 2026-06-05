@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-21
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-농업 브랜드화에 대한 생각"
+heroImageAlt: "ZBZ-농업 브랜드화에 대한 생각"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

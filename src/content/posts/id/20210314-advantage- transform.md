@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-Meskipun bentuk kami adalah korporasi, sikap kami adalah kemitraan"
+heroImageAlt: "ZBZ-Meskipun bentuk kami adalah korporasi, sikap kami adalah kemitraan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

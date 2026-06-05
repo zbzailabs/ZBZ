@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-09-18
 heroImage: "https://cos.zbz.ai/images/202310181512101.avif"
-heroImageAlt: "RealRip-Breve historia del retail"
+heroImageAlt: "ZBZ-Breve historia del retail"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

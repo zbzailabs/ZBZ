@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2020-04-24
 heroImage: https://cos.realrip.com/images/202310181512051.avif
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

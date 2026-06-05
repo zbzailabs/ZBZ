@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-04-03
 heroImage: "https://cos.zbz.ai/images/202310281715518.avif"
-heroImageAlt: "RealRip-When Shanghai's Children are Isolated Alone, Ukrainian Children Have Already Packed Their Bags and Exiled to Foreign Lands"
+heroImageAlt: "ZBZ-When Shanghai's Children are Isolated Alone, Ukrainian Children Have Already Packed Their Bags and Exiled to Foreign Lands"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

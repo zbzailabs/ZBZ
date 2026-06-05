@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-10-07
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-스타트업은 어떻게 무너지는가"
+heroImageAlt: "ZBZ-스타트업은 어떻게 무너지는가"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

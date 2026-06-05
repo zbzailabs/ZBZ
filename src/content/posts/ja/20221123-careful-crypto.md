@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-11-23
 heroImage: "https://cos.zbz.ai/images/202310281632593.avif"
-heroImageAlt: "RealRip-暗号資産（仮想通貨）業界への参加は慎重に"
+heroImageAlt: "ZBZ-暗号資産（仮想通貨）業界への参加は慎重に"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

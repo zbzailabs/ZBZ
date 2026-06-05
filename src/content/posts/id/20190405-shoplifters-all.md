@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-Tidak Masalah Jika Anda Tidak Bisa Melihat Kembang Api, Yang Penting Adalah Dengan Siapa Anda Menontonnya"
+heroImageAlt: "ZBZ-Tidak Masalah Jika Anda Tidak Bisa Melihat Kembang Api, Yang Penting Adalah Dengan Siapa Anda Menontonnya"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

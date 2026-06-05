@@ -9,7 +9,7 @@ pubDate: 2024-03-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403141027739.avif"
-heroImageAlt: "RealRip- Achieving an effective connection between consolidating poverty"
+heroImageAlt: "ZBZ- Achieving an effective connection between consolidating poverty"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

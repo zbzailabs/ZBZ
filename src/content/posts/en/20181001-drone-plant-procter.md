@@ -8,7 +8,7 @@ pubDate: 2018-10-01
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512124.avif"
-heroImageAlt: "RealRip-How Effective Are Plant Protection Drones in Rice Fields"
+heroImageAlt: "ZBZ-How Effective Are Plant Protection Drones in Rice Fields"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

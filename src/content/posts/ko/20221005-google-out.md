@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-23
 heroImage: "https://cos.zbz.ai/images/202310281639448.avif"
-heroImageAlt: "RealRip-또 하나의 구글 제품이 중국 본토에서 철수하다"
+heroImageAlt: "ZBZ-또 하나의 구글 제품이 중국 본토에서 철수하다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

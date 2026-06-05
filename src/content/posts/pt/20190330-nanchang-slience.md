@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-Nanchang — a cidade onde o marquês de Haihun silenciou e Wang Bo chorou"
+heroImageAlt: "ZBZ-Nanchang — a cidade onde o marquês de Haihun silenciou e Wang Bo chorou"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

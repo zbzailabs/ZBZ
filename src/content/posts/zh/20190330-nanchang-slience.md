@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-南昌，一座海昏侯见了沉默，王勃见了落泪的城市"
+heroImageAlt: "ZBZ-南昌，一座海昏侯见了沉默，王勃见了落泪的城市"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

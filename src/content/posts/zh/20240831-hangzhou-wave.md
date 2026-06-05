@@ -10,7 +10,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip-杭州通过举办大型赛事更新并提升城市运行能力"
+heroImageAlt: "ZBZ-杭州通过举办大型赛事更新并提升城市运行能力"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

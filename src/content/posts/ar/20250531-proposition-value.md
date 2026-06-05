@@ -9,7 +9,7 @@ pubDate: 2025-05-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512132.avif"
-heroImageAlt: "RealRip-عرض القيمة هو ما يقرر اهتمام الناس بمنتجك"
+heroImageAlt: "ZBZ-عرض القيمة هو ما يقرر اهتمام الناس بمنتجك"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

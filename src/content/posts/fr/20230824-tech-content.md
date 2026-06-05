@@ -8,7 +8,7 @@ pubDate: 2024-09-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512142.avif"
-heroImageAlt: "RealRip- Du Technicien au Créateur de Contenu Mon Parcours de Blogging"
+heroImageAlt: "ZBZ- Du Technicien au Créateur de Contenu Mon Parcours de Blogging"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

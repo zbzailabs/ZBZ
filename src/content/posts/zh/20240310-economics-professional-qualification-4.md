@@ -9,7 +9,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip-粮食安全战略：提产能，促平衡，保安全，数量，效益，品质"
+heroImageAlt: "ZBZ-粮食安全战略：提产能，促平衡，保安全，数量，效益，品质"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

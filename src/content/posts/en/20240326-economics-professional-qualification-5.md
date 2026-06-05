@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip- The Role and Development Stages of Agriculture in the National"
+heroImageAlt: "ZBZ- The Role and Development Stages of Agriculture in the National"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

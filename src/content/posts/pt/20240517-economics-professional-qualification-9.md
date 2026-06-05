@@ -10,7 +10,7 @@ pubDate: 2024-05-13
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643937.avif"
-heroImageAlt: "RealRip-Fatores de produção agrícola e garantia de serviços"
+heroImageAlt: "ZBZ-Fatores de produção agrícola e garantia de serviços"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

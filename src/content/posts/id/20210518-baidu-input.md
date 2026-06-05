@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-05-18
 heroImage: "https://cos.zbz.ai/images/202310181257285.avif"
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

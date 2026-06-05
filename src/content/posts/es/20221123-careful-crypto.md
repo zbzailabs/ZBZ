@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-11-23
 heroImage: "https://cos.zbz.ai/images/202310281632593.avif"
-heroImageAlt: "RealRip-Tenga cuidado al participar en la industria de las criptomonedas"
+heroImageAlt: "ZBZ-Tenga cuidado al participar en la industria de las criptomonedas"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

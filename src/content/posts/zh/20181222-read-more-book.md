@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-01-02
 heroImage: "https://cos.zbz.ai/images/202310181536590.avif"
-heroImageAlt: "RealRip-人丑就要多读书"
+heroImageAlt: "ZBZ-人丑就要多读书"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

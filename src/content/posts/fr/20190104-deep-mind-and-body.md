@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512108.avif"
-heroImageAlt: "RealRip-Face à la force intérieure, tout le reste est dérisoire"
+heroImageAlt: "ZBZ-Face à la force intérieure, tout le reste est dérisoire"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

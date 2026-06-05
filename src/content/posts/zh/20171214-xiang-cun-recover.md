@@ -8,7 +8,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-为什么实施乡村振兴战略"
+heroImageAlt: "ZBZ-为什么实施乡村振兴战略"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2024-06-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202406091102137.avif"
-heroImageAlt: "RealRip-Mempercepat Modernisasi Pertanian dan Pedesaan"
+heroImageAlt: "ZBZ-Mempercepat Modernisasi Pertanian dan Pedesaan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

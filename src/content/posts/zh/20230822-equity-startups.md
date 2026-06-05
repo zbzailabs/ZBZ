@@ -8,7 +8,7 @@ pubDate: 2024-09-19
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929914.avif"
-heroImageAlt: "RealRip-创业公司人才股、资金股与资源股的精细管理"
+heroImageAlt: "ZBZ-创业公司人才股、资金股与资源股的精细管理"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

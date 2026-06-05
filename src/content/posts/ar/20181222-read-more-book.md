@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-01-02
 heroImage: "https://cos.zbz.ai/images/202310181536590.avif"
-heroImageAlt: "RealRip-إذا لم تكن وسيماً فأكثر من القراءة"
+heroImageAlt: "ZBZ-إذا لم تكن وسيماً فأكثر من القراءة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

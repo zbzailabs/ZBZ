@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202310181512113.avif"
-heroImageAlt: "RealRip-농업 창업과 린 스타트업"
+heroImageAlt: "ZBZ-농업 창업과 린 스타트업"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

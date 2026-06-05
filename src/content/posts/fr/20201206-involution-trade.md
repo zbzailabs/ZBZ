@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-Le modèle économique et commercial sous l'effet de l'involution"
+heroImageAlt: "ZBZ-Le modèle économique et commercial sous l'effet de l'involution"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

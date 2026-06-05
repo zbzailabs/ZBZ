@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-Não há mal sem comparação, uma epidemia perfurou todos os tigres de papel do Ocidente, uma guerra comercial fez as pessoas verem a crueldade da competição entre países"
+heroImageAlt: "ZBZ-Não há mal sem comparação, uma epidemia perfurou todos os tigres de papel do Ocidente, uma guerra comercial fez as pessoas verem a crueldade da competição entre países"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

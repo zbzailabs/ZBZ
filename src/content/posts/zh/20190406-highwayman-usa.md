@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-25
 heroImage: https://cos.realrip.com/images/202309131332746.avif
-heroImageAlt: "RealRip-劫匪 highwayman"
+heroImageAlt: "ZBZ-劫匪 highwayman"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

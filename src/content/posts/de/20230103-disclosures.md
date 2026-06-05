@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2023-01-02
 heroImage: "https://cos.zbz.ai/images/202310181512073.avif"
-heroImageAlt: "RealRip-Haftungsausschluss"
+heroImageAlt: "ZBZ-Haftungsausschluss"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

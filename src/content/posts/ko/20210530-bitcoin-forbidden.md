@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-이번 주에 'Camel Guest' 3부작을 보았는데, 주로 활과 화살과 빠른 총의 대결을 다루고 있습니다. 개인 전투에서 활과 화살은 총과 결투할 수 있는 유일한 냉병기입니다. 지금도 활과 유사한 석궁은 종종 공격용 무기로 사용됩니다."
+heroImageAlt: "ZBZ-이번 주에 'Camel Guest' 3부작을 보았는데, 주로 활과 화살과 빠른 총의 대결을 다루고 있습니다. 개인 전투에서 활과 화살은 총과 결투할 수 있는 유일한 냉병기입니다. 지금도 활과 유사한 석궁은 종종 공격용 무기로 사용됩니다."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

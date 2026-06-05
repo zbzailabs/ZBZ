@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-09-05
 heroImage: "https://cos.zbz.ai/images/202310181244293.avif"
-heroImageAlt: "RealRip-Блог все еще нужно писать"
+heroImageAlt: "ZBZ-Блог все еще нужно писать"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip-新时代农业农村的发展形势"
+heroImageAlt: "ZBZ-新时代农业农村的发展形势"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

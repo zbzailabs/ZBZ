@@ -8,7 +8,7 @@ pubDate: 2016-06-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548967.avif"
-heroImageAlt: "RealRip-Industria y mercado de protección vegetal"
+heroImageAlt: "ZBZ-Industria y mercado de protección vegetal"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

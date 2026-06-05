@@ -11,7 +11,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-Grasp the downward trend signals and take profits promptly"
+"heroImageAlt": "ZBZ-Grasp the downward trend signals and take profits promptly"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

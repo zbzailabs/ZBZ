@@ -10,7 +10,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290734486.avif"
-heroImageAlt: "RealRip-Wichtige Gesetze und Vorschriften zu Landwirtschaft und ländlichen"
+heroImageAlt: "ZBZ-Wichtige Gesetze und Vorschriften zu Landwirtschaft und ländlichen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

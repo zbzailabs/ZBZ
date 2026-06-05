@@ -9,7 +9,7 @@ pubDate: 2023-10-08
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310101613604.avif"
-heroImageAlt: "RealRip-이스라엘 영토는 점점 커진다"
+heroImageAlt: "ZBZ-이스라엘 영토는 점점 커진다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

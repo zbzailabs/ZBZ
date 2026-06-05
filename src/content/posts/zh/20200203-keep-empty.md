@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2020-02-03
 heroImage: "https://cos.zbz.ai/images/202310181512019.avif"
-heroImageAlt: "RealRip-在疫情完全解除前，最重要的是保住本金，且不可盲目加仓"
+heroImageAlt: "ZBZ-在疫情完全解除前，最重要的是保住本金，且不可盲目加仓"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-31
 heroImage: "https://cos.zbz.ai/images/202310181536593.avif"
-heroImageAlt: "RealRip-Сегодня Ван Таоюаня — это завтра китайской деревни"
+heroImageAlt: "ZBZ-Сегодня Ван Таоюаня — это завтра китайской деревни"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

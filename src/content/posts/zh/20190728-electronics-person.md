@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2019-07-31
 heroImage: "https://cos.zbz.ai/images/202310181512056.avif"
-heroImageAlt: "RealRip-从人类驾驭电子的过程中体验科技创新"
+heroImageAlt: "ZBZ-从人类驾驭电子的过程中体验科技创新"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -7,7 +7,7 @@ tags:
   - "roam"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909225005370.avif"
-heroImageAlt: "RealRip-Thank You For Safekeeping My Wealth"
+heroImageAlt: "ZBZ-Thank You For Safekeeping My Wealth"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

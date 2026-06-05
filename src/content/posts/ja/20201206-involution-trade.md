@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-インボリューション効果の下での経済貿易パターン"
+heroImageAlt: "ZBZ-インボリューション効果の下での経済貿易パターン"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

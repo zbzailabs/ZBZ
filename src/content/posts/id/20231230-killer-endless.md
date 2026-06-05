@@ -8,7 +8,7 @@ pubDate: 2023-12-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202312301156100.avif"
-heroImageAlt: "RealRip-Pembunuh Bunga Bulan dan Unit Ketiga"
+heroImageAlt: "ZBZ-Pembunuh Bunga Bulan dan Unit Ketiga"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

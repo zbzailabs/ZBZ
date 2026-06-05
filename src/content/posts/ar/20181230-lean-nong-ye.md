@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202310181512113.avif"
-heroImageAlt: "RealRip-الريادة الرشيقة في الزراعة"
+heroImageAlt: "ZBZ-الريادة الرشيقة في الزراعة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

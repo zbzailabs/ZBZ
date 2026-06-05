@@ -8,7 +8,7 @@ pubDate: 2023-09-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536628.avif"
-heroImageAlt: "RealRip-新感染 ファイナル・エクスプレス、ファンド試験と大物の退場"
+heroImageAlt: "ZBZ-新感染 ファイナル・エクスプレス、ファンド試験と大物の退場"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

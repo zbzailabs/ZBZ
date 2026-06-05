@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512100.avif"
-heroImageAlt: "RealRip-Estradas e trânsito nos EUA"
+heroImageAlt: "ZBZ-Estradas e trânsito nos EUA"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

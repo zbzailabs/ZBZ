@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-Kebijaksanaan tertinggi adalah kesederhanaan; prinsip lama paling manjur"
+heroImageAlt: "ZBZ-Kebijaksanaan tertinggi adalah kesederhanaan; prinsip lama paling manjur"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

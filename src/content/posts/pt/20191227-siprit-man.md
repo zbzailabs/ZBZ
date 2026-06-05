@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-12-27
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-Você nunca acorda quem finge estar bêbado"
+heroImageAlt: "ZBZ-Você nunca acorda quem finge estar bêbado"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

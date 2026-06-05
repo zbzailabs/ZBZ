@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-우리의 형태는 기업이지만, 우리의 태도는 파트너십입니다"
+heroImageAlt: "ZBZ-우리의 형태는 기업이지만, 우리의 태도는 파트너십입니다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

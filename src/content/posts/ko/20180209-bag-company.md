@@ -9,7 +9,7 @@ pubDate: 2024-12-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536602.avif"
-heroImageAlt: "RealRip-사라리맨 회사"
+heroImageAlt: "ZBZ-사라리맨 회사"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

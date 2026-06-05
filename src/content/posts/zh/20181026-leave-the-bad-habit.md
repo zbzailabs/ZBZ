@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-26
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip-远离潜意识的小小坏习惯"
+heroImageAlt: "ZBZ-远离潜意识的小小坏习惯"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

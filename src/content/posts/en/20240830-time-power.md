@@ -8,7 +8,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip- Today Is life, Today Is Vitality, Today Is Practice, Today Is"
+heroImageAlt: "ZBZ- Today Is life, Today Is Vitality, Today Is Practice, Today Is"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

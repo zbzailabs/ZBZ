@@ -9,7 +9,7 @@ pubDate: 2023-07-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-发展设施农业要考虑运营和盈利的可持续性"
+heroImageAlt: "ZBZ-发展设施农业要考虑运营和盈利的可持续性"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

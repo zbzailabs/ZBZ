@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536585.avif"
-heroImageAlt: "RealRip-Marilyn Monroe in the Rice Fields"
+heroImageAlt: "ZBZ-Marilyn Monroe in the Rice Fields"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

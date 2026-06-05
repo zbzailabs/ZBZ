@@ -6,7 +6,7 @@
   - "media"
 "pubDate": "2019-10-25"
 "heroImage": "https://cos.zbz.ai/images/202310181512040.avif"
-"heroImageAlt": "RealRip-Life-extending disciple"
+"heroImageAlt": "ZBZ-Life-extending disciple"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

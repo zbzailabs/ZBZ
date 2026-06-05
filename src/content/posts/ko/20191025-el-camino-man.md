@@ -6,7 +6,7 @@
   - "media"
 "pubDate": "2019-10-25"
 "heroImage": "https://cos.zbz.ai/images/202310181512040.avif"
-"heroImageAlt": "RealRip-생명을 연장하는 제자"
+"heroImageAlt": "ZBZ-생명을 연장하는 제자"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

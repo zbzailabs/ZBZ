@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-25"
 heroImage: "https://cos.zbz.ai/images/202310181512046.avif"
-heroImageAlt: "RealRip-『経営者の条件』読書メモ"
+heroImageAlt: "ZBZ-『経営者の条件』読書メモ"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

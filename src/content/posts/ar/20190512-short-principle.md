@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512075.avif"
-heroImageAlt: "RealRip-优秀的投资人坚持什么原则"
+heroImageAlt: "ZBZ-优秀的投资人坚持什么原则"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

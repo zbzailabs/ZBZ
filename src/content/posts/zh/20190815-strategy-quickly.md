@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-08-15"
 heroImage: "https://cos.zbz.ai/images/202310181512048.avif"
-heroImageAlt: "RealRip-战略深思熟虑，行动迅速果断"
+heroImageAlt: "ZBZ-战略深思熟虑，行动迅速果断"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

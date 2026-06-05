@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2025-09-14
 heroImage: "https://cos.zbz.ai/images/202309131332733.avif"
-heroImageAlt: "RealRip-Люди и ИИ: пара или враги?"
+heroImageAlt: "ZBZ-Люди и ИИ: пара или враги?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

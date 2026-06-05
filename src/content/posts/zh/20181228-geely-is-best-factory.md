@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip-纵观世界汽车工业版图，前三名必有中国企业一席，能担此大任者，非吉利莫属"
+heroImageAlt: "ZBZ-纵观世界汽车工业版图，前三名必有中国企业一席，能担此大任者，非吉利莫属"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

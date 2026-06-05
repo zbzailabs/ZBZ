@@ -8,7 +8,7 @@ pubDate: 2025-08-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512123.avif"
-heroImageAlt: "RealRip-الكتابة أفضل طرق التفكير"
+heroImageAlt: "ZBZ-الكتابة أفضل طرق التفكير"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

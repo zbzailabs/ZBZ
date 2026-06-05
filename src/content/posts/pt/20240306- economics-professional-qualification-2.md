@@ -9,7 +9,7 @@ pubDate: 2024-03-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403061003933.avif"
-heroImageAlt: "RealRip-Promover integralmente a revitalização rural e acelerar a construção"
+heroImageAlt: "ZBZ-Promover integralmente a revitalização rural e acelerar a construção"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

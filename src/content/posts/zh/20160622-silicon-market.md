@@ -8,7 +8,7 @@ pubDate: 2024-11-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548966.avif"
-heroImageAlt: "RealRip-硅肥行业与市场"
+heroImageAlt: "ZBZ-硅肥行业与市场"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

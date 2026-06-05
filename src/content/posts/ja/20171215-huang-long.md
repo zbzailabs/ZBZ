@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512155.avif"
-heroImageAlt: "RealRip-農業技術系スタートアップが柑橘類グリーニング病対策に希望をもたらす"
+heroImageAlt: "ZBZ-農業技術系スタートアップが柑橘類グリーニング病対策に希望をもたらす"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

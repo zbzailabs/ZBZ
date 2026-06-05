@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-07-03
 heroImage: "https://cos.zbz.ai/images/202310281700174.avif"
-heroImageAlt: "RealRip-Three Major Directions of Web3"
+heroImageAlt: "ZBZ-Three Major Directions of Web3"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

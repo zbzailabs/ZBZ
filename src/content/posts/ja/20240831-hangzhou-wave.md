@@ -10,7 +10,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip-杭州は大規模なイベントの開催を通じて都市運営能力を向上させました。"
+heroImageAlt: "ZBZ-杭州は大規模なイベントの開催を通じて都市運営能力を向上させました。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

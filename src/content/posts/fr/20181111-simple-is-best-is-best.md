@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-La voie la plus simple est la plus sage; les vieux principes sont les plus efficaces"
+heroImageAlt: "ZBZ-La voie la plus simple est la plus sage; les vieux principes sont les plus efficaces"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -10,7 +10,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip-항저우는 대형 이벤트를 개최하며 도시 운영 능력을 향상시켰습니다."
+heroImageAlt: "ZBZ-항저우는 대형 이벤트를 개최하며 도시 운영 능력을 향상시켰습니다."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

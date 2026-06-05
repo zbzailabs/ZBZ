@@ -8,7 +8,7 @@ pubDate: 2024-04-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404061153893.avif"
-heroImageAlt: "RealRip-Desain kehidupan sehari-hari seperti halaman web, mengoptimalkan"
+heroImageAlt: "ZBZ-Desain kehidupan sehari-hari seperti halaman web, mengoptimalkan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- 핵심 정보와 밈은 현대 사회에서 정보 전파의 이중 역할을 담당합니다"
+heroImageAlt: "ZBZ- 핵심 정보와 밈은 현대 사회에서 정보 전파의 이중 역할을 담당합니다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

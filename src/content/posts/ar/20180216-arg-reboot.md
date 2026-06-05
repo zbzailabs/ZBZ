@@ -8,7 +8,7 @@ pubDate: 2025-03-29
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250329223658206.avif"
-heroImageAlt: "RealRip-روبوتات القطف"
+heroImageAlt: "ZBZ-روبوتات القطف"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

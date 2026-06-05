@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-农业在国民经济中的地位和发展阶段"
+heroImageAlt: "ZBZ-农业在国民经济中的地位和发展阶段"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

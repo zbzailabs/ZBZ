@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-19"
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-The Waxing and Waning of the Stock Market"
+heroImageAlt: "ZBZ-The Waxing and Waning of the Stock Market"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

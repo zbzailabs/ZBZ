@@ -10,7 +10,7 @@ pubDate: 2024-05-17
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405170942378.avif"
-heroImageAlt: "RealRip- Théorie et Pratique des Marchés et de l'Industrie des Produits"
+heroImageAlt: "ZBZ- Théorie et Pratique des Marchés et de l'Industrie des Produits"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

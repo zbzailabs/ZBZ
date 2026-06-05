@@ -7,7 +7,7 @@
   - "innovation"
 "pubDate": "2019-11-05"
 "heroImage": "https://cos.zbz.ai/images/202310181512029.avif"
-"heroImageAlt": "RealRip-Build an efficient team"
+"heroImageAlt": "ZBZ-Build an efficient team"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-25
 heroImage: "https://cos.zbz.ai/images/202309131332746.avif"
-heroImageAlt: "RealRip-침착한 노(老) 레인저들"
+heroImageAlt: "ZBZ-침착한 노(老) 레인저들"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

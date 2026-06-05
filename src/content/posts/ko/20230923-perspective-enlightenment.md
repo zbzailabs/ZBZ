@@ -10,7 +10,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-관점을 바꾸면 새로운 깨달음을 얻을 수 있다"
+heroImageAlt: "ZBZ-관점을 바꾸면 새로운 깨달음을 얻을 수 있다"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

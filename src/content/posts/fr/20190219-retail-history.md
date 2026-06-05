@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-09-18
 heroImage: "https://cos.zbz.ai/images/202310181512101.avif"
-heroImageAlt: "RealRip-Brève histoire du commerce de détail"
+heroImageAlt: "ZBZ-Brève histoire du commerce de détail"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

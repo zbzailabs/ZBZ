@@ -9,7 +9,7 @@ pubDate: 2024-03-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403061003933.avif"
-heroImageAlt: "RealRip-전면적인 농촌 진흥 추진과 농업 강국 건설 가속화"
+heroImageAlt: "ZBZ-전면적인 농촌 진흥 추진과 농업 강국 건설 가속화"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

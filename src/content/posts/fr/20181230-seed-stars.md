@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-29
 heroImage: "https://cos.zbz.ai/images/202310181512112.avif"
-heroImageAlt: "RealRip-Ce que signifie entreprendre dans l’agriculture vietnamienne"
+heroImageAlt: "ZBZ-Ce que signifie entreprendre dans l’agriculture vietnamienne"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

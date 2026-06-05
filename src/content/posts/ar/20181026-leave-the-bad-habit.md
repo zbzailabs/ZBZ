@@ -8,7 +8,7 @@ pubDate: 2018-10-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip-ابتعد عن العادات الصغيرة المختبئة في اللاوعي"
+heroImageAlt: "ZBZ-ابتعد عن العادات الصغيرة المختبئة في اللاوعي"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

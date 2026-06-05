@@ -8,7 +8,7 @@ pubDate: 2024-05-13
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643937.avif"
-heroImageAlt: "RealRip- Факторы Сельскохозяйственного Производства и Поддержка Услуг"
+heroImageAlt: "ZBZ- Факторы Сельскохозяйственного Производства и Поддержка Услуг"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2019-07-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-서릉인사에서 유물을 만져본 날"
+heroImageAlt: "ZBZ-서릉인사에서 유물을 만져본 날"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

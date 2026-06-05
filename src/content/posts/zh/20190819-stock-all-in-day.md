@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-19"
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-股市盈虚者如日月，而卒莫消长"
+heroImageAlt: "ZBZ-股市盈虚者如日月，而卒莫消长"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

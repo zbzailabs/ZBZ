@@ -15,7 +15,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-Après Apple, qui est le roi de l’électronique grand public\
+"heroImageAlt": "ZBZ-Après Apple, qui est le roi de l’électronique grand public\
   \ ?"
 heroImageWidth: 1960
 heroImageHeight: 1102

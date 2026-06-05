@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-12-10
 heroImage: "https://cos.zbz.ai/images/202309280820276.avif"
-heroImageAlt: "RealRip-暗号資産分野におけるいくつかの重要な概念"
+heroImageAlt: "ZBZ-暗号資産分野におけるいくつかの重要な概念"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

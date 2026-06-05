@@ -8,7 +8,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip-Entwicklungstrends der Landwirtschaft und ländlichen Gebiete in"
+heroImageAlt: "ZBZ-Entwicklungstrends der Landwirtschaft und ländlichen Gebiete in"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

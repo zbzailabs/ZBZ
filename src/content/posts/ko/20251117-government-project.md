@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-정부 프로젝트 입안부터 입찰 및 계약 체결까지의 전체 프로세스"
+heroImageAlt: "ZBZ-정부 프로젝트 입안부터 입찰 및 계약 체결까지의 전체 프로세스"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

@@ -8,7 +8,7 @@ pubDate: 2024-12-27
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512141.avif"
-heroImageAlt: "RealRip-Trois petites histoires dinvestissements qui nont pas franchi"
+heroImageAlt: "ZBZ-Trois petites histoires dinvestissements qui nont pas franchi"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

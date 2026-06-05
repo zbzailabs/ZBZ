@@ -8,7 +8,7 @@
   - "innovation"
 "pubDate": "2019-11-02"
 "heroImage": "https://cos.zbz.ai/images/202310181512035.avif"
-"heroImageAlt": "RealRip-نظام جوجل الإعلاني"
+"heroImageAlt": "ZBZ-نظام جوجل الإعلاني"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512118.avif"
-heroImageAlt: "RealRip-잘 있어, 반딧불이여. 잘 있어, 장신저우"
+heroImageAlt: "ZBZ-잘 있어, 반딧불이여. 잘 있어, 장신저우"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

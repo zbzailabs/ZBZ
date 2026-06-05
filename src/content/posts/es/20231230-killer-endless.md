@@ -8,7 +8,7 @@ pubDate: 2023-12-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202312301156100.avif"
-heroImageAlt: "RealRip- Asesinos de la Luna de las Flores y La Tercera Brigada"
+heroImageAlt: "ZBZ- Asesinos de la Luna de las Flores y La Tercera Brigada"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

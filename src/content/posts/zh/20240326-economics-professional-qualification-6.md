@@ -9,7 +9,7 @@ pubDate: 2024-03-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403280939756.avif"
-heroImageAlt: "RealRip-农业经济重要理论与应用"
+heroImageAlt: "ZBZ-农业经济重要理论与应用"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

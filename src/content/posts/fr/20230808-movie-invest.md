@@ -9,7 +9,7 @@ pubDate: 2024-09-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332739.avif"
-heroImageAlt: "RealRip-Expérience Cinématographique, Environnement d'Investissement et"
+heroImageAlt: "ZBZ-Expérience Cinématographique, Environnement d'Investissement et"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

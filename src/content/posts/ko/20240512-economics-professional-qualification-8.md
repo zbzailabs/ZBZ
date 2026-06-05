@@ -9,7 +9,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-천촌시범, 만촌정비 프로젝트 경험을 학습하고 유효하게 활용하여 농촌 전면적 진흥을 강력히 추진하다"
+heroImageAlt: "ZBZ-천촌시범, 만촌정비 프로젝트 경험을 학습하고 유효하게 활용하여 농촌 전면적 진흥을 강력히 추진하다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

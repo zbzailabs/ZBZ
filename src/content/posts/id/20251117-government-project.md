@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-Proses Lengkap Proyek Pemerintah dari Inisiasi hingga Tender dan Penandatanganan"
+heroImageAlt: "ZBZ-Proses Lengkap Proyek Pemerintah dari Inisiasi hingga Tender dan Penandatanganan"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

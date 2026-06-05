@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-28
 heroImage: "https://cos.zbz.ai/images/202310281635495.avif"
-heroImageAlt: "RealRip-Pesquisa de Serviços SaaS"
+heroImageAlt: "ZBZ-Pesquisa de Serviços SaaS"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

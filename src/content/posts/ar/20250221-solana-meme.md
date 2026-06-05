@@ -8,7 +8,7 @@ pubDate: "2025-02-21"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250221101356441.avif"
-heroImageAlt: "RealRip-مخاطر وعوائد تداول عملات الميم"
+heroImageAlt: "ZBZ-مخاطر وعوائد تداول عملات الميم"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

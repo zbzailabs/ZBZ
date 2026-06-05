@@ -8,7 +8,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip-Escrever cedo na mesa da escola não vai te fazer ter sucesso."
+heroImageAlt: "ZBZ-Escrever cedo na mesa da escola não vai te fazer ter sucesso."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-28
 heroImage: "https://cos.zbz.ai/images/202310281635495.avif"
-heroImageAlt: "RealRip-بحث خدمات البرمجيات كخدمة (SaaS)"
+heroImageAlt: "ZBZ-بحث خدمات البرمجيات كخدمة (SaaS)"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-04-20
 heroImage: "https://cos.zbz.ai/images/202310281713795.avif"
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

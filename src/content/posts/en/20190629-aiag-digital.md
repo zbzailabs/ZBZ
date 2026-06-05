@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-15
 heroImage: "https://cos.zbz.ai/images/202310121153884.avif"
-heroImageAlt: "RealRip-Artificial Intelligence and Digital Agriculture Innovation"
+heroImageAlt: "ZBZ-Artificial Intelligence and Digital Agriculture Innovation"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-12-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536602.avif"
-heroImageAlt: "RealRip-Entreprise de malette"
+heroImageAlt: "ZBZ-Entreprise de malette"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-28
 heroImage: "https://cos.zbz.ai/images/202310181512094.avif"
-heroImageAlt: "RealRip-그레이스 — 남을 고치느라 바빠, 자신은 고치지 않는다"
+heroImageAlt: "ZBZ-그레이스 — 남을 고치느라 바빠, 자신은 고치지 않는다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

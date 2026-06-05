@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512108.avif"
-heroImageAlt: "RealRip-和内在力量相比，身外之物微不足道"
+heroImageAlt: "ZBZ-和内在力量相比，身外之物微不足道"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

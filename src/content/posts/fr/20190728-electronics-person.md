@@ -8,7 +8,7 @@ pubDate: 2019-07-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512056.avif"
-heroImageAlt: "RealRip-Vivre l’innovation avec l’électricité"
+heroImageAlt: "ZBZ-Vivre l’innovation avec l’électricité"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

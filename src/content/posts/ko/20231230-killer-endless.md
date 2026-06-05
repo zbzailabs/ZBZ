@@ -8,7 +8,7 @@ pubDate: 2023-12-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202312301156100.avif"
-heroImageAlt: "RealRip-킬러 오브 더 플라워 문과 삼대대"
+heroImageAlt: "ZBZ-킬러 오브 더 플라워 문과 삼대대"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

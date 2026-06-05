@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-06-06
 heroImage: https://cos.realrip.com/images/202310181244283.avif
-heroImageAlt: "RealRip-"
+heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

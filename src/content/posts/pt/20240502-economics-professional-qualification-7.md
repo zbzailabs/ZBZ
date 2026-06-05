@@ -10,7 +10,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-Estudo e aplicação das experiências do projeto “Mil Aldeias Modelo,"
+heroImageAlt: "ZBZ-Estudo e aplicação das experiências do projeto “Mil Aldeias Modelo,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

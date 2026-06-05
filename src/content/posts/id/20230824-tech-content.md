@@ -8,7 +8,7 @@ pubDate: 2024-09-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512142.avif"
-heroImageAlt: "RealRip-Dari Teknologi ke Konten, Perjalanan Blogging Saya"
+heroImageAlt: "ZBZ-Dari Teknologi ke Konten, Perjalanan Blogging Saya"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

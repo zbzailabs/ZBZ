@@ -9,7 +9,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-なぜ農村振興戦略を実施するのか"
+heroImageAlt: "ZBZ-なぜ農村振興戦略を実施するのか"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

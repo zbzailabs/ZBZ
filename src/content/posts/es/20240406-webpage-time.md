@@ -9,7 +9,7 @@ pubDate: 2024-04-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404061153893.avif"
-heroImageAlt: "RealRip- Diseño Web de la vida Diaria Optimización del Tiempo con Pensamiento"
+heroImageAlt: "ZBZ- Diseño Web de la vida Diaria Optimización del Tiempo con Pensamiento"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

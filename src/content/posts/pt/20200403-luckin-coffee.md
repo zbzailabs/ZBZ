@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-04-03
 heroImage: https://cos.realrip.com/images/202310181512062.avif
-heroImageAlt: "RealRip-Olhe ao redor, se você não vê o vendedor, então você é o alvo."
+heroImageAlt: "ZBZ-Olhe ao redor, se você não vê o vendedor, então você é o alvo."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

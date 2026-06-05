@@ -8,7 +8,7 @@ pubDate: 2013-01-01
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402012256620.avif"
-heroImageAlt: "RealRip-Página de navegação"
+heroImageAlt: "ZBZ-Página de navegação"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

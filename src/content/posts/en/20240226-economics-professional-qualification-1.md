@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip- Development Trends of Agriculture and Rural Areas in the New"
+heroImageAlt: "ZBZ- Development Trends of Agriculture and Rural Areas in the New"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-Der älteste Onkel, der zweite Onkel und der Verlobte"
+heroImageAlt: "ZBZ-Der älteste Onkel, der zweite Onkel und der Verlobte"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

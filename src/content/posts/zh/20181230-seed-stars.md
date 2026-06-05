@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-29
 heroImage: "https://cos.zbz.ai/images/202310181512112.avif"
-heroImageAlt: "RealRip-在越南农业创业是什么感受"
+heroImageAlt: "ZBZ-在越南农业创业是什么感受"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

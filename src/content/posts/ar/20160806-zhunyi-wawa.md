@@ -8,7 +8,7 @@ pubDate: 2023-07-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536631.avif"
-heroImageAlt: "RealRip-تسونيي، تمزيق الشياطين وتمزيق دمى الحرير"
+heroImageAlt: "ZBZ-تسونيي، تمزيق الشياطين وتمزيق دمى الحرير"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

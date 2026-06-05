@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-Watched the 'Camel Guest' trilogy this week, mainly telling the confrontation between bows and arrows and fast guns. In individual combat, bows and arrows are the only cold weapons that can duel with guns. Even now, crossbows similar to bows are often used as offensive weapons."
+heroImageAlt: "ZBZ-Watched the 'Camel Guest' trilogy this week, mainly telling the confrontation between bows and arrows and fast guns. In individual combat, bows and arrows are the only cold weapons that can duel with guns. Even now, crossbows similar to bows are often used as offensive weapons."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

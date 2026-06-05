@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-Menonton trilogi 'Camel Guest' minggu ini, terutama menceritakan konfrontasi antara busur dan anak panah dan senjata cepat. Dalam pertempuran individu, busur dan anak panah adalah satu-satunya senjata dingin yang dapat berduel dengan senjata. Bahkan sekarang, busur silang yang mirip dengan busur sering digunakan sebagai senjata ofensif."
+heroImageAlt: "ZBZ-Menonton trilogi 'Camel Guest' minggu ini, terutama menceritakan konfrontasi antara busur dan anak panah dan senjata cepat. Dalam pertempuran individu, busur dan anak panah adalah satu-satunya senjata dingin yang dapat berduel dengan senjata. Bahkan sekarang, busur silang yang mirip dengan busur sering digunakan sebagai senjata ofensif."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

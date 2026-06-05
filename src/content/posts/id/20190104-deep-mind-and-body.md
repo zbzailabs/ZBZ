@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512108.avif"
-heroImageAlt: "RealRip-Dibandingkan kekuatan batin, hal eksternal sepele"
+heroImageAlt: "ZBZ-Dibandingkan kekuatan batin, hal eksternal sepele"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

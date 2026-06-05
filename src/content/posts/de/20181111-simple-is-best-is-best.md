@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-Die höchste Weisheit ist Einfachheit; alte Grundsätze wirken am besten"
+heroImageAlt: "ZBZ-Die höchste Weisheit ist Einfachheit; alte Grundsätze wirken am besten"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

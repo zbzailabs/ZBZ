@@ -8,7 +8,7 @@ pubDate: 2024-03-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403280939756.avif"
-heroImageAlt: "RealRip-Wichtige Theorien und Anwendungen in der Agrarökonomie"
+heroImageAlt: "ZBZ-Wichtige Theorien und Anwendungen in der Agrarökonomie"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

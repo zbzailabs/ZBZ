@@ -8,7 +8,7 @@ pubDate: 2024-11-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202411241329452.avif"
-heroImageAlt: "RealRip-近期一些问题与反思"
+heroImageAlt: "ZBZ-近期一些问题与反思"
 heroImageWidth: 2400
 heroImageHeight: 1350
 draft: false

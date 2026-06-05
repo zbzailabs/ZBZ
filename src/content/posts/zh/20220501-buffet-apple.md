@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-05-01
 heroImage: https://cos.realrip.com/images/202310181548972.avif
-heroImageAlt: "RealRip-巴菲特的苹果"
+heroImageAlt: "ZBZ-巴菲特的苹果"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

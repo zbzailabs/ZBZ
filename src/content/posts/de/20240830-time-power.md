@@ -8,7 +8,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip-Jetzt ist das Leben, jetzt ist die Lebendigkeit, jetzt ist die"
+heroImageAlt: "ZBZ-Jetzt ist das Leben, jetzt ist die Lebendigkeit, jetzt ist die"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

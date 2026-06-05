@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-Nanchang: donde el marqués de Haihun guardó silencio y Wang Bo derramó lágrimas"
+heroImageAlt: "ZBZ-Nanchang: donde el marqués de Haihun guardó silencio y Wang Bo derramó lágrimas"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

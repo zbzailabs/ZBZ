@@ -9,7 +9,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-千村デモンストレーション、万村整備プロジェクトの経験を学び、有効に活用して農村の全面的な振興を力強く推進する"
+heroImageAlt: "ZBZ-千村デモンストレーション、万村整備プロジェクトの経験を学び、有効に活用して農村の全面的な振興を力強く推進する"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

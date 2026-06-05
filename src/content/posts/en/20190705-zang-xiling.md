@@ -8,7 +8,7 @@ pubDate: 2019-07-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-Handling Artifacts at the Xiling Seal Art Society"
+heroImageAlt: "ZBZ-Handling Artifacts at the Xiling Seal Art Society"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

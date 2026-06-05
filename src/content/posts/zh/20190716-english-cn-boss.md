@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2019-07-16
 heroImage: "https://cos.zbz.ai/images/202310181512060.avif"
-heroImageAlt: "RealRip-大佬为什么要学习英语"
+heroImageAlt: "ZBZ-大佬为什么要学习英语"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

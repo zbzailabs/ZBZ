@@ -8,7 +8,7 @@ pubDate: 2024-09-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270954027.avif"
-heroImageAlt: "RealRip- Dry Goods and Memes are the Dual Roles of Information Dissemination"
+heroImageAlt: "ZBZ- Dry Goods and Memes are the Dual Roles of Information Dissemination"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

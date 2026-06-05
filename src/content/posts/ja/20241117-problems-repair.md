@@ -8,7 +8,7 @@ pubDate: "2024-11-24"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202411241329452.avif"
-heroImageAlt: "RealRip-最近のいくつかの問題と反省"
+heroImageAlt: "ZBZ-最近のいくつかの問題と反省"
 heroImageWidth: 2400
 heroImageHeight: 1350
 draft: false

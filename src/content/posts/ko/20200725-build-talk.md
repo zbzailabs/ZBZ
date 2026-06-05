@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2020-07-26
 heroImage: "https://cos.zbz.ai/images/202310181512026.avif"
-heroImageAlt: "RealRip-기업가 좌담회 연설"
+heroImageAlt: "ZBZ-기업가 좌담회 연설"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

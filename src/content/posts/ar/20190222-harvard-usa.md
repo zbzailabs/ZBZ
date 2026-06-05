@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512090.avif"
-heroImageAlt: "RealRip-نزهة عفوية في هارفرد ومعهد MIT"
+heroImageAlt: "ZBZ-نزهة عفوية في هارفرد ومعهد MIT"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

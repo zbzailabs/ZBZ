@@ -8,7 +8,7 @@ pubDate: 2023-09-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536628.avif"
-heroImageAlt: "RealRip-Train to Busan, Fund Exam and the Departure of Big Shots"
+heroImageAlt: "ZBZ-Train to Busan, Fund Exam and the Departure of Big Shots"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-28
 heroImage: "https://cos.zbz.ai/images/202310281635495.avif"
-heroImageAlt: "RealRip-Penelitian Layanan SaaS"
+heroImageAlt: "ZBZ-Penelitian Layanan SaaS"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

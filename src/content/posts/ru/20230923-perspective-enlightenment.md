@@ -10,7 +10,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-Получение Новых Озарений через Изменение Угла Взгляда"
+heroImageAlt: "ZBZ-Получение Новых Озарений через Изменение Угла Взгляда"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

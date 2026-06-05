@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-L'oncle aîné, le deuxième oncle et le fiancé"
+heroImageAlt: "ZBZ-L'oncle aîné, le deuxième oncle et le fiancé"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

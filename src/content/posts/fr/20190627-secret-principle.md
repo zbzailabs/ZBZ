@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-19
 heroImage: "https://cos.zbz.ai/images/202310181512063.avif"
-heroImageAlt: "RealRip-Un principe de confidentialité pondéré par l'intérêt"
+heroImageAlt: "ZBZ-Un principe de confidentialité pondéré par l'intérêt"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

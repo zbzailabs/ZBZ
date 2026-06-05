@@ -9,7 +9,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip-机に「早」という字を刻んでも、成功にはつながらない。"
+heroImageAlt: "ZBZ-机に「早」という字を刻んでも、成功にはつながらない。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

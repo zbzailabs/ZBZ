@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-12-27
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-취한 척하는 사람은 깨울 수 없다"
+heroImageAlt: "ZBZ-취한 척하는 사람은 깨울 수 없다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

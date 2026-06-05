@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181512110.avif"
-heroImageAlt: "RealRip-En agtech, mantener las botas en el campo"
+heroImageAlt: "ZBZ-En agtech, mantener las botas en el campo"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

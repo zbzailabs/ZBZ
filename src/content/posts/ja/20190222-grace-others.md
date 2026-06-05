@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-28
 heroImage: "https://cos.zbz.ai/images/202310181512094.avif"
-heroImageAlt: "RealRip-グレース――他人を変えることに忙しく、自分は変えない"
+heroImageAlt: "ZBZ-グレース――他人を変えることに忙しく、自分は変えない"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

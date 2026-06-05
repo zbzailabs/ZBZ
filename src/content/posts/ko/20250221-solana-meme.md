@@ -8,7 +8,7 @@ pubDate: "2025-02-21"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250221101356441.avif"
-heroImageAlt: "RealRip-밈 코인 거래 위험과 수익"
+heroImageAlt: "ZBZ-밈 코인 거래 위험과 수익"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

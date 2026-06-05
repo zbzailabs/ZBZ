@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: "2019-12-03"
 heroImage: "https://cos.zbz.ai/images/202310181512018.avif"
-heroImageAlt: "RealRip-不是所有网红都能带货"
+heroImageAlt: "ZBZ-不是所有网红都能带货"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

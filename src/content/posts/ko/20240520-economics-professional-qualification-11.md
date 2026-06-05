@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290734486.avif"
-heroImageAlt: "RealRip-농업 및 농촌 관련 주요 법률과 실무"
+heroImageAlt: "ZBZ-농업 및 농촌 관련 주요 법률과 실무"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

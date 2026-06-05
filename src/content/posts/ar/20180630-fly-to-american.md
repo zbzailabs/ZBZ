@@ -9,7 +9,7 @@ pubDate: 2025-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip-رحلة صيفية إلى الولايات المتحدة"
+heroImageAlt: "ZBZ-رحلة صيفية إلى الولايات المتحدة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

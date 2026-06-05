@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-В поисках внутреннего двигателя, удерживающего США в статусе сверхдержавы"
+heroImageAlt: "ZBZ-В поисках внутреннего двигателя, удерживающего США в статусе сверхдержавы"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -10,7 +10,7 @@ pubDate: 2024-08-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310172205812.avif"
-heroImageAlt: "RealRip-今是生活，今是活力，今是实践，今是创作"
+heroImageAlt: "ZBZ-今是生活，今是活力，今是实践，今是创作"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

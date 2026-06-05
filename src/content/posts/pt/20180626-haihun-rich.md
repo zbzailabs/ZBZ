@@ -7,7 +7,7 @@ tags:
   - "roam"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909225005370.avif"
-heroImageAlt: "RealRip-Obrigado por guardarem minha riqueza"
+heroImageAlt: "ZBZ-Obrigado por guardarem minha riqueza"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

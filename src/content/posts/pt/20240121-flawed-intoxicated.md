@@ -9,7 +9,7 @@ pubDate: 2024-08-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202401211016094.avif"
-heroImageAlt: "RealRip-Cicatrizes do passado, embriaguez do presente"
+heroImageAlt: "ZBZ-Cicatrizes do passado, embriaguez do presente"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

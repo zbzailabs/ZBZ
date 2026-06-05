@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2019-07-05
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-我在西泠印社摸文物"
+heroImageAlt: "ZBZ-我在西泠印社摸文物"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

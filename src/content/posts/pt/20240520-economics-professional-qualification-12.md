@@ -10,7 +10,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290924281.avif"
-heroImageAlt: "RealRip-As múltiplas funções da agricultura e os valores diversos do meio"
+heroImageAlt: "ZBZ-As múltiplas funções da agricultura e os valores diversos do meio"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

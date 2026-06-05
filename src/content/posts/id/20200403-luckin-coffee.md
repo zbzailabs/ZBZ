@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-04-03
 heroImage: https://cos.realrip.com/images/202310181512062.avif
-heroImageAlt: "RealRip-Lihat sekeliling, jika Anda tidak melihat penjualnya, maka Andalah orangnya."
+heroImageAlt: "ZBZ-Lihat sekeliling, jika Anda tidak melihat penjualnya, maka Andalah orangnya."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

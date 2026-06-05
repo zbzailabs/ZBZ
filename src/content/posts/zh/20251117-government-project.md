@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-政府项目立项到招标签约全流程"
+heroImageAlt: "ZBZ-政府项目立项到招标签约全流程"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

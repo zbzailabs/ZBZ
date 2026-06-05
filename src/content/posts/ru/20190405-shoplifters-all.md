@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-Неважно, если вы не видите фейерверк, важно то, с кем вы его смотрите"
+heroImageAlt: "ZBZ-Неважно, если вы не видите фейерверк, важно то, с кем вы его смотрите"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

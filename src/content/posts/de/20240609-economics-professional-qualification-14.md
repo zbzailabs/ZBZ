@@ -10,7 +10,7 @@ pubDate: 2024-06-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202406091102137.avif"
-heroImageAlt: "RealRip-Beschleunigung der Modernisierung der Landwirtschaft und ländlicher"
+heroImageAlt: "ZBZ-Beschleunigung der Modernisierung der Landwirtschaft und ländlicher"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

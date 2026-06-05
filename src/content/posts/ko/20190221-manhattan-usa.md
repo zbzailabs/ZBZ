@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-21
 heroImage: "https://cos.zbz.ai/images/202310181512096.avif"
-heroImageAlt: "RealRip-뉴욕 맨해튼 인상기"
+heroImageAlt: "ZBZ-뉴욕 맨해튼 인상기"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

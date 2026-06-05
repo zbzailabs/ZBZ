@@ -8,7 +8,7 @@ pubDate: "2025-02-21"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250221101356441.avif"
-heroImageAlt: "RealRip-Risiken und Renditen des Meme-Coin-Handels"
+heroImageAlt: "ZBZ-Risiken und Renditen des Meme-Coin-Handels"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

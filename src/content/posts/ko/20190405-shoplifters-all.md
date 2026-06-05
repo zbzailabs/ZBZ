@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-불꽃놀이가 보이지 않아도 상관없어, 중요한 건 누구와 함께 보느냐야"
+heroImageAlt: "ZBZ-불꽃놀이가 보이지 않아도 상관없어, 중요한 건 누구와 함께 보느냐야"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

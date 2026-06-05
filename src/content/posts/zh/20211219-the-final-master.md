@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: https://cos.realrip.com/images/202309131332749.avif
-heroImageAlt: "RealRip-徐皓峰先创作小说《师傅》，后又拍成电影，试图通过《师傅》还原真实的民国江湖。"
+heroImageAlt: "ZBZ-徐皓峰先创作小说《师傅》，后又拍成电影，试图通过《师傅》还原真实的民国江湖。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

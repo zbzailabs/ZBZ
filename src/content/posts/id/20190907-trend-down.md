@@ -12,7 +12,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-Pahami sinyal tren menurun dan segera ambil keuntungan"
+"heroImageAlt": "ZBZ-Pahami sinyal tren menurun dan segera ambil keuntungan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

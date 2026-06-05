@@ -8,7 +8,7 @@ pubDate: 2024-04-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404061153893.avif"
-heroImageAlt: "RealRip-Der Alltag als Webseiten-Design, Zeitnutzung durch modulares Denken"
+heroImageAlt: "ZBZ-Der Alltag als Webseiten-Design, Zeitnutzung durch modulares Denken"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

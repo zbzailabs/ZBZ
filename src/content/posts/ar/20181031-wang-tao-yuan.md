@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-31
 heroImage: "https://cos.zbz.ai/images/202310181536593.avif"
-heroImageAlt: "RealRip-حاضر وانغ تاويان هو مستقبل الريف الصيني"
+heroImageAlt: "ZBZ-حاضر وانغ تاويان هو مستقبل الريف الصيني"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

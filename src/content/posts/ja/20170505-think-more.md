@@ -8,7 +8,7 @@ pubDate: 2024-12-23
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536625.avif"
-heroImageAlt: "RealRip-もっと考え、動きを少なくし、見ながら学ぶ"
+heroImageAlt: "ZBZ-もっと考え、動きを少なくし、見ながら学ぶ"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

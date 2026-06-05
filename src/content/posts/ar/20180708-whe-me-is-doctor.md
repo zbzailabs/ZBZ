@@ -9,7 +9,7 @@ pubDate: 2024-07-08
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512125.avif"
-heroImageAlt: "RealRip-كيف أصبحت إله الدواء"
+heroImageAlt: "ZBZ-كيف أصبحت إله الدواء"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

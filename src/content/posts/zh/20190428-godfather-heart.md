@@ -5,7 +5,7 @@ category: "life"
 
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip-细数《教父》人物所犯人类误判心理"
+heroImageAlt: "ZBZ-细数《教父》人物所犯人类误判心理"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

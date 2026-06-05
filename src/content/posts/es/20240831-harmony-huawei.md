@@ -9,7 +9,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280735641.avif"
-heroImageAlt: "RealRip- HarmonyOS aún está lejos de ser una herramienta de productividad"
+heroImageAlt: "ZBZ- HarmonyOS aún está lejos de ser una herramienta de productividad"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

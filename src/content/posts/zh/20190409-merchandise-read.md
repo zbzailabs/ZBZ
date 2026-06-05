@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-010-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip-不红不买，不绿不卖"
+heroImageAlt: "ZBZ-不红不买，不绿不卖"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

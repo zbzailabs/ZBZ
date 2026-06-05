@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2023-01-10
 heroImage: "https://cos.zbz.ai/images/202310031546136.avif"
-heroImageAlt: "RealRip-De la participación a la confianza"
+heroImageAlt: "ZBZ-De la participación a la confianza"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

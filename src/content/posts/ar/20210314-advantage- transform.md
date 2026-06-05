@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-على الرغم من أن شكلنا هو شركة، إلا أن موقفنا هو الشراكة"
+heroImageAlt: "ZBZ-على الرغم من أن شكلنا هو شركة، إلا أن موقفنا هو الشراكة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

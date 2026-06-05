@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2018-11-10
 heroImage: "https://cos.zbz.ai/images/202310181536592.avif"
-heroImageAlt: "RealRip-Perspektif global: bertaruh pada Tiongkok"
+heroImageAlt: "ZBZ-Perspektif global: bertaruh pada Tiongkok"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

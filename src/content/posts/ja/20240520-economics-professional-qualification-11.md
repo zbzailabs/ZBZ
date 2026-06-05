@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290734486.avif"
-heroImageAlt: "RealRip-農業と農村に関する重要な法律と実務"
+heroImageAlt: "ZBZ-農業と農村に関する重要な法律と実務"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

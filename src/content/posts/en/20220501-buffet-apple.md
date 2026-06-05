@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-05-01
 heroImage: "https://cos.zbz.ai/images/202310181548972.avif"
-heroImageAlt: "RealRip-Buffett's Apple"
+heroImageAlt: "ZBZ-Buffett's Apple"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

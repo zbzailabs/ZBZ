@@ -8,7 +8,7 @@ pubDate: 2019-07-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-لمستُ القطع الأثرية في جمعية شيلينغ لحفر الأختام"
+heroImageAlt: "ZBZ-لمستُ القطع الأثرية في جمعية شيلينغ لحفر الأختام"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

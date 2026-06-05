@@ -10,7 +10,7 @@ pubDate: 2023-07-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332740.avif"
-heroImageAlt: "RealRip-Dead Reckoning"
+heroImageAlt: "ZBZ-Dead Reckoning"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

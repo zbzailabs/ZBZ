@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: "2019-12-05"
 heroImage: "https://cos.zbz.ai/images/202310181512028.avif"
-heroImageAlt: "RealRip-全国人民不答应"
+heroImageAlt: "ZBZ-全国人民不答应"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

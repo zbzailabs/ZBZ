@@ -10,7 +10,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-Belajar dan Menggunakan Pengalaman Proyek Ribuan Desa Percontohan,"
+heroImageAlt: "ZBZ-Belajar dan Menggunakan Pengalaman Proyek Ribuan Desa Percontohan,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

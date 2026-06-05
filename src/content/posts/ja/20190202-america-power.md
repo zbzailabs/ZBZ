@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-米国が超大国であり続ける内的エンジンを探る"
+heroImageAlt: "ZBZ-米国が超大国であり続ける内的エンジンを探る"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

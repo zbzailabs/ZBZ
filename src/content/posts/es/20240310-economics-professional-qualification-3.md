@@ -9,7 +9,7 @@ pubDate: 2024-03-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403141027739.avif"
-heroImageAlt: "RealRip- Lograr una conexión efectiva entre la consolidación de los logros"
+heroImageAlt: "ZBZ- Lograr una conexión efectiva entre la consolidación de los logros"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

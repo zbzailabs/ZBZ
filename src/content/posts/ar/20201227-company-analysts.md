@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-لا ضرر بدون مقارنة، وباء ثقب كل نمور الورق في الغرب، وحرب تجارية جعلت الناس يرون قسوة المنافسة بين الدول"
+heroImageAlt: "ZBZ-لا ضرر بدون مقارنة، وباء ثقب كل نمور الورق في الغرب، وحرب تجارية جعلت الناس يرون قسوة المنافسة بين الدول"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

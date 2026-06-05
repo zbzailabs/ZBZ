@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2018-11-10
 heroImage: "https://cos.zbz.ai/images/202310181536592.avif"
-heroImageAlt: "RealRip-Perspectiva global: apostar na China"
+heroImageAlt: "ZBZ-Perspectiva global: apostar na China"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

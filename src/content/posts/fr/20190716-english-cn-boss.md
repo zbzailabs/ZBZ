@@ -8,7 +8,7 @@ pubDate: 2019-07-16
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512060.avif"
-heroImageAlt: "RealRip-Pourquoi les grands patrons s’obstinent à apprendre l’anglais"
+heroImageAlt: "ZBZ-Pourquoi les grands patrons s’obstinent à apprendre l’anglais"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280735641.avif"
-heroImageAlt: "RealRip-鸿蒙の生産性にはまだ遠い"
+heroImageAlt: "ZBZ-鸿蒙の生産性にはまだ遠い"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

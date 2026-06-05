@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-Es macht nichts, wenn man das Feuerwerk nicht sehen kann, wichtig ist, mit wem man es sieht"
+heroImageAlt: "ZBZ-Es macht nichts, wenn man das Feuerwerk nicht sehen kann, wichtig ist, mit wem man es sieht"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

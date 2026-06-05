@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-Kein Schaden ohne Vergleich, eine Epidemie durchstach alle Papiertiger des Westens, ein Handelskrieg ließ die Menschen die Grausamkeit des Wettbewerbs zwischen Ländern erkennen"
+heroImageAlt: "ZBZ-Kein Schaden ohne Vergleich, eine Epidemie durchstach alle Papiertiger des Westens, ein Handelskrieg ließ die Menschen die Grausamkeit des Wettbewerbs zwischen Ländern erkennen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

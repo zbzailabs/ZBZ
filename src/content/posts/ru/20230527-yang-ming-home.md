@@ -8,7 +8,7 @@ pubDate: "2024-11-24"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820271.avif"
-heroImageAlt: "RealRip-Бывшая резиденция Янмина"
+heroImageAlt: "ZBZ-Бывшая резиденция Янмина"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

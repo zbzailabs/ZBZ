@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-12-10
 heroImage: "https://cos.zbz.ai/images/202309280820276.avif"
-heroImageAlt: "RealRip-Varios conceptos importantes en el campo de las criptomonedas"
+heroImageAlt: "ZBZ-Varios conceptos importantes en el campo de las criptomonedas"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2025-03-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309280820281.avif"
-heroImageAlt: "RealRip-The Path of Simplicity: A Life Philosophy for Exploring the Essence"
+heroImageAlt: "ZBZ-The Path of Simplicity: A Life Philosophy for Exploring the Essence"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-果蔬保鲜剂行业与市场"
+heroImageAlt: "ZBZ-果蔬保鲜剂行业与市场"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

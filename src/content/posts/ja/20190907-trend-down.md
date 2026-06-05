@@ -6,7 +6,7 @@
   - "innovation"
 "pubDate": "2019-09-07"
 "heroImage": "https://cos.zbz.ai/images/202310181512043.avif"
-"heroImageAlt": "RealRip-下降トレンドのシグナルを捉えて速やかに利益確定"
+"heroImageAlt": "ZBZ-下降トレンドのシグナルを捉えて速やかに利益確定"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

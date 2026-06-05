@@ -9,7 +9,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip-Strategi Keamanan Pangan bertujuan meningkatkan kapasitas produksi,"
+heroImageAlt: "ZBZ-Strategi Keamanan Pangan bertujuan meningkatkan kapasitas produksi,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

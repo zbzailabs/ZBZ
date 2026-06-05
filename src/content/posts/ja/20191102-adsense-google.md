@@ -6,7 +6,7 @@
   - "innovation"
 "pubDate": "2019-11-02"
 "heroImage": "https://cos.zbz.ai/images/202310181512035.avif"
-"heroImageAlt": "RealRip-Google 広告エコシステム"
+"heroImageAlt": "ZBZ-Google 広告エコシステム"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

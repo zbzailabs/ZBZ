@@ -8,7 +8,7 @@ pubDate: 2024-12-27
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512141.avif"
-heroImageAlt: "RealRip-三则投资不过山海关的小故事"
+heroImageAlt: "ZBZ-三则投资不过山海关的小故事"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

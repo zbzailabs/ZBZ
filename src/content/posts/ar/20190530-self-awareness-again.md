@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512068.avif"
-heroImageAlt: "RealRip-自我觉察"
+heroImageAlt: "ZBZ-自我觉察"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

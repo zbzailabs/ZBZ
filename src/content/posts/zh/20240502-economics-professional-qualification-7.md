@@ -9,7 +9,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip-学习运用“千村示范、万村整治”工程经验有力有效推进乡村全面振兴"
+heroImageAlt: "ZBZ-学习运用“千村示范、万村整治”工程经验有力有效推进乡村全面振兴"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

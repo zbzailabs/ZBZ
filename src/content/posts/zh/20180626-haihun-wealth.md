@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-海昏侯积累财富的秘诀"
+heroImageAlt: "ZBZ-海昏侯积累财富的秘诀"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

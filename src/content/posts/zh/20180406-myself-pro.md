@@ -8,7 +8,7 @@ pubDate: 2025-04-07
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332732.avif"
-heroImageAlt: "RealRip-爆裂无声"
+heroImageAlt: "ZBZ-爆裂无声"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

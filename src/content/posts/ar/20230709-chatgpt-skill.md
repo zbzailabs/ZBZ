@@ -8,7 +8,7 @@ pubDate: 2023-07-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310031546137.avif"
-heroImageAlt: "RealRip-ChatGPT 使用技巧"
+heroImageAlt: "ZBZ-ChatGPT 使用技巧"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

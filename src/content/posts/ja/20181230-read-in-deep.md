@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536584.avif"
-heroImageAlt: "RealRip-私たちはまだ深く読めるだろうか"
+heroImageAlt: "ZBZ-私たちはまだ深く読めるだろうか"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

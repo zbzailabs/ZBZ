@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip-国民経済における農業の位置と発展段階"
+heroImageAlt: "ZBZ-国民経済における農業の位置と発展段階"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512155.avif"
-heroImageAlt: "RealRip-농업기술 스타트업, 감귤류 황룡병 방제에 희망을 가져오다"
+heroImageAlt: "ZBZ-농업기술 스타트업, 감귤류 황룡병 방제에 희망을 가져오다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

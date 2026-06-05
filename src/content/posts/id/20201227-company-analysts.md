@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-Tidak ada salahnya tanpa perbandingan, epidemi menusuk semua harimau kertas Barat, perang dagang membuat orang melihat kekejaman persaingan antar negara"
+heroImageAlt: "ZBZ-Tidak ada salahnya tanpa perbandingan, epidemi menusuk semua harimau kertas Barat, perang dagang membuat orang melihat kekejaman persaingan antar negara"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

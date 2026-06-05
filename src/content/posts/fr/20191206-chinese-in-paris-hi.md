@@ -9,7 +9,7 @@
   - "media"
 "pubDate": "2019-12-06"
 "heroImage": "https://cos.zbz.ai/images/202309131332744.avif"
-"heroImageAlt": "RealRip-L'Armée populaire de libération à Paris"
+"heroImageAlt": "ZBZ-L'Armée populaire de libération à Paris"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

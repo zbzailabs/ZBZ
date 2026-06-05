@@ -9,7 +9,7 @@ pubDate: 2024-09-11
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20241213102812622.avif"
-heroImageAlt: "RealRip-使用 Obsidian 作为 CMS"
+heroImageAlt: "ZBZ-使用 Obsidian 作为 CMS"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

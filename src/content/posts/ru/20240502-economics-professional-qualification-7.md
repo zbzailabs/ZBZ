@@ -8,7 +8,7 @@ pubDate: 2024-05-02
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643936.avif"
-heroImageAlt: "RealRip- Эффективное Продвижение Всеобъемлющего Возрождения Села, Опираясь"
+heroImageAlt: "ZBZ- Эффективное Продвижение Всеобъемлющего Возрождения Села, Опираясь"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

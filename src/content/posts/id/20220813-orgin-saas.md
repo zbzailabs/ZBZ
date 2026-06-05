@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-Kemampuan Manusia untuk Mencari Keuntungan dan Menghindari Kerugian Tertulis dalam Gen"
+heroImageAlt: "ZBZ-Kemampuan Manusia untuk Mencari Keuntungan dan Menghindari Kerugian Tertulis dalam Gen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

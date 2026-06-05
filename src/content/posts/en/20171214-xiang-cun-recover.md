@@ -9,7 +9,7 @@ pubDate: 2024-12-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512140.avif"
-heroImageAlt: "RealRip-Why Implement the Rural Revitalization Strategy"
+heroImageAlt: "ZBZ-Why Implement the Rural Revitalization Strategy"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

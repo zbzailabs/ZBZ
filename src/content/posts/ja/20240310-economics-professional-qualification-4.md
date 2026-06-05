@@ -9,7 +9,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip-食料安全戦略は、生産能力を向上させ、バランスを促進し、安全を確保し、数量、効率、品質を追求するものです。"
+heroImageAlt: "ZBZ-食料安全戦略は、生産能力を向上させ、バランスを促進し、安全を確保し、数量、効率、品質を追求するものです。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

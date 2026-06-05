@@ -9,7 +9,7 @@ pubDate: 2024-03-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403260950500.avif"
-heroImageAlt: "RealRip- El Papel y las Etapas de Desarrollo de la Agricultura en la Economía"
+heroImageAlt: "ZBZ- El Papel y las Etapas de Desarrollo de la Agricultura en la Economía"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

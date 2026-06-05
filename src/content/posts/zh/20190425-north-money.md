@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-04-25
 heroImage: "https://cos.zbz.ai/images/202310181512078.avif"
-heroImageAlt: "RealRip-不要盲目崇拜北上资金"
+heroImageAlt: "ZBZ-不要盲目崇拜北上资金"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

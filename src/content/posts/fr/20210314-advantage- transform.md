@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-Bien que notre forme soit corporative, notre attitude est partenariale"
+heroImageAlt: "ZBZ-Bien que notre forme soit corporative, notre attitude est partenariale"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

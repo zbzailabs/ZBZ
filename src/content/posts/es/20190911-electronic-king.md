@@ -14,7 +14,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-Después de Apple, ¿quién es el rey de la electrónica de consumo?"
+"heroImageAlt": "ZBZ-Después de Apple, ¿quién es el rey de la electrónica de consumo?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

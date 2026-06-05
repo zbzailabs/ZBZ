@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-No harm without comparison, an epidemic punctured all the paper tigers of the West, a trade war made people see the cruelty of competition between countries"
+heroImageAlt: "ZBZ-No harm without comparison, an epidemic punctured all the paper tigers of the West, a trade war made people see the cruelty of competition between countries"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

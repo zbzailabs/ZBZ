@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-Экономическая и торговая модель под влиянием эффекта инволюции"
+heroImageAlt: "ZBZ-Экономическая и торговая модель под влиянием эффекта инволюции"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-09-04"
 heroImage: "https://cos.zbz.ai/images/202310181512044.avif"
-heroImageAlt: "RealRip-TED처럼 말하라"
+heroImageAlt: "ZBZ-TED처럼 말하라"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

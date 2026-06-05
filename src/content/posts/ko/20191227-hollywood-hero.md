@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-11-21
 heroImage: "https://cos.zbz.ai/images/202309131332736.avif"
-heroImageAlt: "RealRip-할리우드의 메인 멜로디"
+heroImageAlt: "ZBZ-할리우드의 메인 멜로디"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

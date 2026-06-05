@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-06-28
 heroImage: https://cos.realrip.com/images/202310181512026.avif
-heroImageAlt: "RealRip-诚不自欺"
+heroImageAlt: "ZBZ-诚不自欺"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

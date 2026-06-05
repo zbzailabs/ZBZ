@@ -9,7 +9,7 @@ pubDate: 2024-09-11
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512158.avif"
-heroImageAlt: "RealRip-الإنترنت والزراعة الحديثة"
+heroImageAlt: "ZBZ-الإنترنت والزراعة الحديثة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

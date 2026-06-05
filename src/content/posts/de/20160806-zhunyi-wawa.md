@@ -8,7 +8,7 @@ pubDate: 2023-07-06
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536631.avif"
-heroImageAlt: "RealRip-Zunyi, Teufel zerreißen und Seidenpuppen zerreißen"
+heroImageAlt: "ZBZ-Zunyi, Teufel zerreißen und Seidenpuppen zerreißen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

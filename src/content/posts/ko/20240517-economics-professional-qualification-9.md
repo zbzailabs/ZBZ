@@ -9,7 +9,7 @@ pubDate: 2024-05-17
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405170942378.avif"
-heroImageAlt: "RealRip-농산물 시장과 농산물 산업 이론 및 실무"
+heroImageAlt: "ZBZ-농산물 시장과 농산물 산업 이론 및 실무"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

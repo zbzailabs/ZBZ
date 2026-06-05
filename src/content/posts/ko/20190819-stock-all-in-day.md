@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-19"
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-주식 시장의 영고성쇠"
+heroImageAlt: "ZBZ-주식 시장의 영고성쇠"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

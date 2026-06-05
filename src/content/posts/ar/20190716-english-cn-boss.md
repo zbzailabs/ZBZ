@@ -8,7 +8,7 @@ pubDate: 2019-07-16
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512060.avif"
-heroImageAlt: "RealRip-لماذا يصر الكبار على تعلّم الإنجليزية"
+heroImageAlt: "ZBZ-لماذا يصر الكبار على تعلّم الإنجليزية"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -11,7 +11,7 @@
   - "strategy"
 "pubDate": "2019-09-11"
 "heroImage": "https://cos.zbz.ai/images/202310181512036.avif"
-"heroImageAlt": "RealRip-애플 다음으로 가전왕은 누구인가?"
+"heroImageAlt": "ZBZ-애플 다음으로 가전왕은 누구인가?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

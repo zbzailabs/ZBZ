@@ -10,7 +10,7 @@ pubDate: 2024-05-18
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405131643941.avif"
-heroImageAlt: "RealRip-Prática e Teoria do Mercado e Indústria de Produtos Agrícolas"
+heroImageAlt: "ZBZ-Prática e Teoria do Mercado e Indústria de Produtos Agrícolas"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181536584.avif"
-heroImageAlt: "RealRip-우리는 여전히 깊이 읽을 수 있을까"
+heroImageAlt: "ZBZ-우리는 여전히 깊이 읽을 수 있을까"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

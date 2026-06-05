@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-31
 heroImage: "https://cos.zbz.ai/images/202310181536593.avif"
-heroImageAlt: "RealRip-El hoy de Wang Taoyuan es el mañana del campo chino"
+heroImageAlt: "ZBZ-El hoy de Wang Taoyuan es el mañana del campo chino"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

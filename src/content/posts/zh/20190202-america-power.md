@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-寻找美国作为超级大国持续发展的内在动力"
+heroImageAlt: "ZBZ-寻找美国作为超级大国持续发展的内在动力"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@
   - "media"
 "pubDate": "2019-12-06"
 "heroImage": "https://cos.zbz.ai/images/202309131332744.avif"
-"heroImageAlt": "RealRip-パリの人民解放軍"
+"heroImageAlt": "ZBZ-パリの人民解放軍"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

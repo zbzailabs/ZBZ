@@ -8,7 +8,7 @@ pubDate: 2023-09-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536628.avif"
-heroImageAlt: "RealRip-Dernier train pour Busan, examen de fonds et départ des grands noms"
+heroImageAlt: "ZBZ-Dernier train pour Busan, examen de fonds et départ des grands noms"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

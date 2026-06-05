@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290924281.avif"
-heroImageAlt: "RealRip-农业多种功能和农村多元价值"
+heroImageAlt: "ZBZ-农业多种功能和农村多元价值"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

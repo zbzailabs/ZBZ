@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2021-11-17
 heroImage: "https://cos.zbz.ai/images/202310181512145.avif"
-heroImageAlt: "RealRip-Gatsby용 Waline 댓글 구성 요소 설치"
+heroImageAlt: "ZBZ-Gatsby용 Waline 댓글 구성 요소 설치"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

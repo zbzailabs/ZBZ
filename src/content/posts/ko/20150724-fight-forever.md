@@ -8,7 +8,7 @@ pubDate: 2015-07-24
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548981.avif"
-heroImageAlt: "RealRip-한때 떠벌렸던 허풍을 위해 노력하다"
+heroImageAlt: "ZBZ-한때 떠벌렸던 허풍을 위해 노력하다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

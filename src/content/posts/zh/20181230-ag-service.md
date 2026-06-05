@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-30
 heroImage: "https://cos.zbz.ai/images/202310181512110.avif"
-heroImageAlt: "RealRip-做农业科技要脚踏实地"
+heroImageAlt: "ZBZ-做农业科技要脚踏实地"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

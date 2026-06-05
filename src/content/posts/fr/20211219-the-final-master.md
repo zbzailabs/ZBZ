@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: "RealRip-Xu Haofeng a d'abord écrit le roman « Le Maître » et en a ensuite fait un film, essayant de restaurer le monde réel de la République de Chine à travers « Le Maître »."
+heroImageAlt: "ZBZ-Xu Haofeng a d'abord écrit le roman « Le Maître » et en a ensuite fait un film, essayant de restaurer le monde réel de la République de Chine à travers « Le Maître »."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

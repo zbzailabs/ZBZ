@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2020-03-24
 heroImage: https://cos.realrip.com/images/202310181512066.avif
-heroImageAlt: "RealRip-泉水从洞中石板下流出，溪两旁的樱花飘落水中，好一幅落花流水春去也"
+heroImageAlt: "ZBZ-泉水从洞中石板下流出，溪两旁的樱花飘落水中，好一幅落花流水春去也"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

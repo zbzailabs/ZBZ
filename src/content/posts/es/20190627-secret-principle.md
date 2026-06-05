@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-19
 heroImage: "https://cos.zbz.ai/images/202310181512063.avif"
-heroImageAlt: "RealRip-Un principio de confidencialidad ponderado"
+heroImageAlt: "ZBZ-Un principio de confidencialidad ponderado"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -9,7 +9,7 @@ pubDate: 2024-09-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332739.avif"
-heroImageAlt: "RealRip-Киноопыт, инвестиционная среда и проблема телефонного мошенничества"
+heroImageAlt: "ZBZ-Киноопыт, инвестиционная среда и проблема телефонного мошенничества"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

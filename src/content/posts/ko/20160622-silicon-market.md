@@ -8,7 +8,7 @@ pubDate: 2024-11-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548966.avif"
-heroImageAlt: "RealRip-규소 비료 산업 및 시장"
+heroImageAlt: "ZBZ-규소 비료 산업 및 시장"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

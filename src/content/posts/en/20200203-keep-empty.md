@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2020-02-03
 heroImage: "https://cos.zbz.ai/images/202310181512019.avif"
-heroImageAlt: "RealRip-Until COVID Ends, Protect Principal—Don’t Blindly Add Positions"
+heroImageAlt: "ZBZ-Until COVID Ends, Protect Principal—Don’t Blindly Add Positions"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

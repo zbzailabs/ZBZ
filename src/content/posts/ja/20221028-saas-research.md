@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-28
 heroImage: "https://cos.zbz.ai/images/202310281635495.avif"
-heroImageAlt: "RealRip-SaaSサービス研究"
+heroImageAlt: "ZBZ-SaaSサービス研究"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

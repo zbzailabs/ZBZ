@@ -7,7 +7,7 @@ tags:
   - "strategy"
 pubDate: 2025-11-17
 heroImage: "https://cos.zbz.ai/images/20251117161900115.avif"
-heroImageAlt: "RealRip-Полный процесс государственных проектов от инициации до тендера и подписания контракта"
+heroImageAlt: "ZBZ-Полный процесс государственных проектов от инициации до тендера и подписания контракта"
 heroImageWidth: 2400
 heroImageHeight: 1526
 authors:

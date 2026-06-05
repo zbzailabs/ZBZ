@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2020-01-04
 heroImage: "https://cos.zbz.ai/images/202310181512055.avif"
-heroImageAlt: "RealRip-Di awal pasar bull besar"
+heroImageAlt: "ZBZ-Di awal pasar bull besar"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

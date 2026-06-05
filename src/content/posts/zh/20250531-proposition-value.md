@@ -9,7 +9,7 @@ pubDate: 2025-05-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512132.avif"
-heroImageAlt: "RealRip-决定人们是否愿意了解你的产品或者按后退按钮的是价值主张。你需要反复测试它-如果价值主张正确，业务将获得巨大的提升。"
+heroImageAlt: "ZBZ-决定人们是否愿意了解你的产品或者按后退按钮的是价值主张。你需要反复测试它-如果价值主张正确，业务将获得巨大的提升。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

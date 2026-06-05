@@ -8,7 +8,7 @@ pubDate: 2024-03-04
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403041028777.avif"
-heroImageAlt: "RealRip-Menghadapi tantangan, kita perlu fokus pada peningkatan kemampuan"
+heroImageAlt: "ZBZ-Menghadapi tantangan, kita perlu fokus pada peningkatan kemampuan"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

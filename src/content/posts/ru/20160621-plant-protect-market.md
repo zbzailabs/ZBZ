@@ -8,7 +8,7 @@ pubDate: 2016-06-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548967.avif"
-heroImageAlt: "RealRip-Отрасль и рынок защиты растений"
+heroImageAlt: "ZBZ-Отрасль и рынок защиты растений"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

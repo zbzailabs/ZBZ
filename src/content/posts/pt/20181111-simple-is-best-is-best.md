@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-A maior sabedoria é a simplicidade; os velhos princípios funcionam melhor"
+heroImageAlt: "ZBZ-A maior sabedoria é a simplicidade; os velhos princípios funcionam melhor"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

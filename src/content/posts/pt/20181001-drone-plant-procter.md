@@ -8,7 +8,7 @@ pubDate: 2018-10-01
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512124.avif"
-heroImageAlt: "RealRip-Eficácia de drones em arrozais"
+heroImageAlt: "ZBZ-Eficácia de drones em arrozais"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

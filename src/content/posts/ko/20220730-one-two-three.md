@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-큰 삼촌, 둘째 삼촌, 그리고 약혼자"
+heroImageAlt: "ZBZ-큰 삼촌, 둘째 삼촌, 그리고 약혼자"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

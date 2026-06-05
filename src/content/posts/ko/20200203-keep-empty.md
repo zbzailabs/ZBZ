@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2020-02-03
 heroImage: "https://cos.zbz.ai/images/202310181512019.avif"
-heroImageAlt: "RealRip-감염 종료까지 원금 사수"
+heroImageAlt: "ZBZ-감염 종료까지 원금 사수"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

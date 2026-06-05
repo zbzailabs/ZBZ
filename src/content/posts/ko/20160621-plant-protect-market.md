@@ -8,7 +8,7 @@ pubDate: 2016-06-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548967.avif"
-heroImageAlt: "RealRip-식물 보호 산업 및 시장"
+heroImageAlt: "ZBZ-식물 보호 산업 및 시장"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

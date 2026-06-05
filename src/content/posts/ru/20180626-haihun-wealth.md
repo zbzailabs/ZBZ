@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-Маркиз Хайхун: секреты накопления богатства"
+heroImageAlt: "ZBZ-Маркиз Хайхун: секреты накопления богатства"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

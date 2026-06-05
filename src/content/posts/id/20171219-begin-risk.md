@@ -9,7 +9,7 @@ pubDate: 2025-01-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536606.avif"
-heroImageAlt: "RealRip-Apa yang harus dilakukan jika tidak mendapatkan pendanaan?"
+heroImageAlt: "ZBZ-Apa yang harus dilakukan jika tidak mendapatkan pendanaan?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -7,7 +7,7 @@
   - "risk"
 "pubDate": "2019-12-03"
 "heroImage": "https://cos.zbz.ai/images/202310181512018.avif"
-"heroImageAlt": "RealRip-Tidak semua selebritis internet bisa membawa barang"
+"heroImageAlt": "ZBZ-Tidak semua selebritis internet bisa membawa barang"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

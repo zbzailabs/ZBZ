@@ -9,7 +9,7 @@ pubDate: 2024-12-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536602.avif"
-heroImageAlt: "RealRip-サラリーマン会社"
+heroImageAlt: "ZBZ-サラリーマン会社"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

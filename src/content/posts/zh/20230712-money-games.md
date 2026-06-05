@@ -8,7 +8,7 @@ pubDate: 2024-09-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929909.avif"
-heroImageAlt: "RealRip-金钱博弈"
+heroImageAlt: "ZBZ-金钱博弈"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip-식량안보 전략은 생산능력을 향상시키고, 균형을 촉진하며, 안전을 보장하고, 양, 효율, 품질을 추구하는 것입니다."
+heroImageAlt: "ZBZ-식량안보 전략은 생산능력을 향상시키고, 균형을 촉진하며, 안전을 보장하고, 양, 효율, 품질을 추구하는 것입니다."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

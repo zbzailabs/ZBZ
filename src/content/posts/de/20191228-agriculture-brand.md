@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-21
 heroImage: "https://cos.zbz.ai/images/202310181512047.avif"
-heroImageAlt: "RealRip-Gedanken zur Markenbildung in der Landwirtschaft"
+heroImageAlt: "ZBZ-Gedanken zur Markenbildung in der Landwirtschaft"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

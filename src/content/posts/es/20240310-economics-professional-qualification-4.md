@@ -9,7 +9,7 @@ pubDate: 2024-03-12
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403101502572.avif"
-heroImageAlt: "RealRip- Estrategia de Seguridad Alimentaria， Aumentar la Capacidad, Promover"
+heroImageAlt: "ZBZ- Estrategia de Seguridad Alimentaria， Aumentar la Capacidad, Promover"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

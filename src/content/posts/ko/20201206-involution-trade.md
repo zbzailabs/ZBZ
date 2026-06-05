@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-12-06
 heroImage: https://cos.realrip.com/images/202310181512031.avif
-heroImageAlt: "RealRip-내권 효과 하의 경제 무역 패턴"
+heroImageAlt: "ZBZ-내권 효과 하의 경제 무역 패턴"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

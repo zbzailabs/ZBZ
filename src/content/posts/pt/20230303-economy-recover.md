@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2023-03-03
 heroImage: "https://cos.zbz.ai/images/202310031546138.avif"
-heroImageAlt: "RealRip-Quatro histórias curtas sob a recuperação econômica"
+heroImageAlt: "ZBZ-Quatro histórias curtas sob a recuperação econômica"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

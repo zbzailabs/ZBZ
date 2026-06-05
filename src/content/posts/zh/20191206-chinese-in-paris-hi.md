@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-12-06"
 heroImage: "https://cos.zbz.ai/images/202309131332744.avif"
-heroImageAlt: "RealRip-解放军来巴黎"
+heroImageAlt: "ZBZ-解放军来巴黎"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

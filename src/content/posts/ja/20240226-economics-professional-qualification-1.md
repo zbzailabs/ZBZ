@@ -9,7 +9,7 @@ pubDate: 2024-02-26
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202402262151388.avif"
-heroImageAlt: "RealRip-新時代における農業と農村の発展動向"
+heroImageAlt: "ZBZ-新時代における農業と農村の発展動向"
 heroImageWidth: 1960
 heroImageHeight: 1120
 draft: false

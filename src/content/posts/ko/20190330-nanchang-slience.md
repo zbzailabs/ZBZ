@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-난창 — 해혼후는 침묵했고, 왕발은 눈물 흘린 도시"
+heroImageAlt: "ZBZ-난창 — 해혼후는 침묵했고, 왕발은 눈물 흘린 도시"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

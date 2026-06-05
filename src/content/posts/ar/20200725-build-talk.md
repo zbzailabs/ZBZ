@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2020-07-26
 heroImage: "https://cos.zbz.ai/images/202310181512026.avif"
-heroImageAlt: "RealRip-كلمة في ندوة رواد الأعمال"
+heroImageAlt: "ZBZ-كلمة في ندوة رواد الأعمال"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

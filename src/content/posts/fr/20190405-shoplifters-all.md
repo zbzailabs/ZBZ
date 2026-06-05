@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202309131332731.avif"
-heroImageAlt: "RealRip-Peu importe si vous ne voyez pas les feux d'artifice, ce qui compte, c'est avec qui vous les regardez"
+heroImageAlt: "ZBZ-Peu importe si vous ne voyez pas les feux d'artifice, ce qui compte, c'est avec qui vous les regardez"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

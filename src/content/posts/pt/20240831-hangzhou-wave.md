@@ -9,7 +9,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip-Hangzhou aprimorou sua capacidade de gestão urbana por meio da"
+heroImageAlt: "ZBZ-Hangzhou aprimorou sua capacidade de gestão urbana por meio da"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

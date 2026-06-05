@@ -10,7 +10,7 @@ pubDate: 2024-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309232502693.avif"
-heroImageAlt: "RealRip-改变角度获得新启示"
+heroImageAlt: "ZBZ-改变角度获得新启示"
 heroImageWidth: 1960
 heroImageHeight: 1103
 draft: false

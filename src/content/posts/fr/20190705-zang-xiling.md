@@ -8,7 +8,7 @@ pubDate: 2019-07-05
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512061.avif"
-heroImageAlt: "RealRip-Je touche des antiquités à la Société de gravure Xiling"
+heroImageAlt: "ZBZ-Je touche des antiquités à la Société de gravure Xiling"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

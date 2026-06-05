@@ -8,7 +8,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290734486.avif"
-heroImageAlt: "RealRip- Основные Законы и Правила в Сфере Сельского Хозяйства и Сельских"
+heroImageAlt: "ZBZ- Основные Законы и Правила в Сфере Сельского Хозяйства и Сельских"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

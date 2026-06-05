@@ -6,7 +6,7 @@
   - "innovation"
 "pubDate": "2019-11-05"
 "heroImage": "https://cos.zbz.ai/images/202310181512029.avif"
-"heroImageAlt": "RealRip-효율적인 팀 구축"
+"heroImageAlt": "ZBZ-효율적인 팀 구축"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

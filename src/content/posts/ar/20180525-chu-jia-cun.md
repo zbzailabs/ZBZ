@@ -8,7 +8,7 @@ pubDate: 2018-05-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536597.avif"
-heroImageAlt: "RealRip-قرية تشوجيا في بلدة ييداو بلايتشو"
+heroImageAlt: "ZBZ-قرية تشوجيا في بلدة ييداو بلايتشو"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

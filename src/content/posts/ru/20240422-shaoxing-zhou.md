@@ -8,7 +8,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip- Выгравировать иероглиф рано на своей парте не поможет вам добиться"
+heroImageAlt: "ZBZ- Выгравировать иероглиф рано на своей парте не поможет вам добиться"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

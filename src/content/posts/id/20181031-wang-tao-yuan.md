@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2018-10-31
 heroImage: "https://cos.zbz.ai/images/202310181536593.avif"
-heroImageAlt: "RealRip-Hari ini Wang Taoyuan adalah esok pedesaan Tiongkok"
+heroImageAlt: "ZBZ-Hari ini Wang Taoyuan adalah esok pedesaan Tiongkok"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

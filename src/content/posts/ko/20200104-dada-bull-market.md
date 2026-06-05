@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2020-01-04
 heroImage: "https://cos.zbz.ai/images/202310181512055.avif"
-heroImageAlt: "RealRip-대대적 강세장의 출발점"
+heroImageAlt: "ZBZ-대대적 강세장의 출발점"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

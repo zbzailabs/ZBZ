@@ -8,7 +8,7 @@ pubDate: 2025-09-10
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip-تنفيذ إستراتيجية إنعاش الأرياف يحتاج إلى واقعية"
+heroImageAlt: "ZBZ-تنفيذ إستراتيجية إنعاش الأرياف يحتاج إلى واقعية"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

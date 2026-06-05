@@ -9,7 +9,7 @@
   - "media"
 "pubDate": "2019-12-06"
 "heroImage": "https://cos.zbz.ai/images/202309131332744.avif"
-"heroImageAlt": "RealRip-Ejército Popular de Liberación en París"
+"heroImageAlt": "ZBZ-Ejército Popular de Liberación en París"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

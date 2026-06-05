@@ -9,7 +9,7 @@ pubDate: 2024-05-20
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405290734486.avif"
-heroImageAlt: "RealRip-农业农村重要法律法规与实务"
+heroImageAlt: "ZBZ-农业农村重要法律法规与实务"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

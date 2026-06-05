@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2020-04-03
 heroImage: https://cos.realrip.com/images/202310181512062.avif
-heroImageAlt: "RealRip-주위를 둘러보고 판매원이 보이지 않는다면, 당신이 바로 호구다."
+heroImageAlt: "ZBZ-주위를 둘러보고 판매원이 보이지 않는다면, 당신이 바로 호구다."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

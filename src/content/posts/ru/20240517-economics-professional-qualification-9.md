@@ -8,7 +8,7 @@ pubDate: 2024-05-17
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202405170942378.avif"
-heroImageAlt: "RealRip- Теория и Практика Рынков и Промышленности Сельскохозяйственной"
+heroImageAlt: "ZBZ- Теория и Практика Рынков и Промышленности Сельскохозяйственной"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

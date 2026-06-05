@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2023-03-03
 heroImage: "https://cos.zbz.ai/images/202310031546138.avif"
-heroImageAlt: "RealRip-أربع قصص قصيرة في ظل التعافي الاقتصادي"
+heroImageAlt: "ZBZ-أربع قصص قصيرة في ظل التعافي الاقتصادي"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

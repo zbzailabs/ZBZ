@@ -8,7 +8,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip- Grabar temprano en tu escritorio no te ayudará a tener éxito."
+heroImageAlt: "ZBZ- Grabar temprano en tu escritorio no te ayudará a tener éxito."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

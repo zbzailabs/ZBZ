@@ -9,7 +9,7 @@ pubDate: 2024-08-21
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202401211016094.avif"
-heroImageAlt: "RealRip-昔からの傷、今では酔いしれる"
+heroImageAlt: "ZBZ-昔からの傷、今では酔いしれる"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

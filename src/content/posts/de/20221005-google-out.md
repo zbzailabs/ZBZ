@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-10-23
 heroImage: "https://cos.zbz.ai/images/202310281639448.avif"
-heroImageAlt: "RealRip-Ein weiteres Google-Produkt verlässt Festlandchina"
+heroImageAlt: "ZBZ-Ein weiteres Google-Produkt verlässt Festlandchina"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

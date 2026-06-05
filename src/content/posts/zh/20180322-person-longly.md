@@ -8,7 +8,7 @@ pubDate: 2025-04-07
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332741.avif"
-heroImageAlt: "RealRip-水形物语"
+heroImageAlt: "ZBZ-水形物语"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

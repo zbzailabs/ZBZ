@@ -9,7 +9,7 @@ pubDate: 2023-07-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
-heroImageAlt: "RealRip-Desarrollo de la Agricultura de Precisión Debe Considerar la Sostenibilidad"
+heroImageAlt: "ZBZ-Desarrollo de la Agricultura de Precisión Debe Considerar la Sostenibilidad"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

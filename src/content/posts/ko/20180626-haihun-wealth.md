@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-해혼후가 부를 축적한 비결"
+heroImageAlt: "ZBZ-해혼후가 부를 축적한 비결"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

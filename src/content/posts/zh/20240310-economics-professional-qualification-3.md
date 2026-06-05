@@ -9,7 +9,7 @@ pubDate: 2024-03-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202403141027739.avif"
-heroImageAlt: "RealRip-实现巩固脱贫攻坚成果同乡村振兴有效衔接，这种有效衔接是现实长效脱贫，减贫、走向共同富裕和现代化的重要途径。"
+heroImageAlt: "ZBZ-实现巩固脱贫攻坚成果同乡村振兴有效衔接，这种有效衔接是现实长效脱贫，减贫、走向共同富裕和现代化的重要途径。"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

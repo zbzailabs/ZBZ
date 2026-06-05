@@ -9,7 +9,7 @@ pubDate: 2024-09-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332739.avif"
-heroImageAlt: "RealRip-观影体验、投资环境及电诈问题"
+heroImageAlt: "ZBZ-观影体验、投资环境及电诈问题"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

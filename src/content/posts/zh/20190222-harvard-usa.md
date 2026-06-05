@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512090.avif"
-heroImageAlt: "RealRip-随机漫步哈佛大学和麻省理工"
+heroImageAlt: "ZBZ-随机漫步哈佛大学和麻省理工"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

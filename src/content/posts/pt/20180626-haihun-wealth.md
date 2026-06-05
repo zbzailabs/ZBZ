@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-09
 heroImage: "https://cos.zbz.ai/images/20250909182802440.avif"
-heroImageAlt: "RealRip-Os segredos do marquês de Haihun para acumular riqueza"
+heroImageAlt: "ZBZ-Os segredos do marquês de Haihun para acumular riqueza"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

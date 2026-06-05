@@ -8,7 +8,7 @@ pubDate: 2024-09-14
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512142.avif"
-heroImageAlt: "RealRip-从技术至内容，我的博客创作之路"
+heroImageAlt: "ZBZ-从技术至内容，我的博客创作之路"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

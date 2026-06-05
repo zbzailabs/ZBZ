@@ -9,7 +9,7 @@ pubDate: 2017-12-15
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512155.avif"
-heroImageAlt: "RealRip-农业科技创业公司为柑橘黄龙病治理带来希望"
+heroImageAlt: "ZBZ-农业科技创业公司为柑橘黄龙病治理带来希望"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

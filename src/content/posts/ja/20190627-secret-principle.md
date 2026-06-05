@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-11-19
 heroImage: "https://cos.zbz.ai/images/202310181512063.avif"
-heroImageAlt: "RealRip-利益配分に基づく機密保持の原則"
+heroImageAlt: "ZBZ-利益配分に基づく機密保持の原則"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

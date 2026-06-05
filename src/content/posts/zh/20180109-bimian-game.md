@@ -8,7 +8,7 @@ pubDate: 2024-01-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512137.avif"
-heroImageAlt: "RealRip-人到中年，如何避免沉迷游戏"
+heroImageAlt: "ZBZ-人到中年，如何避免沉迷游戏"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -8,7 +8,7 @@ pubDate: 2025-01-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512137.avif"
-heroImageAlt: "RealRip-Meia-idade: Como evitar o vício em jogos?"
+heroImageAlt: "ZBZ-Meia-idade: Como evitar o vício em jogos?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

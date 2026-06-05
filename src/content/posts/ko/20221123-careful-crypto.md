@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2022-11-23
 heroImage: "https://cos.zbz.ai/images/202310281632593.avif"
-heroImageAlt: "RealRip-암호화폐 산업 참여 시 주의하세요"
+heroImageAlt: "ZBZ-암호화폐 산업 참여 시 주의하세요"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

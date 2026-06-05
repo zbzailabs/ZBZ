@@ -9,7 +9,7 @@ pubDate: 2024-06-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202406091102137.avif"
-heroImageAlt: "RealRip-加快推进农业农村现代化"
+heroImageAlt: "ZBZ-加快推进农业农村现代化"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

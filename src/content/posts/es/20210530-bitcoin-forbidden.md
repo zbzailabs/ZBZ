@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-05-30
 heroImage: "https://cos.zbz.ai/images/202309131332747.avif"
-heroImageAlt: "RealRip-Vi la trilogía 'Camel Guest' esta semana, contando principalmente la confrontación entre arcos y flechas y armas rápidas. En el combate individual, los arcos y las flechas son las únicas armas frías que pueden batirse en duelo con armas de fuego. Incluso ahora, las ballestas similares a los arcos se utilizan a menudo como armas ofensivas."
+heroImageAlt: "ZBZ-Vi la trilogía 'Camel Guest' esta semana, contando principalmente la confrontación entre arcos y flechas y armas rápidas. En el combate individual, los arcos y las flechas son las únicas armas frías que pueden batirse en duelo con armas de fuego. Incluso ahora, las ballestas similares a los arcos se utilizan a menudo como armas ofensivas."
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

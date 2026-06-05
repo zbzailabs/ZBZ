@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-03-14
 heroImage: "https://cos.zbz.ai/images/202310101429955.avif"
-heroImageAlt: "RealRip-Aunque nuestra forma es corporativa, nuestra actitud es de asociación"
+heroImageAlt: "ZBZ-Aunque nuestra forma es corporativa, nuestra actitud es de asociación"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

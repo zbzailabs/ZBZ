@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2022-08-13
 heroImage: "https://cos.zbz.ai/images/202310281652987.avif"
-heroImageAlt: "RealRip-Способность человека искать выгоду и избегать вреда записана в генах"
+heroImageAlt: "ZBZ-Способность человека искать выгоду и избегать вреда записана в генах"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

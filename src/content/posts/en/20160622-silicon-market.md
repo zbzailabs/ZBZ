@@ -8,7 +8,7 @@ pubDate: 2024-11-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548966.avif"
-heroImageAlt: "RealRip-Silicon Fertilizer Industry and Market"
+heroImageAlt: "ZBZ-Silicon Fertilizer Industry and Market"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

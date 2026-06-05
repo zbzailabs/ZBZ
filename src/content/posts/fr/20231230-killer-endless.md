@@ -8,7 +8,7 @@ pubDate: 2023-12-30
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202312301156100.avif"
-heroImageAlt: "RealRip- Les Tueurs de la Fleur de Lune et La Troisième Brigade"
+heroImageAlt: "ZBZ- Les Tueurs de la Fleur de Lune et La Troisième Brigade"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -5,7 +5,7 @@ category: "life"
 tags: []
 pubDate: 2025-09-26
 heroImage: "https://cos.zbz.ai/images/202310181512085.avif"
-heroImageAlt: "RealRip-Nanchang — kota tempat Marquis Haihun bungkam dan Wang Bo meneteskan air mata"
+heroImageAlt: "ZBZ-Nanchang — kota tempat Marquis Haihun bungkam dan Wang Bo meneteskan air mata"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-15
 heroImage: "https://cos.zbz.ai/images/202310181512100.avif"
-heroImageAlt: "RealRip-Routes et circulation aux États‑Unis"
+heroImageAlt: "ZBZ-Routes et circulation aux États‑Unis"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

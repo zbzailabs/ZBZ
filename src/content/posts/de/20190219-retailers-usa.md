@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-09-16
 heroImage: "https://cos.zbz.ai/images/202310181512097.avif"
-heroImageAlt: "RealRip-US‑Einzelhandel: Status und Schwierigkeiten"
+heroImageAlt: "ZBZ-US‑Einzelhandel: Status und Schwierigkeiten"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

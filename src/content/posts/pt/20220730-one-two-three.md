@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: "2022-07-30"
 heroImage: "https://cos.zbz.ai/images/202310281658908.avif"
-heroImageAlt: "RealRip-O Tio Mais Velho, o Segundo Tio e o Noivo"
+heroImageAlt: "ZBZ-O Tio Mais Velho, o Segundo Tio e o Noivo"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

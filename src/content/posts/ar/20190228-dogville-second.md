@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-27
 heroImage: "https://cos.zbz.ai/images/202310181512089.avif"
-heroImageAlt: "RealRip-لن أشاهد «دوغفيل» ثانيةً"
+heroImageAlt: "ZBZ-لن أشاهد «دوغفيل» ثانيةً"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

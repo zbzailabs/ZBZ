@@ -8,7 +8,7 @@ pubDate: "2024-12-02"
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20241213105343486.avif"
-heroImageAlt: "RealRip-Essa escolha será tão clara"
+heroImageAlt: "ZBZ-Essa escolha será tão clara"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

@@ -9,7 +9,7 @@ pubDate: 2025-09-09
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/20250909224050627.avif"
-heroImageAlt: "RealRip-الوجه الثقافي لليو خه"
+heroImageAlt: "ZBZ-الوجه الثقافي لليو خه"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

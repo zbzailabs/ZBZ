@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-01-02
 heroImage: "https://cos.zbz.ai/images/202310180923571.avif"
-heroImageAlt: "RealRip-비교가 없으면 해가 없다. 전염병은 서구의 모든 종이 호랑이를 찔렀고, 무역 전쟁은 사람들에게 국가 간 경쟁의 잔인함을 보게 했다"
+heroImageAlt: "ZBZ-비교가 없으면 해가 없다. 전염병은 서구의 모든 종이 호랑이를 찔렀고, 무역 전쟁은 사람들에게 국가 간 경쟁의 잔인함을 보게 했다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

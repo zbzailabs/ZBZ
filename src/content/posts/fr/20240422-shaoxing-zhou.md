@@ -8,7 +8,7 @@ pubDate: 2024-08-22
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202404251059950.avif"
-heroImageAlt: "RealRip- Graver tôt sur votre bureau ne vous aidera pas à réussir."
+heroImageAlt: "ZBZ- Graver tôt sur votre bureau ne vous aidera pas à réussir."
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

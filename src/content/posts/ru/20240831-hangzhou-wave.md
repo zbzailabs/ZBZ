@@ -10,7 +10,7 @@ pubDate: 2024-08-31
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202311292102689.avif"
-heroImageAlt: "RealRip- Ханчжоу улучшает и совершенствует свои городские возможности,"
+heroImageAlt: "ZBZ- Ханчжоу улучшает и совершенствует свои городские возможности,"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

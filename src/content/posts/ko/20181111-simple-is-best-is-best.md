@@ -7,7 +7,7 @@ tags:
   - "allocation"
 pubDate: 2025-09-13
 heroImage: "https://cos.zbz.ai/images/202310181512121.avif"
-heroImageAlt: "RealRip-大道至간 — 단순함이 지혜이고, 오래된 원칙이 가장 잘 통한다"
+heroImageAlt: "ZBZ-大道至간 — 단순함이 지혜이고, 오래된 원칙이 가장 잘 통한다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

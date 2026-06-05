@@ -8,7 +8,7 @@ pubDate: 2019-07-28
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181512057.avif"
-heroImageAlt: "RealRip-J’ai failli finir au poste"
+heroImageAlt: "ZBZ-J’ai failli finir au poste"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

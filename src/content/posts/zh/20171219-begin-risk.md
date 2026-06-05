@@ -8,7 +8,7 @@ pubDate: 2024-12-19
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181536606.avif"
-heroImageAlt: "RealRip-不融资又能怎么办"
+heroImageAlt: "ZBZ-不融资又能怎么办"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

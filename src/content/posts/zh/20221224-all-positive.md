@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2022-12-25
 heroImage: https://cos.realrip.com/images/202309280820279.avif
-heroImageAlt: "RealRip-应阳尽阳"
+heroImageAlt: "ZBZ-应阳尽阳"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -7,7 +7,7 @@ tags:
 
 pubDate: 2022-11-23
 heroImage: https://cos.realrip.com/images/202310281632593.avif
-heroImageAlt: "RealRip-谨慎参与加密行业"
+heroImageAlt: "ZBZ-谨慎参与加密行业"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

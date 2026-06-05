@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2019-02-22
 heroImage: "https://cos.zbz.ai/images/202310181512105.avif"
-heroImageAlt: "RealRip-미국을 지속 가능하게 하는 초강대국의 내적 동력 찾기"
+heroImageAlt: "ZBZ-미국을 지속 가능하게 하는 초강대국의 내적 동력 찾기"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

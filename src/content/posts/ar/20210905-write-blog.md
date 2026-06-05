@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2021-09-05
 heroImage: "https://cos.zbz.ai/images/202310181244293.avif"
-heroImageAlt: "RealRip-لا تزال المدونة بحاجة إلى الكتابة"
+heroImageAlt: "ZBZ-لا تزال المدونة بحاجة إلى الكتابة"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

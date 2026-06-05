@@ -8,7 +8,7 @@ pubDate: 2024-10-25
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202310181548965.avif"
-heroImageAlt: "RealRip-Industrie et marché des conservateurs de fruits et légumes"
+heroImageAlt: "ZBZ-Industrie et marché des conservateurs de fruits et légumes"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false
