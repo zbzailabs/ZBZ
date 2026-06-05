@@ -1,0 +1,51 @@
+---
+title: "Penurunan Kualitas Layanan Cloud: Membahas Kondisi Saat Ini dan Tanggapan Berdasarkan Pengalaman Layanan Pelanggan Tencent Cloud dan Alibaba Cloud"
+description: "Karena penurunan besar dalam kualitas layanan pelanggan Tencent Cloud dan Alibaba Cloud, banyak masalah teknis saat ini tidak dapat diselesaikan secara efektif melalui chatbot atau dukungan pelanggan manusia. Ketidakpahaman staf layanan pelanggan tentang bisnis mereka sendiri, dokumentasi teknis yang sudah usang, serta kesalahpahaman tentang pendaftaran ICP mencerminkan dampak besar pada kualitas layanan di tengah pengurangan biaya dan transisi ke AI. Untuk bisnis non-arus utama, solusi hybrid cloud atau solusi off-cloud dapat dipertimbangkan."
+category: "startup"
+tags:
+  - "reflect"
+  - "management"
+  - "risk"
+pubDate: 2024-10-09
+authors:
+  - default
+heroImage: "https://cos.zbz.ai/images/202410090958942.avif"
+heroImageAlt: "Kompas - Hongmeng masih jauh dari produktivitas"
+heroImageWidth: 1960
+heroImageHeight: 1102
+draft: false
+featured: false
+locale: id
+---
+
+import OptimizedPicture from "@/components/features/OptimizedPicture.astro";
+
+Baru-baru ini, karena kebutuhan perusahaan untuk memperluas bisnisnya ke luar negeri, saya harus membeli produk dan layanan terkait di Tencent Cloud dan Alibaba Cloud. Dalam proses ini, saya menghadapi beberapa masalah yang memerlukan konsultasi dengan layanan pelanggan. Mengingat setahun yang lalu, menghubungi layanan pelanggan masih relatif mudah; ketika menghadapi masalah, seseorang dapat berkomunikasi langsung dengan staf melalui obrolan online atau telepon. Namun, sekarang layanan pra-penjualan dan pasca-penjualan dari kedua perusahaan telah berkembang menjadi tahap di mana perlu melalui chatbot layanan pelanggan terlebih dahulu.
+
+Karena dokumentasi teknis dari platform layanan cloud sudah terlalu lama, banyak masalah tidak dapat diselesaikan dengan memuaskan melalui chatbot layanan pelanggan. Bahkan ketika menggunakan AI generatif, tanggapannya sering kali hanya klise yang berulang dan tidak efektif, dan dokumentasi teknis resmi yang disediakan sudah usang dan tidak dapat memenuhi kebutuhan bisnis saat ini. Pada akhirnya, masih perlu dialihkan ke layanan pelanggan manusia, dan ketika akhirnya terhubung dengan layanan pelanggan manusia, ternyata tingkat layanan mereka bahkan lebih rendah dari chatbot.
+
+Sebagai contoh, saya pernah bertanya kepada layanan pelanggan Tencent Cloud apakah Platform Percepatan Keamanan Edge (EO) Tencent mendukung percepatan domain root. Layanan pelanggan tidak hanya memberikan jawaban negatif, tetapi juga mempertanyakan, "Mengapa Anda membutuhkan hal seperti itu?". Sebenarnya, Tencent Cloud EO mendukung percepatan domain root, sebagaimana dinyatakan dengan jelas dalam petunjuk operasi platform. Pada saat itu, karena domain saya dihosting di Cloudflare, percepatan domain root Cloudflare memiliki kekurangan teknis, yang menyebabkan kegagalan verifikasi melalui CNAME. Setelah domain dipindahkan ke DNSPod milik Tencent Cloud, verifikasi berhasil diselesaikan. Sebagai penyedia layanan cloud terkemuka di China, tingkat layanan Tencent Cloud seharusnya mencapai standar kelas satu, tetapi sekarang sulit untuk disebut kelas tiga. Staf layanan pelanggan tidak memahami produk dan bisnis mereka sendiri, kurang profesional saat memberikan layanan eksternal, dan bahkan tidak menggunakan bahasa sopan dasar, malah menunjukkan sikap arogan terhadap pelanggan.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410090957748.avif"
+  alt="Layanan pelanggan Tencent Cloud"
+  width={1960}
+  height={1102}
+/>
+
+Contoh lainnya adalah pendaftaran ICP untuk domain, yang merupakan syarat awal untuk memperluas bisnis online di China. Tahun ini, perkembangan AI yang pesat telah meningkatkan popularitas domain .ai, tetapi karena operator domain root .ai belum mendirikan cabang di China, perusahaan-perusahaan China tidak dapat menyelesaikan pendaftaran ICP untuk domain .ai. Pada bulan Agustus, Alibaba Cloud International meluncurkan pendaftaran domain .ai, jadi saya bertanya kepada layanan pelanggan internasional Alibaba Cloud apakah domain .ai didukung untuk pendaftaran ICP. Layanan pelanggan menjawab dengan sangat yakin bahwa itu didukung, tetapi saya meragukannya, karena hingga hari ini (9 Oktober 2024), situs web Kementerian Perindustrian dan Teknologi Informasi (MIIT) tidak mencantumkan domain .ai dalam daftar domain yang dapat didaftarkan. Kemudian, melalui saluran lain, dikonfirmasi bahwa MIIT memang belum mendukung pendaftaran domain .ai, tetapi beberapa perusahaan telah berhasil menyelesaikan pendaftaran domain .ai melalui cara-cara khusus. Bagi yang berminat, dapat memeriksa sistem manajemen pendaftaran ICP MIIT. Sangat mengejutkan betapa tidak familiar staf layanan pelanggan Alibaba Cloud terhadap sistem ICP.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410091000272.avif"
+  alt="Layanan pelanggan Alibaba Cloud"
+  width={1960}
+  height={1102}
+/>
+
+Mengapa kualitas layanan Tencent Cloud dan Alibaba Cloud memburuk dari yang sebelumnya memuaskan menjadi kondisi menyedihkan seperti saat ini? Mungkin ada beberapa alasan:
+
+1. Kedua perusahaan telah mengamankan posisi terdepan di pasar layanan cloud, dan pengembangan beberapa fungsi umum telah mencapai kematangan. Karena pengaruh lingkungan ekonomi, jumlah pengguna baru telah menurun, pertumbuhan bisnis cloud melambat, dan Tencent serta Alibaba mulai mengurangi biaya dengan memotong layanan periferal terlebih dahulu.
+2. Perusahaan sedang beralih ke AI, mencoba menggunakan AI untuk menangani layanan pasca-penjualan, sehingga mengurangi peran layanan pelanggan manusia menjadi peran pendukung, yang menyebabkan penurunan kualitas layanan secara keseluruhan.
+3. Mungkin saya hanya kurang beruntung dan kebetulan bertemu dengan dua perwakilan layanan pelanggan yang tidak memahami bisnis mereka sendiri, tetapi penjelasan ini tampaknya kurang masuk akal.
+
+Bagaimana cara mengatasi penurunan kualitas layanan yang terus-menerus ini? Kebetulan, baru-baru ini saya mendengar Gao Chunhui dari IPIP.Net berbagi pengalaman perusahaannya yang keluar dari cloud dan menyewa server fisik di pusat data (IDC) di podcast "TechFusion". Untuk bisnis yang tidak menargetkan publik umum tetapi klien perusahaan, mempertimbangkan solusi hybrid cloud atau langsung keluar dari cloud mungkin merupakan cara yang dapat dilakukan untuk mengatasi dilema layanan cloud saat ini.

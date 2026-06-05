@@ -1,0 +1,1025 @@
+/**
+ * Pages-like (macOS) Typora Theme — CN Focus
+ * Target: macOS Retina, Simplified Chinese
+ * Goal: quiet document-first reading, Apple-like spacing, stable live editing
+ *
+ * Maintenance notes:
+ * - Mac-only and Chinese-first; use system fonts and standard font weights.
+ * - Do not add text-wrap: pretty, global font-feature-settings, negative CJK tracking,
+ *   non-standard font weights, :has() layout dependencies, or backdrop-filter.
+ * - CSS Text Level 4 features must remain progressive enhancements.
+ * - Dark colors live in mactypora-dark.css.
+ */
+
+/* ------------------------------
+   1) Variables
+------------------------------ */
+:root {
+  /* Colors (Light) */
+  --app-bg: #f3f3f5;
+  --page-bg: #ffffff;
+
+  --text: #1d1d1f;
+  --text-2: #6b6b70;
+  --text-3: #909096;
+
+  --link: #0a84ff;
+
+  --separator: rgba(29, 29, 31, 0.1);
+  --border: rgba(29, 29, 31, 0.08);
+  --fill: rgba(29, 29, 31, 0.038);
+  --meta-bg: #f5f5f7;
+
+  --code-bg: #f6f7f8;
+  --code-border: rgba(29, 29, 31, 0.08);
+
+  --quote-accent: rgba(99, 99, 102, 0.24);
+
+  /* Typography */
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Songti SC',
+    sans-serif;
+  --font-serif: 'New York', 'Songti SC', 'STSong', serif;
+  --font-mono: 'SF Mono', Menlo, Monaco, Consolas, monospace;
+
+  /* Scale */
+  --base-size: 16px;
+  --line: 1.78;
+  /* CJK-friendly */
+  --para-space: 1.12rem;
+  /* Apple-like block spacing */
+  --block-space: 1.16rem;
+
+  /* Layout */
+  --max-width: 800px;
+  --pad-x: 76px;
+  --pad-y-top: 72px;
+  --pad-y-bottom: 92px;
+
+  /* Radius & Shadow */
+  --r-page: 16px;
+  --r-card: 10px;
+
+  --shadow-page: 0 1px 1px rgba(0, 0, 0, 0.03), 0 8px 24px rgba(0, 0, 0, 0.05);
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.03);
+
+  /* Selection */
+  --selection: rgba(10, 132, 255, 0.22);
+
+  /* Typora chrome variables */
+  --bg-color: var(--app-bg);
+  --text-color: var(--text);
+  --side-bar-bg-color: var(--app-bg);
+  --control-text-color: var(--text-2);
+  --control-text-hover-color: var(--text);
+  --select-text-bg-color: var(--selection);
+  --select-text-font-color: var(--text);
+  --item-hover-bg-color: var(--fill);
+  --item-hover-text-color: var(--text);
+  --active-file-bg-color: var(--page-bg);
+  --active-file-text-color: var(--text);
+  --window-border: 1px solid var(--border);
+  --primary-color: var(--link);
+  --rawblock-edit-panel-bd: var(--border);
+  --search-select-bg-color: var(--link);
+
+  /* Fallback colors for older Typora Chromium builds */
+  --page-border: rgba(29, 29, 31, 0.07);
+  --link-hover: #1677d2;
+  --link-underline: rgba(10, 132, 255, 0.55);
+  --checkbox-border: rgba(29, 29, 31, 0.09);
+  --checkbox-bg: rgba(255, 255, 255, 0.92);
+  --quote-bg: #f6f6f8;
+  --quote-border: rgba(29, 29, 31, 0.07);
+  --inline-code-bg: rgba(245, 245, 247, 0.72);
+  --inline-code-border: rgba(29, 29, 31, 0.06);
+  --code-block-border: rgba(29, 29, 31, 0.08);
+  --scrollbar-thumb: rgba(144, 144, 150, 0.35);
+  --rule-border: rgba(29, 29, 31, 0.09);
+  --table-border: rgba(144, 144, 150, 0.18);
+  --table-cell-border-bottom: rgba(144, 144, 150, 0.11);
+  --table-cell-border-right: rgba(144, 144, 150, 0.1);
+  --table-head-bg: #f7f7f9;
+  --table-cell-bg: #ffffff;
+  --table-row-alt-bg: #f8f8fa;
+  --table-row-hover-bg: #f7f7f8;
+  --table-tool-border: rgba(144, 144, 150, 0.15);
+  --table-tool-bg: #ffffff;
+  --control-hover-bg: rgba(29, 29, 31, 0.04);
+  --popover-border: rgba(144, 144, 150, 0.16);
+  --popover-bg: #ffffff;
+  --insert-marker-shadow: rgba(10, 132, 255, 0.32);
+  --meta-border: rgba(29, 29, 31, 0.07);
+
+  --syntax-keyword: #9a5a9f;
+  --syntax-string: #2f7d32;
+  --syntax-number: #9a6a00;
+  --syntax-variable: #1d1d1f;
+  --syntax-operator: #6b6b70;
+  --syntax-atom: #7b5ea7;
+  --syntax-tag: #8a4b2e;
+  --syntax-attribute: #0b6e99;
+  --syntax-error: #dc2626;
+
+  --image-focus-ring: rgba(10, 132, 255, 0.32);
+  --image-error-bg: #fff4f4;
+  --image-error-border: rgba(220, 38, 38, 0.22);
+}
+
+@supports (color: color-mix(in srgb, #000000 50%, transparent)) {
+  :root {
+    --page-border: color-mix(in srgb, var(--border) 92%, transparent);
+    --link-hover: color-mix(in srgb, var(--link) 82%, var(--text));
+    --link-underline: color-mix(in srgb, var(--link) 55%, transparent);
+    --checkbox-border: color-mix(in srgb, var(--separator) 92%, transparent);
+    --checkbox-bg: color-mix(in srgb, var(--page-bg) 92%, transparent);
+    --quote-bg: color-mix(in srgb, var(--meta-bg) 88%, var(--page-bg));
+    --quote-border: color-mix(in srgb, var(--border) 85%, transparent);
+    --inline-code-bg: color-mix(in srgb, var(--meta-bg) 72%, transparent);
+    --inline-code-border: color-mix(in srgb, var(--border) 76%, transparent);
+    --code-block-border: color-mix(in srgb, var(--code-border) 96%, transparent);
+    --scrollbar-thumb: color-mix(in srgb, var(--text-3) 35%, transparent);
+    --rule-border: color-mix(in srgb, var(--separator) 92%, transparent);
+    --table-border: color-mix(in srgb, var(--text-3) 30%, var(--border));
+    --table-cell-border-bottom: color-mix(in srgb, var(--text-3) 20%, var(--separator));
+    --table-cell-border-right: color-mix(in srgb, var(--text-3) 18%, var(--separator));
+    --table-head-bg: color-mix(in srgb, var(--meta-bg) 92%, var(--page-bg));
+    --table-cell-bg: color-mix(in srgb, var(--page-bg) 97%, var(--meta-bg));
+    --table-row-alt-bg: color-mix(in srgb, var(--page-bg) 92%, var(--meta-bg));
+    --table-row-hover-bg: color-mix(in srgb, var(--fill) 90%, var(--page-bg));
+    --table-tool-border: color-mix(in srgb, var(--text-3) 22%, var(--border));
+    --table-tool-bg: color-mix(in srgb, var(--page-bg) 94%, var(--app-bg));
+    --control-hover-bg: color-mix(in srgb, var(--fill) 90%, transparent);
+    --popover-border: color-mix(in srgb, var(--text-3) 24%, var(--border));
+    --popover-bg: color-mix(in srgb, var(--page-bg) 96%, var(--app-bg));
+    --insert-marker-shadow: color-mix(in srgb, var(--link) 32%, transparent);
+    --meta-border: color-mix(in srgb, var(--border) 88%, transparent);
+  }
+}
+
+/* ------------------------------
+   2) Base
+------------------------------ */
+html {
+  font-size: var(--base-size);
+  color-scheme: light;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: var(--app-bg);
+  line-height: var(--line);
+  font-weight: 400;
+  text-align: left;
+  caret-color: var(--link);
+  -webkit-text-size-adjust: 100%;
+
+  /* CJK-friendly wrapping (avoid weird breaks) */
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+
+content {
+  background: var(--app-bg);
+}
+
+/* Avoid negative tracking on Chinese */
+:lang(zh),
+:lang(zh-CN) {
+  letter-spacing: 0;
+}
+
+/* Selection */
+*.in-text-selection,
+::selection {
+  background: var(--selection);
+  color: var(--select-text-font-color);
+}
+
+/* Typora writing canvas (page card) */
+#write {
+  max-width: var(--max-width);
+  margin: 22px auto 54px;
+  padding: var(--pad-y-top) var(--pad-x) var(--pad-y-bottom);
+  background: var(--page-bg);
+  border: 1px solid var(--page-border);
+  border-radius: var(--r-page);
+  box-shadow: var(--shadow-page);
+  font-kerning: normal;
+}
+
+.mac-os #write {
+  caret-color: AccentColor;
+}
+
+@media (max-width: 980px) {
+  #write {
+    margin: 16px 16px 38px;
+    padding:
+      clamp(36px, 6vw, var(--pad-y-top))
+      clamp(24px, 5vw, var(--pad-x))
+      clamp(56px, 8vw, var(--pad-y-bottom));
+  }
+
+  #write > h1.md-focus::before,
+  #write > h2.md-focus::before,
+  #write > h3.md-focus::before,
+  #write > h4.md-focus::before {
+    left: -1.9rem;
+  }
+}
+
+@media (max-width: 720px) {
+  #write {
+    margin: 0;
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+    box-shadow: none;
+  }
+
+  #write > h1.md-focus::before,
+  #write > h2.md-focus::before,
+  #write > h3.md-focus::before,
+  #write > h4.md-focus::before {
+    display: none;
+  }
+}
+
+/* ------------------------------
+   3) Paragraphs & inline text
+------------------------------ */
+#write p {
+  margin: 0 0 var(--para-space);
+  text-align: justify;
+  text-align-last: left;
+  word-break: normal;
+  overflow-wrap: break-word;
+  line-break: strict;
+}
+
+@supports (text-autospace: normal) {
+  #write {
+    text-autospace: normal;
+  }
+
+  #write code,
+  #write pre,
+  #write .md-fences,
+  #typora-source {
+    text-autospace: no-autospace;
+  }
+}
+
+@supports (text-spacing-trim: normal) {
+  #write {
+    text-spacing-trim: normal;
+  }
+
+  #write code,
+  #write pre,
+  #write .md-fences,
+  #typora-source {
+    text-spacing-trim: space-all;
+  }
+}
+
+@supports (word-break: auto-phrase) {
+  #write h1,
+  #write h2,
+  #write :lang(ja) {
+    word-break: auto-phrase;
+  }
+}
+
+#write strong,
+#write b {
+  font-weight: 600;
+  color: var(--text);
+}
+
+#write em,
+#write i {
+  font-style: italic;
+}
+
+#write small {
+  color: var(--text-2);
+}
+
+/* Highlight (==text==) */
+#write mark {
+  background: linear-gradient(180deg, rgba(255, 231, 153, 0.58), rgba(255, 231, 153, 0.32));
+  border-radius: 6px;
+  padding: 0 0.18em;
+}
+
+/* Links */
+#write a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition:
+    color 140ms ease,
+    border-bottom-color 140ms ease;
+}
+
+#write a:hover {
+  color: var(--link-hover);
+  border-bottom-color: var(--link-underline);
+}
+
+/* ------------------------------
+   4) Headings (Pages-like: restrained hierarchy)
+------------------------------ */
+#write h1,
+#write h2,
+#write h3,
+#write h4,
+#write h5,
+#write h6 {
+  margin: 1.75em 0 0.65em;
+  line-height: 1.3;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: 0;
+  position: relative;
+}
+
+#write h1 {
+  font-size: 1.72rem;
+  font-weight: 700;
+  margin-top: 0.72em;
+  text-align: center;
+}
+
+#write h2 {
+  font-size: 1.38rem;
+  font-weight: 600;
+  padding-bottom: 0.28em;
+  border-bottom: 1px solid var(--rule-border);
+}
+
+#write h3 {
+  font-size: 1.18rem;
+  font-weight: 600;
+  margin-top: 1.55em;
+}
+
+#write h4 {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+#write h5 {
+  font-size: 0.96rem;
+  font-weight: 600;
+  color: var(--text-2);
+}
+
+#write h6 {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-3);
+}
+
+/* Heading Level Hints (shown only while Typora focuses the heading) */
+#write > h1.md-focus::before,
+#write > h2.md-focus::before,
+#write > h3.md-focus::before,
+#write > h4.md-focus::before {
+  position: absolute;
+  left: calc(var(--pad-x) * -0.6);
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.68rem;
+  font-weight: 500;
+  color: var(--text-3);
+  opacity: 0.42;
+  letter-spacing: 0.1em;
+  font-family: var(--font-mono);
+  pointer-events: none;
+}
+
+#write > h1.md-focus::before {
+  content: 'H1';
+}
+
+#write > h2.md-focus::before {
+  content: 'H2';
+}
+
+#write > h3.md-focus::before {
+  content: 'H3';
+}
+
+#write > h4.md-focus::before {
+  content: 'H4';
+}
+
+/* Reduce extra top margin when heading is first element */
+#write > h1:first-child,
+#write > h2:first-child,
+#write > h3:first-child,
+#write > h4:first-child {
+  margin-top: 0;
+}
+
+/* ------------------------------
+   5) Lists
+------------------------------ */
+#write ul,
+#write ol {
+  padding-left: 1.35rem;
+  margin: 0 0 calc(var(--para-space) * 0.95);
+}
+
+#write li {
+  margin: 0.28em 0;
+  padding-left: 0.08em;
+}
+
+#write li::marker {
+  color: var(--text-2);
+}
+
+#write ul ul,
+#write ol ol,
+#write ul ol,
+#write ol ul {
+  margin-top: 0.35rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Task lists (checkbox) */
+#write .md-task-list-item {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.55rem;
+  position: relative;
+}
+
+#write .md-task-list-item > input[type='checkbox'] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  margin: 0;
+  position: absolute;
+  left: 0;
+  top: 0.52em;
+  border-radius: 4.5px;
+  border: 1px solid var(--checkbox-border);
+  background: var(--checkbox-bg);
+  box-shadow: none;
+}
+
+#write .md-task-list-item > input[type='checkbox']:checked {
+  background: var(--link);
+  border-color: var(--link);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 14 14'%3E%3Cpath fill='white' d='M5.6 10.2L2.7 7.3l1-1 1.9 1.9 4-4 1 1z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* ------------------------------
+   6) Quotes (quiet note blocks)
+------------------------------ */
+#write blockquote {
+  margin: 0 0 var(--block-space);
+  padding: 0.95rem 1.05rem;
+  color: var(--text-2);
+  background: var(--quote-bg);
+  border: 1px solid var(--quote-border);
+  border-left: 3px solid var(--quote-accent);
+  border-radius: var(--r-card);
+  box-shadow: none;
+}
+
+#write blockquote p {
+  margin: 0.45em 0;
+}
+
+#write blockquote > :first-child {
+  margin-top: 0;
+}
+
+#write blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* ------------------------------
+   7) Code (inline + fences)
+------------------------------ */
+#write code {
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  color: var(--text);
+  background: var(--inline-code-bg);
+  border: 1px solid var(--inline-code-border);
+  padding: 0.12em 0.34em;
+  border-radius: 6px;
+}
+
+#write .md-fences {
+  font-family: var(--font-mono);
+  font-size: 0.91rem;
+  background: var(--code-bg);
+  border: 1px solid var(--code-block-border);
+  border-radius: var(--r-card);
+  padding: 1rem 1.05rem;
+  margin: 0 0 var(--block-space);
+  overflow-x: auto;
+  box-shadow: none;
+}
+
+/* Optional: softer scrollbar inside code blocks */
+#write .md-fences::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+#write .md-fences::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 999px;
+}
+
+/* ------------------------------
+   8) Divider
+------------------------------ */
+#write hr {
+  border: 0;
+  border-top: 1px solid var(--rule-border);
+  margin: 2.2rem 0;
+}
+
+/* ------------------------------
+   9) Tables (card table)
+------------------------------ */
+#write .md-table,
+#write .md-table-fig,
+#write figure,
+#write .table-figure,
+#write .table-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 0 0 var(--block-space);
+  padding-bottom: 0.15rem;
+}
+
+#write table {
+  width: 100%;
+  min-width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0 0 var(--block-space);
+  border: 1px solid var(--table-border);
+  border-radius: var(--r-card);
+  box-shadow: none;
+  background: var(--page-bg);
+  table-layout: auto;
+}
+
+#write .md-table table,
+#write .md-table-fig table,
+#write .table-figure table,
+#write .table-wrapper table {
+  margin-bottom: 0;
+}
+
+#write th,
+#write td {
+  padding: 0.68rem 0.82rem;
+  border-bottom: 1px solid var(--table-cell-border-bottom);
+  border-right: 1px solid var(--table-cell-border-right);
+  vertical-align: top;
+  background-clip: padding-box;
+}
+
+#write th:last-child,
+#write td:last-child {
+  border-right: 0;
+}
+
+#write th {
+  background: var(--table-head-bg);
+  color: var(--text);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+#write tbody td {
+  background: var(--table-cell-bg);
+}
+
+#write tbody tr:nth-child(even) td {
+  background: var(--table-row-alt-bg);
+}
+
+#write tr:last-child td {
+  border-bottom: 0;
+}
+
+#write thead tr:first-child th:first-child {
+  border-top-left-radius: var(--r-card);
+}
+
+#write thead tr:first-child th:last-child {
+  border-top-right-radius: var(--r-card);
+}
+
+#write tbody tr:last-child td:first-child {
+  border-bottom-left-radius: var(--r-card);
+}
+
+#write tbody tr:last-child td:last-child {
+  border-bottom-right-radius: var(--r-card);
+}
+
+#write tbody tr:hover td {
+  background: var(--table-row-hover-bg);
+}
+
+.ty-table-edit {
+  margin-top: 0.45rem;
+  margin-left: 0;
+  padding: 0.22rem;
+  border: 1px solid var(--table-tool-border);
+  border-radius: 10px;
+  background: var(--table-tool-bg);
+  box-shadow: var(--shadow-card);
+}
+
+.ty-table-edit button {
+  border-radius: 8px;
+  color: var(--text);
+  transition:
+    background-color 160ms ease,
+    color 160ms ease;
+}
+
+.ty-table-edit button:hover,
+.ty-table-edit button:focus {
+  background: var(--control-hover-bg);
+  color: var(--text);
+  outline: none;
+}
+
+.md-table-resize-popover,
+.popover.md-table-resize-popover {
+  border: 1px solid var(--popover-border);
+  border-radius: 12px;
+  background: var(--popover-bg);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.1);
+}
+
+#typora-table-row-tracker,
+#typora-table-col-tracker {
+  color: var(--link);
+  opacity: 0.95;
+}
+
+.typora-table-insert-marker .fa {
+  color: var(--link);
+  text-shadow: 0 1px 6px var(--insert-marker-shadow);
+}
+
+/* ------------------------------
+   10) Images
+------------------------------ */
+#write img {
+  max-width: 100%;
+  border-radius: var(--r-card);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+#write .md-image.md-focus img,
+#write .md-image:hover img {
+  outline: 2px solid var(--image-focus-ring);
+  outline-offset: 2px;
+}
+
+#write .md-img-error {
+  border: 1px solid var(--image-error-border);
+  border-radius: var(--r-card);
+  background: var(--image-error-bg);
+}
+
+#write figcaption,
+#write .md-image + em,
+#write .md-image + .md-caption {
+  display: block;
+  margin-top: 0.45rem;
+  color: var(--text-2);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* ------------------------------
+   11) Footnotes / Meta / TOC (Typora-specific)
+------------------------------ */
+#write .md-meta-block,
+#write pre.md-meta-block {
+  margin: 0 0 var(--block-space);
+  padding: 0.9rem 1rem;
+  background: var(--meta-bg);
+  background-color: var(--meta-bg);
+  border: 1px solid var(--meta-border);
+  border-radius: var(--r-card);
+  color: var(--text-2);
+  box-shadow: none;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+#write .md-toc {
+  margin: 0 0 var(--block-space);
+  color: var(--text-2);
+}
+
+#write .md-toc a {
+  color: var(--text);
+  border-bottom: 1px solid transparent;
+}
+
+#write .md-toc a:hover {
+  border-bottom-color: var(--separator);
+}
+
+/* Footnote text */
+#write .footnotes,
+#write .md-footnote,
+#write .md-footnote-block,
+#write .footnote-line,
+#write .footnotes-area,
+#write .md-reverse-footnote-area {
+  color: var(--text-2);
+  font-size: 0.92rem;
+}
+
+/* ------------------------------
+   12) Typora editing chrome
+------------------------------ */
+.md-image > .md-meta,
+.md-img-error.md-image > .md-meta {
+  color: var(--text-2);
+  background: var(--meta-bg);
+  border-radius: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  padding: 0.12em 0.34em;
+}
+
+.md-tag,
+.md-comment,
+.md-def-name,
+.md-def-url {
+  color: var(--text-2);
+}
+
+.md-mathjax-midline,
+.md-inline-math script {
+  color: var(--link);
+  background: var(--meta-bg);
+}
+
+.mathjax-block > .code-tooltip,
+.enable-diagrams pre.md-fences[lang='sequence'] .code-tooltip,
+.enable-diagrams pre.md-fences[lang='flow'] .code-tooltip,
+.enable-diagrams pre.md-fences[lang='mermaid'] .code-tooltip {
+  bottom: -2.1em;
+}
+
+#typora-source {
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.cm-s-typora-default .cm-header,
+.cm-s-typora-default .cm-property,
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+  color: var(--link);
+}
+
+.cm-s-typora-default .cm-comment,
+.cm-s-typora-default .cm-quote,
+.cm-s-typora-default .cm-meta {
+  color: var(--text-2);
+}
+
+.cm-s-typora-default .cm-string,
+.cm-s-typora-default .cm-link {
+  color: var(--link);
+}
+
+.cm-s-typora-default .cm-keyword {
+  color: var(--syntax-keyword);
+}
+
+.cm-s-typora-default .cm-string,
+.cm-s-typora-default .cm-string-2 {
+  color: var(--syntax-string);
+}
+
+.cm-s-typora-default .cm-number {
+  color: var(--syntax-number);
+}
+
+.cm-s-typora-default .cm-variable,
+.cm-s-typora-default .cm-variable-2,
+.cm-s-typora-default .cm-variable-3,
+.cm-s-typora-default .cm-def {
+  color: var(--syntax-variable);
+}
+
+.cm-s-typora-default .cm-operator,
+.cm-s-typora-default .cm-punctuation,
+.cm-s-typora-default .cm-bracket {
+  color: var(--syntax-operator);
+}
+
+.cm-s-typora-default .cm-atom,
+.cm-s-typora-default .cm-builtin {
+  color: var(--syntax-atom);
+}
+
+.cm-s-typora-default .cm-tag {
+  color: var(--syntax-tag);
+}
+
+.cm-s-typora-default .cm-attribute,
+.cm-s-typora-default .cm-qualifier {
+  color: var(--syntax-attribute);
+}
+
+.cm-s-typora-default .cm-error {
+  color: var(--syntax-error);
+}
+
+.CodeMirror-activeline-background,
+.cm-s-typora-default .CodeMirror-activeline-background {
+  background: var(--fill);
+}
+
+#typora-sidebar,
+.mac-seamless-mode #typora-sidebar {
+  background: var(--side-bar-bg-color);
+  color: var(--text);
+}
+
+.outline-title-wrapper,
+.file-list-item,
+.file-node-content {
+  color: var(--text);
+}
+
+.outline-item:hover,
+.file-node-content:hover {
+  background: var(--item-hover-bg-color);
+  color: var(--item-hover-text-color);
+}
+
+.active-file,
+.file-list-item.active,
+.file-node-content.active,
+.outline-item-active .outline-item,
+.outline-item.active {
+  background: var(--active-file-bg-color);
+  color: var(--active-file-text-color);
+}
+
+.outline-expander::before,
+.file-node-icon,
+.file-node-open-state,
+.file-list-item-summary,
+.file-list-item-time,
+.file-list-item-parent-loc {
+  color: var(--control-text-color);
+}
+
+#typora-quick-open,
+.auto-suggest-container,
+.context-menu,
+#spell-check-panel,
+#footer-word-count-info,
+.modal-content {
+  background: var(--popover-bg);
+  color: var(--text);
+  border-color: var(--popover-border);
+}
+
+#typora-quick-open input,
+#md-searchpanel input,
+.modal-content input {
+  background: var(--page-bg);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.btn,
+.dropdown-menu .btn,
+.md-toc .btn,
+.modal-content .btn {
+  color: var(--control-text-color);
+}
+
+.btn:hover,
+.btn:focus,
+.dropdown-menu .btn:hover,
+.dropdown-menu .btn:focus,
+.md-toc .btn:hover,
+.md-toc .btn:focus,
+.modal-content .btn:hover,
+.modal-content .btn:focus {
+  background: var(--control-hover-bg);
+  color: var(--control-text-hover-color);
+  outline: none;
+}
+
+.typora-quick-open-item.active,
+.typora-quick-open-item:hover,
+.auto-suggest-container li.active,
+.auto-suggest-container li:hover {
+  background: var(--link);
+  color: #ffffff;
+}
+
+#md-searchpanel {
+  background: var(--page-bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.dropdown-menu .divider,
+.context-menu .divider {
+  border-color: var(--border);
+  opacity: 0.6;
+}
+
+footer {
+  color: var(--text-2);
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+
+  body {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  #write {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  #write h1,
+  #write h2,
+  #write h3,
+  #write h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  #write blockquote,
+  #write pre,
+  #write .md-fences,
+  #write table,
+  #write img {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  #write a {
+    color: #000000;
+    border-bottom-color: transparent;
+  }
+
+  #write table {
+    border-collapse: collapse;
+  }
+
+  #write th,
+  #write td {
+    border: 1px solid #d0d0d0;
+  }
+
+  #write img {
+    max-height: 70vh;
+    box-shadow: none;
+  }
+}

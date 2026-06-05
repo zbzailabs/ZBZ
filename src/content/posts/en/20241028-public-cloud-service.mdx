@@ -1,0 +1,51 @@
+---
+title: "Declining Cloud Service Quality: Discussing the Current State and Responses through Customer Service Experiences with Tencent Cloud and Alibaba Cloud"
+description: "Due to a significant decline in the customer service quality of Tencent Cloud and Alibaba Cloud, many technical issues cannot currently be effectively resolved through bots or human customer support. The unfamiliarity of support staff with their own business, outdated technical documentation, and misunderstandings regarding ICP registration reflect a severe impact on service quality amidst cost-cutting and the transition to AI. For non-mainstream businesses, hybrid cloud or off-cloud solutions may be considered."
+category: "startup"
+tags:
+  - "reflect"
+  - "management"
+  - "risk"
+pubDate: 2024-10-09
+authors:
+  - default
+heroImage: "https://cos.zbz.ai/images/202410090958942.avif"
+heroImageAlt: "DiMi - Hongmeng is still far from productivity"
+heroImageWidth: 1960
+heroImageHeight: 1102
+draft: false
+featured: false
+locale: en
+---
+
+import OptimizedPicture from "@/components/features/OptimizedPicture.astro";
+
+Recently, due to the need to expand the company's overseas business, I had to purchase relevant products and services from Tencent Cloud and Alibaba Cloud. During this process, I encountered some issues that required consulting customer support. Looking back over a year ago, it was still relatively easy to contact customer support; when encountering problems, one could directly communicate with staff through online chat or phone. However, now both companies’ pre-sales and after-sales services have evolved into a stage where it is necessary to go through a customer service chatbot first.
+
+Due to the outdated technical documentation of cloud service platforms, many issues cannot be satisfactorily resolved through customer service bots. Even when using generative AI, its responses are often repetitive and ineffective clichés, and the official technical documentation provided is already outdated and cannot meet current business needs. In the end, it is still necessary to transfer to human customer service, and when finally reaching human support, one finds that their service level is even worse than the bots.
+
+For example, I once asked Tencent Cloud customer service whether the Tencent Edge Security Acceleration Platform EO supports root domain acceleration. Not only did the support give a negative answer, but they also questioned, "Why would you have such a need?" In fact, Tencent Cloud EO does support root domain acceleration, as clearly stated in the platform's operating instructions. At the time, since my domain was hosted on Cloudflare, Cloudflare's root domain acceleration had technical defects, resulting in verification failure through CNAME. After migrating the domain to Tencent Cloud's DNSPod, the verification was successfully completed. As a leading cloud service provider in China, Tencent Cloud's service level should reach first-class standards, but now it is difficult to even be considered third-class. The customer service staff are unfamiliar with their own products and business, lack professional conduct when providing external services, and do not even use basic polite language, instead adopting an arrogant attitude towards customers.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410090957748.avif"
+  alt="Tencent Cloud customer service"
+  width={1960}
+  height={1102}
+/>
+
+Another example is the ICP registration for domains, a prerequisite for expanding online business in China. This year, the rapid development of AI has increased the popularity of .ai domains, but since the operator of the .ai root domain has not set up a branch in China, Chinese companies cannot complete ICP registration for .ai domains. In August, Alibaba Cloud International launched .ai domain registration, so I consulted Alibaba Cloud International customer service to inquire whether .ai domains could be registered for ICP. The customer service staff confidently replied that it was supported, but I was skeptical because, as of today (October 9, 2024), the Ministry of Industry and Information Technology’s website does not include the .ai domain in the list of registrable domains. Later, through other channels, it was confirmed that the MIIT indeed does not yet support .ai domain registration, but some companies have managed to complete .ai domain registration through special means. Interested parties can check the MIIT ICP registration management system. It is truly surprising how unfamiliar Alibaba Cloud's customer service staff are with the ICP system.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410091000272.avif"
+  alt="Alibaba Cloud customer service"
+  width={1960}
+  height={1102}
+/>
+
+Why has the service quality of Tencent Cloud and Alibaba Cloud deteriorated from being satisfactory to the current dismal state? There could be several reasons:
+
+1. Both companies have already secured leading positions in the cloud service market, and the development of some general functions has reached maturity. Due to the impact of the economic environment, the number of new users has decreased, cloud business growth has slowed, and Tencent and Alibaba have started to reduce costs, initially by cutting back on peripheral services.
+2. Companies are transitioning towards AI, trying to use AI to handle after-sales service, thereby relegating human customer service to a supporting role, which has led to a decline in overall service quality.
+3. Perhaps I was personally unlucky and happened to encounter two customer service representatives unfamiliar with their own business, but this explanation seems somewhat far-fetched.
+
+How can we deal with the continuously declining service quality? Coincidentally, I recently heard Gao Chunhui from IPIP.Net share his company's experience of going off the cloud and renting physical servers in data centers (IDCs) on the "TechFusion" podcast. For businesses not targeting the general public but corporate clients, considering hybrid cloud or direct off-cloud solutions might be a feasible way to cope with the current cloud service dilemma.

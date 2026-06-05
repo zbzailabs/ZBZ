@@ -1,0 +1,29 @@
+---
+title: "The Evolution Path of Project-Based and Product-Based Companies"
+description: "Project-based companies lack value, while product-based companies have"
+category: "startup"
+tags:
+  - "reflect"
+  - "strategy"
+  - "model"
+pubDate: 2024-07-23
+authors:
+  - default
+heroImage: "https://cos.zbz.ai/images/202407241014619.avif"
+heroImageAlt: "The Evolution Path of Project-Based and Product-Based Companies"
+heroImageWidth: 1960
+heroImageHeight: 1102
+draft: false
+featured: false
+locale: en
+---
+
+Today, I visited a build, Company A, founded in 2018, and Hikvision. Company A engages in software information integration, labeling real-time video to help clients monitor illegal constructions, ecological protection, and grain-related issues. All their clients are government entities. Their business model is simple: PR → project acquisition → project delivery. Most projects are directly delivered to clients, with on-site personnel assigned if needed. Although they claim to use AI to automate their business, some tasks still rely on manual verification. Thanks to strong government relationships, they generate tens of millions in annual revenue.
+
+Company A's video labeling capability actually comes from Hikvision, so we also visited Hikvision. In Hikvision's showroom, an intuitive image vividly displayed their product line, showing how they have developed products across different wavelengths around optical applications. From ultraviolet to centimeter waves, Hikvision has leading products in nearly every category. Although many people know Hikvision as a surveillance company, it actually excels in various specialized fields, making it a focused and tech-driven enterprise.
+
+Although Company A and Hikvision are not directly comparable, there are some enlightening patterns in company development that can be observed. First, let's talk about the development logic of project-based companies. One, the gross profit margin for projects can be very high. For instance, Company A has projects worth tens of millions, with costs only in the millions. Such high margins result from meeting client needs, particularly when the clients are government entities. When the project unit leaders, their superiors, and the grassroots personnel using the company's products are all satisfied, the client is considered satisfied. In these cases, the client doesn't care about the company's R&D capabilities or product strength; they just need a feasible solution to their problem. Once the problem is solved, the client is satisfied. Two, the core competitiveness of a project company lies in its strong business capability, especially in the To-G (government) sector. Government clients often face heavy workloads and hope to improve efficiency through digital solutions, so companies usually develop projects based on client demands. As a result, if Company A can do it, so can Company B. Even large IT companies like Huawei, Tencent, and Alibaba have dedicated divisions for To-G business. Additionally, local information integrators may also take on government digital projects. Therefore, To-G digital projects often become a three-way battle, and it’s hard to predict who will win until the contract is signed. Sometimes, even the company that helped the government draft the tender document might unexpectedly lose out. Ultimately, the real test for project companies is their business capability. A company with strong business acumen that can maintain control over the project from start to finish is more likely to win the bid. In the To-G sector, business capability often hinges on identifying key decision-makers. If Company A has connections with the department head, Company B knows the deputy mayor, and Company C has ties with the governor, the ensuing competition can be subtle.
+
+In summary, developing a project-based company is challenging, and it’s hard to scale up such a company for several reasons. One, project-based business lacks sustainability and is unstable year-to-year. Two, project construction often requires upfront investment, with long payment cycles and potential bad debts. Three, project maintenance can be costly, and while contract amounts may be high, actual gross margins are often low. Four, project engineering lacks economies of scale and marginal effects; more projects mean higher costs. Therefore, in the secondary market, companies focused on engineering and projects usually have low valuations, such as Zhongjia Bochuang, which maintains telecom base stations, or Meiri Interact, which pushes government-enterprise projects.
+
+Now, let’s look at product-based companies like Hikvision. To grow, the first thing needed is a core product. Hikvision developed a series of optical products through research and development, meeting the needs of various sectors, including government, enterprises, and consumers. The core logic behind their growth and competitiveness is first developing a series of mature products and then using these core products to offer solutions, such as security systems, road traffic systems, and smart buildings, to various clients. They rely on these core products to build their core competitiveness. Then, they expand their product line by developing more upstream and downstream products around the established core technologies. Second, they build a comprehensive sales network. Hikvision’s sales network consists of headquarters, regional subsidiaries, and regional agents. Headquarters are responsible for strategy, resource allocation, product development, and industry investment decisions. Regional subsidiaries handle customer service and intelligence gathering within their regions, while regional agents are responsible for project acquisition and product sales. Each unit performs its role, collectively serving the clients.

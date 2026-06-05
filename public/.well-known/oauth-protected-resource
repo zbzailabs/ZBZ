@@ -1,0 +1,14 @@
+{
+  "resource": "https://realrip.com",
+  "authorization_servers": [
+    "https://realrip.com"
+  ],
+  "scopes_supported": [
+    "content.read",
+    "x402.pay"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ],
+  "resource_documentation": "https://realrip.com/auth.md"
+}

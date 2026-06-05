@@ -1,0 +1,206 @@
+.cwd-comments-container {
+  --cwd-bg: transparent;
+  --cwd-bg-secondary: hsl(240 5% 96%);
+  --cwd-bg-input: hsl(0 0% 100%);
+  --cwd-bg-hover: hsl(240 5% 92%);
+  --cwd-bg-reply: hsl(240 5% 96%);
+  --cwd-border: hsl(240 6% 90%);
+  --cwd-border-light: hsl(240 6% 94%);
+  --cwd-primary: hsl(240 6% 10%);
+  --cwd-primary-hover: hsl(240 4% 24%);
+  --cwd-text: hsl(240 10% 4%);
+  --cwd-text-secondary: hsl(240 4% 46%);
+  --cwd-radius: 10px;
+
+  font-family:
+    system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.cwd-comments-container * {
+  box-sizing: border-box;
+}
+
+.cwd-comments-container[data-theme="dark"] {
+  --cwd-bg: transparent;
+  --cwd-bg-secondary: hsl(240 4% 16%);
+  --cwd-bg-input: hsl(240 4% 16%);
+  --cwd-bg-hover: hsl(240 4% 22%);
+  --cwd-bg-reply: hsl(240 4% 18%);
+  --cwd-border: hsl(0 0% 100% / 10%);
+  --cwd-border-light: hsl(0 0% 100% / 8%);
+  --cwd-primary: hsl(0 0% 90%);
+  --cwd-primary-hover: hsl(0 0% 100%);
+  --cwd-text: hsl(0 0% 98%);
+  --cwd-text-secondary: hsl(0 0% 64%);
+}
+
+.cwd-comment-form {
+  display: grid;
+  grid-template-areas:
+    "editor"
+    "footer";
+  gap: 6px;
+  padding: 16px 18px 12px;
+  background: var(--cwd-bg-input);
+  border: 1px solid var(--cwd-border);
+  border-radius: 28px;
+  box-shadow: none;
+}
+
+.cwd-form-title {
+  display: none;
+}
+
+.cwd-form-fields {
+  display: contents;
+}
+
+.cwd-form-fields > .cwd-form-field {
+  grid-area: editor;
+}
+
+.cwd-form-row {
+  grid-area: footer;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  align-items: center;
+  min-width: 0;
+  padding-right: 52px;
+}
+
+.cwd-form-row .cwd-form-field {
+  width: auto !important;
+  min-width: 0;
+}
+
+.cwd-form-row .cwd-form-label {
+  display: none;
+}
+
+.cwd-comment-form .cwd-form-label {
+  display: none;
+}
+
+.cwd-form-input,
+.cwd-form-textarea,
+.cwd-reply-textarea {
+  width: 100%;
+  max-width: 100%;
+  color: var(--cwd-text) !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.cwd-form-input:focus,
+.cwd-form-textarea:focus,
+.cwd-reply-textarea:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.cwd-form-input {
+  height: 40px;
+  padding: 0;
+  font-size: 13px;
+}
+
+.cwd-form-textarea {
+  min-height: 72px;
+  padding: 0;
+  font-size: 16px;
+  resize: none;
+}
+
+.cwd-form-input::placeholder,
+.cwd-form-textarea::placeholder {
+  color: var(--cwd-text-secondary);
+}
+
+.cwd-form-actions {
+  grid-area: footer;
+  display: flex;
+  justify-self: end;
+  align-self: center;
+  margin-top: 0;
+  transform: translateY(-1px);
+  gap: 0;
+}
+
+.cwd-btn-preview,
+.cwd-preview-container {
+  display: none !important;
+}
+
+.cwd-form-actions .cwd-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  min-width: 40px;
+  height: 40px;
+  padding: 0;
+  overflow: hidden;
+  font-size: 0;
+  color: var(--cwd-bg-input);
+  background: var(--cwd-primary);
+  border: 0;
+  border-radius: 999px;
+}
+
+.cwd-form-actions .cwd-btn-primary::before {
+  content: "\2191";
+  font-size: 20px;
+  line-height: 1;
+}
+
+.cwd-form-actions .cwd-btn-primary:hover:not(:disabled) {
+  background: var(--cwd-primary-hover);
+}
+
+.cwd-form-actions .cwd-btn-primary:disabled {
+  opacity: 0.45;
+}
+
+.cwd-comments-count {
+  margin-top: 28px;
+}
+
+.cwd-comment-item {
+  border-color: var(--cwd-border-light);
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+@media (max-width: 640px) {
+  .cwd-comment-form {
+    grid-template-areas:
+      "editor editor"
+      "footer footer";
+    grid-template-columns: minmax(0, 1fr) 40px;
+    gap: 6px;
+    padding: 16px;
+    border-radius: 24px;
+  }
+
+  .cwd-form-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2px;
+    padding-right: 0;
+  }
+
+  .cwd-form-actions {
+    grid-area: footer;
+    justify-self: end;
+    align-self: end;
+    transform: none;
+  }
+
+  .cwd-form-input,
+  .cwd-form-textarea,
+  .cwd-reply-textarea {
+    font-size: 16px;
+  }
+}

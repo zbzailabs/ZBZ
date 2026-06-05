@@ -1,0 +1,27 @@
+---
+title: "How Startups Fail"
+description: "Eighty percent of startups will fail within 2 years, and most of the remaining twenty percent will only struggle. Brave entrepreneurs succeed one after another, and they will not hesitate even if they are crushed to pieces. Entrepreneurial failure does not mean life failure, it is only recorded for warning."
+category: "startup"
+tags:
+  - "innovation"
+pubDate: 2025-10-07
+heroImage: "https://cos.zbz.ai/images/202309270929912.avif"
+heroImageAlt: "RealRip-How Startups Fail"
+heroImageWidth: 1960
+heroImageHeight: 1102
+authors:
+  - default
+draft: false
+featured: false
+locale: en
+---
+
+Eighty percent of startups will fail within 2 years, and most of the remaining twenty percent will only struggle. Brave entrepreneurs succeed one after another, and they will not hesitate even if they are crushed to pieces. Entrepreneurial failure does not mean life failure, it is only recorded for warning.
+
+Mr. Walnut was a top student in computer science. During his time at school, he used laboratory technology to develop a low-cost commodity traceability system and became a school entrepreneurial star. He established a company, successfully raised financing, frequently attended various entrepreneurial activities, and was in the limelight for a while. One day in the second half of 2018, Mr. Walnut sent me a message: The company closed. I was stunned for a moment. It turned out that his company's customer base was inspection and quarantine import and export departments in various places. Later, with the reform of major ministries, inspection and quarantine was put under the General Administration of Customs from the Quality Supervision Bureau. The original physical inventory was all scrapped, business channels were also disrupted, and new business was difficult to expand for a while. After holding on for a few months, there was no choice but to close the company after the money ran out.
+
+Mr. Chunshen is an entrepreneurial veteran. Speaking of his first entrepreneurial failure, he is still emotional. After graduating from university, he was assigned to a state-owned enterprise in the north. He saw that the southerners who came to the company to discuss business had no education or skills, but their pockets were bulging. Looking at himself, he had skills and capabilities, but he lived a life where he could see the end at a glance. After thinking about it, he resigned and founded his own company, producing the same products as his old employer. The quality of the products was no different from those produced in the original company, but customers just didn't recognize it. Customers said they recognized the factory but not the person. As a last resort, he had to supply the valves he produced to his old employer at a low price, and unwillingly became a foundry for his old employer. Later, the old employer's efficiency became worse and worse, and his own workers were idle to death, and there was no need for outside outsourcing. After losing his backer, Mr. Chunshen came to Shenzhen alone, starting from the smallest products and customers, and after more than 20 years of hard work, he gradually built up his own enterprise. Now, he has gradually faded out of the front line, handed over the company to his apprentices to manage, and lived in a small town in the United States with his family for a long time, fishing and watching his grandchildren.
+
+Mr. Daoqi, a taxi driver in Hangzhou, his hometown is in western Zhejiang. Every year after work, he comes to the Quzhou restaurant downstairs to drink some old wine. I often go to the store to eat dry noodles, and we got to know each other after going back and forth. Mr. Daoqi doesn't like to talk, and likes to swipe Douyin and watch young and beautiful internet celebrities pout and act cute while sipping old wine. Once I sat at the same table with Mr. Daoqi. Mr. Daoqi was watching a live broadcast of a little brother. "Don't be cowardly, just do it. If you win, you will have a young model in the club. If you lose, you will go to the sea to work," the internet celebrity little brother roared. Hearing this, Daoqi couldn't help slapping the table, "Damn, this is a portrayal of me," he said while quickly typing a row of 666 to give to the little brother. I asked, "Old Dao, do you have a story?" Old Dao took a sip of wine and said faintly, "Back then, I set up an umbrella processing factory in the village. There were two hundred workers at most, and half of the villagers worked for me. Once a customer doing foreign trade invited me to visit his company in Dongguan. In the evening, he took me to experience a Dongguan-style service. From then on, I fell in love with the feeling of being an emperor. I often went to Guangdong and Shenzhen for entertainment in the name of business trips. My mind was gradually not on the company, and the business shrank year by year. The workers decreased from two hundred to one hundred, and then to 50. After the bankruptcy, I came to become a taxi driver."
+
+Postscript: Charlie Munger, throughout his life, has been continuously collecting and studying famous failure cases in various fields such as various people, companies in various industries, and government regulations, academic research, etc., and arranged the reasons for those failures into a checklist before making decisions, which made him almost never make major mistakes in decision-making.

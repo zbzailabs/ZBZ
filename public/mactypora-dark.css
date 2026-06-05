@@ -1,0 +1,96 @@
+/**
+ * Pages-like (macOS) Typora Theme — CN Focus Dark
+ * Imports mactypora.css and overrides only dark color tokens.
+ */
+
+@import './mactypora.css';
+
+:root {
+  --app-bg: #17181b;
+  --page-bg: #222327;
+
+  --text: rgba(255, 255, 255, 0.9);
+  --text-2: rgba(255, 255, 255, 0.68);
+  --text-3: rgba(255, 255, 255, 0.46);
+
+  --link: #74b4ff;
+
+  --separator: rgba(255, 255, 255, 0.1);
+  --border: rgba(255, 255, 255, 0.08);
+  --fill: rgba(255, 255, 255, 0.045);
+  --meta-bg: #2b2c31;
+  --code-bg: #27292d;
+  --code-border: rgba(255, 255, 255, 0.08);
+
+  --quote-accent: rgba(174, 174, 178, 0.28);
+
+  --shadow-page: 0 1px 2px rgba(0, 0, 0, 0.28), 0 12px 32px rgba(0, 0, 0, 0.24);
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.24);
+
+  --selection: rgba(10, 132, 255, 0.28);
+
+  --bg-color: var(--app-bg);
+  --text-color: var(--text);
+  --side-bar-bg-color: var(--app-bg);
+  --control-text-color: var(--text-2);
+  --control-text-hover-color: var(--text);
+  --select-text-bg-color: var(--selection);
+  --select-text-font-color: var(--text);
+  --item-hover-bg-color: var(--fill);
+  --item-hover-text-color: var(--text);
+  --active-file-bg-color: var(--page-bg);
+  --active-file-text-color: var(--text);
+  --window-border: 1px solid var(--border);
+  --primary-color: var(--link);
+  --rawblock-edit-panel-bd: var(--border);
+  --search-select-bg-color: var(--link);
+
+  --page-border: rgba(255, 255, 255, 0.07);
+  --link-hover: #9bcaff;
+  --link-underline: rgba(116, 180, 255, 0.55);
+  --checkbox-border: rgba(255, 255, 255, 0.09);
+  --checkbox-bg: rgba(34, 35, 39, 0.92);
+  --quote-bg: #292a2f;
+  --quote-border: rgba(255, 255, 255, 0.07);
+  --inline-code-bg: rgba(43, 44, 49, 0.72);
+  --inline-code-border: rgba(255, 255, 255, 0.06);
+  --code-block-border: rgba(255, 255, 255, 0.08);
+  --scrollbar-thumb: rgba(255, 255, 255, 0.22);
+  --rule-border: rgba(255, 255, 255, 0.09);
+  --table-border: rgba(255, 255, 255, 0.14);
+  --table-cell-border-bottom: rgba(255, 255, 255, 0.1);
+  --table-cell-border-right: rgba(255, 255, 255, 0.09);
+  --table-head-bg: #2c2d32;
+  --table-cell-bg: #232428;
+  --table-row-alt-bg: #292a2f;
+  --table-row-hover-bg: #303137;
+  --table-tool-border: rgba(255, 255, 255, 0.14);
+  --table-tool-bg: #24252a;
+  --control-hover-bg: rgba(255, 255, 255, 0.05);
+  --popover-border: rgba(255, 255, 255, 0.16);
+  --popover-bg: #24252a;
+  --insert-marker-shadow: rgba(116, 180, 255, 0.32);
+  --meta-border: rgba(255, 255, 255, 0.07);
+
+  --syntax-keyword: #d7a8ff;
+  --syntax-string: #a9d99d;
+  --syntax-number: #f0c674;
+  --syntax-variable: rgba(255, 255, 255, 0.88);
+  --syntax-operator: rgba(255, 255, 255, 0.62);
+  --syntax-atom: #c7b6ff;
+  --syntax-tag: #f3a683;
+  --syntax-attribute: #9bdcff;
+  --syntax-error: #ff8a8a;
+
+  --image-focus-ring: rgba(116, 180, 255, 0.36);
+  --image-error-bg: #352124;
+  --image-error-border: rgba(255, 138, 138, 0.28);
+}
+
+html {
+  color-scheme: dark;
+}
+
+#write img {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.24);
+}

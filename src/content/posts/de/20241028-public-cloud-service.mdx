@@ -1,0 +1,51 @@
+---
+title: "Abfallende Servicequalität in der Cloud-Branche: Ein Blick auf die aktuelle Lage und mögliche Reaktionen anhand der Kundendienst-Erfahrung mit Tencent Cloud und Alibaba Cloud"
+description: "Aufgrund des signifikanten Rückgangs der Servicequalität bei Tencent Cloud und Alibaba Cloud ist es derzeit schwer, technische Probleme effizient über Chatbots oder menschlichen Support zu lösen. Das fehlende Fachwissen der Kundendienstmitarbeiter, veraltete technische Dokumentationen sowie Missverständnisse bezüglich der ICP-Lizenzierung spiegeln wider, dass die Servicequalität unter Kostensenkungen und dem Übergang zur KI stark gelitten hat. Für weniger verbreitete Anwendungsfälle könnten hybride Cloud-Lösungen oder ein Ausstieg aus der Cloud erwogen werden."
+category: "startup"
+tags:
+  - "reflect"
+  - "management"
+  - "risk"
+pubDate: 2024-10-09
+authors:
+  - default
+heroImage: "https://cos.zbz.ai/images/202410090958942.avif"
+heroImageAlt: "Kompass - Hongmeng ist noch weit von der Produktivität entfernt"
+heroImageWidth: 1960
+heroImageHeight: 1102
+draft: false
+featured: false
+locale: de
+---
+
+import OptimizedPicture from "@/components/features/OptimizedPicture.astro";
+
+In letzter Zeit, bedingt durch den Bedarf der Firma, das Geschäft international auszubauen, musste ich entsprechende Produkte und Dienstleistungen bei Tencent Cloud und Alibaba Cloud erwerben. In diesem Prozess stieß ich auf einige Fragen, die eine Beratung durch den Kundensupport erforderten. Vor über einem Jahr war es noch relativ einfach, den Support zu kontaktieren; bei Problemen konnte man direkt mit einem Mitarbeiter über Telefon oder Online-Chat kommunizieren. Heutzutage jedoch führen die Vor- und Nachverkaufsservices beider Unternehmen zunächst durch den Kontakt mit Chatbots.
+
+Da die technischen Dokumentationen der Cloud-Service-Plattformen veraltet sind, können viele Fragen durch die Chatbots nicht zufriedenstellend beantwortet werden. Selbst bei der Verwendung von generativer KI fallen die Antworten meist in stereotype, nicht hilfreiche Floskeln zurück, und die bereitgestellten offiziellen technischen Dokumente sind veraltet und für aktuelle Geschäftsanforderungen nicht geeignet. Am Ende muss man sich dennoch an einen menschlichen Kundendienst wenden, und selbst dann ist das Service-Niveau oft unterhalb der der Chatbots.
+
+Beispielsweise fragte ich einmal den Tencent Cloud-Support, ob die Tencent Edge Security Acceleration Platform EO die Beschleunigung der Root-Domain unterstützt. Der Support gab nicht nur eine negative Antwort, sondern stellte auch die Frage: „Wieso sollte man ein solches Bedürfnis haben?“ Tatsächlich unterstützt die Tencent Cloud EO die Beschleunigung von Root-Domains, was in den Betriebshinweisen der Plattform klar dokumentiert ist. Zu der Zeit war meine Domain bei Cloudflare gehostet, und Cloudflares Root-Domain-Beschleunigung hatte technische Mängel, die zu einem Fehlschlag der Verifizierung über CNAME führten. Nachdem die Domain auf das Tencent-eigene DNSPod umgezogen war, konnte die Verifizierung erfolgreich abgeschlossen werden. Als führender Cloud-Service-Anbieter Chinas sollte die Servicequalität von Tencent Cloud auf höchstem Niveau sein, doch derzeit ist es nicht einmal mit durchschnittlichem Niveau zu vergleichen. Die Kundendienstmitarbeiter sind mit ihren Produkten und Dienstleistungen nicht vertraut, zeigen im Umgang mit Kunden kein professionelles Verhalten und verwenden nicht einmal die grundlegendsten Höflichkeitsfloskeln, sondern treten arrogant auf.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410090957748.avif"
+  alt="Tencent Cloud Kundendienst"
+  width={1960}
+  height={1102}
+/>
+
+Ein weiteres Beispiel ist die ICP-Lizenzierung für Domains, eine Voraussetzung für die Expansion von Internet-Geschäften in China. In diesem Jahr hat die rasante Entwicklung der KI zur Beliebtheit der .ai-Domains geführt, doch da der Betreiber der .ai-Root-Domain in China keine Niederlassung hat, können chinesische Unternehmen keine ICP-Lizenzierung für .ai-Domains durchführen. Im August hat Alibaba Cloud International die Registrierung von .ai-Domains eingeführt. Daraufhin fragte ich den internationalen Support von Alibaba Cloud, ob .ai-Domains bei Alibaba Cloud International für die ICP-Lizenzierung unterstützt werden. Der Support antwortete mit großer Zuversicht, dass dies unterstützt werde, aber ich zweifelte daran, da bis heute (9. Oktober 2024) die auf der Website des Ministeriums für Industrie und Informationstechnologie (MIIT) aufgeführten Domains die .ai-Domain nicht enthalten. Später konnte ich durch andere Kanäle bestätigen, dass das MIIT die .ai-Domain tatsächlich noch nicht unterstützt, aber einige Firmen konnten die Lizenzierung der .ai-Domain durch spezielle Wege erfolgreich abschließen. Interessierte können dies im ICP-Lizenzierungsmanagementssystem des MIIT nachprüfen. Es ist wirklich erstaunlich, wie wenig die Kundendienstmitarbeiter von Alibaba Cloud über das ICP-System Bescheid wissen.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410091000272.avif"
+  alt="Alibaba Cloud Kundendienst"
+  width={1960}
+  height={1102}
+/>
+
+Warum hat sich die Servicequalität von Tencent Cloud und Alibaba Cloud von zufriedenstellend auf das aktuelle, schlechte Niveau verschlechtert? Mögliche Gründe dafür könnten sein:
+
+1. Beide Unternehmen haben bereits Spitzenpositionen im Cloud-Service-Markt eingenommen, und die Entwicklung einiger allgemeiner Funktionen ist weit fortgeschritten. Aufgrund der wirtschaftlichen Lage sinkt die Zahl der neuen Benutzer, und das Wachstum der Cloud-Dienste verlangsamt sich. Tencent und Alibaba haben begonnen, Kosten zu senken und den Außendienst zu reduzieren.
+2. Unternehmen wechseln zur Nutzung von KI, um den Kundendienst durch KI-Lösungen zu ersetzen. Die Rolle des menschlichen Supports wird auf eine unterstützende Funktion reduziert, was zu einem Rückgang der Gesamtqualität führt.
+3. Vielleicht hatte ich einfach nur Pech und bin auf zwei uninformierte Kundendienstmitarbeiter gestoßen. Diese Erklärung wirkt jedoch etwas fadenscheinig.
+
+Wie geht man mit der stetig sinkenden Servicequalität um? Kürzlich hörte ich in einem Podcast von „Tech-Fusion“, in dem Gao Chunhui von IPIP.Net seine Erfahrungen mit dem Rückzug aus der Cloud und der Nutzung physischer Server in einem Rechenzentrum (IDC) teilte. Für Geschäftsmodelle, die sich nicht an die breite Öffentlichkeit, sondern an Unternehmenskunden richten, könnte die Nutzung einer hybriden Cloud oder ein Rückzug aus der Cloud in Erwägung gezogen werden. Dies könnte eine mögliche Lösung sein, um mit der aktuellen Cloud-Service-Krise umzugehen.

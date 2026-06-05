@@ -1,0 +1,27 @@
+---
+title: "De la participation à la confiance : la nécessité et la voie du succès de la participation des clients au développement de nouveaux produits"
+description: "Instaurer la confiance, une connaissance commune de l'industrie et l'expérience de peaufiner ensemble d'excellents produits sont les clés pour approfondir la coopération entre les deux parties. De plus, pour réussir, des recherches sectorielles doivent être effectuées pour les décisions d'investissement dans les produits, et les codes de richesse doivent être obtenus grâce à une réflexion approfondie."
+category: "startup"
+tags:
+  - "reflect"
+pubDate: 2023-01-10
+heroImage: "https://cos.zbz.ai/images/202310031546136.avif"
+heroImageAlt: "RealRip-De la participation à la confiance"
+heroImageWidth: 1960
+heroImageHeight: 1102
+authors:
+  - default
+draft: false
+featured: false
+locale: "fr"
+---
+
+Au cours de la première semaine de la nouvelle année, j'ai rendu visite au client. Le client a sorti le plan de production de cette année pour discussion et a rapidement finalisé le plan de coopération avec nous pour cette année, ce qui peut être considéré comme un bon début pour 2023. Nous coopérons avec ce client depuis trois ans. Au cours des trois années, nous sommes partis de zéro et le client a également grandi étape par étape. De la méfiance au début au partage de la technologie de base les uns avec les autres plus tard, cette confiance n'a pas été facile, surtout dans le développement de nos produits, le client était prêt à servir de cobaye et a apporté une aide désintéressée. Les produits testés avec succès avec le client devraient être promus dans l'ensemble de l'industrie. Désormais, les deux parties sont passées de simples parties A et B à des partenaires. Les deux parties prévoient de coopérer profondément cette année pour promouvoir ce produit.
+
+La raison pour laquelle les deux parties peuvent approfondir leur coopération étape par étape, en plus de la confiance et de la connaissance commune de l'industrie, il y a un autre point très important, c'est qu'elles ont poli conjointement un excellent produit. Dans la coopération à long terme, une entente tacite s'est formée et une amitié de combat côte à côte s'est formée. Ce mode de polissage conjoint de nouveaux produits peut être popularisé en tant que stratégie importante pour le développement de l'entreprise.
+
+Lors du développement de nouveaux produits, nous ne comprenons souvent pas les besoins finaux et les scénarios d'utilisation réels des clients. Il est facile de travailler à huis clos et de fabriquer finalement un produit avec une pseudo-demande, qui non seulement ne parviendra pas à obtenir la reconnaissance du marché, mais gaspillera également de précieuses ressources et opportunités de développement de l'entreprise. À ce moment-là, il est très nécessaire de laisser les clients participer au polissage du produit. Le client est un concept général. Pour polir le produit, nous devons être spécifiques aux personnes et nous devons choisir les utilisateurs finaux au sein du client. Eux seuls connaissent le mieux les exigences du produit. Pour créer des produits avec les clients, l'entreprise doit d'abord allouer des ressources spéciales aux projets coopératifs afin de garantir que le support technique nécessaire et une réponse rapide puissent être fournis. Deuxièmement, nous devons respecter pleinement l'indépendance, la créativité et l'initiative subjective du client. Troisièmement, nous devons assurer l'enthousiasme à long terme des clients grâce à des mécanismes d'incitation à long et à court terme.
+
+Qu'il s'agisse de développement de produits ou de décisions d'investissement, des recherches sectorielles doivent être effectuées. En écoutant le podcast Silicon Valley 101, j'ai entendu un résumé en une phrase de Zhang Lu, associé directeur de Fusion Fund, sur les raisons pour lesquelles la recherche sectorielle devrait être effectuée. Elle l'a très bien résumé. D'une part, faire de la recherche sectorielle, c'est comprendre le stade de développement de l'industrie et de la technologie, et d'autre part, c'est déterminer le moment du marché. Les institutions d'investissement et les institutions de conseil sont très disposées à partager des rapports de recherche. En tant qu'investisseurs ordinaires ou entrepreneurs, vous n'avez parfois pas besoin de le faire vous-même. Vous pouvez également obtenir les informations nécessaires sur l'industrie en lisant des rapports de recherche. Mais pour obtenir des informations sur l'industrie et des codes de richesse, vous devez réfléchir profondément vous-même.
+
+Par exemple, en ce qui concerne la blockchain et la crypto-monnaie, parce que l'industrie regorge de fraudes, associées à une réglementation stricte de l'industrie de la crypto-monnaie par divers pays et à l'éducation des investisseurs, il est facile de conclure que la crypto-monnaie est une arnaque sans recherche approfondie sur l'industrie. Mais si vous avez une compréhension approfondie de la différence entre la monnaie et l'argent, et comprenez ce que la blockchain et le Bitcoin signifient pour les Africains, les Asiatiques du Sud-Est et les Latino-Américains qui n'ont pas de comptes bancaires traditionnels, vous pouvez passer de haineux à fan. Pour les adorateurs aveugles de la blockchain et de la crypto-monnaie, s'ils lisent attentivement le livre blanc Bitcoin publié par Satoshi Nakamoto en 2008, ils fermeront les yeux sur les nombreux altcoins et les "livres blancs" à la mode sur le marché et éviteront les pièges d'investissement.

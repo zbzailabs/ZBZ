@@ -1,0 +1,51 @@
+---
+title: "Deterioro de la Calidad de los Servicios en la Nube: Analizando la Situación Actual y Respuestas a Través de las Experiencias con el Servicio al Cliente de Tencent Cloud y Alibaba Cloud"
+description: "Debido a un notable deterioro en la calidad del servicio al cliente de Tencent Cloud y Alibaba Cloud, actualmente muchos problemas técnicos no pueden resolverse de manera efectiva a través de bots o soporte humano. El desconocimiento del personal de soporte sobre su propio negocio, la documentación técnica desactualizada y los malentendidos en torno al registro de ICP reflejan un fuerte impacto en la calidad del servicio en medio de la reducción de costos y la transición hacia la IA. Para empresas con necesidades específicas, podrían considerarse soluciones de nube híbrida o alternativas fuera de la nube."
+category: "startup"
+tags:
+  - "reflect"
+  - "management"
+  - "risk"
+pubDate: 2024-10-09
+authors:
+  - default
+heroImage: "https://cos.zbz.ai/images/202410090958942.avif"
+heroImageAlt: "Brújula: Hongmeng aún está lejos de la productividad"
+heroImageWidth: 1960
+heroImageHeight: 1102
+draft: false
+featured: false
+locale: es
+---
+
+import OptimizedPicture from "@/components/features/OptimizedPicture.astro";
+
+Recientemente, debido a la necesidad de expandir el negocio de la empresa en el extranjero, tuve que adquirir productos y servicios relacionados en Tencent Cloud y Alibaba Cloud. Durante este proceso, me encontré con algunos problemas que requerían consultar al servicio de atención al cliente. Recordando hace poco más de un año, aún era relativamente sencillo contactar al servicio de atención al cliente; cuando surgían problemas, uno podía comunicarse directamente con el personal a través del chat en línea o por teléfono. Sin embargo, ahora los servicios de preventa y posventa de ambas empresas han evolucionado a un sistema en el que primero es necesario pasar por un chatbot de atención al cliente.
+
+Debido a la antigüedad de la documentación técnica de las plataformas de servicios en la nube, muchos problemas no pueden resolverse satisfactoriamente a través de bots de servicio al cliente. Incluso al usar inteligencia artificial generativa, las respuestas suelen ser clichés repetitivos e ineficaces, y la documentación técnica oficial proporcionada ya está desactualizada y no puede satisfacer las necesidades comerciales actuales. Al final, aún es necesario transferir la consulta a un servicio de atención al cliente humano, y cuando finalmente se logra contactar con el soporte humano, se descubre que el nivel de servicio es incluso peor que el de los bots.
+
+Por ejemplo, una vez pregunté al servicio de atención al cliente de Tencent Cloud si la Plataforma de Aceleración de Seguridad de Borde EO de Tencent admitía la aceleración de dominios raíz. El soporte no solo respondió negativamente, sino que también cuestionó: "¿Por qué tendrías esa necesidad?". En realidad, Tencent Cloud EO sí admite la aceleración de dominios raíz, como se indica claramente en las instrucciones de operación de la plataforma. En ese momento, dado que mi dominio estaba alojado en Cloudflare, la aceleración de dominios raíz de Cloudflare tenía defectos técnicos, lo que resultó en un fallo de verificación a través de CNAME. Después de migrar el dominio a DNSPod de Tencent Cloud, la verificación se completó con éxito. Como proveedor líder de servicios en la nube en China, el nivel de servicio de Tencent Cloud debería alcanzar estándares de primera clase, pero ahora es difícil considerarlo incluso de tercer nivel. El personal de atención al cliente no está familiarizado con sus propios productos y negocios, carece de comportamiento profesional al prestar servicios externos y ni siquiera utiliza un lenguaje básico de cortesía, adoptando en su lugar una actitud arrogante hacia los clientes.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410090957748.avif"
+  alt="Servicio al cliente de Tencent Cloud"
+  width={1960}
+  height={1102}
+/>
+
+Otro ejemplo es el registro ICP para dominios, un requisito previo para expandir negocios en línea en China. Este año, el rápido desarrollo de la inteligencia artificial ha aumentado la popularidad de los dominios .ai, pero como el operador del dominio raíz .ai no ha establecido una sucursal en China, las empresas chinas no pueden completar el registro ICP para dominios .ai. En agosto, Alibaba Cloud International lanzó el registro de dominios .ai, por lo que consulté con el servicio de atención al cliente internacional de Alibaba Cloud para preguntar si los dominios .ai se podían registrar para ICP. El servicio al cliente respondió con confianza que sí se admitía, pero dudé, porque hasta la fecha (9 de octubre de 2024), el sitio web del Ministerio de Industria y Tecnología de la Información no incluye el dominio .ai en la lista de dominios registrables. Más tarde, a través de otros canales, se confirmó que el MIIT de hecho aún no admite el registro de dominios .ai, pero algunas empresas han logrado completar el registro de dominios .ai mediante métodos especiales. Los interesados pueden consultar el sistema de gestión de registros ICP del MIIT. Es realmente sorprendente lo poco familiarizado que está el personal de atención al cliente de Alibaba Cloud con el sistema ICP.
+
+<OptimizedPicture
+  src="https://cos.zbz.ai/images/202410091000272.avif"
+  alt="Servicio al cliente de Alibaba Cloud"
+  width={1960}
+  height={1102}
+/>
+
+¿Por qué la calidad del servicio de Tencent Cloud y Alibaba Cloud ha pasado de ser satisfactoria a este lamentable estado actual? Podría haber varias razones:
+
+1. Ambas empresas ya han asegurado posiciones de liderazgo en el mercado de servicios en la nube, y el desarrollo de algunas funciones generales ha alcanzado la madurez. Debido al impacto del entorno económico, el número de nuevos usuarios ha disminuido, el crecimiento de los negocios en la nube se ha desacelerado y Tencent y Alibaba han comenzado a reducir costos, inicialmente recortando los servicios periféricos.
+2. Las empresas están en transición hacia la IA, tratando de utilizar la IA para gestionar el servicio posventa, relegando así el servicio al cliente humano a un papel secundario, lo que ha llevado a una disminución de la calidad general del servicio.
+3. Tal vez tuve mala suerte y me encontré con dos representantes de servicio al cliente que no estaban familiarizados con su propio negocio, pero esta explicación parece un poco forzada.
+
+¿Cómo se puede lidiar con la continua disminución de la calidad del servicio? Coincidentemente, recientemente escuché a Gao Chunhui de IPIP.Net compartir la experiencia de su empresa de dejar la nube y alquilar servidores físicos en centros de datos (IDC) en el pódcast "TechFusion". Para negocios que no se dirigen al público en general, sino a clientes corporativos, considerar la nube híbrida o soluciones fuera de la nube podría ser una forma factible de enfrentar el dilema actual de los servicios en la nube.

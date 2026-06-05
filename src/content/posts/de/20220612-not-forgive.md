@@ -1,0 +1,27 @@
+---
+title: "Kann nicht vergessen, kann nicht vergeben, kann nicht passieren"
+description: "Neben Wut gibt es Scham. Wenn weibliche Landsleute verletzt werden, was genau kann ich tun, wage ich zu tun und werde ich tun."
+category: "life"
+tags:
+  - "roam"
+pubDate: 2022-06-12
+heroImage: "https://cos.zbz.ai/images/202310281704596.avif"
+heroImageAlt: "RealRip-"
+heroImageWidth: 1960
+heroImageHeight: 1102
+authors:
+  - default
+draft: false
+featured: false
+locale: "de"
+---
+
+Am frühen Morgen des 10. Juni ereignete sich in Tangshan, Hebei, ein abscheulicher Vorfall, bei dem eine Frau ohne Grund von neun Bestien geschlagen wurde. Zuerst sagten die "Experten" im Freundeskreis herablassend mit einer scheinbar hohen Haltung, dass das Auftreten solcher Dinge auf den wirtschaftlichen Abschwung und die Zunahme von Arbeitslosen zurückzuführen sei, was zu sozialer Instabilität führe, und die Ursache sei immer noch die Entwicklung der Wirtschaft und so weiter... Ich bin entschlossen, die Beziehungen zu Menschen abzubrechen, die auf diese Weise über diesen Vorfall denken. Es besteht eine hohe Wahrscheinlichkeit, dass sie sich nicht von den neun Bestien unterscheiden. Die "Experten" haben die Natur dieser Angelegenheit nicht verstanden. Menschen ohne Grund zu schlagen ist falsch, und Frauen ohne Grund zu schlagen ist noch falscher. Es ist unerträglich. Jeder von uns, ob Mann oder Frau, kommt aus dem Mutterleib. Frauen zu respektieren und zu schützen ist die Grundlage des Menschseins. Auf "Behandle die Älteren in meiner Familie so, wie ich die Älteren in anderen Familien behandeln würde, und behandle die Jungen in meiner Familie so, wie ich die Jungen in anderen Familien behandeln würde" sollte der Satz folgen: "Behandle die Frauen in meiner Familie so, wie ich die Frauen in anderen Familien behandeln würde". Die eigene Mutter, Frau, Schwestern, Töchter und alle Frauen der Welt zu respektieren und zu lieben, ist die Grundlage des Menschseins.
+
+Wenn ich einer fremden Frau begegne, die geschlagen wird, werde ich es aufhalten? Wenn meine weiblichen Verwandten unprovozierten Bedrohungen ausgesetzt sind, habe ich die Fähigkeit, sie zu schützen und aus der Gefahr zu bringen? Wenn eine Katastrophe eintritt, sind wir vielleicht feige, gleichgültig und machtlos, aber auf jeden Fall müssen männliche Landsleute ihr Bestes geben und sogar ihr Leben opfern, um weibliche Landsleute zu schützen. Wie Sonny Corleone in Der Pate muss er seine Schwester Connie Corleone vor häuslicher Gewalt schützen, auch wenn er gefangen ist und vom Feind erschossen wird. Dies dient nicht nur dem Schutz seiner Schwester, sondern auch der Verteidigung seiner minimalen Würde als Mann. Vielleicht haben wir nicht Sonnys Zähigkeit und Tapferkeit, aber wir können auch vom Sargladenbesitzer Bonasera lernen. Um Gerechtigkeit für seine Tochter zu suchen, muss er den Paten bitten, die Gruppe von Bastarden zu bestrafen, die seine Tochter verletzt haben, auch wenn er vom Paten beleidigt wird.
+
+Wir sollten auch unseren weiblichen Landsleuten helfen, sich selbst zu schützen. Zunächst einmal müssen wir harte Fäuste haben. Melden Sie Ihre Töchter nicht für langweilige Klavier- und Kunstinteressenkurse an. Helfen Sie ihnen, sich für einen Taekwondo-Kurs anzumelden. Kinder, die Taekwondo praktizieren, haben den Schwung und den Mut, den Feind zu töten. Selbst wenn sie die Schläger nicht schlagen können, können sie den Feind im Schwung erschrecken. Haben Sie nicht gesehen, dass der letzte Tangshan-Müll das Auto auf der Autobahn stehen ließ und sich im Gras versteckte, um der Verfolgung zu entgehen? Diese Art von niedrigem Embryo, der normalerweise seine Macht zur Schau stellt, sich auf Kopfschütteln, große Goldkette und gefälschte Tattoos verlässt, ist nicht einmal ein Papiertiger. Es ist ein Haufen Scheiße. Normalerweise steht er auf dem Boden und stinkt unerträglich. Sobald Sie darauf treten, wird er entleert. Halten Sie sich auch von diesen Kursen für "weibliche Tugend" fern, die unter dem Deckmantel traditioneller Tugenden unterrichten. Das ist nur "Gehorsamswasser", um weibliche Landsleute einer Gehirnwäsche zu unterziehen und sie gehorsam zu machen. Unsere weiblichen Landsleute brauchen kein Gehorsamswasser, sie brauchen Anti-Wolf-Spray. Ersetzen Sie die Barbie-Puppe, die Sie Ihrer Tochter geschenkt haben, durch Anti-Wolf-Spray. Denken Sie daran, einen Schlagstock hineinzulegen, wenn Sie Ihrer Freundin eine Tasche schenken. Entwickeln Sie schließlich eine Laufgewohnheit mit weiblichen Landsleuten. Nicht alle unsere weiblichen Landsleute können wie Zhang Weili kämpfen. Wenn wir sie nicht schlagen können, können wir rennen. Es gibt wirklich nur wenige Bestien mit dicken Bäuchen von Grillen und Bier jeden Tag, die rennen können.
+
+Nachdem ich dies geschrieben habe, gibt es neben Wut auch Scham. Wenn weibliche Landsleute verletzt werden, was genau kann ich tun, wage ich zu tun und werde ich tun? Vielleicht sollten Sie sich dieses Video ansehen.
+
+Um Belästigung und Gewalt gegen Frauen zu reduzieren, startete der Bürgermeister von London einen Vorschlag und drehte diesen gemeinnützigen Kurzfilm, in dem er Männer aufforderte, sich aktiv für Frauen einzusetzen. Wenn Sie frauenfeindliches Verhalten beobachten, stoppen Sie es rechtzeitig. Entscheiden Sie sich nicht dafür, zu schweigen oder tatenlos zuzusehen, weil Sie Skrupel wegen der Brüderlichkeit haben. Schließlich kann Gewalt gegen Frauen mit Worten beginnen, aber oft hört sie dort nicht auf.

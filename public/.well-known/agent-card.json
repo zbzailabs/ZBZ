@@ -1,0 +1,24 @@
+{
+  "name": "RealRip Content",
+  "version": "1.0.0",
+  "description": "Read-only public content discovery for RealRip, a multilingual static editorial site.",
+  "url": "https://realrip.com",
+  "supportedInterfaces": [
+    {
+      "transport": "https",
+      "url": "https://realrip.com/llms.txt"
+    }
+  ],
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false,
+    "stateTransitionHistory": false
+  },
+  "skills": [
+    {
+      "id": "polyglow-content",
+      "name": "RealRip Content Discovery",
+      "description": "Find public posts, locale routes, RSS feeds, and machine-readable content indexes."
+    }
+  ]
+}

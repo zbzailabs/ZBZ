@@ -1,0 +1,194 @@
+---
+import "@/styles/global.css"
+import { SEO } from "astro-seo"
+import { ClientRouter } from "astro:transitions"
+import { LOCALES, getLocaleMeta, type Locale } from "@/config/locales"
+import { SITE_CONFIG } from "@/config/site"
+import { buildAlternates, canonicalUrl } from "@/utils/routes"
+import { t } from "@/utils/translations"
+import { webPageJsonLd, webSiteJsonLd } from "@/utils/structured-data"
+import Header from "@/components/ui/Header.astro"
+import Footer from "@/components/ui/Footer.astro"
+import DynamicGlass from "@/components/features/DynamicGlass.astro"
+import GTMHead from "@/components/widgets/GTMHead.astro"
+import GTMBody from "@/components/widgets/GTMBody.astro"
+import Adsense from "@/components/widgets/Adsense.astro"
+
+interface Props {
+  lang: Locale
+  path?: string
+  title?: string
+  description?: string
+  image?: string
+  ogType?: "website" | "article"
+  alternates?: Record<string, string>
+  noindex?: boolean
+  jsonLd?: unknown
+  dynamicGlass?: boolean
+}
+
+const {
+  lang,
+  path = "/",
+  title = SITE_CONFIG.name,
+  description,
+  image = SITE_CONFIG.defaultOgImage,
+  ogType = "website",
+  alternates: explicitAlternates,
+  noindex = false,
+  jsonLd,
+  dynamicGlass = false,
+} = Astro.props
+const alternates = explicitAlternates ?? buildAlternates(path)
+const localeMeta = getLocaleMeta(lang)
+const pageDescription = description ?? t(lang, "site.description")
+const pageTitle =
+  title === SITE_CONFIG.name || title.includes(SITE_CONFIG.name)
+    ? title
+    : `${title} | ${SITE_CONFIG.name}`
+const canonical = canonicalUrl(lang, path)
+const absoluteImage = image.startsWith("http")
+  ? image
+  : `${SITE_CONFIG.url}${image}`
+const baseJsonLd = [
+  webSiteJsonLd(lang),
+  webPageJsonLd({
+    lang,
+    path,
+    title: pageTitle,
+    description: pageDescription,
+    image,
+  }),
+]
+const jsonLdItems = jsonLd
+  ? baseJsonLd.concat(Array.isArray(jsonLd) ? jsonLd : [jsonLd])
+  : baseJsonLd
+const modelContextSearchDescription = `Search ${SITE_CONFIG.name} public editorial content.`
+const modelContextSearchTitle = `${SITE_CONFIG.name} search`
+const languageAlternates = noindex
+  ? undefined
+  : Object.entries(alternates).map(([hrefLang, href]) => ({
+      hrefLang,
+      href,
+    }))
+const alternateOgLocales = LOCALES.filter((locale) => locale !== lang).map(
+  (locale) => getLocaleMeta(locale).ogLocale
+)
+---
+
+<html lang={localeMeta.hreflang} dir={localeMeta.dir}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-language" content={localeMeta.hreflang} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <ClientRouter />
+    <SEO
+      title={pageTitle}
+      description={pageDescription}
+      canonical={canonical}
+      noindex={noindex}
+      languageAlternates={languageAlternates}
+      openGraph={{
+        basic: {
+          title: pageTitle,
+          type: ogType,
+          image: absoluteImage,
+          url: canonical,
+        },
+        optional: {
+          description: pageDescription,
+          locale: localeMeta.ogLocale,
+          localeAlternate: alternateOgLocales,
+          siteName: SITE_CONFIG.name,
+        },
+        image: {
+          alt: pageTitle,
+        },
+      }}
+      twitter={{
+        card: "summary_large_image",
+        site: SITE_CONFIG.social.xHandle,
+        creator: SITE_CONFIG.social.xHandle,
+        title: pageTitle,
+        description: pageDescription,
+        image: absoluteImage,
+        imageAlt: pageTitle,
+      }}
+    />
+    <script is:inline>
+      ;(() => {
+        const theme = localStorage.getItem("theme") || "system"
+        const resolved =
+          theme === "system"
+            ? matchMedia("(prefers-color-scheme: dark)").matches
+              ? "dark"
+              : "light"
+            : theme
+        document.documentElement.classList.toggle("dark", resolved === "dark")
+      })()
+    </script>
+    <script
+      is:inline
+      type="application/ld+json"
+      set:html={JSON.stringify(jsonLdItems)}
+    />
+    <script
+      is:inline
+      define:vars={{ modelContextSearchDescription, modelContextSearchTitle }}
+    >
+      ;(() => {
+        const modelContext = navigator.modelContext
+        if (!modelContext || typeof modelContext.registerTool !== "function") return
+
+        const controller = new AbortController()
+        modelContext.registerTool(
+          {
+            name: "site_search",
+            description: modelContextSearchDescription,
+            inputSchema: {
+              type: "object",
+              properties: {
+                query: {
+                  type: "string",
+                  description: "Search query.",
+                },
+                locale: {
+                  type: "string",
+                  description: "Locale prefix.",
+                  enum: ["zh", "en", "fr", "es", "ru", "ja", "ko", "pt", "de", "id", "ar"],
+                  default: "zh",
+                },
+              },
+              required: ["query"],
+              additionalProperties: false,
+            },
+            execute: async ({ query, locale = "zh" }) => {
+              const path = `/${locale}/search/?q=${encodeURIComponent(query)}`
+              return {
+                url: new URL(path, location.origin).toString(),
+                title: modelContextSearchTitle,
+              }
+            },
+          },
+          { signal: controller.signal }
+        )
+
+        document.addEventListener("astro:before-swap", () => controller.abort(), {
+          once: true,
+        })
+      })()
+    </script>
+    <GTMHead />
+    <Adsense />
+  </head>
+  <body>
+    <GTMBody />
+    <Header lang={lang} path={path} />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer lang={lang} />
+    {dynamicGlass && <DynamicGlass />}
+  </body>
+</html>

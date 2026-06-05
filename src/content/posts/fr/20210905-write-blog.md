@@ -1,0 +1,25 @@
+---
+title: "Le blog doit encore être écrit"
+description: "Le thème du blog « Chercher la vérité, découvrir la valeur » est plus approprié et significatif. Écrire un blog, c'est finalement se servir soi-même. La qualité du blog n'est pas importante, ce qui est important, c'est l'enregistrement."
+category: "startup"
+tags:
+  - "management"
+pubDate: 2021-09-05
+heroImage: "https://cos.zbz.ai/images/202310181244293.avif"
+heroImageAlt: "RealRip-Le blog doit encore être écrit"
+heroImageWidth: 1960
+heroImageHeight: 1102
+authors:
+  - default
+draft: false
+featured: false
+locale: "fr"
+---
+
+La dernière fois que j'ai écrit un article original, c'était le 9 août, il y a plus d'un mois. À cette époque, j'étais fatigué d'écrire dans un modèle fixe. Je voulais essayer de me concentrer sur l'écriture de longs articles. Selon le plan initial, 4 longs articles de haute qualité devaient être produits en un mois. Pendant cette période, j'ai également appris la date de la carte, mais la pratique n'a pas été couronnée de succès. Les longs articles nécessitent beaucoup de recherches sur le sujet et nécessitent de prendre tout un bloc de temps pour écrire, ce qui n'est pas réaliste pour des raisons professionnelles. En fait, c'est une excuse superficielle. La vraie raison est que je n'ai pas fait de recherches sur le sujet, plus des réserves insuffisantes, pas de marchandises dans mon cerveau, et je ne pouvais rien écrire. Donc, pendant ce temps, non seulement je n'ai pas écrit d'articles de haute qualité, mais je n'ai même pas écrit de compte rendu courant. Si cela continue, ce blog pourrait être abandonné.
+
+Les premiers écrits ont eu lieu en classe de composition au collège. Les compositions du collège étaient souvent lues à haute voix par l'enseignant comme modèles de rédaction en classe. En plus des compositions, il y avait aussi des journaux hebdomadaires. Les compositions avaient des sujets fixes et étaient terminées en 90 minutes fixes. Les sujets et le temps du journal hebdomadaire étaient relativement libres. Un article par semaine, écrivez ce que vous voulez. Je ne me souviens pas de ce que j'ai écrit à ce moment-là. Parfois, les journaux hebdomadaires étaient également utilisés par les enseignants comme modèles de rédaction pour la lecture. Malheureusement, je ne trouve pas le livre de composition de cette année-là. Que j'y aie écrit sur mon amour secret pour une camarade de classe n'est plus vérifiable. S'il y en avait, le professeur de chinois a dû le voir. Au collège, j'ai également participé à des concours de composition et remporté des prix de bas niveau, mais après tout, c'était la voie sauvage de l'éducation rurale, qui était vraiment loin du niveau du Concours de composition Nouveau Concept. Bien sûr, à cette époque, je ne savais pas qu'il existait une écriture de si haut niveau que la Composition Nouveau Concept. Quoi qu'il en soit, à cette époque, j'ai posé des bases pour l'écriture et cultivé un passe-temps d'écriture.
+
+Au lycée, le travail scolaire était lourd et l'habitude de prendre des notes a progressivement disparu, mais les compositions étaient encore souvent utilisées par les enseignants comme modèles de rédaction. Dès la première année de lycée, toute la formation à l'écriture scolaire préparait à la composition de l'examen d'entrée à l'université, et plus cela allait loin, plus cela devenait stéréotypé. En troisième année de lycée, le professeur de chinois avait forcé tous les élèves à s'entraîner à des rédactions stéréotypées selon une introduction, une élucidation, une transition et une conclusion standard, des paragraphes, des chapitres et des méthodes rhétoriques. Maintenant, je ne me souviens pas si j'ai écrit une phrase profonde ou belle au lycée cette année-là, mais le modèle fixe de la structure n'a pas affecté la création du génie. Je me souviens encore d'une phrase dans une composition d'un camarade de classe en troisième année de lycée : « J'ai parcouru beaucoup de routes dans mon rêve, et j'étais encore au lit quand je me suis réveillé. »
+
+Pendant près de dix ans après cela, je n'ai écrit aucun texte spontanément, même à l'ère des blogs. Vers 2012, je ne me souviens plus de la raison, j'ai acheté un nom de domaine indépendant pour ouvrir un blog indépendant. Au début, j'ai choisi WordPress + hôte virtuel, et plus tard j'ai utilisé le mode serveur cloud Ghost +. Pendant cette période, j'ai aussi lancé des blogs statiques, mais je suis finalement revenu à Ghost à cause de son apparence. En parcourant l'introduction du blog écrite à l'époque, il était écrit de manière impressionnante « RealRip - dédié à devenir un blog indépendant qui enregistre la vie et diffuse des idées, sans affectation, sans gémir sans maladie. Montez souvent seul dans le haut bâtiment, mais ne forcez pas à dire du chagrin pour composer de nouvelles paroles. » L'intention est peut-être trop grande. Au lieu de cela, le thème du blog « Chercher la vérité, découvrir la valeur » est plus approprié et significatif. Écrire un blog, c'est finalement se servir soi-même. La qualité du blog n'est pas importante, ce qui est important, c'est l'enregistrement.
