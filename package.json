@@ -21,6 +21,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "deploy:worker": "wrangler deploy",
     "deploy": "pnpm build && wrangler deploy"
   },
   "dependencies": {
