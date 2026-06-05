@@ -1,6 +1,6 @@
 ---
 slug: default
-name: "Rip"
+name: "ZBZ"
 bio: "Software builder. Modern farmer. Alpha seeker."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
@@ -10,4 +10,4 @@ locale: en
 draft: false
 ---
 
-Software builder. Modern farmer. Alpha seeker. Rip writes about startup, investing, farming technology, and life with attention to long-term value, real-world problems, and durable action.
+Software builder. Modern farmer. Alpha seeker. ZBZ writes about startup, investing, farming technology, and life with attention to long-term value, real-world problems, and durable action.

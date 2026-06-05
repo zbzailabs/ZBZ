@@ -1,6 +1,6 @@
 ---
 slug: default
-name: "Rip"
+name: "ZBZ"
 bio: "Pembangun perangkat lunak. Petani modern. Pencari alfa."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
@@ -10,4 +10,4 @@ locale: id
 draft: false
 ---
 
-Pembangun perangkat lunak. Petani modern. Pencari alfa. Rip menulis tentang startup, investasi, teknologi pertanian, dan kehidupan, dengan perhatian pada nilai jangka panjang, masalah nyata, dan tindakan yang berkelanjutan.
+Pembangun perangkat lunak. Petani modern. Pencari alfa. ZBZ menulis tentang startup, investasi, teknologi pertanian, dan kehidupan, dengan perhatian pada nilai jangka panjang, masalah nyata, dan tindakan yang berkelanjutan.

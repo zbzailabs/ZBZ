@@ -18,10 +18,10 @@ export async function getStaticPaths() {
 const { lang } = Astro.props as { lang: Locale }
 const author = await getAuthor(lang)
 const title = t(lang, "pages.author.title")
-const seoTitle = lang === "en" ? `Rip Author Profile | ${SITE_CONFIG.name}` : title
+const seoTitle = lang === "en" ? `ZBZ Author Profile | ${SITE_CONFIG.name}` : title
 const seoDescription =
   lang === "en"
-    ? "Read Rip's author profile, recent publishing activity, social links, and articles on startup, investing, and life."
+    ? "Read ZBZ's author profile, recent publishing activity, social links, and articles on startup, investing, and life."
     : author?.data.bio
 const writingActivityLabel = t(lang, "pages.author.writingActivity")
 const publishedText = t(lang, "post.publishedAt")

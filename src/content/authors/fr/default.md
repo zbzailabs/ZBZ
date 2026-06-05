@@ -1,6 +1,6 @@
 ---
 slug: default
-name: "Rip"
+name: "ZBZ"
 bio: "Bâtisseur logiciel. Agriculteur moderne. Chercheur d’alpha."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
@@ -10,4 +10,4 @@ locale: fr
 draft: false
 ---
 
-Bâtisseur logiciel. Agriculteur moderne. Chercheur d’alpha. Rip écrit sur les startups, l’investissement, les technologies agricoles et la vie, avec une attention portée à la valeur de long terme, aux problèmes réels et à l’action durable.
+Bâtisseur logiciel. Agriculteur moderne. Chercheur d’alpha. ZBZ écrit sur les startups, l’investissement, les technologies agricoles et la vie, avec une attention portée à la valeur de long terme, aux problèmes réels et à l’action durable.

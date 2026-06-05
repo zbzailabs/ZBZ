@@ -5,7 +5,7 @@ locale: en
 draft: false
 ---
 
-ZBZ is Rip's multilingual personal blog for long-term notes on building, investing, and life.
+ZBZ is ZBZ's multilingual personal blog for long-term notes on building, investing, and life.
 
 The site provides article reading, on-site search, RSS feeds, and basic page browsing only. It does not provide accounts, memberships, online transactions, consulting, or user content hosting.
 

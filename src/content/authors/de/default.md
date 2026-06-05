@@ -1,6 +1,6 @@
 ---
 slug: default
-name: "Rip"
+name: "ZBZ"
 bio: "Softwareentwickler. Moderner Landwirt. Alpha-Sucher."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
@@ -10,4 +10,4 @@ locale: de
 draft: false
 ---
 
-Softwareentwickler. Moderner Landwirt. Alpha-Sucher. Rip schreibt über Startup, Investieren, Agrartechnologie und Leben, mit Blick auf langfristigen Wert, reale Probleme und dauerhaftes Handeln.
+Softwareentwickler. Moderner Landwirt. Alpha-Sucher. ZBZ schreibt über Startup, Investieren, Agrartechnologie und Leben, mit Blick auf langfristigen Wert, reale Probleme und dauerhaftes Handeln.
