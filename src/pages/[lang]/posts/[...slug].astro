@@ -22,6 +22,7 @@ import { normalizeMetaDescription } from "@/utils/seo"
 import { postLocaleAlternates } from "@/utils/alternates"
 import type { TocHeading } from "@/utils/headings"
 import authorImage from "@/assets/author.avif"
+import CWDComments from "@/components/widgets/CWDComments.astro"
 
 export async function getStaticPaths() {
   const posts = await getCollection("post", (entry) => !entry.data.draft)
@@ -209,6 +210,8 @@ const jsonLd = articleJsonLd({
               </a>
             </div>
           </footer>
+          
+           <CWDComments postSlug={postSlug(post)} lang={post.data.locale} />
 
         </div>
 

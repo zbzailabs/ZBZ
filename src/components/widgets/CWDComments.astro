@@ -1,0 +1,214 @@
+---
+import type { Locale } from "@/config/locales"
+import { t } from "@/utils/translations"
+
+interface Props {
+  postSlug: string
+  lang: Locale
+}
+
+const { postSlug, lang } = Astro.props
+const widgetLangByLocale: Record<string, string> = {
+  en: "en-US",
+  zh: "zh-CN",
+  fr: "fr",
+  es: "es",
+  ru: "ru",
+  ja: "ja",
+  ko: "ko",
+  pt: "pt",
+  de: "de",
+  id: "id",
+  ar: "ar",
+}
+const widgetLang = widgetLangByLocale[lang] ?? "auto"
+const commentLabels = {
+  section: t(lang, "comments.section"),
+  name: t(lang, "comments.name"),
+  email: t(lang, "comments.email"),
+  url: t(lang, "comments.url"),
+  comment: t(lang, "comments.comment"),
+}
+---
+
+<section
+  class="cwd-comments mt-6"
+  aria-label={commentLabels.section}
+  data-pagefind-ignore
+>
+  <div
+    id="cwd-comments"
+    data-cwd-comments
+    data-api-base-url="https://cmt-api.realrip.com"
+    data-post-slug={postSlug}
+    data-site-id="realrip"
+    data-lang={widgetLang}
+    data-label-name={commentLabels.name}
+    data-label-email={commentLabels.email}
+    data-label-url={commentLabels.url}
+    data-label-comment={commentLabels.comment}
+  >
+  </div>
+</section>
+
+<script is:inline>
+  ;(() => {
+    if (window.__realripCwdController) {
+      window.__realripCwdController.mount()
+      return
+    }
+
+    let comments
+    let currentHost
+    let formObserver
+    let formPolishTimer
+    let themeObserver
+
+    const ensureCwdWidget = () => {
+      if (window.CWDComments) return Promise.resolve()
+      if (window.__realripCwdWidgetPromise) return window.__realripCwdWidgetPromise
+
+      window.__realripCwdWidgetPromise = new Promise((resolve, reject) => {
+        const existing = document.querySelector("script[data-cwd-widget]")
+        if (existing) {
+          existing.addEventListener("load", () => resolve(), { once: true })
+          existing.addEventListener("error", reject, { once: true })
+          return
+        }
+
+        const script = document.createElement("script")
+        script.src = "https://unpkg.com/cwd-widget@0.1.9/dist/cwd.js"
+        script.async = true
+        script.dataset.cwdWidget = "true"
+        script.addEventListener("load", () => resolve(), { once: true })
+        script.addEventListener("error", reject, { once: true })
+        document.head.appendChild(script)
+      })
+
+      return window.__realripCwdWidgetPromise
+    }
+
+    const getTheme = () =>
+      document.documentElement.classList.contains("dark") ? "dark" : "light"
+
+    const getLabels = (host) => ({
+      name: host?.dataset.labelName || "Nickname",
+      email: host?.dataset.labelEmail || "Email",
+      url: host?.dataset.labelUrl || "Website",
+      comment: host?.dataset.labelComment || "Write a comment...",
+    })
+
+    const applyFormPlaceholders = (host) => {
+      const root = host?.shadowRoot
+      if (!root) return false
+
+      const labels = getLabels(host)
+      const fields = [
+        ["name", labels.name],
+        ["email", labels.email],
+        ["url", labels.url],
+      ]
+      let applied = false
+
+      fields.forEach(([name, fallback]) => {
+        const input = root.querySelector(`input[name="${name}"]`)
+        if (!input) return
+
+        input.placeholder = fallback
+        input.setAttribute("aria-label", fallback)
+        applied = true
+      })
+
+      const textarea = root.querySelector(".cwd-form-textarea")
+      if (textarea) {
+        textarea.placeholder = labels.comment
+        textarea.setAttribute("aria-label", labels.comment)
+      }
+
+      return applied
+    }
+
+    const watchForm = (host) => {
+      const apply = () => applyFormPlaceholders(host)
+      let attempts = 0
+
+      const retry = () => {
+        if (apply() || attempts >= 50) return
+        attempts += 1
+        formPolishTimer = window.setTimeout(retry, 100)
+      }
+
+      retry()
+
+      if (host.shadowRoot) {
+        formObserver = new MutationObserver(apply)
+        formObserver.observe(host.shadowRoot, {
+          childList: true,
+          subtree: true,
+        })
+      }
+    }
+
+    const controller = {
+      mount() {
+        const el = document.querySelector("[data-cwd-comments]")
+        if (!el) return
+        if (!window.CWDComments) {
+          ensureCwdWidget().then(() => controller.mount()).catch(() => {})
+          return
+        }
+
+        if (comments && currentHost === el) {
+          comments?.updateConfig?.({ theme: getTheme() })
+          applyFormPlaceholders(el)
+          return
+        }
+
+        controller.unmount()
+        currentHost = el
+        comments = new window.CWDComments({
+          el,
+          apiBaseUrl: el.dataset.apiBaseUrl,
+          postSlug: el.dataset.postSlug,
+          siteId: el.dataset.siteId,
+          lang: el.dataset.lang || "auto",
+          theme: getTheme(),
+          customCssUrl: "/cwd-theme.css",
+        })
+        comments.mount()
+        watchForm(el)
+
+        themeObserver = new MutationObserver(() => {
+          comments?.updateConfig?.({ theme: getTheme() })
+        })
+        themeObserver.observe(document.documentElement, {
+          attributes: true,
+          attributeFilter: ["class"],
+        })
+      },
+      unmount() {
+        formObserver?.disconnect()
+        formObserver = undefined
+        window.clearTimeout(formPolishTimer)
+        formPolishTimer = undefined
+        themeObserver?.disconnect()
+        themeObserver = undefined
+        comments?.unmount?.()
+        comments = undefined
+        currentHost = undefined
+      },
+    }
+
+    window.__realripCwdController = controller
+    document.addEventListener("astro:page-load", () => controller.mount())
+    document.addEventListener("astro:before-swap", () => controller.unmount())
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", () => controller.mount(), {
+        once: true,
+      })
+    } else {
+      controller.mount()
+    }
+  })()
+</script>
