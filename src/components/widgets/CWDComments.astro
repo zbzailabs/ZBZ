@@ -29,6 +29,12 @@ const commentLabels = {
   url: t(lang, "comments.url"),
   comment: t(lang, "comments.comment"),
 }
+const commentPlaceholders = {
+  name: t(lang, "comments.placeholders.name"),
+  email: t(lang, "comments.placeholders.email"),
+  url: t(lang, "comments.placeholders.url"),
+  comment: t(lang, "comments.placeholders.comment"),
+}
 ---
 
 <section
@@ -47,6 +53,10 @@ const commentLabels = {
     data-label-email={commentLabels.email}
     data-label-url={commentLabels.url}
     data-label-comment={commentLabels.comment}
+    data-placeholder-name={commentPlaceholders.name}
+    data-placeholder-email={commentPlaceholders.email}
+    data-placeholder-url={commentPlaceholders.url}
+    data-placeholder-comment={commentPlaceholders.comment}
   >
   </div>
 </section>
@@ -98,30 +108,41 @@ const commentLabels = {
       comment: host?.dataset.labelComment || "Write a comment...",
     })
 
+    const getPlaceholders = (host) => ({
+      name: host?.dataset.placeholderName || host?.dataset.labelName || "Nickname",
+      email: host?.dataset.placeholderEmail || host?.dataset.labelEmail || "Email",
+      url: host?.dataset.placeholderUrl || host?.dataset.labelUrl || "Website",
+      comment:
+        host?.dataset.placeholderComment ||
+        host?.dataset.labelComment ||
+        "Write a comment...",
+    })
+
     const applyFormPlaceholders = (host) => {
       const root = host?.shadowRoot
       if (!root) return false
 
       const labels = getLabels(host)
+      const placeholders = getPlaceholders(host)
       const fields = [
-        ["name", labels.name],
-        ["email", labels.email],
-        ["url", labels.url],
+        ["name", labels.name, placeholders.name],
+        ["email", labels.email, placeholders.email],
+        ["url", labels.url, placeholders.url],
       ]
       let applied = false
 
-      fields.forEach(([name, fallback]) => {
+      fields.forEach(([name, label, placeholder]) => {
         const input = root.querySelector(`input[name="${name}"]`)
         if (!input) return
 
-        input.placeholder = fallback
-        input.setAttribute("aria-label", fallback)
+        input.placeholder = placeholder
+        input.setAttribute("aria-label", label)
         applied = true
       })
 
       const textarea = root.querySelector(".cwd-form-textarea")
       if (textarea) {
-        textarea.placeholder = labels.comment
+        textarea.placeholder = placeholders.comment
         textarea.setAttribute("aria-label", labels.comment)
       }
 

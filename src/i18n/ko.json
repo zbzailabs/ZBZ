@@ -185,5 +185,18 @@
   "search": {
     "title": "검색",
     "subtitle": "관심 있는 콘텐츠를 검색하세요"
+  },
+  "comments": {
+    "section": "댓글",
+    "name": "이름",
+    "email": "이메일",
+    "url": "웹사이트",
+    "comment": "댓글",
+    "placeholders": {
+      "name": "이름을 입력하세요",
+      "email": "이메일 주소를 입력하세요",
+      "url": "웹사이트 URL을 입력하세요",
+      "comment": "댓글을 작성하세요..."
+    }
   }
 }

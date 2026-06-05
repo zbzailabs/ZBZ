@@ -185,5 +185,18 @@
   "search": {
     "title": "Buscar",
     "subtitle": "Busca contenido de tu interés"
+  },
+  "comments": {
+    "section": "Comentarios",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "url": "Sitio web",
+    "comment": "Comentario",
+    "placeholders": {
+      "name": "Tu nombre",
+      "email": "Dirección de correo",
+      "url": "URL del sitio web",
+      "comment": "Escribe un comentario..."
+    }
   }
 }

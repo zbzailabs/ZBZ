@@ -185,5 +185,18 @@
   "search": {
     "title": "搜索",
     "subtitle": "搜索你感兴趣的内容"
+  },
+  "comments": {
+    "section": "评论",
+    "name": "昵称",
+    "email": "邮箱",
+    "url": "网站",
+    "comment": "评论",
+    "placeholders": {
+      "name": "请输入昵称",
+      "email": "请输入邮箱地址",
+      "url": "请输入网站链接",
+      "comment": "写下你的评论..."
+    }
   }
 }

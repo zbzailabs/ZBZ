@@ -185,5 +185,18 @@
   "search": {
     "title": "Cari",
     "subtitle": "Cari konten yang menarik bagi Anda"
+  },
+  "comments": {
+    "section": "Komentar",
+    "name": "Nama",
+    "email": "Email",
+    "url": "Situs web",
+    "comment": "Komentar",
+    "placeholders": {
+      "name": "Nama Anda",
+      "email": "Alamat email",
+      "url": "URL situs web",
+      "comment": "Tulis komentar..."
+    }
   }
 }

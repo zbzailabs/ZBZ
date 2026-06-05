@@ -185,5 +185,18 @@
   "search": {
     "title": "検索",
     "subtitle": "気になるコンテンツを検索"
+  },
+  "comments": {
+    "section": "コメント",
+    "name": "名前",
+    "email": "メール",
+    "url": "ウェブサイト",
+    "comment": "コメント",
+    "placeholders": {
+      "name": "名前を入力",
+      "email": "メールアドレスを入力",
+      "url": "ウェブサイトURLを入力",
+      "comment": "コメントを書く..."
+    }
   }
 }
