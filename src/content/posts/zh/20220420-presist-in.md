@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "reflect"
 pubDate: 2022-04-20
-heroImage: https://cos.realrip.com/images/202310281713795.avif
+heroImage: https://cos.zbz.ai/images/202310281713795.avif
 heroImageAlt: "ZBZ-坚持这件事"
 heroImageWidth: 1960
 heroImageHeight: 1102

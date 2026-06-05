@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202309131332734.avif"
-heroImageAlt: "RealRip—코끼리는 앉아 있다"
+heroImageAlt: "ZBZ—코끼리는 앉아 있다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

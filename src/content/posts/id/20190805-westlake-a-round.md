@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—Berapa lama waktu untuk mengitari Danau Barat?"
+heroImageAlt: "ZBZ—Berapa lama waktu untuk mengitari Danau Barat?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -1,6 +1,6 @@
 ---
 title: "تصفح"
-description: "صفحة تصفح RealRip"
+description: "صفحة تصفح ZBZ"
 category: "startup"
 tags:
   - "management"
@@ -20,5 +20,5 @@ locale: ar
 
 |                                                  |                                                           |                                                               |
 | ------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------- |
-| [الرئيسية](https://realrip.com/ar/)            | [الوسوم](https://realrip.com/ar/tags)                   | [روابط صديقة](https://realrip.com/ar/posts/20130201-links/) |
-| [حياة](https://realrip.com/ar/category/life/) | [ريادة أعمال](https://realrip.com/ar/category/build/) | [استثمار](https://realrip.com/ar/category/invest/)          |
+| [الرئيسية](https://zbz.ai/ar/)            | [الوسوم](https://zbz.ai/ar/tags)                   | [روابط صديقة](https://zbz.ai/ar/posts/20130201-links/) |
+| [حياة](https://zbz.ai/ar/category/life/) | [ريادة أعمال](https://zbz.ai/ar/category/build/) | [استثمار](https://zbz.ai/ar/category/invest/)          |

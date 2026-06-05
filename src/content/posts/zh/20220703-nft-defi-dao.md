@@ -6,7 +6,7 @@ tags:
   - "reflect"
 
 pubDate: 2022-07-03
-heroImage: https://cos.realrip.com/images/202310281700174.avif
+heroImage: https://cos.zbz.ai/images/202310281700174.avif
 heroImageAlt: "ZBZ-Web3 的三大方向"
 heroImageWidth: 1960
 heroImageHeight: 1102

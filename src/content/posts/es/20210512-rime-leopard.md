@@ -24,7 +24,7 @@ Hablando con precisión, Rime es un motor de método de entrada multiplataforma 
 
 La versión en chino tradicional desarrollada originalmente por [Lotem](https://github.com/lotem), el autor de Rime. Si desea utilizar la versión simplificada, puede configurarla de acuerdo con el tutorial de [Yifang](https://github.com/maomiui/rime). Tenga en cuenta lo siguiente durante el proceso de configuración:
 
-- Hay un ERealRipOR en la versión actual (2021-05-12). Si está habilitado en `luna_pinyin_simp.custom.yaml`
+- Hay un EZBZOR en la versión actual (2021-05-12). Si está habilitado en `luna_pinyin_simp.custom.yaml`
   `- derive/^([zcs])h/$1/ # zh, ch, sh => z, c, s`
   `- derive/^([zcs])([^h])/$1h$2/ # z, c, s => zh, ch, sh`
   Después del sonido difuso, Emoji y el tiempo dinámico se vuelven inválidos.

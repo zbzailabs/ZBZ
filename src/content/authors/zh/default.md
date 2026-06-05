@@ -3,7 +3,7 @@ slug: default
 name: "Rip"
 bio: "软件构建者。现代农夫。Alpha 寻找者。"
 socials:
-  - { label: "GitHub", url: "https://github.com/realriplab/RealRip" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
   - { label: "Website", url: "/zh/" }
   - { label: "RSS", url: "/zh/rss.xml" }
 locale: zh

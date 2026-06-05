@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip—Passer en revue les erreurs de jugement dans Le Parrain"
+heroImageAlt: "ZBZ—Passer en revue les erreurs de jugement dans Le Parrain"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

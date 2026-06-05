@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512076.avif"
-heroImageAlt: "RealRip—기업 문화 벽을 허물자"
+heroImageAlt: "ZBZ—기업 문화 벽을 허물자"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512075.avif"
-heroImageAlt: "RealRip—An welchen Prinzipien halten großartige Investoren fest"
+heroImageAlt: "ZBZ—An welchen Prinzipien halten großartige Investoren fest"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

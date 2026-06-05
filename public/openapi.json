@@ -1,13 +1,13 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "RealRip x402 API",
+    "title": "ZBZ x402 API",
     "version": "1.0.0",
-    "description": "Static discovery description for RealRip x402 protected API probes."
+    "description": "Static discovery description for ZBZ x402 protected API probes."
   },
   "servers": [
     {
-      "url": "https://realrip.com"
+      "url": "https://zbz.ai"
     }
   ],
   "paths": {

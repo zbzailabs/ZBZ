@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2020-04-03
-heroImage: https://cos.realrip.com/images/202310181512062.avif
+heroImage: https://cos.zbz.ai/images/202310181512062.avif
 heroImageAlt: "ZBZ-Mira a tu alrededor, si no ves al vendedor, entonces eres tú."
 heroImageWidth: 1960
 heroImageHeight: 1102

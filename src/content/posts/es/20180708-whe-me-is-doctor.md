@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2024-07-08
 heroImage: "https://cos.zbz.ai/images/202310181512125.avif"
-heroImageAlt: "RealRip—¿Cómo me convertí en el ‘dios de las medicinas’?"
+heroImageAlt: "ZBZ—¿Cómo me convertí en el ‘dios de las medicinas’?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

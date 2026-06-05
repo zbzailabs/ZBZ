@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: 'RealRip-Xu Haofeng first wrote the novel "The Master" and later made it into a movie, trying to restore the real world of the Republic of China through "The Master".'
+heroImageAlt: 'ZBZ-Xu Haofeng first wrote the novel "The Master" and later made it into a movie, trying to restore the real world of the Republic of China through "The Master".'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

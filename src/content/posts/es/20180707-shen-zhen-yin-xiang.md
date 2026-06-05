@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512126.avif"
-heroImageAlt: "RealRip—Impresiones de Shenzhen"
+heroImageAlt: "ZBZ—Impresiones de Shenzhen"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

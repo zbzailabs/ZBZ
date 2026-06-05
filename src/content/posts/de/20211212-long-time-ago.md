@@ -50,7 +50,7 @@ Konnotation von stabilem Wachstum: Sanfte Landung der alten Wirtschaft, schnelle
 
 Alte Wirtschaft, der Marktkonsens über Blue Chips mit niedriger Position wird weiter gestärkt, mit Schwerpunkt auf:
 
-- Liquidität bei RRealRip-Senkungen + marginale Verbesserung der Fundamentaldaten: Wertpapierfirmen.
+- Liquidität bei RZBZ-Senkungen + marginale Verbesserung der Fundamentaldaten: Wertpapierfirmen.
 - Grundlegende nationale Bedingungen auf Kohlebasis: Kohle.
 - Haushaltskonsum: Spirituosen.
 
@@ -110,12 +110,12 @@ Rückblick auf diese Woche: Diese Woche schwankte das Mainboard und der GEM stie
 
 **Verwandte Links**
 
-[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2024](https://realrip.com/de/posts/20231228-spring-2024/)
+[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2024](https://zbz.ai/de/posts/20231228-spring-2024/)
 
-[Kernpunkte der Zentralen Wirtschaftskonferenz 2022](https://realrip.com/de/posts/20221218-red-bull/)
+[Kernpunkte der Zentralen Wirtschaftskonferenz 2022](https://zbz.ai/de/posts/20221218-red-bull/)
 
-[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2023](https://realrip.com/de/posts/20230303-spring-2023/)
+[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2023](https://zbz.ai/de/posts/20230303-spring-2023/)
 
-[Kernpunkte der Zentralen Wirtschaftskonferenz 2022](https://realrip.com/de/posts/20221218-red-bull/)
+[Kernpunkte der Zentralen Wirtschaftskonferenz 2022](https://zbz.ai/de/posts/20221218-red-bull/)
 
-[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2021](https://realrip.com/de/posts/20201213-2021-do-what/)
+[Kernpunkte der Zentralen Wirtschaftsarbeitskonferenz 2021](https://zbz.ai/de/posts/20201213-2021-do-what/)

@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2025-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip—Tak merah jangan beli, tak hijau jangan jual"
+heroImageAlt: "ZBZ—Tak merah jangan beli, tak hijau jangan jual"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

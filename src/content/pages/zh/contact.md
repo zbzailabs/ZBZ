@@ -1,13 +1,13 @@
 ---
 title: "联系我们"
-description: "RealRip 的联系邮箱和适用联系事项。"
+description: "ZBZ 的联系邮箱和适用联系事项。"
 locale: zh
 draft: false
 ---
 
-RealRip 是一个公开博客网站，只提供文章阅读服务。
+ZBZ 是一个公开博客网站，只提供文章阅读服务。
 
-如需联系本站，请发送邮件至 hi@mail.realrip.com。
+如需联系本站，请发送邮件至 hi@mail.zbz.ai。
 
 适合通过邮件联系的事项包括：
 

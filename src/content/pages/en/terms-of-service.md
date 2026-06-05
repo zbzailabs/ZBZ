@@ -1,17 +1,17 @@
 ---
 title: "Terms of Service"
-description: "Basic terms for accessing and using RealRip blog content."
+description: "Basic terms for accessing and using ZBZ blog content."
 locale: en
 draft: false
 ---
 
 **Effective date: 2026-05-25**
 
-By accessing or using RealRip, you accept these Terms of Service.
+By accessing or using ZBZ, you accept these Terms of Service.
 
 ## Service Scope
 
-RealRip is a public blog website that provides article reading, on-site search, RSS feeds, and basic page browsing only. It does not provide accounts, memberships, online transactions, investment advice, legal advice, medical advice, or other professional services.
+ZBZ is a public blog website that provides article reading, on-site search, RSS feeds, and basic page browsing only. It does not provide accounts, memberships, online transactions, investment advice, legal advice, medical advice, or other professional services.
 
 ## Content Nature
 
@@ -19,11 +19,11 @@ Articles reflect the author's personal observations and records. They are not in
 
 ## Advertising and Third-Party Services
 
-RealRip displays ads through Google AdSense and uses Google Tag Manager to load Google Analytics and Microsoft Clarity for traffic and experience measurement. Third-party services process data under their own policies. See the [Privacy Policy](/en/privacy-policy/).
+ZBZ displays ads through Google AdSense and uses Google Tag Manager to load Google Analytics and Microsoft Clarity for traffic and experience measurement. Third-party services process data under their own policies. See the [Privacy Policy](/en/privacy-policy/).
 
 ## Intellectual Property
 
-Unless otherwise stated, text, site structure, pages, and assets are reserved by RealRip or their respective owners. You may access the content for personal reading, citation, and sharing. Reposting, adaptation, bulk scraping, or commercial use must follow the applicable license and preserve attribution.
+Unless otherwise stated, text, site structure, pages, and assets are reserved by ZBZ or their respective owners. You may access the content for personal reading, citation, and sharing. Reposting, adaptation, bulk scraping, or commercial use must follow the applicable license and preserve attribution.
 
 ## Prohibited Use
 
@@ -31,7 +31,7 @@ You may not attack, interfere with, abuse crawling, bypass access controls, or p
 
 ## Disclaimer
 
-The site is provided as is. RealRip works to keep content accurate and available but does not guarantee completeness, continuous availability, or fitness for a particular purpose.
+The site is provided as is. ZBZ works to keep content accurate and available but does not guarantee completeness, continuous availability, or fitness for a particular purpose.
 
 ## Updates
 
@@ -39,4 +39,4 @@ These terms may be updated. The latest version is published on this page and tak
 
 ## Contact
 
-Terms questions can be sent to hi@mail.realrip.com.
+Terms questions can be sent to hi@mail.zbz.ai.

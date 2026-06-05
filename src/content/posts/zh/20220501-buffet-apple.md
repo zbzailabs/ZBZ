@@ -5,7 +5,7 @@ category: "invest"
 tags:
   - "reflect"
 pubDate: 2022-05-01
-heroImage: https://cos.realrip.com/images/202310181548972.avif
+heroImage: https://cos.zbz.ai/images/202310181548972.avif
 heroImageAlt: "ZBZ-巴菲特的苹果"
 heroImageWidth: 1960
 heroImageHeight: 1102

@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip—農村振興は現実の課題に目を向けるべきだ"
+heroImageAlt: "ZBZ—農村振興は現実の課題に目を向けるべきだ"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

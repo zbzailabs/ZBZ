@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip—Летние каникулы: перелёт в США"
+heroImageAlt: "ZBZ—Летние каникулы: перелёт в США"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

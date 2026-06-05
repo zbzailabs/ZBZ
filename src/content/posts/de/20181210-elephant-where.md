@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202309131332734.avif"
-heroImageAlt: "RealRip—Ein Elefant sitzt still"
+heroImageAlt: "ZBZ—Ein Elefant sitzt still"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

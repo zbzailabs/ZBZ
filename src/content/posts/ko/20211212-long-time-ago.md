@@ -110,12 +110,12 @@ locale: "ko"
 
 **관련 링크**
 
-[2024년 중앙경제공작회의 요점](https://realrip.com/ko/posts/20231228-spring-2024/)
+[2024년 중앙경제공작회의 요점](https://zbz.ai/ko/posts/20231228-spring-2024/)
 
-[2022년 중앙경제회의 요점](https://realrip.com/ko/posts/20221218-red-bull/)
+[2022년 중앙경제회의 요점](https://zbz.ai/ko/posts/20221218-red-bull/)
 
-[2023년 중앙경제공작회의 요점](https://realrip.com/ko/posts/20230303-spring-2023/)
+[2023년 중앙경제공작회의 요점](https://zbz.ai/ko/posts/20230303-spring-2023/)
 
-[2022년 중앙경제회의 요점](https://realrip.com/ko/posts/20221218-red-bull/)
+[2022년 중앙경제회의 요점](https://zbz.ai/ko/posts/20221218-red-bull/)
 
-[2021년 중앙경제공작회의 요점](https://realrip.com/ko/posts/20201213-2021-do-what/)
+[2021년 중앙경제공작회의 요점](https://zbz.ai/ko/posts/20201213-2021-do-what/)

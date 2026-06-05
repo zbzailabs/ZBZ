@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: 'RealRip-Xu Haofeng escreveu primeiro o romance "O Mestre" e depois o transformou em filme, tentando restaurar o mundo real da República da China através de "O Mestre".'
+heroImageAlt: 'ZBZ-Xu Haofeng escreveu primeiro o romance "O Mestre" e depois o transformou em filme, tentando restaurar o mundo real da República da China através de "O Mestre".'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

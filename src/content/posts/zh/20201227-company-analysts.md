@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2021-01-02
-heroImage: https://cos.realrip.com/images/202310180923571.avif
+heroImage: https://cos.zbz.ai/images/202310180923571.avif
 heroImageAlt: "ZBZ-没有对比就没有伤害，一场疫情，戳破了西方所有的纸老虎，一场贸易战，让人们看清了国与国之间的竞争之残酷"
 heroImageWidth: 1960
 heroImageHeight: 1102

@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2020-12-06
-heroImage: https://cos.realrip.com/images/202310181512031.avif
+heroImage: https://cos.zbz.ai/images/202310181512031.avif
 heroImageAlt: "ZBZ-Pola Ekonomi dan Perdagangan di Bawah Efek Involusi"
 heroImageWidth: 1960
 heroImageHeight: 1102

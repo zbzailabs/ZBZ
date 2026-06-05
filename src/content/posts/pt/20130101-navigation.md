@@ -1,6 +1,6 @@
 ---
 title: "Navegação"
-description: "Página de navegação RealRip"
+description: "Página de navegação ZBZ"
 category: "startup"
 tags:
   - "management"
@@ -20,5 +20,5 @@ locale: pt
 
 |                                                  |                                                                |                                                                |
 | ------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Início](https://realrip.com/pt/)              | [Tags](https://realrip.com/pt/tags)                          | [Links Amigos](https://realrip.com/pt/posts/20130201-links/) |
-| [Vida](https://realrip.com/pt/category/life/) | [Empreendedorismo](https://realrip.com/pt/category/build/) | [Investimento](https://realrip.com/pt/category/invest/)      |
+| [Início](https://zbz.ai/pt/)              | [Tags](https://zbz.ai/pt/tags)                          | [Links Amigos](https://zbz.ai/pt/posts/20130201-links/) |
+| [Vida](https://zbz.ai/pt/category/life/) | [Empreendedorismo](https://zbz.ai/pt/category/build/) | [Investimento](https://zbz.ai/pt/category/invest/)      |

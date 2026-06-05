@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—自動車産業の地図で中国企業がトップ3に入るべきだ；Geelyがふさわしい"
+heroImageAlt: "ZBZ—自動車産業の地図で中国企業がトップ3に入るべきだ；Geelyがふさわしい"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

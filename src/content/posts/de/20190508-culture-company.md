@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512076.avif"
-heroImageAlt: "RealRip—Reißt die Wand der Unternehmenskultur ein"
+heroImageAlt: "ZBZ—Reißt die Wand der Unternehmenskultur ein"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

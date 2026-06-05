@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip—Сельское возрождение: фокус на практических проблемах"
+heroImageAlt: "ZBZ—Сельское возрождение: фокус на практических проблемах"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

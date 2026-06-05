@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: 'RealRip-Xu Haofeng primero escribió la novela "El Maestro" y luego la convirtió en una película, tratando de restaurar el mundo real de la República de China a través de "El Maestro".'
+heroImageAlt: 'ZBZ-Xu Haofeng primero escribió la novela "El Maestro" y luego la convirtió en una película, tratando de restaurar el mundo real de la República de China a través de "El Maestro".'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

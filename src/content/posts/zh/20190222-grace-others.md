@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "media"
 pubDate: 2025-09-28
-heroImage: https://cos.realrip.com/images/202310181512094.avif
+heroImage: https://cos.zbz.ai/images/202310181512094.avif
 heroImageAlt: "ZBZ-忙着改造别人而不改造自己的格蕾丝"
 heroImageWidth: 1960
 heroImageHeight: 1102

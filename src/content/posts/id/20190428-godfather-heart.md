@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip—Kekeliruan penilaian manusia dalam The Godfather"
+heroImageAlt: "ZBZ—Kekeliruan penilaian manusia dalam The Godfather"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

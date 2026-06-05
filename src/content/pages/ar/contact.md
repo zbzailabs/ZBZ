@@ -1,13 +1,13 @@
 ---
 title: "اتصل بنا"
-description: "How to contact RealRip and what the contact channel is for."
+description: "How to contact ZBZ and what the contact channel is for."
 locale: ar
 draft: false
 ---
 
-RealRip is a public blog website that provides article reading only.
+ZBZ is a public blog website that provides article reading only.
 
-To contact the site owner, email hi@mail.realrip.com.
+To contact the site owner, email hi@mail.zbz.ai.
 
 Appropriate contact topics include:
 
@@ -17,4 +17,4 @@ Appropriate contact topics include:
 - Site access problems
 - Ad display issues
 
-RealRip does not provide investment consulting, business consulting, legal advice, or personal technical support.
+ZBZ does not provide investment consulting, business consulting, legal advice, or personal technical support.

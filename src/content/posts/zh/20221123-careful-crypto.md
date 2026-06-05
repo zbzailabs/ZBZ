@@ -6,7 +6,7 @@ tags:
   - "reflect"
 
 pubDate: 2022-11-23
-heroImage: https://cos.realrip.com/images/202310281632593.avif
+heroImage: https://cos.zbz.ai/images/202310281632593.avif
 heroImageAlt: "ZBZ-谨慎参与加密行业"
 heroImageWidth: 1960
 heroImageHeight: 1102

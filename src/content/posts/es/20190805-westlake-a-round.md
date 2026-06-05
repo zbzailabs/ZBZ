@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—¿Cuánto se tarda en rodear el lago del Oeste?"
+heroImageAlt: "ZBZ—¿Cuánto se tarda en rodear el lago del Oeste?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

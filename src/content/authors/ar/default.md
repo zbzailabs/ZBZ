@@ -3,7 +3,7 @@ slug: default
 name: "Rip"
 bio: "باني برمجيات. مزارع حديث. باحث عن ألفا."
 socials:
-  - { label: "GitHub", url: "https://github.com/realriplab/RealRip" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
   - { label: "Website", url: "/ar/" }
   - { label: "RSS", url: "/ar/rss.xml" }
 locale: ar

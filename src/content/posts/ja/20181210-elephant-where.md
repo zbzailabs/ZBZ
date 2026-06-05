@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202309131332734.avif"
-heroImageAlt: "RealRip—象は静かに座っている"
+heroImageAlt: "ZBZ—象は静かに座っている"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

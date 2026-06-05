@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—На карте автоиндустрии компания из Китая должна входить в топ‑3; Geely подходит"
+heroImageAlt: "ZBZ—На карте автоиндустрии компания из Китая должна входить в топ‑3; Geely подходит"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

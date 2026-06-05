@@ -1,9 +1,9 @@
 {
-  "issuer": "https://realrip.com",
-  "authorization_endpoint": "https://realrip.com/oauth/authorize",
-  "token_endpoint": "https://realrip.com/oauth/token",
-  "jwks_uri": "https://realrip.com/.well-known/jwks.json",
-  "registration_endpoint": "https://realrip.com/auth.md",
+  "issuer": "https://zbz.ai",
+  "authorization_endpoint": "https://zbz.ai/oauth/authorize",
+  "token_endpoint": "https://zbz.ai/oauth/token",
+  "jwks_uri": "https://zbz.ai/.well-known/jwks.json",
+  "registration_endpoint": "https://zbz.ai/auth.md",
   "grant_types_supported": [
     "client_credentials"
   ],

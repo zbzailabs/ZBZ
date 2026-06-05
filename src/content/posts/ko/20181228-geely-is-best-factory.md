@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—자동차 산업 지형에서 중국 기업이 톱3에 들어야 한다; Geely가 적임"
+heroImageAlt: "ZBZ—자동차 산업 지형에서 중국 기업이 톱3에 들어야 한다; Geely가 적임"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

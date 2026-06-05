@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip—농촌 진흥은 현실 과제에 초점을 맞춰야 한다"
+heroImageAlt: "ZBZ—농촌 진흥은 현실 과제에 초점을 맞춰야 한다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

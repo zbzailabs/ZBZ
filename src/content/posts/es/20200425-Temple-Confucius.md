@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "roam"
 pubDate: 2020-04-25
-heroImage: https://cos.realrip.com/images/202310181512050.avif
+heroImage: https://cos.zbz.ai/images/202310181512050.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102

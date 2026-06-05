@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip—‘대부’에서 읽는 인간의 오판"
+heroImageAlt: "ZBZ—‘대부’에서 읽는 인간의 오판"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "innovation"
 pubDate: 2020-07-26
-heroImage: https://cos.realrip.com/images/202310181512026.avif
+heroImage: https://cos.zbz.ai/images/202310181512026.avif
 heroImageAlt: "ZBZ-在企业家座谈会上的讲话"
 heroImageWidth: 1960
 heroImageHeight: 1102

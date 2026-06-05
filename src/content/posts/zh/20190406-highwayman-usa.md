@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "media"
 pubDate: 2025-09-25
-heroImage: https://cos.realrip.com/images/202309131332746.avif
+heroImage: https://cos.zbz.ai/images/202309131332746.avif
 heroImageAlt: "ZBZ-劫匪 highwayman"
 heroImageWidth: 1960
 heroImageHeight: 1102

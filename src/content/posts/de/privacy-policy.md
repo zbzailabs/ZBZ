@@ -18,7 +18,7 @@ locale: de
 
 **Datum des Inkrafttretens: 25. September 2024**
 
-Willkommen bei [DiMi](https://realrip.com). Wir schätzen Ihre Privatsphäre und verpflichten uns, Ihre persönlichen Daten zu schützen. Diese Datenschutzrichtlinie erklärt, wie wir die Informationen sammeln, verwenden und schützen, die Sie bei der Nutzung unserer Website und Dienste bereitstellen.
+Willkommen bei [DiMi](https://zbz.ai). Wir schätzen Ihre Privatsphäre und verpflichten uns, Ihre persönlichen Daten zu schützen. Diese Datenschutzrichtlinie erklärt, wie wir die Informationen sammeln, verwenden und schützen, die Sie bei der Nutzung unserer Website und Dienste bereitstellen.
 
 ## 1. Informationen, die wir sammeln
 
@@ -102,4 +102,4 @@ Wir behalten uns das Recht vor, diese Datenschutzrichtlinie von Zeit zu Zeit zu 
 
 Wenn Sie Fragen oder Anfragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte über die folgenden Methoden:
 
-- **E-Mail**: hi@mail.realrip.com
+- **E-Mail**: hi@mail.zbz.ai

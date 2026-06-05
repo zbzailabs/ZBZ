@@ -1,7 +1,7 @@
 {
-  "resource": "https://realrip.com",
+  "resource": "https://zbz.ai",
   "authorization_servers": [
-    "https://realrip.com"
+    "https://zbz.ai"
   ],
   "scopes_supported": [
     "content.read",
@@ -10,5 +10,5 @@
   "bearer_methods_supported": [
     "header"
   ],
-  "resource_documentation": "https://realrip.com/auth.md"
+  "resource_documentation": "https://zbz.ai/auth.md"
 }

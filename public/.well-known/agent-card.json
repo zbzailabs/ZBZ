@@ -1,12 +1,12 @@
 {
-  "name": "RealRip Content",
+  "name": "ZBZ Content",
   "version": "1.0.0",
-  "description": "Read-only public content discovery for RealRip, a multilingual static editorial site.",
-  "url": "https://realrip.com",
+  "description": "Read-only public content discovery for ZBZ, a multilingual static editorial site.",
+  "url": "https://zbz.ai",
   "supportedInterfaces": [
     {
       "transport": "https",
-      "url": "https://realrip.com/llms.txt"
+      "url": "https://zbz.ai/llms.txt"
     }
   ],
   "capabilities": {
@@ -17,7 +17,7 @@
   "skills": [
     {
       "id": "polyglow-content",
-      "name": "RealRip Content Discovery",
+      "name": "ZBZ Content Discovery",
       "description": "Find public posts, locale routes, RSS feeds, and machine-readable content indexes."
     }
   ]

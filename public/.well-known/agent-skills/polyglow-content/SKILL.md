@@ -1,11 +1,11 @@
 ---
 name: polyglow-content
-description: Use this skill to discover and read RealRip's public multilingual editorial content.
+description: Use this skill to discover and read ZBZ's public multilingual editorial content.
 ---
 
-# RealRip Content
+# ZBZ Content
 
-RealRip is a static multilingual editorial site covering startup, investing, and life notes.
+ZBZ is a static multilingual editorial site covering startup, investing, and life notes.
 
 ## Entry Points
 

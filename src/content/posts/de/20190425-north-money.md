@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-04-25
 heroImage: "https://cos.zbz.ai/images/202310181512078.avif"
-heroImageAlt: "RealRip—Verehre Nordzuflüsse nicht blind"
+heroImageAlt: "ZBZ—Verehre Nordzuflüsse nicht blind"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

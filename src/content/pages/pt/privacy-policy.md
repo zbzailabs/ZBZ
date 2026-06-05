@@ -1,13 +1,13 @@
 ---
 title: "Política de privacidade"
-description: "How RealRip handles data for blog reading, advertising, and analytics."
+description: "How ZBZ handles data for blog reading, advertising, and analytics."
 locale: pt
 draft: false
 ---
 
 **Effective date: 2026-05-25**
 
-RealRip is a public blog website. It provides article reading, on-site search, RSS feeds, and basic page browsing only. It does not provide accounts, memberships, online transactions, or user content hosting.
+ZBZ is a public blog website. It provides article reading, on-site search, RSS feeds, and basic page browsing only. It does not provide accounts, memberships, online transactions, or user content hosting.
 
 ## Information We Process
 
@@ -17,9 +17,9 @@ If you contact us by email, your email address, message, and related communicati
 
 ## Cookies, Ads, and Analytics
 
-RealRip uses Google AdSense to display ads. Google and its advertising partners may use cookies, device identifiers, or similar technologies to serve ads, limit ad frequency, measure performance, and process data under their own policies.
+ZBZ uses Google AdSense to display ads. Google and its advertising partners may use cookies, device identifiers, or similar technologies to serve ads, limit ad frequency, measure performance, and process data under their own policies.
 
-RealRip uses Google Tag Manager to load Google Analytics and Microsoft Clarity. Google Analytics measures page views, traffic sources, devices, and browsing behavior. Microsoft Clarity helps understand page interactions such as clicks, scrolling, and site usage. We use this data to improve the reading experience and do not use it to identify specific individuals.
+ZBZ uses Google Tag Manager to load Google Analytics and Microsoft Clarity. Google Analytics measures page views, traffic sources, devices, and browsing behavior. Microsoft Clarity helps understand page interactions such as clicks, scrolling, and site usage. We use this data to improve the reading experience and do not use it to identify specific individuals.
 
 You can manage or block cookies in your browser settings. The articles remain readable if cookies are blocked, but ads and analytics may be affected.
 
@@ -41,4 +41,4 @@ This policy may be updated when the site, advertising tools, analytics tools, or
 
 ## Contact
 
-Privacy questions can be sent to hi@mail.realrip.com.
+Privacy questions can be sent to hi@mail.zbz.ai.

@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-04-25
 heroImage: "https://cos.zbz.ai/images/202310181512078.avif"
-heroImageAlt: "RealRip—북상 자금을 맹신하지 말라"
+heroImageAlt: "ZBZ—북상 자금을 맹신하지 말라"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

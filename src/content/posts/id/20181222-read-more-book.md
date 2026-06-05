@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-01-02
 heroImage: "https://cos.zbz.ai/images/202310181536590.avif"
-heroImageAlt: "RealRip—Kalau kamu jelek, bacalah lebih banyak buku"
+heroImageAlt: "ZBZ—Kalau kamu jelek, bacalah lebih banyak buku"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

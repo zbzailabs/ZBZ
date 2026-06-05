@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip—Liburan musim panas, terbang ke Amerika Serikat"
+heroImageAlt: "ZBZ—Liburan musim panas, terbang ke Amerika Serikat"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

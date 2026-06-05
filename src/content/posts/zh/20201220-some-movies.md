@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "media"
 pubDate: 2020-01-18
-heroImage: https://cos.realrip.com/images/202309131332748.avif
+heroImage: https://cos.zbz.ai/images/202309131332748.avif
 heroImageAlt: "ZBZ-《南山的部长们》"
 heroImageWidth: 1960
 heroImageHeight: 1102

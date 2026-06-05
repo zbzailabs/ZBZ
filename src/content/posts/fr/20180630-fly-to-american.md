@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip—Vacances d’été, vol vers les États‑Unis"
+heroImageAlt: "ZBZ—Vacances d’été, vol vers les États‑Unis"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

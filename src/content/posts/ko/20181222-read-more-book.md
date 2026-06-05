@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-01-02
 heroImage: "https://cos.zbz.ai/images/202310181536590.avif"
-heroImageAlt: "RealRip—못생겼다면 책을 더 읽어라"
+heroImageAlt: "ZBZ—못생겼다면 책을 더 읽어라"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

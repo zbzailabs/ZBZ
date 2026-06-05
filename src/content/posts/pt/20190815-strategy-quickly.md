@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-08-15"
 heroImage: "https://cos.zbz.ai/images/202310181512048.avif"
-heroImageAlt: "RealRip—Pense fundo, aja rápido"
+heroImageAlt: "ZBZ—Pense fundo, aja rápido"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

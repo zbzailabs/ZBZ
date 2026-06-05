@@ -30,7 +30,7 @@ Novamente, compre os conceitos quentes desta rodada de mercado em alta. Em cada 
 
 ### Eventos da Semana
 
-Após a abertura total do setor financeiro, o mercado espera que a CITIC Securities e a CSC Financial possam se fundir e reestruturar para construir um porta-aviões de valores mobiliários para enfrentar o capital estrangeiro. Seguindo a CRealRipC e a CSSC, a "China Securities" está prestes a surgir.
+Após a abertura total do setor financeiro, o mercado espera que a CITIC Securities e a CSC Financial possam se fundir e reestruturar para construir um porta-aviões de valores mobiliários para enfrentar o capital estrangeiro. Seguindo a CZBZC e a CSSC, a "China Securities" está prestes a surgir.
 
 ### Mercado da Semana
 

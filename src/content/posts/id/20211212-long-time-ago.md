@@ -50,7 +50,7 @@ Konotasi pertumbuhan yang stabil: Pendaratan lunak ekonomi lama, perkembangan pe
 
 Ekonomi lama, konsensus pasar tentang blue chips posisi rendah akan semakin diperkuat, dengan fokus pada:
 
-- Likuiditas di bawah pemotongan RealRipR + peningkatan marjinal dalam fundamental: Perusahaan sekuritas.
+- Likuiditas di bawah pemotongan ZBZR + peningkatan marjinal dalam fundamental: Perusahaan sekuritas.
 - Kondisi nasional dasar berdasarkan batu bara: Batu bara.
 - Konsumsi rumah tangga: Minuman keras.
 
@@ -110,12 +110,12 @@ Tinjauan minggu ini: Minggu ini, papan utama berfluktuasi, dan GEM naik secara s
 
 **Tautan Terkait**
 
-[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2024](https://realrip.com/id/posts/20231228-spring-2024/)
+[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2024](https://zbz.ai/id/posts/20231228-spring-2024/)
 
-[Poin-Poin Penting Konferensi Ekonomi Pusat 2022](https://realrip.com/id/posts/20221218-red-bull/)
+[Poin-Poin Penting Konferensi Ekonomi Pusat 2022](https://zbz.ai/id/posts/20221218-red-bull/)
 
-[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2023](https://realrip.com/id/posts/20230303-spring-2023/)
+[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2023](https://zbz.ai/id/posts/20230303-spring-2023/)
 
-[Poin-Poin Penting Konferensi Ekonomi Pusat 2022](https://realrip.com/id/posts/20221218-red-bull/)
+[Poin-Poin Penting Konferensi Ekonomi Pusat 2022](https://zbz.ai/id/posts/20221218-red-bull/)
 
-[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2021](https://realrip.com/id/posts/20201213-2021-do-what/)
+[Poin-Poin Penting Konferensi Kerja Ekonomi Pusat 2021](https://zbz.ai/id/posts/20201213-2021-do-what/)

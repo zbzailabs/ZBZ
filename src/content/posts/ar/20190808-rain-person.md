@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-10"
 heroImage: "https://cos.zbz.ai/images/202310181512050.avif"
-heroImageAlt: "RealRip—ليلة مطر يوقظ الحواس"
+heroImageAlt: "ZBZ—ليلة مطر يوقظ الحواس"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

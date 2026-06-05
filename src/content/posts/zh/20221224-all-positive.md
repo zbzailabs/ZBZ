@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "roam"
 pubDate: 2022-12-25
-heroImage: https://cos.realrip.com/images/202309280820279.avif
+heroImage: https://cos.zbz.ai/images/202309280820279.avif
 heroImageAlt: "ZBZ-应阳尽阳"
 heroImageWidth: 1960
 heroImageHeight: 1102

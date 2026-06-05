@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-01-02
 heroImage: "https://cos.zbz.ai/images/202310181536590.avif"
-heroImageAlt: "RealRip—Se você é feio, leia mais livros"
+heroImageAlt: "ZBZ—Se você é feio, leia mais livros"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

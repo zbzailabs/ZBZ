@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "innovation"
 pubDate: 2021-05-03
-heroImage: https://cos.realrip.com/images/202310031635856.avif
+heroImage: https://cos.zbz.ai/images/202310031635856.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1959
 heroImageHeight: 1102

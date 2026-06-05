@@ -213,7 +213,7 @@ http:
     idimi-uygy0r-redirect-https:
       entryPoints:
         - web
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       middlewares:
         - idimi-uygy0r-to-https
       service: noop@internal
@@ -222,7 +222,7 @@ http:
     # Service Worker (PWA核心) - 不压缩，由EdgeOne处理
     idimi-uygy0r-sw:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/service-worker.js`) || Path(`/sw.js`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -237,7 +237,7 @@ http:
     # Astro 核心静态资源 (Hash指纹) - 不压缩，由EdgeOne处理
     idimi-uygy0r-static-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( PathPrefix(`/_astro`) || PathPrefix(`/assets`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -252,7 +252,7 @@ http:
     # Pagefind WASM 文件 - 不压缩，由EdgeOne处理
     idimi-uygy0r-pagefind-wasm-ctype:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`^/pagefind/.*\\.wasm$`)
       service: idimi-uygy0r-app
       middlewares:
@@ -268,7 +268,7 @@ http:
     # Pagefind 索引文件 - 不压缩，由EdgeOne处理
     idimi-uygy0r-pagefind-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathPrefix(`/pagefind`)
       service: idimi-uygy0r-app
       middlewares:
@@ -283,7 +283,7 @@ http:
     # Sitemap / Robots / RSS - 不压缩，由EdgeOne处理
     idimi-uygy0r-meta-short:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/sitemap.xml`) ||
           Path(`/robots.txt`) ||
           Path(`/sitemap-index.xml`) ||
@@ -301,7 +301,7 @@ http:
     # Manifest - 不压缩，由EdgeOne处理
     idimi-uygy0r-manifest:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/manifest.webmanifest`) ||
           Path(`/site.webmanifest`) ||
           Path(`/browserconfig.xml`) )
@@ -318,7 +318,7 @@ http:
     # 其他静态文件 (图片/视频等) - 不压缩，由EdgeOne处理
     idimi-uygy0r-public-30d:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`.+\\..+`)
       service: idimi-uygy0r-app
       middlewares:
@@ -333,7 +333,7 @@ http:
     # HTML 页面 (兜底规则) - 不压缩，由EdgeOne处理
     # 应用了 s-maxage=3600 分离策略
     idimi-uygy0r-pages:
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       service: idimi-uygy0r-app
       middlewares:
         - idimi-uygy0r-cache-html

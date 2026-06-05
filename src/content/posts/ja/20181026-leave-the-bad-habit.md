@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-10-26
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip—無意識の小さな悪習から距離を置く"
+heroImageAlt: "ZBZ—無意識の小さな悪習から距離を置く"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip—여름방학, 미국으로 날다"
+heroImageAlt: "ZBZ—여름방학, 미국으로 날다"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

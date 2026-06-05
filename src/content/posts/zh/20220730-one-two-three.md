@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "roam"
 pubDate: 2022-07-30
-heroImage: https://cos.realrip.com/images/202310281658908.avif
+heroImage: https://cos.zbz.ai/images/202310281658908.avif
 heroImageAlt: "ZBZ-大伯二舅未婚夫"
 heroImageWidth: 1960
 heroImageHeight: 1102

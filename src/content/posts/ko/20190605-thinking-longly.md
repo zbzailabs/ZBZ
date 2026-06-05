@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-06-05
 heroImage: "https://cos.zbz.ai/images/202310181512066.avif"
-heroImageAlt: "RealRip—독립적으로 생각을 이어가기"
+heroImageAlt: "ZBZ—독립적으로 생각을 이어가기"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

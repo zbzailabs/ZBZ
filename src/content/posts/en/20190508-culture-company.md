@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512076.avif"
-heroImageAlt: "RealRip—Tear Down the Corporate Culture Wall"
+heroImageAlt: "ZBZ—Tear Down the Corporate Culture Wall"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

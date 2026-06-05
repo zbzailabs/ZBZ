@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-08-15"
 heroImage: "https://cos.zbz.ai/images/202310181512048.avif"
-heroImageAlt: "RealRip—전략은 깊게, 실행은 빠르게"
+heroImageAlt: "ZBZ—전략은 깊게, 실행은 빠르게"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

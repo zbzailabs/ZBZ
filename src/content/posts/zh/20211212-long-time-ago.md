@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2021-12-12
-heroImage: https://cos.realrip.com/images/202310181244289.avif
+heroImage: https://cos.zbz.ai/images/202310181244289.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102
@@ -110,12 +110,12 @@ locale: zh
 
 **相关链接**
 
-[2024年中央经济工作会议要点](https://realrip.com/zh/posts/20231228-spring-2024/)
+[2024年中央经济工作会议要点](https://zbz.ai/zh/posts/20231228-spring-2024/)
 
-[2022年中央经济会议要点](https://realrip.com/zh/posts/20221218-red-bull/)
+[2022年中央经济会议要点](https://zbz.ai/zh/posts/20221218-red-bull/)
 
-[2023年中央经济工作会议要点](https://realrip.com/zh/posts/20230303-spring-2023/)
+[2023年中央经济工作会议要点](https://zbz.ai/zh/posts/20230303-spring-2023/)
 
-[2022年中央经济会议要点](https://realrip.com/zh/posts/20221218-red-bull/)
+[2022年中央经济会议要点](https://zbz.ai/zh/posts/20221218-red-bull/)
 
-[2021年中央经济工作会议要点](https://realrip.com/zh/posts/20201213-2021-do-what/)
+[2021年中央经济工作会议要点](https://zbz.ai/zh/posts/20201213-2021-do-what/)

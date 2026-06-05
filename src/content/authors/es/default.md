@@ -3,7 +3,7 @@ slug: default
 name: "Rip"
 bio: "Constructor de software. Agricultor moderno. Buscador de alfa."
 socials:
-  - { label: "GitHub", url: "https://github.com/realriplab/RealRip" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
   - { label: "Website", url: "/es/" }
   - { label: "RSS", url: "/es/rss.xml" }
 locale: es

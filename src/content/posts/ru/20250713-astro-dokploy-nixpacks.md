@@ -212,7 +212,7 @@ http:
     idimi-uygy0r-redirect-https:
       entryPoints:
         - web
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       middlewares:
         - idimi-uygy0r-to-https
       service: noop@internal
@@ -221,7 +221,7 @@ http:
     # Service Worker (Ядро PWA) - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-sw:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/service-worker.js`) || Path(`/sw.js`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -236,7 +236,7 @@ http:
     # Основные статические ресурсы Astro (Отпечаток Hash) - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-static-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( PathPrefix(`/_astro`) || PathPrefix(`/assets`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -251,7 +251,7 @@ http:
     # Файлы WASM Pagefind - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-pagefind-wasm-ctype:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`^/pagefind/.*\\.wasm$`)
       service: idimi-uygy0r-app
       middlewares:
@@ -267,7 +267,7 @@ http:
     # Файлы индекса Pagefind - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-pagefind-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathPrefix(`/pagefind`)
       service: idimi-uygy0r-app
       middlewares:
@@ -282,7 +282,7 @@ http:
     # Sitemap / Robots / RSS - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-meta-short:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/sitemap.xml`) ||
           Path(`/robots.txt`) ||
           Path(`/sitemap-index.xml`) ||
@@ -300,7 +300,7 @@ http:
     # Manifest - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-manifest:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/manifest.webmanifest`) ||
           Path(`/site.webmanifest`) ||
           Path(`/browserconfig.xml`) )
@@ -317,7 +317,7 @@ http:
     # Другие статические файлы (Изображения/Видео и т.д.) - Без сжатия, обрабатывается EdgeOne
     idimi-uygy0r-public-30d:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`.+\\..+`)
       service: idimi-uygy0r-app
       middlewares:
@@ -332,7 +332,7 @@ http:
     # HTML-страницы (Резервное правило) - Без сжатия, обрабатывается EdgeOne
     # Применена стратегия разделения s-maxage=3600
     idimi-uygy0r-pages:
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       service: idimi-uygy0r-app
       middlewares:
         - idimi-uygy0r-cache-html

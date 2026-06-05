@@ -3,7 +3,7 @@ slug: default
 name: "Rip"
 bio: "Создатель программного обеспечения. Современный фермер. Искатель альфы."
 socials:
-  - { label: "GitHub", url: "https://github.com/realriplab/RealRip" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
   - { label: "Website", url: "/ru/" }
   - { label: "RSS", url: "/ru/rss.xml" }
 locale: ru

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-19
 heroImage: "https://cos.zbz.ai/images/20251027103828087.avif"
-heroImageAlt: "RealRip - 再戦"
+heroImageAlt: "ZBZ - 再戦"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

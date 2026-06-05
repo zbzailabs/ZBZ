@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—En el mapa del sector del automóvil, una empresa china debe estar en el top 3; Geely encaja"
+heroImageAlt: "ZBZ—En el mapa del sector del automóvil, una empresa china debe estar en el top 3; Geely encaja"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

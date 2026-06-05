@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—Wie lange dauert eine Runde um den Westsee?"
+heroImageAlt: "ZBZ—Wie lange dauert eine Runde um den Westsee?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

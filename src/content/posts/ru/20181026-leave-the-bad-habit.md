@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-10-26
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip—Маленькие бессознательные дурные привычки"
+heroImageAlt: "ZBZ—Маленькие бессознательные дурные привычки"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

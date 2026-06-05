@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—How Long Does It Take to Walk Around West Lake?"
+heroImageAlt: "ZBZ—How Long Does It Take to Walk Around West Lake?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

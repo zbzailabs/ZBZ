@@ -5,7 +5,7 @@ category: "invest"
 tags:
   - "reflect"
 pubDate: 2022-10-23
-heroImage: https://cos.realrip.com/images/202310281639448.avif
+heroImage: https://cos.zbz.ai/images/202310281639448.avif
 heroImageAlt: "ZBZ-又一款谷歌产品退出大陆"
 heroImageWidth: 1960
 heroImageHeight: 1102

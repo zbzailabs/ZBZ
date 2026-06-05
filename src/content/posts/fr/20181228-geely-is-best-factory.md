@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—Sur la carte de l’industrie auto, une entreprise chinoise doit être dans le top 3 ; Geely a le profil"
+heroImageAlt: "ZBZ—Sur la carte de l’industrie auto, une entreprise chinoise doit être dans le top 3 ; Geely a le profil"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

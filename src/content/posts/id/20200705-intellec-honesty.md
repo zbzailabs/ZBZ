@@ -30,7 +30,7 @@ Sekali lagi, beli konsep panas dari putaran pasar bullish ini. Di setiap putaran
 
 ### Peristiwa Minggu Ini
 
-Setelah pembukaan penuh sektor keuangan, pasar berharap CITIC Securities dan CSC Financial dapat bergabung dan merestrukturisasi untuk membangun kapal induk sekuritas untuk bersaing dengan modal asing. Mengikuti CRealRipC dan CSSC, "China Securities" akan segera muncul.
+Setelah pembukaan penuh sektor keuangan, pasar berharap CITIC Securities dan CSC Financial dapat bergabung dan merestrukturisasi untuk membangun kapal induk sekuritas untuk bersaing dengan modal asing. Mengikuti CZBZC dan CSSC, "China Securities" akan segera muncul.
 
 ### Pasar Minggu Ini
 

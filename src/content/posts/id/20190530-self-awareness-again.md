@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512068.avif"
-heroImageAlt: "RealRip—Kesadaran diri"
+heroImageAlt: "ZBZ—Kesadaran diri"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

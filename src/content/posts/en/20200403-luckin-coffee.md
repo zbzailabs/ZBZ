@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2020-04-03
-heroImage: https://cos.realrip.com/images/202310181512062.avif
+heroImage: https://cos.zbz.ai/images/202310181512062.avif
 heroImageAlt: "ZBZ-Look around, if you don't see the salesperson, then you are the one."
 heroImageWidth: 1960
 heroImageHeight: 1102

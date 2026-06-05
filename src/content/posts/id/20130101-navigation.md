@@ -1,6 +1,6 @@
 ---
 title: "Navigasi"
-description: "Halaman Navigasi RealRip"
+description: "Halaman Navigasi ZBZ"
 category: "startup"
 tags:
   - "management"
@@ -20,5 +20,5 @@ locale: id
 
 |                                                       |                                                             |                                                                |
 | ----------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
-| [Beranda](https://realrip.com/id/)                  | [Tag](https://realrip.com/id/tags)                        | [Tautan Teman](https://realrip.com/id/posts/20130201-links/) |
-| [Kehidupan](https://realrip.com/id/category/life/) | [Kewirausahaan](https://realrip.com/id/category/build/) | [Investasi](https://realrip.com/id/category/invest/)         |
+| [Beranda](https://zbz.ai/id/)                  | [Tag](https://zbz.ai/id/tags)                        | [Tautan Teman](https://zbz.ai/id/posts/20130201-links/) |
+| [Kehidupan](https://zbz.ai/id/category/life/) | [Kewirausahaan](https://zbz.ai/id/category/build/) | [Investasi](https://zbz.ai/id/category/invest/)         |

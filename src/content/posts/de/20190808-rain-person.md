@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-10"
 heroImage: "https://cos.zbz.ai/images/202310181512050.avif"
-heroImageAlt: "RealRip—Eine Nacht, in der der Regen aufschreckt"
+heroImageAlt: "ZBZ—Eine Nacht, in der der Regen aufschreckt"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

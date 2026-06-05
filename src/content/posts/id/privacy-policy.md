@@ -18,7 +18,7 @@ locale: id
 
 **Tanggal Berlaku: 25 September 2024**
 
-Selamat datang di [DiMi](https://realrip.com). Kami menghargai privasi Anda dan berkomitmen untuk melindungi informasi pribadi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi yang Anda berikan saat menggunakan situs web dan layanan kami.
+Selamat datang di [DiMi](https://zbz.ai). Kami menghargai privasi Anda dan berkomitmen untuk melindungi informasi pribadi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi yang Anda berikan saat menggunakan situs web dan layanan kami.
 
 ## 1. Informasi yang Kami Kumpulkan
 
@@ -102,4 +102,4 @@ Kami berhak memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap pembar
 
 Jika Anda memiliki pertanyaan atau permintaan mengenai Kebijakan Privasi kami, silakan hubungi kami melalui metode berikut:
 
-- **Email**: hi@mail.realrip.com
+- **Email**: hi@mail.zbz.ai

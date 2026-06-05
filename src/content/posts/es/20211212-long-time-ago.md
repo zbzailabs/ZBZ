@@ -50,7 +50,7 @@ Connotación de crecimiento estable: Aterrizaje suave de la vieja economía, rá
 
 Vieja economía, el consenso del mercado sobre las acciones de primera clase de baja posición se fortalecerá aún más, centrándose en:
 
-- Liquidez bajo recortes de RealRipR + mejora marginal en los fundamentos: Empresas de valores.
+- Liquidez bajo recortes de ZBZR + mejora marginal en los fundamentos: Empresas de valores.
 - Condiciones nacionales básicas basadas en el carbón: Carbón.
 - Consumo de los hogares: Licor.
 
@@ -110,12 +110,12 @@ Revisión de esta semana: esta semana, el tablero principal fluctuó y el GEM au
 
 **Enlaces relacionados**
 
-[Puntos clave de la Conferencia Central de Trabajo Económico 2024](https://realrip.com/es/posts/20231228-spring-2024/)
+[Puntos clave de la Conferencia Central de Trabajo Económico 2024](https://zbz.ai/es/posts/20231228-spring-2024/)
 
-[Puntos clave de la Conferencia Económica Central 2022](https://realrip.com/es/posts/20221218-red-bull/)
+[Puntos clave de la Conferencia Económica Central 2022](https://zbz.ai/es/posts/20221218-red-bull/)
 
-[Puntos clave de la Conferencia Central de Trabajo Económico 2023](https://realrip.com/es/posts/20230303-spring-2023/)
+[Puntos clave de la Conferencia Central de Trabajo Económico 2023](https://zbz.ai/es/posts/20230303-spring-2023/)
 
-[Puntos clave de la Conferencia Económica Central 2022](https://realrip.com/es/posts/20221218-red-bull/)
+[Puntos clave de la Conferencia Económica Central 2022](https://zbz.ai/es/posts/20221218-red-bull/)
 
-[Puntos clave de la Conferencia Central de Trabajo Económico 2021](https://realrip.com/es/posts/20201213-2021-do-what/)
+[Puntos clave de la Conferencia Central de Trabajo Económico 2021](https://zbz.ai/es/posts/20201213-2021-do-what/)

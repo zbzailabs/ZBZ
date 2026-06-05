@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512076.avif"
-heroImageAlt: "RealRip—Derribemos el muro de la cultura de empresa"
+heroImageAlt: "ZBZ—Derribemos el muro de la cultura de empresa"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:
@@ -16,7 +16,7 @@ featured: false
 locale: es
 ---
 
-Hoy, junto con un amigo, visitamos al Sr. Wang, un profesional de RealRip. HH. con mucha experiencia. Al hablar de la “cultura de empresa”, fue tajante: para micro y pequeñas compañías de menos de 50 empleados, se opone a copiar el método Huawei o la gestión Amoeba. Aún más, desaconseja que los fundadores gasten enormes energías estudiando a Taylor o Peter Drucker.
+Hoy, junto con un amigo, visitamos al Sr. Wang, un profesional de ZBZ. HH. con mucha experiencia. Al hablar de la “cultura de empresa”, fue tajante: para micro y pequeñas compañías de menos de 50 empleados, se opone a copiar el método Huawei o la gestión Amoeba. Aún más, desaconseja que los fundadores gasten enormes energías estudiando a Taylor o Peter Drucker.
 
 Primero, la calidad de las empresas de formación y consultoría varía enormemente. Las mejores aún envían cada año a su gente al extranjero para aprender ideas recientes; las peores quizá solo descarguen presentaciones de otros en internet; y las del montón se limitan a resumir los textos clásicos y recitarlos.
 

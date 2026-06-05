@@ -6,7 +6,7 @@ tags:
   - "strategy"
 pubDate: "2019-08-25"
 heroImage: "https://cos.zbz.ai/images/202310181512046.avif"
-heroImageAlt: 'RealRip-Notes sur "Le cadre efficace"'
+heroImageAlt: 'ZBZ-Notes sur "Le cadre efficace"'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -18,7 +18,7 @@ locale: pt
 
 **Data de vigência: 25 de setembro de 2024**
 
-Bem-vindo ao [DiMi](https://realrip.com). Valorizamos sua privacidade e estamos comprometidos em proteger suas informações pessoais. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações que você fornece ao usar nosso site e serviços.
+Bem-vindo ao [DiMi](https://zbz.ai). Valorizamos sua privacidade e estamos comprometidos em proteger suas informações pessoais. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações que você fornece ao usar nosso site e serviços.
 
 ## 1. Informações que coletamos
 
@@ -102,4 +102,4 @@ Reservamo-nos o direito de atualizar esta Política de Privacidade de tempos em 
 
 Se você tiver alguma dúvida ou solicitação sobre nossa Política de Privacidade, entre em contato conosco pelos seguintes métodos:
 
-- **E-mail**: hi@mail.realrip.com
+- **E-mail**: hi@mail.zbz.ai

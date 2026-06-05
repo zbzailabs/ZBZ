@@ -50,7 +50,7 @@ Connotation of stable growth: Soft landing of the old economy, rapid development
 
 Old economy, the market consensus on low-position blue chips will be further strengthened, focusing on:
 
-- Liquidity under RealRipR cuts + marginal improvement in fundamentals: Securities firms.
+- Liquidity under ZBZR cuts + marginal improvement in fundamentals: Securities firms.
 - Basic national conditions based on coal: Coal.
 - Household consumption: Liquor.
 
@@ -110,12 +110,12 @@ Review of this week: This week, the main board fluctuated, and the GEM rose sign
 
 **Related Links**
 
-[Key Points of 2024 Central Economic Work Conference](https://realrip.com/en/posts/20231228-spring-2024/)
+[Key Points of 2024 Central Economic Work Conference](https://zbz.ai/en/posts/20231228-spring-2024/)
 
-[Key Points of 2022 Central Economic Conference](https://realrip.com/en/posts/20221218-red-bull/)
+[Key Points of 2022 Central Economic Conference](https://zbz.ai/en/posts/20221218-red-bull/)
 
-[Key Points of 2023 Central Economic Work Conference](https://realrip.com/en/posts/20230303-spring-2023/)
+[Key Points of 2023 Central Economic Work Conference](https://zbz.ai/en/posts/20230303-spring-2023/)
 
-[Key Points of 2022 Central Economic Conference](https://realrip.com/en/posts/20221218-red-bull/)
+[Key Points of 2022 Central Economic Conference](https://zbz.ai/en/posts/20221218-red-bull/)
 
-[Key Points of 2021 Central Economic Work Conference](https://realrip.com/en/posts/20201213-2021-do-what/)
+[Key Points of 2021 Central Economic Work Conference](https://zbz.ai/en/posts/20201213-2021-do-what/)

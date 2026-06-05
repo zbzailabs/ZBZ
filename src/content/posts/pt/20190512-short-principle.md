@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512075.avif"
-heroImageAlt: "RealRip—Quais princípios seguem os grandes investidores"
+heroImageAlt: "ZBZ—Quais princípios seguem os grandes investidores"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

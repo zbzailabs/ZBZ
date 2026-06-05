@@ -6,7 +6,7 @@ tags:
   - "management"
   - "innovation"
 pubDate: 2021-09-12
-heroImage: https://cos.realrip.com/images/202309280838570.avif
+heroImage: https://cos.zbz.ai/images/202309280838570.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102

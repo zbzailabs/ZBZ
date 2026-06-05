@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "management"
 pubDate: 2022-01-01
-heroImage: https://cos.realrip.com/images/202309280820285.avif
+heroImage: https://cos.zbz.ai/images/202309280820285.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102

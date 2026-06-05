@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—On the global automotive map, a Chinese company must rank top‑three; Geely fits the bill"
+heroImageAlt: "ZBZ—On the global automotive map, a Chinese company must rank top‑three; Geely fits the bill"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

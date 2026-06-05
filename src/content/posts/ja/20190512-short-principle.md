@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512075.avif"
-heroImageAlt: "RealRip—優れた投資家はどんな原則を貫くのか"
+heroImageAlt: "ZBZ—優れた投資家はどんな原則を貫くのか"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

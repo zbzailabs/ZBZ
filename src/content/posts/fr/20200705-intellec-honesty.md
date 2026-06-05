@@ -30,7 +30,7 @@ Encore une fois, achetez les concepts chauds de ce cycle de marché haussier. À
 
 ### Événements de la semaine
 
-Après l'ouverture complète du secteur financier, le marché espère que CITIC Securities et CSC Financial pourront fusionner et se restructurer pour construire un porte-avions de titres pour faire face aux capitaux étrangers. Après CRealRipC et CSSC, "China Securities" est sur le point d'émerger.
+Après l'ouverture complète du secteur financier, le marché espère que CITIC Securities et CSC Financial pourront fusionner et se restructurer pour construire un porte-avions de titres pour faire face aux capitaux étrangers. Après CZBZC et CSSC, "China Securities" est sur le point d'émerger.
 
 ### Marché de la semaine
 

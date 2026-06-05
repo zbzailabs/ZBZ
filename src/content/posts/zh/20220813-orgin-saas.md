@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "innovation"
 pubDate: 2022-08-13
-heroImage: https://cos.realrip.com/images/202310281652987.avif
+heroImage: https://cos.zbz.ai/images/202310281652987.avif
 heroImageAlt: "ZBZ-人类趋利避害的辨别能力已经写入基因"
 heroImageWidth: 1960
 heroImageHeight: 1102

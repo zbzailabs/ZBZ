@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-10-26
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip—Pequenos maus hábitos do subconsciente"
+heroImageAlt: "ZBZ—Pequenos maus hábitos do subconsciente"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

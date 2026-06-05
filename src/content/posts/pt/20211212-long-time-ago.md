@@ -50,7 +50,7 @@ Conotação de crescimento estável: Pouso suave da velha economia, rápido dese
 
 Velha economia, o consenso do mercado sobre blue chips de baixa posição será ainda mais fortalecido, com foco em:
 
-- Liquidez sob cortes de RealRipR + melhoria marginal nos fundamentos: Empresas de valores mobiliários.
+- Liquidez sob cortes de ZBZR + melhoria marginal nos fundamentos: Empresas de valores mobiliários.
 - Condições nacionais básicas baseadas em carvão: Carvão.
 - Consumo das famílias: Licor.
 
@@ -110,12 +110,12 @@ Revisão desta semana: Esta semana, o conselho principal flutuou e o GEM subiu s
 
 **Links Relacionados**
 
-[Pontos-chave da Conferência Central de Trabalho Econômico de 2024](https://realrip.com/pt/posts/20231228-spring-2024/)
+[Pontos-chave da Conferência Central de Trabalho Econômico de 2024](https://zbz.ai/pt/posts/20231228-spring-2024/)
 
-[Pontos-chave da Conferência Econômica Central de 2022](https://realrip.com/pt/posts/20221218-red-bull/)
+[Pontos-chave da Conferência Econômica Central de 2022](https://zbz.ai/pt/posts/20221218-red-bull/)
 
-[Pontos-chave da Conferência Central de Trabalho Econômico de 2023](https://realrip.com/pt/posts/20230303-spring-2023/)
+[Pontos-chave da Conferência Central de Trabalho Econômico de 2023](https://zbz.ai/pt/posts/20230303-spring-2023/)
 
-[Pontos-chave da Conferência Econômica Central de 2022](https://realrip.com/pt/posts/20221218-red-bull/)
+[Pontos-chave da Conferência Econômica Central de 2022](https://zbz.ai/pt/posts/20221218-red-bull/)
 
-[Pontos-chave da Conferência Central de Trabalho Econômico de 2021](https://realrip.com/pt/posts/20201213-2021-do-what/)
+[Pontos-chave da Conferência Central de Trabalho Econômico de 2021](https://zbz.ai/pt/posts/20201213-2021-do-what/)

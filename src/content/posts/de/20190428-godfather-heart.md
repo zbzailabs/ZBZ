@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip—Fehlurteile des Menschen in Der Pate"
+heroImageAlt: "ZBZ—Fehlurteile des Menschen in Der Pate"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

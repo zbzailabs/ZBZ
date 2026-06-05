@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—Pada peta otomotif, sebuah perusahaan Tiongkok harus masuk tiga besar; Geely cocok"
+heroImageAlt: "ZBZ—Pada peta otomotif, sebuah perusahaan Tiongkok harus masuk tiga besar; Geely cocok"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

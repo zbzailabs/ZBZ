@@ -1,6 +1,6 @@
 ---
 title: "ナビゲーション"
-description: "RealRip ナビゲーションページ"
+description: "ZBZ ナビゲーションページ"
 category: "startup"
 tags:
   - "management"
@@ -20,5 +20,5 @@ locale: ja
 
 |                                                  |                                                    |                                                          |
 | ------------------------------------------------ | -------------------------------------------------- | -------------------------------------------------------- |
-| [ホーム](https://realrip.com/ja/)              | [タグ](https://realrip.com/ja/tags)              | [リンク](https://realrip.com/ja/posts/20130201-links/) |
-| [生活](https://realrip.com/ja/category/life/) | [起業](https://realrip.com/ja/category/build/) | [投資](https://realrip.com/ja/category/invest/)        |
+| [ホーム](https://zbz.ai/ja/)              | [タグ](https://zbz.ai/ja/tags)              | [リンク](https://zbz.ai/ja/posts/20130201-links/) |
+| [生活](https://zbz.ai/ja/category/life/) | [起業](https://zbz.ai/ja/category/build/) | [投資](https://zbz.ai/ja/category/invest/)        |

@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: 'RealRip-쉬하오펑은 먼저 소설 "사부"를 썼고 나중에 영화로 만들어 "사부"를 통해 중화민국의 실제 세계를 복원하려고 했습니다.'
+heroImageAlt: 'ZBZ-쉬하오펑은 먼저 소설 "사부"를 썼고 나중에 영화로 만들어 "사부"를 통해 중화민국의 실제 세계를 복원하려고 했습니다.'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

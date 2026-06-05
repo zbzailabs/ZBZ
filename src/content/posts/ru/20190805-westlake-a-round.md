@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—Сколько времени нужно, чтобы обойти Западное озеро?"
+heroImageAlt: "ZBZ—Сколько времени нужно, чтобы обойти Западное озеро?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

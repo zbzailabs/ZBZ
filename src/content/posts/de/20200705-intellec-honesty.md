@@ -30,7 +30,7 @@ Kaufen Sie auch hier die heißen Konzepte dieser Runde des Bullenmarktes. In jed
 
 ### Ereignisse der Woche
 
-Nach der vollständigen Öffnung des Finanzsektors hofft der Markt, dass CITIC Securities und CSC Financial fusionieren und umstrukturieren können, um einen Wertpapier-Flugzeugträger aufzubauen, der mit ausländischem Kapital konkurrieren kann. Nach CRealRipC und CSSC steht "China Securities" kurz vor dem Entstehen.
+Nach der vollständigen Öffnung des Finanzsektors hofft der Markt, dass CITIC Securities und CSC Financial fusionieren und umstrukturieren können, um einen Wertpapier-Flugzeugträger aufzubauen, der mit ausländischem Kapital konkurrieren kann. Nach CZBZC und CSSC steht "China Securities" kurz vor dem Entstehen.
 
 ### Markt der Woche
 

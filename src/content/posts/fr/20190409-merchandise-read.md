@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2025-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip—Pas de rouge, pas d'achat ; pas de vert, pas de vente"
+heroImageAlt: "ZBZ—Pas de rouge, pas d'achat ; pas de vert, pas de vente"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

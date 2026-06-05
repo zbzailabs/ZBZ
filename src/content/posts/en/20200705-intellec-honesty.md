@@ -30,7 +30,7 @@ Again, buy the hot concepts of this round of bull market. In every round, there 
 
 ### Weekly Events
 
-After the full opening of the financial sector, the market hopes that CITIC Securities and CSC Financial can merge and restructure to build a securities aircraft carrier to contend with foreign capital. Following CRealRipC and CSSC, "China Securities" is about to emerge.
+After the full opening of the financial sector, the market hopes that CITIC Securities and CSC Financial can merge and restructure to build a securities aircraft carrier to contend with foreign capital. Following CZBZC and CSSC, "China Securities" is about to emerge.
 
 ### Weekly Market
 

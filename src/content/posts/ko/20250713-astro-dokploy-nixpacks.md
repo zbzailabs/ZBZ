@@ -212,7 +212,7 @@ http:
     idimi-uygy0r-redirect-https:
       entryPoints:
         - web
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       middlewares:
         - idimi-uygy0r-to-https
       service: noop@internal
@@ -221,7 +221,7 @@ http:
     # Service Worker (PWA 핵심) - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-sw:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/service-worker.js`) || Path(`/sw.js`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -236,7 +236,7 @@ http:
     # Astro 핵심 정적 리소스 (Hash 지문) - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-static-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( PathPrefix(`/_astro`) || PathPrefix(`/assets`) )
       service: idimi-uygy0r-app
       middlewares:
@@ -251,7 +251,7 @@ http:
     # Pagefind WASM 파일 - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-pagefind-wasm-ctype:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`^/pagefind/.*\\.wasm$`)
       service: idimi-uygy0r-app
       middlewares:
@@ -267,7 +267,7 @@ http:
     # Pagefind 인덱스 파일 - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-pagefind-immutable:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathPrefix(`/pagefind`)
       service: idimi-uygy0r-app
       middlewares:
@@ -282,7 +282,7 @@ http:
     # Sitemap / Robots / RSS - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-meta-short:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/sitemap.xml`) ||
           Path(`/robots.txt`) ||
           Path(`/sitemap-index.xml`) ||
@@ -300,7 +300,7 @@ http:
     # Manifest - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-manifest:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         ( Path(`/manifest.webmanifest`) ||
           Path(`/site.webmanifest`) ||
           Path(`/browserconfig.xml`) )
@@ -317,7 +317,7 @@ http:
     # 기타 정적 파일 (이미지/동영상 등) - 압축 없음, EdgeOne에서 처리
     idimi-uygy0r-public-30d:
       rule: >
-        Host(`realrip.com`) &&
+        Host(`zbz.ai`) &&
         PathRegexp(`.+\\..+`)
       service: idimi-uygy0r-app
       middlewares:
@@ -332,7 +332,7 @@ http:
     # HTML 페이지 (폴백 규칙) - 압축 없음, EdgeOne에서 처리
     # s-maxage=3600 분리 전략 적용됨
     idimi-uygy0r-pages:
-      rule: Host(`realrip.com`)
+      rule: Host(`zbz.ai`)
       service: idimi-uygy0r-app
       middlewares:
         - idimi-uygy0r-cache-html

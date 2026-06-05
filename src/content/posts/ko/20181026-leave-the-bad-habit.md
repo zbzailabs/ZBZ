@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2018-10-26
 heroImage: "https://cos.zbz.ai/images/202310181512122.avif"
-heroImageAlt: "RealRip—무의식의 작은 나쁜 습관에서 멀어지기"
+heroImageAlt: "ZBZ—무의식의 작은 나쁜 습관에서 멀어지기"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

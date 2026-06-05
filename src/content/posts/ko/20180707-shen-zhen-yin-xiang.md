@@ -6,7 +6,7 @@ tags:
   - "roam"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512126.avif"
-heroImageAlt: "RealRip—선전 인상"
+heroImageAlt: "ZBZ—선전 인상"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

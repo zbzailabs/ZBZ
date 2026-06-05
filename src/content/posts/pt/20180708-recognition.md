@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181536594.avif"
-heroImageAlt: "RealRip—A revitalização rural deve focar problemas práticos"
+heroImageAlt: "ZBZ—A revitalização rural deve focar problemas práticos"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

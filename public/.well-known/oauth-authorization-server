@@ -1,9 +1,9 @@
 {
-  "issuer": "https://realrip.com",
-  "authorization_endpoint": "https://realrip.com/oauth/authorize",
-  "token_endpoint": "https://realrip.com/oauth/token",
-  "jwks_uri": "https://realrip.com/.well-known/jwks.json",
-  "registration_endpoint": "https://realrip.com/auth.md",
+  "issuer": "https://zbz.ai",
+  "authorization_endpoint": "https://zbz.ai/oauth/authorize",
+  "token_endpoint": "https://zbz.ai/oauth/token",
+  "jwks_uri": "https://zbz.ai/.well-known/jwks.json",
+  "registration_endpoint": "https://zbz.ai/auth.md",
   "grant_types_supported": [
     "client_credentials"
   ],
@@ -19,12 +19,12 @@
     "content.read",
     "x402.pay"
   ],
-  "service_documentation": "https://realrip.com/auth.md",
+  "service_documentation": "https://zbz.ai/auth.md",
   "agent_auth": {
-    "skill": "https://realrip.com/auth.md",
-    "register_uri": "https://realrip.com/auth.md",
-    "claim_uri": "https://realrip.com/api",
-    "revocation_uri": "https://realrip.com/auth.md#revocation-uri",
+    "skill": "https://zbz.ai/auth.md",
+    "register_uri": "https://zbz.ai/auth.md",
+    "claim_uri": "https://zbz.ai/api",
+    "revocation_uri": "https://zbz.ai/auth.md#revocation-uri",
     "identity_types_supported": [
       "anonymous"
     ],
@@ -32,7 +32,7 @@
       "credential_types_supported": [
         "x402"
       ],
-      "claim_uri": "https://realrip.com/api"
+      "claim_uri": "https://zbz.ai/api"
     },
     "events_supported": []
   }

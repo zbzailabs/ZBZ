@@ -7,7 +7,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202310181512127.avif"
-heroImageAlt: "RealRip—Vacaciones de verano, volando a Estados Unidos"
+heroImageAlt: "ZBZ—Vacaciones de verano, volando a Estados Unidos"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

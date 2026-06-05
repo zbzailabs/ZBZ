@@ -5,7 +5,7 @@ category: "startup"
 tags:
   - "innovation"
 pubDate: 2023-03-03
-heroImage: https://cos.realrip.com/images/202310031546138.avif
+heroImage: https://cos.zbz.ai/images/202310031546138.avif
 heroImageAlt: "ZBZ-经济复苏下的四个小故事"
 heroImageWidth: 1960
 heroImageHeight: 1102

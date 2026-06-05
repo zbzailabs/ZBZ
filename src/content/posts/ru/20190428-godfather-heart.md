@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-10-02
 heroImage: "https://cos.zbz.ai/images/202310181512074.avif"
-heroImageAlt: "RealRip—Человеческие ошибки суждений в «Крёстном отце»"
+heroImageAlt: "ZBZ—Человеческие ошибки суждений в «Крёстном отце»"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

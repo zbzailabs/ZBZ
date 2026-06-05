@@ -8,7 +8,7 @@ pubDate: 2024-10-01
 authors:
   - default
 heroImage: "https://cos.zbz.ai/images/202309131332729.avif"
-heroImageAlt: " RealRip-八角笼中海报"
+heroImageAlt: " ZBZ-八角笼中海报"
 heroImageWidth: 1960
 heroImageHeight: 1102
 draft: false

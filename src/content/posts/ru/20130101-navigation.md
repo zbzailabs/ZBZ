@@ -1,6 +1,6 @@
 ---
 title: "Навигация"
-description: "Страница навигации RealRip"
+description: "Страница навигации ZBZ"
 category: "startup"
 tags:
   - "management"
@@ -20,5 +20,5 @@ locale: ru
 
 |                                                   |                                                                   |                                                                        |
 | ------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Главная](https://realrip.com/ru/)              | [Теги](https://realrip.com/ru/tags)                             | [Дружественные ссылки](https://realrip.com/ru/posts/20130201-links/) |
-| [Жизнь](https://realrip.com/ru/category/life/) | [Предпринимательство](https://realrip.com/ru/category/build/) | [Инвестиции](https://realrip.com/ru/category/invest/)                |
+| [Главная](https://zbz.ai/ru/)              | [Теги](https://zbz.ai/ru/tags)                             | [Дружественные ссылки](https://zbz.ai/ru/posts/20130201-links/) |
+| [Жизнь](https://zbz.ai/ru/category/life/) | [Предпринимательство](https://zbz.ai/ru/category/build/) | [Инвестиции](https://zbz.ai/ru/category/invest/)                |

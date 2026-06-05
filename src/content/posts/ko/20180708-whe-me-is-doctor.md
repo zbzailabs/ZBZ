@@ -7,7 +7,7 @@ tags:
   - "reflect"
 pubDate: 2024-07-08
 heroImage: "https://cos.zbz.ai/images/202310181512125.avif"
-heroImageAlt: "RealRip—나는 어떻게 ‘약신’이 되었나"
+heroImageAlt: "ZBZ—나는 어떻게 ‘약신’이 되었나"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

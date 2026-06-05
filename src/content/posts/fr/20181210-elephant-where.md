@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-09-10
 heroImage: "https://cos.zbz.ai/images/202309131332734.avif"
-heroImageAlt: "RealRip—Un éléphant immobile"
+heroImageAlt: "ZBZ—Un éléphant immobile"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

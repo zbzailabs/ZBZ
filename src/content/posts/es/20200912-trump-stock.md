@@ -5,7 +5,7 @@ category: "invest"
 tags:
   - "risk"
 pubDate: 2020-09-12
-heroImage: https://cos.realrip.com/images/202310181512039.avif
+heroImage: https://cos.zbz.ai/images/202310181512039.avif
 heroImageAlt: "ZBZ-"
 heroImageWidth: 1960
 heroImageHeight: 1102

@@ -50,7 +50,7 @@ Connotation de croissance stable : Atterrissage en douceur de l'ancienne économ
 
 Ancienne économie, le consensus du marché sur les blue chips à position basse sera encore renforcé, en se concentrant sur :
 
-- Liquidité sous les réductions du RealRipR + amélioration marginale des fondamentaux : Sociétés de valeurs mobilières.
+- Liquidité sous les réductions du ZBZR + amélioration marginale des fondamentaux : Sociétés de valeurs mobilières.
 - Conditions nationales de base basées sur le charbon : Charbon.
 - Consommation des ménages : Liqueur.
 
@@ -110,12 +110,12 @@ Revue de cette semaine : Cette semaine, le tableau principal a fluctué et le GE
 
 **Liens connexes**
 
-[Points clés de la Conférence centrale sur le travail économique 2024](https://realrip.com/fr/posts/20231228-spring-2024/)
+[Points clés de la Conférence centrale sur le travail économique 2024](https://zbz.ai/fr/posts/20231228-spring-2024/)
 
-[Points clés de la Conférence économique centrale 2022](https://realrip.com/fr/posts/20221218-red-bull/)
+[Points clés de la Conférence économique centrale 2022](https://zbz.ai/fr/posts/20221218-red-bull/)
 
-[Points clés de la Conférence centrale sur le travail économique 2023](https://realrip.com/fr/posts/20230303-spring-2023/)
+[Points clés de la Conférence centrale sur le travail économique 2023](https://zbz.ai/fr/posts/20230303-spring-2023/)
 
-[Points clés de la Conférence économique centrale 2022](https://realrip.com/fr/posts/20221218-red-bull/)
+[Points clés de la Conférence économique centrale 2022](https://zbz.ai/fr/posts/20221218-red-bull/)
 
-[Points clés de la Conférence centrale sur le travail économique 2021](https://realrip.com/fr/posts/20201213-2021-do-what/)
+[Points clés de la Conférence centrale sur le travail économique 2021](https://zbz.ai/fr/posts/20201213-2021-do-what/)

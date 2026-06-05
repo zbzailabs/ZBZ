@@ -1,9 +1,9 @@
 {
   "serverInfo": {
-    "name": "RealRip Content",
+    "name": "ZBZ Content",
     "version": "1.0.0"
   },
-  "description": "Read-only discovery metadata for RealRip's public multilingual editorial content.",
+  "description": "Read-only discovery metadata for ZBZ's public multilingual editorial content.",
   "transport": {
     "type": "none"
   },

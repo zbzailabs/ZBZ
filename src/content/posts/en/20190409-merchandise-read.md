@@ -6,7 +6,7 @@ tags:
   - "allocation"
 pubDate: 2025-10-01
 heroImage: "https://cos.zbz.ai/images/202310181512082.avif"
-heroImageAlt: "RealRip—No Red, No Buy; No Green, No Sell"
+heroImageAlt: "ZBZ—No Red, No Buy; No Green, No Sell"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

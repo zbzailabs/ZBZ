@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—No mapa da indústria automotiva, uma empresa chinesa precisa figurar no top 3; a Geely se encaixa"
+heroImageAlt: "ZBZ—No mapa da indústria automotiva, uma empresa chinesa precisa figurar no top 3; a Geely se encaixa"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

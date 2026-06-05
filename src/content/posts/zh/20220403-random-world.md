@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "roam"
 pubDate: 2022-04-03
-heroImage: https://cos.realrip.com/images/202310281715518.avif
+heroImage: https://cos.zbz.ai/images/202310281715518.avif
 heroImageAlt: "ZBZ-当上海的孩子独自隔离，乌克兰的孩童早已背上行囊流亡异国他乡"
 heroImageWidth: 1960
 heroImageHeight: 1102

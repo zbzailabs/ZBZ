@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: "2019-08-05"
 heroImage: "https://cos.zbz.ai/images/202310181512053.avif"
-heroImageAlt: "RealRip—서호 한 바퀴 도는 데 얼마나 걸릴까?"
+heroImageAlt: "ZBZ—서호 한 바퀴 도는 데 얼마나 걸릴까?"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

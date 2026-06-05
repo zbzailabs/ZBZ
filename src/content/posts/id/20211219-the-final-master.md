@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2021-12-19
 heroImage: "https://cos.zbz.ai/images/202309131332749.avif"
-heroImageAlt: 'RealRip-Xu Haofeng pertama kali menulis novel "The Master" dan kemudian membuatnya menjadi film, mencoba memulihkan dunia nyata Republik Tiongkok melalui "The Master".'
+heroImageAlt: 'ZBZ-Xu Haofeng pertama kali menulis novel "The Master" dan kemudian membuatnya menjadi film, mencoba memulihkan dunia nyata Republik Tiongkok melalui "The Master".'
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

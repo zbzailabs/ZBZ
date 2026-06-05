@@ -1,48 +1,48 @@
 {
   "linkset": [
     {
-      "anchor": "https://realrip.com/api",
+      "anchor": "https://zbz.ai/api",
       "service-desc": [
         {
-          "href": "https://realrip.com/openapi.json",
+          "href": "https://zbz.ai/openapi.json",
           "type": "application/vnd.oai.openapi+json;version=3.1",
-          "title": "RealRip x402 API OpenAPI description"
+          "title": "ZBZ x402 API OpenAPI description"
         }
       ],
       "service-doc": [
         {
-          "href": "https://realrip.com/auth.md",
+          "href": "https://zbz.ai/auth.md",
           "type": "text/markdown",
-          "title": "RealRip agent authentication and payment instructions"
+          "title": "ZBZ agent authentication and payment instructions"
         }
       ],
       "status": [
         {
-          "href": "https://realrip.com/api",
+          "href": "https://zbz.ai/api",
           "type": "application/json",
           "title": "x402 protected API status probe"
         }
       ]
     },
     {
-      "anchor": "https://realrip.com/api/v1",
+      "anchor": "https://zbz.ai/api/v1",
       "service-desc": [
         {
-          "href": "https://realrip.com/openapi.json",
+          "href": "https://zbz.ai/openapi.json",
           "type": "application/vnd.oai.openapi+json;version=3.1",
-          "title": "RealRip x402 API OpenAPI description"
+          "title": "ZBZ x402 API OpenAPI description"
         }
       ],
       "service-doc": [
         {
-          "href": "https://realrip.com/auth.md",
+          "href": "https://zbz.ai/auth.md",
           "type": "text/markdown",
-          "title": "RealRip agent authentication and payment instructions"
+          "title": "ZBZ agent authentication and payment instructions"
         }
       ],
       "status": [
         {
-          "href": "https://realrip.com/api/v1",
+          "href": "https://zbz.ai/api/v1",
           "type": "application/json",
           "title": "x402 protected API v1 status probe"
         }

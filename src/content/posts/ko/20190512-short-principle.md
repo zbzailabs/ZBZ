@@ -6,7 +6,7 @@ tags:
   - "media"
 pubDate: 2025-10-08
 heroImage: "https://cos.zbz.ai/images/202310181512075.avif"
-heroImageAlt: "RealRip—뛰어난 투자자는 어떤 원칙을 지키는가"
+heroImageAlt: "ZBZ—뛰어난 투자자는 어떤 원칙을 지키는가"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

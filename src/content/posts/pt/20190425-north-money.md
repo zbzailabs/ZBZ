@@ -6,7 +6,7 @@ tags:
   - "risk"
 pubDate: 2019-04-25
 heroImage: "https://cos.zbz.ai/images/202310181512078.avif"
-heroImageAlt: "RealRip—Não idolatre cegamente os fluxos do Norte"
+heroImageAlt: "ZBZ—Não idolatre cegamente os fluxos do Norte"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

@@ -5,7 +5,7 @@ category: "life"
 tags:
   - "roam"
 pubDate: 2021-11-17
-heroImage: https://cos.realrip.com/images/202310181512145.avif
+heroImage: https://cos.zbz.ai/images/202310181512145.avif
 heroImageAlt: "ZBZ-为 Gatsby 安装 Waline 评论组件"
 heroImageWidth: 1960
 heroImageHeight: 1102

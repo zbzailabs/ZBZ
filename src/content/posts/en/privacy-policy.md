@@ -18,7 +18,7 @@ locale: en
 
 **Effective Date: September 25, 2024**
 
-Welcome to [DiMi](https://realrip.com). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect the information you provide when using our website and services.
+Welcome to [DiMi](https://zbz.ai). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect the information you provide when using our website and services.
 
 ## 1. Information We Collect
 
@@ -102,4 +102,4 @@ We reserve the right to update this Privacy Policy from time to time. Any update
 
 If you have any questions or requests regarding our Privacy Policy, please contact us via the following methods:
 
-- **Email**: hi@mail.realrip.com
+- **Email**: hi@mail.zbz.ai

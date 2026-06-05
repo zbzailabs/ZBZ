@@ -3,7 +3,7 @@ slug: default
 name: "Rip"
 bio: "소프트웨어 빌더. 현대 농부. 알파를 찾는 사람."
 socials:
-  - { label: "GitHub", url: "https://github.com/realriplab/RealRip" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
   - { label: "Website", url: "/ko/" }
   - { label: "RSS", url: "/ko/rss.xml" }
 locale: ko

@@ -6,7 +6,7 @@ tags:
   - "innovation"
 pubDate: 2018-12-28
 heroImage: "https://cos.zbz.ai/images/202310181536588.avif"
-heroImageAlt: "RealRip—Auf der Automobil-Landkarte muss ein chinesisches Unternehmen unter den Top 3 sein; Geely passt ins Bild"
+heroImageAlt: "ZBZ—Auf der Automobil-Landkarte muss ein chinesisches Unternehmen unter den Top 3 sein; Geely passt ins Bild"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

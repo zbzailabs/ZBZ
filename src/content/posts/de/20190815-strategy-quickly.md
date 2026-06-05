@@ -6,7 +6,7 @@ tags:
   - "management"
 pubDate: "2019-08-15"
 heroImage: "https://cos.zbz.ai/images/202310181512048.avif"
-heroImageAlt: "RealRip—Tief denken, schnell handeln"
+heroImageAlt: "ZBZ—Tief denken, schnell handeln"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:

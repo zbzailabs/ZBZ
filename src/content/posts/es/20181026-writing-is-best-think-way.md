@@ -6,7 +6,7 @@ tags:
   - "reflect"
 pubDate: 2025-08-26
 heroImage: "https://cos.zbz.ai/images/202310181512123.avif"
-heroImageAlt: "RealRip—Escribir, la mejor forma de pensar"
+heroImageAlt: "ZBZ—Escribir, la mejor forma de pensar"
 heroImageWidth: 1960
 heroImageHeight: 1102
 authors:
