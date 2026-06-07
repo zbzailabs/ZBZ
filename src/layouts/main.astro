@@ -22,6 +22,7 @@ interface Props {
   image?: string
   ogType?: "website" | "article"
   alternates?: Record<string, string>
+  canonicalOverride?: string
   noindex?: boolean
   jsonLd?: unknown
   dynamicGlass?: boolean
@@ -35,6 +36,7 @@ const {
   image = SITE_CONFIG.defaultOgImage,
   ogType = "website",
   alternates: explicitAlternates,
+  canonicalOverride,
   noindex = false,
   jsonLd,
   dynamicGlass = false,
@@ -46,7 +48,8 @@ const pageTitle =
   title === SITE_CONFIG.name || title.includes(SITE_CONFIG.name)
     ? title
     : `${title} | ${SITE_CONFIG.name}`
-const canonical = canonicalUrl(lang, path)
+const pageUrl = canonicalUrl(lang, path)
+const canonical = canonicalOverride ?? pageUrl
 const absoluteImage = image.startsWith("http")
   ? image
   : `${SITE_CONFIG.url}${image}`
@@ -58,6 +61,7 @@ const baseJsonLd = [
     title: pageTitle,
     description: pageDescription,
     image,
+    canonicalUrlOverride: canonical,
   }),
 ]
 const jsonLdItems = jsonLd
@@ -94,7 +98,7 @@ const alternateOgLocales = LOCALES.filter((locale) => locale !== lang).map(
           title: pageTitle,
           type: ogType,
           image: absoluteImage,
-          url: canonical,
+          url: pageUrl,
         },
         optional: {
           description: pageDescription,

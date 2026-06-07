@@ -38,8 +38,9 @@ export function webPageJsonLd(input: {
   title: string
   description: string
   image?: string
+  canonicalUrlOverride?: string
 }) {
-  const url = canonicalUrl(input.lang, input.path)
+  const url = input.canonicalUrlOverride ?? canonicalUrl(input.lang, input.path)
   const language = getLocaleMeta(input.lang).hreflang
 
   return {
@@ -65,17 +66,21 @@ export function articleJsonLd(input: {
   title: string
   description: string
   image: string
+  canonicalUrlOverride?: string
   pubDate: Date
   updatedDate?: Date
   authors: SeoAuthor[]
+  articleSection?: string
+  keywords?: string[]
 }) {
-  const url = canonicalUrl(input.lang, input.path)
+  const url = input.canonicalUrlOverride ?? canonicalUrl(input.lang, input.path)
   const image = absoluteUrl(input.image)
   const language = getLocaleMeta(input.lang).hreflang
 
   return {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
+    "@id": `${url}#article`,
     headline: input.title,
     description: input.description,
     inLanguage: language,
@@ -85,8 +90,13 @@ export function articleJsonLd(input: {
       "@id": url,
     },
     image: [image],
+    ...(input.articleSection ? { articleSection: input.articleSection } : {}),
+    ...(input.keywords?.length ? { keywords: input.keywords } : {}),
     datePublished: input.pubDate.toISOString(),
     dateModified: (input.updatedDate ?? input.pubDate).toISOString(),
+    isPartOf: {
+      "@id": `${canonicalUrl(input.lang, "/")}#website`,
+    },
     publisher: {
       "@type": "Organization",
       name: SITE_CONFIG.name,

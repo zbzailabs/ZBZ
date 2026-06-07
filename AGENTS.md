@@ -7,8 +7,8 @@ workflow, commands, repository structure, deployment, and contribution rules
 here. Keep visual tokens and UI appearance rules in `DESIGN.md`.
 
 ZBZ is an Astro 6 static multilingual editorial theme. The current default
-locale is English, public routes keep locale prefixes, and `/` redirects to
-`/en/`. The repository must remain usable without private services, databases,
+locale is Chinese, public routes keep locale prefixes, and `/` redirects to
+`/zh/`. The repository must remain usable without private services, databases,
 Cloudflare credentials, analytics IDs, ad IDs, payment credentials, or wallet
 addresses.
 
@@ -66,8 +66,8 @@ Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 
 - Keep the primary site static-first. A plain `pnpm build` must produce a usable
   static site in `dist`.
-- Preserve locale-prefixed routes. The default locale is `en`, and `/`
-  redirects to `/en/`.
+- Preserve locale-prefixed routes. The default locale is `zh`, and `/`
+  redirects to `/zh/`.
 - Preserve Astro `trailingSlash: "always"` behavior.
 - Preserve RTL support for Arabic routes.
 - Do not make Cloudflare mandatory. The Cloudflare path uploads static assets

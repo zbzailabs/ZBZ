@@ -5,6 +5,7 @@ import { normalizeCategorySlug, normalizeTagSlug } from "@/config/taxonomy"
 import { normalizeContentSlug } from "@/utils/content-slug"
 
 export type PostEntry = CollectionEntry<"post">
+export type PostLike = Pick<PostEntry, "id" | "data">
 
 const publishedPostsPromise = getCollection("post", (entry) => !entry.data.draft)
 
@@ -12,11 +13,11 @@ export function sortPostsByDate(posts: readonly PostEntry[]): PostEntry[] {
   return [...posts].sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
 }
 
-export function postSlug(entry: PostEntry): string {
+export function postSlug(entry: PostLike): string {
   return normalizeContentSlug(entry.id, entry.data.locale)
 }
 
-export function postPath(entry: PostEntry): string {
+export function postPath(entry: PostLike): string {
   return `/posts/${postSlug(entry)}/`
 }
 

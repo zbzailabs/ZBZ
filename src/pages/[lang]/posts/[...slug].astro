@@ -18,7 +18,7 @@ import { getAuthor } from "@/utils/content"
 import { getCategory, getTag } from "@/config/taxonomy"
 import { SITE_CONFIG } from "@/config/site"
 import { t } from "@/utils/translations"
-import { normalizeMetaDescription } from "@/utils/seo"
+import { normalizePostMetaDescription } from "@/utils/seo"
 import { postLocaleAlternates } from "@/utils/alternates"
 import type { TocHeading } from "@/utils/headings"
 import authorImage from "@/assets/author.avif"
@@ -36,7 +36,7 @@ const { post } = Astro.props
 const { Content, headings } = await render(post)
 const author = await getAuthor(post.data.locale, post.data.authors[0])
 const path = postPath(post)
-const alternates = postLocaleAlternates(post)
+const alternates = await postLocaleAlternates(post)
 const posts = await getPostsForLocale(post.data.locale)
 const relatedPosts = selectRelatedPosts(posts, post, 3)
 const categorySlug = postCategorySlug(post)
@@ -47,18 +47,11 @@ const tags = postTagSlugs(post)
   .map((tag) => getTag(tag))
   .filter((tag): tag is NonNullable<ReturnType<typeof getTag>> => Boolean(tag))
 const tagLabels = tags.map((tag) => tag.labelByLocale[post.data.locale])
-const metaDescription =
-  post.data.seoDescription ??
-  (post.data.locale === "en"
-    ? normalizeMetaDescription(
-        post.data.description,
-        [
-          `It adds context for ${categoryLabel.toLowerCase()} readers.`,
-          "It supports later review.",
-          "Inside ZBZ.",
-        ]
-      )
-    : post.data.description)
+const metaDescription = normalizePostMetaDescription(
+  post.data.seoDescription ?? post.data.description,
+  categoryLabel,
+  post.data.locale
+)
 const dateFormatter = new Intl.DateTimeFormat(post.data.locale, {
   month: "short",
   day: "numeric",
@@ -83,8 +76,11 @@ const jsonLd = articleJsonLd({
   title: post.data.seoTitle ?? post.data.title,
   description: metaDescription,
   image: post.data.heroImage,
+  canonicalUrlOverride: post.data.canonical,
   pubDate: post.data.pubDate,
   updatedDate: post.data.updatedDate,
+  articleSection: categoryLabel,
+  keywords: tagLabels,
   authors: [
     {
       name: author?.data.name ?? SITE_CONFIG.name,
@@ -103,6 +99,7 @@ const jsonLd = articleJsonLd({
   ogType="article"
   jsonLd={jsonLd}
   alternates={alternates}
+  canonicalOverride={post.data.canonical}
   dynamicGlass
 >
   <article aria-labelledby="article-title">

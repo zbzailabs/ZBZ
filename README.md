@@ -49,10 +49,10 @@ pnpm install
 pnpm dev
 ```
 
-Astro 会输出本地访问地址。根入口跳转到英文默认语言：
+Astro 会输出本地访问地址。根入口跳转到中文默认语言：
 
 ```text
-http://localhost:4321/en/
+http://localhost:4321/zh/
 ```
 
 ## 常用命令
@@ -86,22 +86,22 @@ src/styles/design-theme.css  # 从 DESIGN.md 生成的令牌参考
 en zh fr es ru ja ko pt de id ar
 ```
 
-`en` 是默认语言。公开页面使用语言前缀，并保留结尾斜杠：
+`zh` 是默认语言。公开页面使用语言前缀，并保留结尾斜杠：
 
 ```text
-/en/
-/en/posts/
-/en/posts/<slug>/
-/en/category/
-/en/category/<slug>/
-/en/tags/
-/en/tags/<slug>/
-/en/author/
-/en/search/
-/en/rss.xml
+/zh/
+/zh/posts/
+/zh/posts/<slug>/
+/zh/category/
+/zh/category/<slug>/
+/zh/tags/
+/zh/tags/<slug>/
+/zh/author/
+/zh/search/
+/zh/rss.xml
 ```
 
-中文内容继续保留在 `/zh/`。阿拉伯语页面通过语言元数据启用 RTL 方向。
+英文内容继续保留在 `/en/`。阿拉伯语页面通过语言元数据启用 RTL 方向。
 
 ## 写内容
 
@@ -279,7 +279,7 @@ ZBZ 发布静态 API 发现文件，供代理自动读取：
 
 Pagefind 由 `src/integrations/pagefind.ts` 在构建阶段生成。当前索引范围包含各语言 about 页面和文章详情页。每个支持语言都会生成独立的 `/pagefind/<locale>/` 搜索包，便于多语言站点只更新对应语言的搜索 fragment。
 
-`src/layouts/main.astro` 使用 `astro-seo` 输出标准 SEO 元数据，项目自有 JSON-LD 生成保留在 `src/utils/structured-data.ts`。`x-default` 指向英文默认语言。
+`src/layouts/main.astro` 使用 `astro-seo` 输出标准 SEO 元数据，项目自有 JSON-LD 生成保留在 `src/utils/structured-data.ts`。`x-default` 指向中文默认语言。
 
 ## 部署
 

@@ -113,13 +113,13 @@ export default defineConfig({
         return pathname !== "/" && !pathname.endsWith("/search/")
       },
       i18n: {
-        defaultLocale: "en",
+        defaultLocale: "zh",
         locales: sitemapLocaleMap,
       },
       serialize: (item) => {
         if (!item.links?.length) return item
         const links = new Map(item.links.map((link) => [link.lang, link.url]))
-        const defaultUrl = links.get(sitemapLocaleMap.en)
+        const defaultUrl = links.get(sitemapLocaleMap.zh)
         if (defaultUrl) links.set("x-default", defaultUrl)
         return {
           ...item,
