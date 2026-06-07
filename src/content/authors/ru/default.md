@@ -4,6 +4,7 @@ name: "ZBZ"
 bio: "Создатель программного обеспечения. Современный фермер. Искатель альфы."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
+  - { label: "X", url: "https://x.com/zbzailabs" }
   - { label: "Website", url: "/ru/" }
   - { label: "RSS", url: "/ru/rss.xml" }
 locale: ru

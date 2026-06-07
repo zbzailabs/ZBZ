@@ -4,6 +4,7 @@ name: "ZBZ"
 bio: "소프트웨어 빌더. 현대 농부. 알파를 찾는 사람."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
+  - { label: "X", url: "https://x.com/zbzailabs" }
   - { label: "Website", url: "/ko/" }
   - { label: "RSS", url: "/ko/rss.xml" }
 locale: ko

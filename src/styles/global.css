@@ -506,13 +506,16 @@ html[dir="rtl"] .content-prose :where(p, li) {
 }
 
 .pagefind-ui__search-input {
-  border: 0 !important;
+  border: 1px solid
+    color-mix(in oklab, var(--muted-foreground) 38%, transparent) !important;
   background: color-mix(
     in oklab,
     var(--background) 92%,
     transparent
   ) !important;
-  box-shadow: 0 18px 48px -36px hsl(var(--foreground) / 0.45) !important;
+  box-shadow:
+    0 0 0 1px color-mix(in oklab, var(--background) 70%, transparent),
+    0 18px 48px -36px hsl(var(--foreground) / 0.45) !important;
   backdrop-filter: blur(var(--glass-blur)) !important;
   -webkit-backdrop-filter: blur(var(--glass-blur)) !important;
   min-height: 3.125rem !important;
@@ -521,6 +524,11 @@ html[dir="rtl"] .content-prose :where(p, li) {
 }
 
 .pagefind-ui__search-input:focus {
+  border-color: color-mix(
+    in oklab,
+    var(--foreground) 56%,
+    transparent
+  ) !important;
   outline: 2px solid color-mix(in oklab, var(--ring) 70%, transparent) !important;
   outline-offset: 2px !important;
 }

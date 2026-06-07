@@ -4,6 +4,7 @@ name: "ZBZ"
 bio: "باني برمجيات. مزارع حديث. باحث عن ألفا."
 socials:
   - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
+  - { label: "X", url: "https://x.com/zbzailabs" }
   - { label: "Website", url: "/ar/" }
   - { label: "RSS", url: "/ar/rss.xml" }
 locale: ar

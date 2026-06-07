@@ -202,6 +202,8 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
               >
                 {social.label === "GitHub" ? (
                   <Icon name="github" class="size-5" dataIcon="inline-start" />
+                ) : social.label === "X" ? (
+                  <Icon name="x" class="size-5" dataIcon="inline-start" />
                 ) : social.label === "Website" ? (
                   <Icon name="globe" class="size-5" dataIcon="inline-start" />
                 ) : social.label === "RSS" ? (
@@ -218,7 +220,7 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
       </div>
     </article>
     <section
-      class="mx-auto mt-24 max-w-5xl rounded-[2rem] bg-muted/30 p-6 sm:p-10 dark:bg-white/[0.03]"
+      class="mx-auto mt-24 max-w-5xl rounded-[2rem] bg-muted/15 p-6 sm:p-10 dark:bg-white/[0.015]"
       data-writing-activity
       data-activity-locale={lang}
       data-activity-published-text={publishedText}
