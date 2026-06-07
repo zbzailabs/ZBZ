@@ -142,7 +142,94 @@ const legalLinks = [
           ))
         }
       </nav>
-      <p class="text-xs text-muted-foreground">© {year} {SITE_CONFIG.name}</p>
+      <p
+        class="text-xs text-muted-foreground"
+        data-cwd-page-views
+        data-api-base-url="https://api-cmt.zbz.ai"
+        data-site-id="zbz"
+      >
+        © {year} <span id="cwd-page-pv">0</span> {SITE_CONFIG.name}
+      </p>
     </div>
   </div>
 </footer>
+
+<script is:inline>
+  ;(() => {
+    if (window.__zbzCwdViewsController) {
+      window.__zbzCwdViewsController.mount()
+      return
+    }
+
+    let views
+
+    const ensureCwdWidget = () => {
+      if (window.CWDComments) return Promise.resolve()
+      if (window.__zbzCwdWidgetPromise) return window.__zbzCwdWidgetPromise
+
+      window.__zbzCwdWidgetPromise = new Promise((resolve, reject) => {
+        const existing = document.querySelector("script[data-cwd-widget]")
+        if (existing) {
+          existing.addEventListener("load", () => resolve(), { once: true })
+          existing.addEventListener("error", reject, { once: true })
+          return
+        }
+
+        const script = document.createElement("script")
+        script.src = "https://unpkg.com/cwd-widget@0.1.9/dist/cwd.js"
+        script.async = true
+        script.dataset.cwdWidget = "true"
+        script.addEventListener("load", () => resolve(), { once: true })
+        script.addEventListener("error", reject, { once: true })
+        document.head.appendChild(script)
+      })
+
+      return window.__zbzCwdWidgetPromise
+    }
+
+    const getTheme = () =>
+      document.documentElement.classList.contains("dark") ? "dark" : "light"
+
+    const controller = {
+      mount() {
+        const config = document.querySelector("[data-cwd-page-views]")
+        if (!config) return
+
+        if (document.querySelector("[data-cwd-comments]")) {
+          views?.unmount?.()
+          views = undefined
+          return
+        }
+
+        if (!window.CWDComments) {
+          ensureCwdWidget().then(() => controller.mount()).catch(() => {})
+          return
+        }
+
+        views?.unmount?.()
+        views = new window.CWDComments({
+          apiBaseUrl: config.dataset.apiBaseUrl,
+          siteId: config.dataset.siteId,
+          theme: getTheme(),
+        })
+        views.mount()
+      },
+      unmount() {
+        views?.unmount?.()
+        views = undefined
+      },
+    }
+
+    window.__zbzCwdViewsController = controller
+    document.addEventListener("astro:page-load", () => controller.mount())
+    document.addEventListener("astro:before-swap", () => controller.unmount())
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", () => controller.mount(), {
+        once: true,
+      })
+    } else {
+      controller.mount()
+    }
+  })()
+</script>

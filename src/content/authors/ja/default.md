@@ -3,7 +3,7 @@ slug: default
 name: "ZBZ"
 bio: "ソフトウェアビルダー。現代の農夫。アルファを探す人。"
 socials:
-  - { label: "GitHub", url: "https://github.com/zbzailabs/ZBZ" }
+  - { label: "GitHub", url: "https://github.com/zbzailabs" }
   - { label: "X", url: "https://x.com/zbzailabs" }
   - { label: "Website", url: "/ja/" }
   - { label: "RSS", url: "/ja/rss.xml" }

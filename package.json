@@ -9,12 +9,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zbzailabs/ZBZ.git"
+    "url": "git+https://github.com/zbzailabs.git"
   },
   "bugs": {
-    "url": "https://github.com/zbzailabs/ZBZ/issues"
+    "url": "https://github.com/zbzailabs/issues"
   },
-  "homepage": "https://github.com/zbzailabs/ZBZ#readme",
+  "homepage": "https://github.com/zbzailabs#readme",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

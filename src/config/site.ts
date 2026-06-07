@@ -96,7 +96,7 @@ export const SITE_CONFIG = {
   ).replace(/\/$/, ""),
   description:
     "Pressing forward through the waves of startup, the fog of investing, and the ocean of life.",
-  repository: "https://github.com/zbzailabs/ZBZ",
+  repository: "https://github.com/zbzailabs",
   social: {
     x: socialXUrl,
     xHandle: socialXHandle,

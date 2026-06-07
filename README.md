@@ -297,7 +297,7 @@ pnpm deploy
 
 ## 反馈
 
-疑问、建议和 bug 反馈请提交到 [GitHub Issues](https://github.com/zbzailabs/ZBZ/issues)。
+疑问、建议和 bug 反馈请提交到 [GitHub Issues](https://github.com/zbzailabs/issues)。
 
 ## 许可证
 
