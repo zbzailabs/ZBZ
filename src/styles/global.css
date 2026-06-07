@@ -284,18 +284,48 @@
 }
 
 @supports (text-autospace: normal) {
-  :where(html[lang="zh"], html[lang="ja"], html[lang="ko"]),
-  :where(html[lang="zh"], html[lang="ja"], html[lang="ko"]) .content-prose {
+  :where(
+      html[lang="zh"],
+      html[lang^="zh-"],
+      html[lang="ja"],
+      html[lang^="ja-"],
+      html[lang="ko"],
+      html[lang^="ko-"]
+    ),
+  :where(
+      html[lang="zh"],
+      html[lang^="zh-"],
+      html[lang="ja"],
+      html[lang^="ja-"],
+      html[lang="ko"],
+      html[lang^="ko-"]
+    )
+    .content-prose {
     text-autospace: normal;
   }
 }
 
-:where(html[lang="zh"], html[lang="ja"], html[lang="ko"]) .content-prose {
+:where(
+    html[lang="zh"],
+    html[lang^="zh-"],
+    html[lang="ja"],
+    html[lang^="ja-"],
+    html[lang="ko"],
+    html[lang^="ko-"]
+  )
+  .content-prose {
   text-align: justify;
   text-justify: inter-ideograph;
 }
 
-:where(html[lang="zh"], html[lang="ja"], html[lang="ko"])
+:where(
+    html[lang="zh"],
+    html[lang^="zh-"],
+    html[lang="ja"],
+    html[lang^="ja-"],
+    html[lang="ko"],
+    html[lang^="ko-"]
+  )
   .content-prose
   :where(p, li) {
   text-align: justify;
@@ -304,22 +334,36 @@
 
 :where(
     html[lang="en"],
+    html[lang^="en-"],
     html[lang="fr"],
+    html[lang^="fr-"],
     html[lang="es"],
+    html[lang^="es-"],
     html[lang="ru"],
+    html[lang^="ru-"],
     html[lang="pt"],
+    html[lang^="pt-"],
     html[lang="de"],
-    html[lang="id"]
+    html[lang^="de-"],
+    html[lang="id"],
+    html[lang^="id-"]
   )
   .content-prose,
 :where(
     html[lang="en"],
+    html[lang^="en-"],
     html[lang="fr"],
+    html[lang^="fr-"],
     html[lang="es"],
+    html[lang^="es-"],
     html[lang="ru"],
+    html[lang^="ru-"],
     html[lang="pt"],
+    html[lang^="pt-"],
     html[lang="de"],
-    html[lang="id"]
+    html[lang^="de-"],
+    html[lang="id"],
+    html[lang^="id-"]
   )
   .content-prose
   :where(p, li) {
