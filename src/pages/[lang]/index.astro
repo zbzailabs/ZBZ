@@ -11,6 +11,7 @@ import { LOCALES, type Locale } from "@/config/locales"
 import { POSTS_PER_PAGE } from "@/config/pagination"
 import { getPaginationLinks, getTotalPages } from "@/utils/pagination"
 import { getPostsForLocale } from "@/utils/posts"
+import { normalizePageMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -30,13 +31,18 @@ const pagination = getPaginationLinks({
 })
 const homepageLayout = SITE_CONFIG.homepage.layout
 const archivePosts = posts.slice(0, POSTS_PER_PAGE)
+const seoDescription = normalizePageMetaDescription(
+  t(lang, "site.description"),
+  t(lang, "site.name"),
+  lang
+)
 ---
 
 <Layout
   lang={lang}
   path="/"
   title={t(lang, "site.name")}
-  description={t(lang, "site.description")}
+  description={seoDescription}
   image={lead?.data.heroImage}
   dynamicGlass
 >

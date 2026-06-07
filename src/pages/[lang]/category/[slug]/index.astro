@@ -7,9 +7,13 @@ import Pagination from "@/components/navigation/Pagination.astro"
 import { LOCALES, type Locale } from "@/config/locales"
 import { TAXONOMY_POSTS_PER_PAGE } from "@/config/pagination"
 import { TAXONOMY, getCategory } from "@/config/taxonomy"
+import { collectionLocaleAlternates } from "@/utils/alternates"
 import { getPaginationLinks, getTotalPages } from "@/utils/pagination"
 import { getPostsByCategory } from "@/utils/posts"
-import { taxonomyMetaDescription, taxonomyMetaTitle } from "@/utils/seo"
+import {
+  normalizeCollectionMetaDescription,
+  taxonomyMetaTitle,
+} from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -43,10 +47,20 @@ const pagination = getPaginationLinks({
       : `/${lang}/category/${slug}/${page}/`,
 })
 const seoTitle = lang === "en" ? taxonomyMetaTitle(categoryLabel) : categoryLabel
-const seoDescription =
-  lang === "en"
-    ? taxonomyMetaDescription(categoryLabel, categoryDescription)
-    : categoryDescription
+const seoDescription = normalizeCollectionMetaDescription(
+  categoryDescription,
+  categoryLabel,
+  lang,
+  {
+    count: posts.length,
+    kind: t(lang, "pages.categories.title"),
+  }
+)
+const alternates = await collectionLocaleAlternates({
+  getItemCount: async (locale) =>
+    (await getPostsByCategory(locale, slug)).length,
+  pathForLocale: (_locale) => `/category/${slug}/`,
+})
 ---
 
 <Layout
@@ -55,6 +69,7 @@ const seoDescription =
   title={seoTitle}
   description={seoDescription}
   noindex={posts.length === 0}
+  alternates={alternates}
   dynamicGlass
 >
   <PageSection>

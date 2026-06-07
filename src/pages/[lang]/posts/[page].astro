@@ -6,8 +6,10 @@ import PostArchiveList from "@/components/lists/PostArchiveList.astro"
 import Pagination from "@/components/navigation/Pagination.astro"
 import { LOCALES, type Locale } from "@/config/locales"
 import { POSTS_PER_PAGE } from "@/config/pagination"
+import { paginatedLocaleAlternates } from "@/utils/alternates"
 import { getPaginationLinks } from "@/utils/pagination"
 import { getPostsForLocale } from "@/utils/posts"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths({ paginate }: { paginate: any }) {
@@ -35,6 +37,24 @@ const { lang, page } = Astro.props as {
   }
 }
 const title = t(lang, "pages.posts.pageTitle", { page: page.currentPage })
+const seoDescription = normalizeCollectionMetaDescription(
+  t(lang, "pages.posts.pageDescription", {
+    page: page.currentPage,
+  }),
+  t(lang, "pages.posts.title"),
+  lang,
+  {
+    page: page.currentPage,
+    count: page.data.length,
+    kind: t(lang, "pages.posts.archiveTitle"),
+  }
+)
+const alternates = await paginatedLocaleAlternates({
+  currentPage: page.currentPage,
+  pageSize: POSTS_PER_PAGE,
+  getItemCount: async (locale) => (await getPostsForLocale(locale)).length,
+  pathForLocale: (_locale) => `/posts/${page.currentPage}/`,
+})
 const pagination = getPaginationLinks({
   currentPage: page.currentPage,
   totalPages: page.lastPage,
@@ -47,9 +67,8 @@ const pagination = getPaginationLinks({
   lang={lang}
   path={`/posts/${page.currentPage}/`}
   title={title}
-  description={t(lang, "pages.posts.pageDescription", {
-    page: page.currentPage,
-  })}
+  description={seoDescription}
+  alternates={alternates}
 >
   <PageSection>
     <PageHeader

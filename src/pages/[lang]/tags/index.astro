@@ -15,6 +15,7 @@ import {
 } from "@/utils/pagination"
 import { getPostsForLocale, postTagSlugs } from "@/utils/posts"
 import { localePath } from "@/utils/routes"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -56,7 +57,15 @@ const seoTitle =
 const seoDescription =
   lang === "en"
     ? `Browse ${SITE_CONFIG.name} tags for strategy, risk, media, innovation, and related themes across essays, notes, and long-term archives.`
-    : t(lang, "pages.tags.description")
+    : normalizeCollectionMetaDescription(
+        t(lang, "pages.tags.description"),
+        title,
+        lang,
+        {
+          count: tagLinks.length,
+          kind: t(lang, "pages.tags.h2"),
+        }
+      )
 ---
 
 <Layout

@@ -8,6 +8,7 @@ import { LOCALES, type Locale } from "@/config/locales"
 import { POSTS_PER_PAGE } from "@/config/pagination"
 import { getPaginationLinks, getTotalPages } from "@/utils/pagination"
 import { getPostsForLocale } from "@/utils/posts"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -26,9 +27,13 @@ const pagination = getPaginationLinks({
 })
 const title = t(lang, "pages.posts.title")
 const subtitle = t(lang, "pages.posts.totalPosts", { count: posts.length })
+const seoDescription = normalizeCollectionMetaDescription(subtitle, title, lang, {
+  count: posts.length,
+  kind: t(lang, "pages.posts.archiveTitle"),
+})
 ---
 
-<Layout lang={lang} path="/posts/" title={title} description={subtitle}>
+<Layout lang={lang} path="/posts/" title={title} description={seoDescription}>
   <PageSection>
     <PageHeader title={title} subtitle={subtitle} />
     <PostArchiveList posts={pagePosts} lang={lang} />

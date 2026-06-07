@@ -8,6 +8,7 @@ import { LOCALES, type Locale } from "@/config/locales"
 import { SITE_CONFIG } from "@/config/site"
 import { getAuthor } from "@/utils/content"
 import { getPostsForLocale, postUrl } from "@/utils/posts"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 import authorImage from "@/assets/author.avif"
 
@@ -18,17 +19,25 @@ export async function getStaticPaths() {
 const { lang } = Astro.props as { lang: Locale }
 const author = await getAuthor(lang)
 const title = t(lang, "pages.author.title")
-const seoTitle = lang === "en" ? `ZBZ Author Profile | ${SITE_CONFIG.name}` : title
-const seoDescription =
-  lang === "en"
-    ? "Read ZBZ's author profile, recent publishing activity, social links, and articles on startup, investing, and life."
-    : author?.data.bio
-const writingActivityLabel = t(lang, "pages.author.writingActivity")
-const publishedText = t(lang, "post.publishedAt")
 const authorSlug = author?.data.slug ?? "default"
 const authorPosts = (await getPostsForLocale(lang)).filter((post) =>
   post.data.authors.includes(authorSlug)
 )
+const seoTitle = lang === "en" ? `ZBZ Author Profile | ${SITE_CONFIG.name}` : title
+const seoDescription =
+  lang === "en"
+    ? "Read ZBZ's author profile, recent publishing activity, social links, and articles on startup, investing, and life."
+    : normalizeCollectionMetaDescription(
+        author?.data.bio ?? SITE_CONFIG.description,
+        title,
+        lang,
+        {
+          count: authorPosts.length,
+          kind: t(lang, "pages.author.writingActivity"),
+        }
+      )
+const writingActivityLabel = t(lang, "pages.author.writingActivity")
+const publishedText = t(lang, "post.publishedAt")
 const publicationYears = [
   ...new Set(authorPosts.map((post) => post.data.pubDate.getFullYear())),
 ].sort((a, b) => b - a)

@@ -7,6 +7,7 @@ import { LOCALES, type Locale } from "@/config/locales"
 import { SITE_CONFIG } from "@/config/site"
 import { render } from "astro:content"
 import { getPage } from "@/utils/content"
+import { normalizePageMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -17,7 +18,11 @@ const { lang } = Astro.props as { lang: Locale }
 const page = await getPage(lang, "terms-of-service")
 const Content = page ? (await render(page)).Content : undefined
 const title = page?.data.title ?? t(lang, "footer.termsOfService")
-const description = page?.data.description ?? `${title} · ${SITE_CONFIG.name}`
+const description = normalizePageMetaDescription(
+  page?.data.description ?? `${title} · ${SITE_CONFIG.name}`,
+  title,
+  lang
+)
 ---
 
 <Layout lang={lang} path="/terms-of-service/" title={title} description={description}>

@@ -15,6 +15,7 @@ import {
 } from "@/utils/pagination"
 import { getPostsForLocale, postCategorySlug } from "@/utils/posts"
 import { localePath } from "@/utils/routes"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -60,7 +61,15 @@ const seoTitle =
 const seoDescription =
   lang === "en"
     ? `Browse ${SITE_CONFIG.name} categories for startup, investing, and life articles across essays, notes, and long-term archives.`
-    : t(lang, "pages.categories.description")
+    : normalizeCollectionMetaDescription(
+        t(lang, "pages.categories.description"),
+        title,
+        lang,
+        {
+          count: categoryLinks.length,
+          kind: t(lang, "pages.categories.h2"),
+        }
+      )
 ---
 
 <Layout

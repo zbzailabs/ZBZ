@@ -15,6 +15,7 @@ import {
 } from "@/utils/pagination"
 import { getPostsForLocale, postTagSlugs } from "@/utils/posts"
 import { localePath } from "@/utils/routes"
+import { normalizeCollectionMetaDescription } from "@/utils/seo"
 import { t } from "@/utils/translations"
 
 export async function getStaticPaths() {
@@ -70,13 +71,23 @@ const tagDescriptions = TAXONOMY.tags.map((tag) => ({
   description: tag.descriptionByLocale[lang],
 }))
 const title = `${t(lang, "pages.tags.title")} ${currentPage}`
+const seoDescription = normalizeCollectionMetaDescription(
+  t(lang, "pages.tags.description"),
+  title,
+  lang,
+  {
+    page: currentPage,
+    count: pageLinks.length,
+    kind: t(lang, "pages.tags.h2"),
+  }
+)
 ---
 
 <Layout
   lang={lang}
   path={`/tags/page/${currentPage}/`}
   title={title}
-  description={t(lang, "pages.tags.description")}
+  description={seoDescription}
 >
   <PageSection class="py-8">
     <PageHeader

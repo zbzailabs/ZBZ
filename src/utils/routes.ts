@@ -34,3 +34,27 @@ export function buildAlternates(path = "/"): Record<string, string> {
   )
   return { ...entries, "x-default": canonicalUrl(DEFAULT_LOCALE, path) }
 }
+
+export function buildAlternatesForLocales(
+  pathForLocale: (locale: Locale) => string,
+  locales: Locale[],
+  defaultLocale: Locale = DEFAULT_LOCALE
+): Record<string, string> {
+  const uniqueLocales = LOCALES.filter((locale) => locales.includes(locale))
+  const entries = Object.fromEntries(
+    uniqueLocales.map((locale) => [
+      getLocaleMeta(locale).hreflang,
+      canonicalUrl(locale, pathForLocale(locale)),
+    ])
+  )
+  const defaultTarget = uniqueLocales.includes(defaultLocale)
+    ? defaultLocale
+    : uniqueLocales[0]
+
+  return defaultTarget
+    ? {
+        ...entries,
+        "x-default": canonicalUrl(defaultTarget, pathForLocale(defaultTarget)),
+      }
+    : entries
+}
