@@ -448,6 +448,8 @@ html:lang(ar) :where(.card-title, .page-title, .article-title) {
 
 .content-prose :where(:not(pre) > code) {
   @apply rounded-md bg-muted px-1.5 py-0.5 text-sm text-foreground;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .content-prose :where(pre) {
