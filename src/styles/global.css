@@ -388,6 +388,28 @@ html[dir="rtl"] .content-prose :where(p, li) {
   @apply w-full;
 }
 
+.page-title,
+.article-title {
+  @apply text-3xl leading-tight font-semibold tracking-normal;
+  overflow-wrap: anywhere;
+}
+
+.card-title {
+  @apply text-2xl leading-tight font-semibold tracking-normal;
+  overflow-wrap: anywhere;
+}
+
+html:lang(zh) :where(.card-title, .page-title, .article-title),
+html:lang(ja) :where(.card-title, .page-title, .article-title),
+html:lang(ko) :where(.card-title, .page-title, .article-title),
+html:lang(ar) :where(.card-title, .page-title, .article-title) {
+  @apply leading-snug;
+}
+
+.content-prose :where(h1) {
+  @apply mt-12 mb-4 text-3xl leading-tight font-semibold text-foreground;
+}
+
 .content-prose :where(h2) {
   @apply mt-12 mb-4 text-2xl leading-tight font-semibold text-foreground;
 }
@@ -502,7 +524,7 @@ html[dir="rtl"] .content-prose :where(p, li) {
 }
 
 .taxonomy-link__title {
-  @apply text-base font-semibold text-foreground;
+  @apply text-foreground;
 }
 
 .taxonomy-link__description {

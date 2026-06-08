@@ -84,10 +84,8 @@ const cards = posts.slice(0, 3)
               </div>
               <TitleTag
                 class:list={[
-                  "mx-auto font-semibold leading-tight tracking-tight",
-                  isLead
-                    ? "line-clamp-2 max-w-4xl text-xl"
-                    : "line-clamp-2 text-xl",
+                  "card-title mx-auto line-clamp-2",
+                  isLead ? "max-w-4xl" : "",
                 ]}
               >
                 {post.data.title}
