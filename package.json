@@ -19,8 +19,6 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
-    "check:seo": "node scripts/check-seo.mjs",
-    "check:theme-switcher": "node scripts/check-theme-switcher-icons.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "deploy:worker": "wrangler deploy",
