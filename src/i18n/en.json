@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "Published at",
     "modifiedAt": "Modified at",
-    "relatedPosts": "Related Posts"
+    "relatedPosts": "Related Posts",
+    "topicsPrefix": "Topics"
   },
   "categories": {
     "life": "Life",

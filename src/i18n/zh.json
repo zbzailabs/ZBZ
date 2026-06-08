@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "发布于",
     "modifiedAt": "修改于",
-    "relatedPosts": "相关文章"
+    "relatedPosts": "相关文章",
+    "topicsPrefix": "主题"
   },
   "categories": {
     "life": "生活",

@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "Veröffentlicht am",
     "modifiedAt": "Geändert am",
-    "relatedPosts": "Ähnliche Beiträge"
+    "relatedPosts": "Ähnliche Beiträge",
+    "topicsPrefix": "Themen"
   },
   "categories": {
     "life": "Leben",

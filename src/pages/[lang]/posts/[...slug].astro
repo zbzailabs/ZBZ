@@ -18,7 +18,7 @@ import { getAuthor } from "@/utils/content"
 import { getCategory, getTag } from "@/config/taxonomy"
 import { SITE_CONFIG } from "@/config/site"
 import { t } from "@/utils/translations"
-import { normalizePostMetaDescription } from "@/utils/seo"
+import { articleWordCount, normalizePostMetaDescription } from "@/utils/seo"
 import { postLocaleAlternates } from "@/utils/alternates"
 import type { TocHeading } from "@/utils/headings"
 import authorImage from "@/assets/author.avif"
@@ -63,6 +63,7 @@ const modifiedLabel = dateFormatter.format(
 )
 const publishedText = t(post.data.locale, "post.publishedAt")
 const modifiedText = t(post.data.locale, "post.modifiedAt")
+const topicsText = t(post.data.locale, "post.topicsPrefix")
 const tocHeadings = headings
   .filter((heading) => heading.depth === 2 || heading.depth === 3)
   .map((heading) => ({
@@ -81,6 +82,7 @@ const jsonLd = articleJsonLd({
   updatedDate: post.data.updatedDate,
   articleSection: categoryLabel,
   keywords: tagLabels,
+  wordCount: articleWordCount(post.body ?? ""),
   authors: [
     {
       name: author?.data.name ?? SITE_CONFIG.name,
@@ -96,7 +98,15 @@ const jsonLd = articleJsonLd({
   title={post.data.seoTitle ?? post.data.title}
   description={metaDescription}
   image={post.data.heroImage}
+  imageAlt={post.data.heroImageAlt}
   ogType="article"
+  article={{
+    publishedTime: post.data.pubDate.toISOString(),
+    modifiedTime: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
+    authors: [author?.data.name ?? SITE_CONFIG.name],
+    section: categoryLabel,
+    tags: tagLabels,
+  }}
   jsonLd={jsonLd}
   alternates={alternates}
   canonicalOverride={post.data.canonical}
@@ -164,7 +174,7 @@ const jsonLd = articleJsonLd({
             <p class="sr-only" data-pagefind-ignore>
               {post.data.title}
               {post.data.description}
-              Topics: {categoryLabel}, {tagLabels.join(", ")}.
+              {topicsText}: {categoryLabel}, {tagLabels.join(", ")}.
             </p>
             <Content />
           </ProseContent>

@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "نشر في",
     "modifiedAt": "آخر تعديل في",
-    "relatedPosts": "مقالات ذات صلة"
+    "relatedPosts": "مقالات ذات صلة",
+    "topicsPrefix": "الموضوعات"
   },
   "categories": {
     "life": "الحياة",

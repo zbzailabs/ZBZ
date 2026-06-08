@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "Diterbitkan pada",
     "modifiedAt": "Diubah pada",
-    "relatedPosts": "Artikel Terkait"
+    "relatedPosts": "Artikel Terkait",
+    "topicsPrefix": "Topik"
   },
   "categories": {
     "life": "Kehidupan",

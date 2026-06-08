@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "Publié le",
     "modifiedAt": "Modifié le",
-    "relatedPosts": "Articles similaires"
+    "relatedPosts": "Articles similaires",
+    "topicsPrefix": "Sujets"
   },
   "categories": {
     "life": "Vie",

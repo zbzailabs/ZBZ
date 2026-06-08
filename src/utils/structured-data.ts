@@ -72,6 +72,7 @@ export function articleJsonLd(input: {
   authors: SeoAuthor[]
   articleSection?: string
   keywords?: string[]
+  wordCount?: number
 }) {
   const url = input.canonicalUrlOverride ?? canonicalUrl(input.lang, input.path)
   const image = absoluteUrl(input.image)
@@ -90,8 +91,10 @@ export function articleJsonLd(input: {
       "@id": url,
     },
     image: [image],
+    thumbnailUrl: image,
     ...(input.articleSection ? { articleSection: input.articleSection } : {}),
     ...(input.keywords?.length ? { keywords: input.keywords } : {}),
+    ...(input.wordCount ? { wordCount: input.wordCount } : {}),
     datePublished: input.pubDate.toISOString(),
     dateModified: (input.updatedDate ?? input.pubDate).toISOString(),
     isPartOf: {

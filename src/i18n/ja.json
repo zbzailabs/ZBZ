@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "公開日",
     "modifiedAt": "更新日",
-    "relatedPosts": "関連記事"
+    "relatedPosts": "関連記事",
+    "topicsPrefix": "トピック"
   },
   "categories": {
     "life": "人生",

@@ -6,6 +6,7 @@ import { LOCALES, getLocaleMeta, type Locale } from "@/config/locales"
 import { SITE_CONFIG } from "@/config/site"
 import { buildAlternates, canonicalUrl } from "@/utils/routes"
 import { t } from "@/utils/translations"
+import { normalizeMetaDescription } from "@/utils/seo"
 import { webPageJsonLd, webSiteJsonLd } from "@/utils/structured-data"
 import Header from "@/components/ui/Header.astro"
 import Footer from "@/components/ui/Footer.astro"
@@ -20,7 +21,15 @@ interface Props {
   title?: string
   description?: string
   image?: string
+  imageAlt?: string
   ogType?: "website" | "article"
+  article?: {
+    publishedTime?: string
+    modifiedTime?: string
+    authors?: string[]
+    section?: string
+    tags?: string[]
+  }
   alternates?: Record<string, string>
   canonicalOverride?: string
   noindex?: boolean
@@ -34,7 +43,9 @@ const {
   title = SITE_CONFIG.name,
   description,
   image = SITE_CONFIG.defaultOgImage,
+  imageAlt,
   ogType = "website",
+  article: openGraphArticle,
   alternates: explicitAlternates,
   canonicalOverride,
   noindex = false,
@@ -43,7 +54,11 @@ const {
 } = Astro.props
 const alternates = explicitAlternates ?? buildAlternates(path)
 const localeMeta = getLocaleMeta(lang)
-const pageDescription = description ?? t(lang, "site.description")
+const fallbackDescription = t(lang, "site.description")
+const pageDescription = normalizeMetaDescription(
+  description ?? fallbackDescription,
+  fallbackDescription
+)
 const pageTitle =
   title === SITE_CONFIG.name || title.includes(SITE_CONFIG.name)
     ? title
@@ -107,8 +122,9 @@ const alternateOgLocales = LOCALES.filter((locale) => locale !== lang).map(
           siteName: SITE_CONFIG.name,
         },
         image: {
-          alt: pageTitle,
+          alt: imageAlt ?? pageTitle,
         },
+        article: openGraphArticle,
       }}
       twitter={{
         card: "summary_large_image",
@@ -117,7 +133,7 @@ const alternateOgLocales = LOCALES.filter((locale) => locale !== lang).map(
         title: pageTitle,
         description: pageDescription,
         image: absoluteImage,
-        imageAlt: pageTitle,
+        imageAlt: imageAlt ?? pageTitle,
       }}
     />
     <script is:inline>

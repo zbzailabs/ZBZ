@@ -92,6 +92,27 @@ export function normalizePostMetaDescription(
   ])
 }
 
+export function articleWordCount(markdown: string) {
+  const text = markdown
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/`[^`]*`/g, " ")
+    .replace(/!\[[^\]]*]\([^)]*\)/g, " ")
+    .replace(/\[[^\]]*]\([^)]*\)/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[#>*_\-~()[\]{}|]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+
+  if (!text) return 0
+
+  const cjk = text.match(/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/gu)?.length ?? 0
+  const words = text
+    .replace(/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/gu, " ")
+    .match(/[\p{L}\p{N}]+(?:['’][\p{L}\p{N}]+)*/gu)?.length ?? 0
+
+  return cjk + words
+}
+
 export function normalizeCollectionMetaDescription(
   description: string,
   label: string,

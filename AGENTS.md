@@ -75,8 +75,10 @@ Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 - Do not add database-backed features by default.
 - Treat `src/config/site.ts` as the main user configuration file. Public
   environment variables are optional deployment overrides.
-- Keep translated UI strings in `src/i18n/*.json`; avoid single-language
-  hard-coded visible UI text.
+- Keep visible UI copy in `src/i18n/*.json` by default. Do not hard-code
+  multilingual visible text in page components unless the value is a purely
+  technical field, structured-data generation logic, or a non-translatable
+  constant.
 - Keep Google Tag Manager, Google AdSense, and x402 optional.
 - Keep `src/components/widgets/X402.astro` available as opt-in metadata. Do not
   add HTTP 402 enforcement outside optional deployment adapters unless
@@ -89,6 +91,18 @@ Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 - Keep generated surfaces static: RSS, sitemap, robots, llms text files,
   Pagefind output, and Markdown-derived pages must not depend on runtime
   services.
+- Preserve article detail SEO behavior:
+  - keep complete `article:*` Open Graph metadata;
+  - use `heroImageAlt` for social image alt text;
+  - keep `BlogPosting` JSON-LD fields `@id`, `thumbnailUrl`,
+    `articleSection`, `keywords`, and `wordCount`;
+  - emit article-page `hreflang` alternates only for language versions that
+    actually exist;
+  - support frontmatter `canonical` overriding the default canonical URL;
+  - route layout meta descriptions through `normalizeMetaDescription` so empty
+    or too-short descriptions do not reach indexable pages;
+  - keep the SEO check script parser fix for content containing apostrophes,
+    without falling back to weaker parsing.
 
 ## Content Rules
 

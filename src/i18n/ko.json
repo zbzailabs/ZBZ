@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "게시일",
     "modifiedAt": "수정일",
-    "relatedPosts": "관련 게시물"
+    "relatedPosts": "관련 게시물",
+    "topicsPrefix": "주제"
   },
   "categories": {
     "life": "인생",

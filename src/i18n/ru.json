@@ -23,7 +23,8 @@
   "post": {
     "publishedAt": "Опубликовано",
     "modifiedAt": "Изменено",
-    "relatedPosts": "Похожие статьи"
+    "relatedPosts": "Похожие статьи",
+    "topicsPrefix": "Темы"
   },
   "categories": {
     "life": "Жизнь",
