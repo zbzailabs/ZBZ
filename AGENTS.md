@@ -39,6 +39,29 @@ addresses.
 
 Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 
+## Development Tools and Workflow
+
+- Use repository documents as the durable project record. `AGENTS.md` keeps
+  agent workflow, commands, architecture, and contribution rules. `DESIGN.md`
+  keeps visual tokens and UI appearance rules. Update `README.md` and other
+  repository Markdown files when user-facing setup, usage, or deployment
+  behavior changes.
+- Use GitHub Issues as the task source of truth. Each non-trivial code,
+  content, infrastructure, or documentation task should have an issue that
+  states scope, acceptance checks, and verification notes.
+- Use GitHub Projects for queue, priority, and status tracking. Keep issue
+  status in the project board current when starting, pausing, or completing
+  work.
+- Do not use Feishu Project, Meegle, or other Feishu project-management records
+  for this repository's development workflow unless the user explicitly asks
+  for a one-off export or migration.
+- Before coding, read `AGENTS.md` and `DESIGN.md`, then guide the user toward
+  Spec-Driven Development for feature work: define the behavior, acceptance
+  checks, and verification commands before implementation.
+- Prefer small, issue-linked changes. Keep commits focused, preserve unrelated
+  dirty worktree changes, and include the commands used to verify the change in
+  the issue or pull request.
+
 ## Repository Map
 
 - `astro.config.mjs`: Astro static output, i18n, image domains, integrations,
