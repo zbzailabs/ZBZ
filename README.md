@@ -4,7 +4,7 @@
 
 ZBZ 是一个静态优先的 Astro 6 多语言内容主题。项目内置语言前缀路由、内容集合、分类和标签归档、作者页、Pagefind 搜索、RSS、站点地图、基于 `astro-seo` 的 SEO 元数据、JSON-LD、Astro 图片优化、明暗主题、Astro 视图过渡，以及可选的 Cloudflare Workers Static Assets 部署。
 
-普通静态托管不需要数据库、私有服务、统计账号、广告账号、钱包或 Cloudflare 凭据。
+
 
 ## 评分
 
