@@ -34,7 +34,11 @@ export function postTagSlugs(entry: PostEntry): string[] {
 }
 
 export async function getPublishedPosts(): Promise<PostEntry[]> {
-  return sortPostsByDate(await publishedPostsPromise)
+  return sortPostsByDate(
+    (await publishedPostsPromise).filter((post) =>
+      LOCALES.includes(post.data.locale)
+    )
+  )
 }
 
 export async function getPostsForLocale(locale: Locale): Promise<PostEntry[]> {

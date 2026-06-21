@@ -1,10 +1,11 @@
 import rss from "@astrojs/rss"
 
+import { DEFAULT_LOCALE } from "@/config/locales"
 import { SITE_CONFIG } from "@/config/site"
 import { getPostsForLocale, postUrl } from "@/utils/posts"
 
 export async function GET() {
-  const posts = await getPostsForLocale("en")
+  const posts = await getPostsForLocale(DEFAULT_LOCALE)
 
   return rss({
     title: SITE_CONFIG.name,

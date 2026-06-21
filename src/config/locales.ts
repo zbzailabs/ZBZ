@@ -1,4 +1,7 @@
-export const LOCALES = [
+export const ADSENSE_REVIEW_MODE =
+  process.env.PUBLIC_ADSENSE_REVIEW_MODE !== "false"
+
+export const ALL_LOCALES = [
   "zh",
   "en",
   "fr",
@@ -12,7 +15,11 @@ export const LOCALES = [
   "ar",
 ] as const
 
-export type Locale = (typeof LOCALES)[number]
+export type Locale = (typeof ALL_LOCALES)[number]
+
+export const LOCALES: readonly Locale[] = ADSENSE_REVIEW_MODE
+  ? ["zh"]
+  : ALL_LOCALES
 
 export const DEFAULT_LOCALE: Locale = "zh"
 

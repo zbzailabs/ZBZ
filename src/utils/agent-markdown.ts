@@ -17,6 +17,13 @@ function localeLabel(locale: keyof typeof LOCALE_META): string {
   return `${localeMeta.nativeName} (${locale})`
 }
 
+function rssLinks(): string[] {
+  return LOCALES.map((locale) => {
+    const label = `${LOCALE_META[locale].label} RSS`
+    return `- [${label}](${SITE_CONFIG.url}/${locale}/rss.xml)`
+  })
+}
+
 export function renderLlmsTxt(posts: readonly PostEntry[]): string {
   const latestPosts = posts.slice(0, 12)
 
@@ -38,8 +45,7 @@ export function renderLlmsTxt(posts: readonly PostEntry[]): string {
     "",
     "## Content endpoints",
     "",
-    `- [English RSS](${SITE_CONFIG.url}/en/rss.xml)`,
-    `- [Chinese RSS](${SITE_CONFIG.url}/zh/rss.xml)`,
+    ...rssLinks(),
     `- [Sitemap](${SITE_CONFIG.url}/sitemap-index.xml)`,
     `- [Robots](${SITE_CONFIG.url}/robots.txt)`,
     "",

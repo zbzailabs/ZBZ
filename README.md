@@ -173,6 +173,27 @@ src/config/assets.ts     # 远程图片域名检查和 URL 工具
 src/i18n/*.json          # 界面语言文案
 ```
 
+## AdSense 审核模式
+
+项目默认启用 AdSense 审核模式，只构建中文原创内容：
+
+```bash
+PUBLIC_ADSENSE_REVIEW_MODE=true
+pnpm adsense:check
+```
+
+审核模式会让 `LOCALES` 只暴露 `zh`，因此外语文章、外语页面、语言切换入口、`hreflang` 和 sitemap 外语 URL 都不会进入静态产物。原始多语言内容仍保留在 `src/content`，审核通过后设置：
+
+```bash
+PUBLIC_ADSENSE_REVIEW_MODE=false
+```
+
+即可恢复当前多语言结构和内容。Cloudflare Worker 运行时也默认拦截旧外语路径并返回 `410 Gone`；恢复多语言部署时同步设置：
+
+```bash
+ADSENSE_REVIEW_MODE=false
+```
+
 环境变量是可选的部署覆盖项，适合不同环境使用不同域名或第三方服务：
 
 ```bash

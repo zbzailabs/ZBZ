@@ -1,9 +1,10 @@
 ---
 import Layout from "@/layouts/main.astro"
 import NotFoundContent from "@/components/ui/NotFoundContent.astro"
+import { DEFAULT_LOCALE } from "@/config/locales"
 import { t } from "@/utils/translations"
 
-const lang = "en"
+const lang = DEFAULT_LOCALE
 const title = t(lang, "notFound.title")
 const description = t(lang, "notFound.message")
 ---
