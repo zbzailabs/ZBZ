@@ -4,8 +4,10 @@ providers = ['node']
 
 
 [phases.install]
-cmds = ['NPM_CONFIG_REGISTRY="${NPM_CONFIG_REGISTRY:-https://registry.npmjs.org/}" pnpm install --frozen-lockfile --prod=false']
+onlyIncludeFiles = ['package.json', 'pnpm-lock.yaml', 'pnpm-workspace.yaml', 'nixpacks.toml']
+cmds = ['NPM_CONFIG_REGISTRY="${NPM_CONFIG_REGISTRY:-https://registry.npmmirror.com}" pnpm install --frozen-lockfile --prod=false --prefer-offline']
 
 [phases.build]
+onlyIncludeFiles = ['astro.config.mjs', 'package.json', 'pnpm-lock.yaml', 'pnpm-workspace.yaml', 'src', 'public', 'tsconfig.json', 'wrangler.jsonc']
 cmds = ['pnpm run build']
-cacheDirectories = ['...', 'node_modules/.astro', '.astro', 'node_modules/.cache']
+cacheDirectories = ['node_modules/.astro', '.astro', 'node_modules/.cache', '.cache']
