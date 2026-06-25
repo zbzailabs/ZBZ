@@ -2,6 +2,10 @@
 
 
 
+ZBZ 是一个静态优先的 Astro 6 多语言内容主题。项目内置语言前缀路由、内容集合、分类和标签归档、作者页、Pagefind 搜索、RSS、站点地图、基于 `astro-seo` 的 SEO 元数据、JSON-LD、Astro 图片优化、明暗主题、Astro 视图过渡，以及可选的 Cloudflare Workers Static Assets 部署。
+
+
+
 ## 评分
 
 | Lighthouse | Agent Readiness |
@@ -10,8 +14,7 @@
 
 ## 特性
 
-- 🧱 静态优先的 Astro 7 架构，不强制依赖 CMS、数据库或私有运行时服务。
-- ⚡ 使用 Astro 7 默认的 Vite 8、Rust 编译器、Sätteri Markdown 管线和队列渲染。
+- 🧱 静态优先的 Astro 6 架构，不强制依赖 CMS、数据库或私有运行时服务。
 - 🌐 Astro 原生 i18n，支持 11 种语言、语言前缀路由、RTL、`hreflang` 和多语言站点地图。
 - 📝 Markdown 和 MDX 内容集合，覆盖文章、页面、作者、分类、标签和分页归档。
 - 🧭 内置 RSS、站点地图、robots.txt、SEO 元数据、JSON-LD 和面向代理的发现文件。
@@ -44,20 +47,10 @@ Astro 会输出本地访问地址。根入口跳转到中文默认语言：
 http://localhost:4321/zh/
 ```
 
-Astro 7 支持后台开发服务，适合 Codex 等 agent 工作流：
-
-```bash
-pnpm dev:background
-pnpm dev:status
-pnpm dev:logs
-pnpm dev:stop
-```
-
 ## 常用命令
 
 ```bash
 pnpm dev      # 本地开发
-pnpm dev:json # 本地开发，输出 JSON 日志
 pnpm build    # 运行 astro check 并构建静态产物
 pnpm preview  # 本地预览构建产物
 pnpm deploy   # 构建后通过 Wrangler 部署 dist
@@ -178,27 +171,6 @@ src/config/taxonomy.ts   # 分类、标签、多语言名称、slug 工具
 src/config/pagination.ts # 分页数量
 src/config/assets.ts     # 远程图片域名检查和 URL 工具
 src/i18n/*.json          # 界面语言文案
-```
-
-## AdSense 审核模式
-
-项目默认启用 AdSense 审核模式，只构建中文原创内容：
-
-```bash
-PUBLIC_ADSENSE_REVIEW_MODE=true
-pnpm adsense:check
-```
-
-审核模式会让 `LOCALES` 只暴露 `zh`，因此外语文章、外语页面、语言切换入口、`hreflang` 和 sitemap 外语 URL 都不会进入静态产物。原始多语言内容仍保留在 `src/content`，审核通过后设置：
-
-```bash
-PUBLIC_ADSENSE_REVIEW_MODE=false
-```
-
-即可恢复当前多语言结构和内容。Cloudflare Worker 运行时也默认拦截旧外语路径并返回 `410 Gone`；恢复多语言部署时同步设置：
-
-```bash
-ADSENSE_REVIEW_MODE=false
 ```
 
 环境变量是可选的部署覆盖项，适合不同环境使用不同域名或第三方服务：

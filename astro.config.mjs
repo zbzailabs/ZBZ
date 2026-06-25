@@ -11,10 +11,7 @@ import { SITE_CONFIG } from "./src/config/site.ts"
 const googleTagManagerEnabled =
   process.env.PUBLIC_GTM_ENABLED === "true" &&
   /^GTM-[A-Z0-9]+$/i.test(process.env.PUBLIC_GTM_ID ?? "")
-const adsenseReviewMode = process.env.PUBLIC_ADSENSE_REVIEW_MODE !== "false"
-const allLocales = ["zh", "en", "fr", "es", "ru", "ja", "ko", "pt", "de", "id", "ar"]
-const activeLocales = adsenseReviewMode ? ["zh"] : allLocales
-const allSitemapLocaleMap = {
+const sitemapLocaleMap = {
   en: "en-US",
   zh: "zh-CN",
   fr: "fr-FR",
@@ -27,21 +24,17 @@ const allSitemapLocaleMap = {
   id: "id-ID",
   ar: "ar",
 }
-const sitemapLocaleMap = Object.fromEntries(
-  activeLocales.map((locale) => [locale, allSitemapLocaleMap[locale]])
-)
 
 export default defineConfig({
   output: "static",
   site: SITE_CONFIG.url,
   trailingSlash: "always",
-  compressHTML: true,
   vite: {
     plugins: [tailwindcss()],
   },
   i18n: {
     defaultLocale: "zh",
-    locales: activeLocales,
+    locales: ["zh", "en", "fr", "es", "ru", "ja", "ko", "pt", "de", "id", "ar"],
     routing: {
       prefixDefaultLocale: true,
       redirectToDefaultLocale: false,
@@ -72,6 +65,11 @@ export default defineConfig({
     },
   },
   experimental: {
+    rustCompiler: true,
+    queuedRendering: {
+      enabled: true,
+      contentCache: true,
+    },
     svgOptimizer: svgoOptimizer({
       multipass: true,
       floatPrecision: 2,

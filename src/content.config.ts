@@ -2,9 +2,9 @@ import { defineCollection } from "astro:content"
 import { glob } from "astro/loaders"
 import { z } from "astro/zod"
 
-import { ALL_LOCALES } from "@/config/locales"
+import { LOCALES } from "@/config/locales"
 
-const locale = z.enum(ALL_LOCALES)
+const locale = z.enum(LOCALES)
 
 const generateId = ({ entry }: { entry: string }) =>
   entry.replace(/\.(md|mdx|markdown)$/i, "")

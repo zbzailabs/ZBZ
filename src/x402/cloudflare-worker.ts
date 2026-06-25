@@ -18,8 +18,6 @@ interface Env {
   X402_BOT_ONLY?: string
   X402_BOT_SCORE_THRESHOLD?: string
   X402_PROTECTED_PATTERNS?: string
-  ADSENSE_REVIEW_MODE?: string
-  PUBLIC_ADSENSE_REVIEW_MODE?: string
 }
 
 interface GatewayConfig {
@@ -67,7 +65,6 @@ const PAYMENT_ROUTES = [
 ]
 const BOT_USER_AGENT_RE =
   /\b(bot|crawler|spider|slurp|gptbot|claudebot|anthropic|perplexity|bytespider|ccbot|amazonbot|applebot|google-extended)\b/i
-const FOREIGN_LOCALE_RE = /^\/(en|fr|es|ru|ja|ko|pt|de|id|ar)(?:\/|$)/
 
 function acceptsMarkdown(request: Request): boolean {
   return request.headers
@@ -147,13 +144,6 @@ function shouldCharge(request: Request, config: GatewayConfig): boolean {
   if (!isProtectedPath(pathname, config.protectedPatterns)) return false
   if (isApiProbe(pathname)) return true
   return !config.botOnly || isBotRequest(request, config.botScoreThreshold)
-}
-
-function adsenseReviewMode(env: Env): boolean {
-  return normalizeBoolean(
-    env.ADSENSE_REVIEW_MODE ?? env.PUBLIC_ADSENSE_REVIEW_MODE,
-    true
-  )
 }
 
 function paymentRoutes(config: GatewayConfig) {
@@ -312,11 +302,6 @@ export default {
     request: Request,
     env: Env
   ): Promise<Response> {
-    const { pathname } = new URL(request.url)
-    if (adsenseReviewMode(env) && FOREIGN_LOCALE_RE.test(pathname)) {
-      return new Response("Gone", { status: 410 })
-    }
-
     const config = readConfig(env)
     if (!config || !shouldCharge(request, config)) {
       return (await markdownResponse(request, env)) ?? env.ASSETS.fetch(request)
