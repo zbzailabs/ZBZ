@@ -6,7 +6,7 @@ This file tells coding agents how to work in this repository. Keep engineering
 workflow, commands, repository structure, deployment, and contribution rules
 here. Keep visual tokens and UI appearance rules in `DESIGN.md`.
 
-ZBZ is an Astro 6 static multilingual editorial theme. The current default
+ZBZ is an Astro 7 static multilingual editorial theme. The current default
 locale is Chinese, public routes keep locale prefixes, and `/` redirects to
 `/zh/`. The repository must remain usable without private services, databases,
 Cloudflare credentials, analytics IDs, ad IDs, payment credentials, or wallet
@@ -14,7 +14,8 @@ addresses.
 
 ## Stack
 
-- Astro 6 with `output: "static"` and `trailingSlash: "always"`.
+- Astro 7 with `output: "static"` and `trailingSlash: "always"`.
+- Vite 8, Astro's Rust compiler, and queued rendering through Astro 7 defaults.
 - Tailwind CSS v4 through `@tailwindcss/vite` and CSS-first runtime tokens.
 - MDX content collections backed by `astro:content` glob loaders.
 - `@astrojs/markdown-satteri` as the Markdown and MDX processor.
@@ -33,6 +34,10 @@ addresses.
 
 - Install dependencies: `pnpm install`
 - Start development server: `pnpm dev`
+- Start Astro 7 background development server: `pnpm dev:background`
+- Check, read, or stop the background server: `pnpm dev:status`,
+  `pnpm dev:logs`, `pnpm dev:stop`
+- Start development server with JSON logs: `pnpm dev:json`
 - Typecheck and build: `pnpm build`
 - Preview built site: `pnpm preview`
 - Deploy prebuilt static assets to Cloudflare Workers: `pnpm deploy`
@@ -92,6 +97,9 @@ Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 - Preserve locale-prefixed routes. The default locale is `zh`, and `/`
   redirects to `/zh/`.
 - Preserve Astro `trailingSlash: "always"` behavior.
+- Keep `compressHTML: true` unless whitespace behavior is intentionally
+  rechecked across visible pages; Astro 7 defaults to JSX-style whitespace
+  compression, which can remove spaces between inline elements.
 - Preserve RTL support for Arabic routes.
 - Do not make Cloudflare mandatory. The Cloudflare path uploads static assets
   from `dist`; ordinary static hosting must continue to work.
