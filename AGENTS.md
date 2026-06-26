@@ -6,7 +6,7 @@ This file tells coding agents how to work in this repository. Keep engineering
 workflow, commands, repository structure, deployment, and contribution rules
 here. Keep visual tokens and UI appearance rules in `DESIGN.md`.
 
-ZBZ is an Astro 6 static multilingual editorial theme. The current default
+ZBZ is an Astro 7 static multilingual editorial theme. The current default
 locale is Chinese, public routes keep locale prefixes, and `/` redirects to
 `/zh/`. The repository must remain usable without private services, databases,
 Cloudflare credentials, analytics IDs, ad IDs, payment credentials, or wallet
@@ -14,7 +14,8 @@ addresses.
 
 ## Stack
 
-- Astro 6 with `output: "static"` and `trailingSlash: "always"`.
+- Astro 7 with `output: "static"` and `trailingSlash: "always"`.
+- Astro 7 stable Rust compiler and queued rendering defaults.
 - Tailwind CSS v4 through `@tailwindcss/vite` and CSS-first runtime tokens.
 - MDX content collections backed by `astro:content` glob loaders.
 - `@astrojs/markdown-satteri` as the Markdown and MDX processor.
@@ -33,6 +34,10 @@ addresses.
 
 - Install dependencies: `pnpm install`
 - Start development server: `pnpm dev`
+- Start managed background dev server: `pnpm dev:background`
+- Check, read, or stop background dev server: `pnpm dev:status`,
+  `pnpm dev:logs`, `pnpm dev:stop`
+- Start development server with JSON logs: `pnpm dev:json`
 - Typecheck and build: `pnpm build`
 - Preview built site: `pnpm preview`
 - Deploy prebuilt static assets to Cloudflare Workers: `pnpm deploy`

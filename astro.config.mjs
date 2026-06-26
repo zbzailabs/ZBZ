@@ -29,6 +29,7 @@ export default defineConfig({
   output: "static",
   site: SITE_CONFIG.url,
   trailingSlash: "always",
+  compressHTML: true,
   vite: {
     plugins: [tailwindcss()],
   },
@@ -65,11 +66,6 @@ export default defineConfig({
     },
   },
   experimental: {
-    rustCompiler: true,
-    queuedRendering: {
-      enabled: true,
-      contentCache: true,
-    },
     svgOptimizer: svgoOptimizer({
       multipass: true,
       floatPrecision: 2,
