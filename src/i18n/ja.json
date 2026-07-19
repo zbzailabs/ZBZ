@@ -188,7 +188,15 @@
   },
   "search": {
     "title": "検索",
-    "subtitle": "気になるコンテンツを検索"
+    "subtitle": "気になるコンテンツを検索",
+    "region": "サイト内検索"
+  },
+  "pagination": {
+    "label": "ページナビゲーション",
+    "previous": "前のページ",
+    "next": "次のページ",
+    "page": "{page} ページ",
+    "pageOf": "全 {total} ページ中 {page} ページ"
   },
   "comments": {
     "section": "コメント",

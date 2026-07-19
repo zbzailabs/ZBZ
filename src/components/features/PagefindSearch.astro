@@ -1,5 +1,6 @@
 ---
 import { getLocaleMeta, type Locale } from "@/config/locales"
+import { t } from "@/utils/translations"
 
 interface Props {
   lang: Locale
@@ -11,7 +12,7 @@ interface Props {
 const {
   lang,
   id = "search-page",
-  label = "Site search",
+  label = t(lang, "search.region"),
   class: className = "",
 } = Astro.props
 const hint = getLocaleMeta(lang).searchHint

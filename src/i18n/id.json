@@ -188,7 +188,15 @@
   },
   "search": {
     "title": "Cari",
-    "subtitle": "Cari konten yang menarik bagi Anda"
+    "subtitle": "Cari konten yang menarik bagi Anda",
+    "region": "Pencarian situs"
+  },
+  "pagination": {
+    "label": "Navigasi halaman",
+    "previous": "Halaman sebelumnya",
+    "next": "Halaman berikutnya",
+    "page": "Halaman {page}",
+    "pageOf": "Halaman {page} dari {total}"
   },
   "comments": {
     "section": "Komentar",

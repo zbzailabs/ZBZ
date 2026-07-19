@@ -188,7 +188,15 @@
   },
   "search": {
     "title": "Buscar",
-    "subtitle": "Procure por conteúdo de seu interesse"
+    "subtitle": "Procure por conteúdo de seu interesse",
+    "region": "Pesquisa no site"
+  },
+  "pagination": {
+    "label": "Paginação",
+    "previous": "Página anterior",
+    "next": "Próxima página",
+    "page": "Página {page}",
+    "pageOf": "Página {page} de {total}"
   },
   "comments": {
     "section": "Comentários",

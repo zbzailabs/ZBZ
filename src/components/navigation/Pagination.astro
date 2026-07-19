@@ -1,7 +1,11 @@
 ---
 import type { PaginationPageItem } from "@/utils/pagination"
+import Icon from "@/components/ui/Icon.astro"
+import { getLocaleMeta, type Locale } from "@/config/locales"
+import { t } from "@/utils/translations"
 
 interface Props {
+  lang: Locale
   prev?: string
   next?: string
   first?: string
@@ -11,9 +15,10 @@ interface Props {
   totalPages?: number
 }
 
-const { prev, next, pages = [], currentPage, totalPages } = Astro.props
+const { lang, prev, next, pages = [], currentPage, totalPages } = Astro.props
+const isRtl = getLocaleMeta(lang).dir === "rtl"
 const itemClass =
-  "inline-flex size-10 items-center justify-center rounded-lg bg-background/80 text-sm font-medium text-foreground shadow-sm backdrop-blur-md transition hover:-translate-y-0.5 hover:bg-accent disabled:pointer-events-none disabled:opacity-40 dark:bg-white/5"
+  "inline-flex size-11 shrink-0 items-center justify-center rounded-lg bg-background/80 text-sm font-medium text-foreground shadow-sm backdrop-blur-md transition active:scale-95 active:bg-accent hover:-translate-y-0.5 hover:bg-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-40 dark:bg-white/5"
 const disabledClass = `${itemClass} opacity-35`
 const pageItems =
   pages.length > 0
@@ -24,42 +29,50 @@ const pageItems =
 ---
 
 <nav
-  class="mt-10 flex items-center justify-center gap-3"
-  aria-label="Pagination"
+  class="mt-10 flex items-center justify-center gap-1.5 sm:gap-3"
+  aria-label={t(lang, "pagination.label")}
 >
   {
     prev ? (
-      <a class={itemClass} href={prev} rel="prev" aria-label="Previous page">
-        &lsaquo;
+      <a class={itemClass} href={prev} rel="prev" aria-label={t(lang, "pagination.previous")}>
+        <Icon name={isRtl ? "chevron-right" : "chevron-left"} class="size-4" />
       </a>
     ) : (
       <span
         class={disabledClass}
         aria-disabled="true"
-        aria-label="Previous page"
+        aria-label={t(lang, "pagination.previous")}
       >
-        &lsaquo;
+        <Icon name={isRtl ? "chevron-right" : "chevron-left"} class="size-4" />
       </span>
     )
   }
   {
     pageItems.map((item) =>
       item.type === "ellipsis" ? (
-        <span class="inline-flex size-10 items-center justify-center text-sm font-medium text-muted-foreground">
+        <span class="hidden size-11 shrink-0 items-center justify-center text-sm font-medium text-muted-foreground sm:inline-flex" aria-hidden="true">
           ...
         </span>
       ) : item.current ? (
         <span
-          class="inline-flex size-10 items-center justify-center rounded-lg bg-foreground text-sm font-semibold text-background shadow-sm"
+          class="inline-flex size-11 shrink-0 items-center justify-center rounded-lg bg-foreground text-sm font-semibold text-background shadow-sm"
           aria-current="page"
           aria-label={totalPages
-            ? `Page ${item.page} of ${totalPages}`
-            : `Page ${item.page}`}
+            ? t(lang, "pagination.pageOf", { page: item.page, total: totalPages })
+            : t(lang, "pagination.page", { page: item.page })}
         >
           {item.page}
         </span>
       ) : (
-        <a class={itemClass} href={item.href} aria-label={`Page ${item.page}`}>
+        <a
+          class={`${itemClass} ${
+            currentPage && Math.abs(item.page - currentPage) > 1
+              ? "max-sm:hidden"
+              : ""
+          }`}
+          href={item.href}
+          aria-label={t(lang, "pagination.page", { page: item.page })}
+        >
           {item.page}
         </a>
       )
@@ -67,13 +80,13 @@ const pageItems =
   }
   {
     next ? (
-      <a class={itemClass} href={next} rel="next" aria-label="Next page">
-        &rsaquo;
+      <a class={itemClass} href={next} rel="next" aria-label={t(lang, "pagination.next")}>
+        <Icon name={isRtl ? "chevron-left" : "chevron-right"} class="size-4" />
       </a>
     ) : (
       <>
-        <span class={disabledClass} aria-disabled="true" aria-label="Next page">
-          &rsaquo;
+        <span class={disabledClass} aria-disabled="true" aria-label={t(lang, "pagination.next")}>
+          <Icon name={isRtl ? "chevron-left" : "chevron-right"} class="size-4" />
         </span>
       </>
     )

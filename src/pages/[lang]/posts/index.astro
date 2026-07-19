@@ -39,6 +39,7 @@ const seoDescription = normalizeCollectionMetaDescription(subtitle, title, lang,
     <PostArchiveList posts={pagePosts} lang={lang} />
     {totalPages > 1 && (
       <Pagination
+        lang={lang}
         next={pagination.next}
         last={pagination.last}
         pages={pagination.pages}

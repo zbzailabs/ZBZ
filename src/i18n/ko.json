@@ -188,7 +188,15 @@
   },
   "search": {
     "title": "검색",
-    "subtitle": "관심 있는 콘텐츠를 검색하세요"
+    "subtitle": "관심 있는 콘텐츠를 검색하세요",
+    "region": "사이트 검색"
+  },
+  "pagination": {
+    "label": "페이지 탐색",
+    "previous": "이전 페이지",
+    "next": "다음 페이지",
+    "page": "{page}페이지",
+    "pageOf": "전체 {total}페이지 중 {page}페이지"
   },
   "comments": {
     "section": "댓글",

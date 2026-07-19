@@ -62,6 +62,7 @@ const seoDescription = normalizePageMetaDescription(
         <PostArchiveList posts={archivePosts} lang={lang} />
         {totalPages > 1 && (
           <Pagination
+            lang={lang}
             next={pagination.next}
             last={pagination.last}
             pages={pagination.pages}
@@ -85,6 +86,7 @@ const seoDescription = normalizePageMetaDescription(
         <PostTextCardGrid posts={archivePosts} />
         {totalPages > 1 && (
           <Pagination
+            lang={lang}
             next={pagination.next}
             last={pagination.last}
             pages={pagination.pages}
@@ -111,6 +113,7 @@ const seoDescription = normalizePageMetaDescription(
         )}
         {totalPages > 1 && (
           <Pagination
+            lang={lang}
             next={pagination.next}
             last={pagination.last}
             pages={pagination.pages}

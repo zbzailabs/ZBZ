@@ -188,7 +188,15 @@
   },
   "search": {
     "title": "搜索",
-    "subtitle": "搜索你感兴趣的内容"
+    "subtitle": "搜索你感兴趣的内容",
+    "region": "站内搜索"
+  },
+  "pagination": {
+    "label": "分页导航",
+    "previous": "上一页",
+    "next": "下一页",
+    "page": "第 {page} 页",
+    "pageOf": "第 {page} 页，共 {total} 页"
   },
   "comments": {
     "section": "评论",

@@ -84,6 +84,7 @@ const pagination = getPaginationLinks({
     />
     <PostArchiveList posts={page.data} lang={lang} />
     <Pagination
+      lang={lang}
       prev={page.currentPage === 2 ? `/${lang}/posts/` : page.url.prev}
       next={page.url.next}
       first={`/${lang}/posts/`}

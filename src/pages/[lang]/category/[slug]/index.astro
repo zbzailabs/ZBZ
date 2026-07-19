@@ -89,6 +89,7 @@ const alternates = await collectionLocaleAlternates({
     {
       totalPages > 1 && (
         <Pagination
+          lang={lang}
           next={pagination.next}
           last={pagination.last}
           pages={pagination.pages}

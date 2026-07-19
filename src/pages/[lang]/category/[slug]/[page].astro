@@ -109,6 +109,7 @@ const pagination = getPaginationLinks({
     />
     <PostCardGrid posts={page.data} headingLevel={3} priorityFirst />
     <Pagination
+      lang={lang}
       prev={page.currentPage === 2
         ? `/${lang}/category/${slug}/`
         : page.url.prev}
