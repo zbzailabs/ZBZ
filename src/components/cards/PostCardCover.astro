@@ -83,7 +83,7 @@ const TitleTag = headingLevel === 3 ? "h3" : "h2"
     data-glass-target
   >
     <div
-      class="mb-3 flex w-full items-center justify-center gap-3 text-xs text-white/75"
+      class="mb-3 flex w-full items-center justify-center gap-3 text-xs text-white/90"
     >
       <span class="card-meta-pill" data-category={categorySlug}
         >{categoryLabel}</span
@@ -95,7 +95,7 @@ const TitleTag = headingLevel === 3 ? "h3" : "h2"
     <TitleTag class={titleClass}>{post.data.title}</TitleTag>
     {
       variant === "lead" && (
-        <p class="mt-3 line-clamp-3 text-base leading-7 text-white/80">
+        <p class="mt-3 line-clamp-3 text-base leading-7 text-white/90">
           {post.data.description}
         </p>
       )

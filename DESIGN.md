@@ -18,8 +18,8 @@ colors:
   accent: "#F4F4F5"
   accentForeground: "#27272A"
   destructive: "#DC2626"
-  border: "#E4E4E7"
-  input: "#E4E4E7"
+  border: "transparent"
+  input: "transparent"
   ring: "#A1A1AA"
   darkBackground: "#18181B"
   darkForeground: "#FAFAFA"
@@ -33,8 +33,8 @@ colors:
   darkMutedForeground: "#A1A1AA"
   darkAccent: "#3F3F46"
   darkAccentForeground: "#FAFAFA"
-  darkBorder: "#FFFFFF"
-  darkInput: "#FFFFFF"
+  darkBorder: "transparent"
+  darkInput: "transparent"
   darkRing: "#71717A"
   glassOverlay: "#000000"
   glassOverlayStrong: "#262626"
@@ -197,7 +197,9 @@ The palette is a neutral publishing palette:
   dropdowns, hover states, chips, search results, and low-emphasis UI.
 - `primary` and `primaryForeground` define high-emphasis actions and inverted
   text.
-- `border`, `input`, and `ring` define structure and focus affordances.
+- `border` and `input` are transparent by default so ordinary surfaces stay
+  quiet. Components that require a visible rule define it directly; enhanced
+  contrast makes both tokens visible. `ring` defines focus affordances.
 - `destructive` is reserved for destructive or error states.
 - `glassOverlay`, `glassOverlayStrong`, `glassBorder`, and
   `glassSurfaceLight` support post-card panels, article hero panels, dropdowns,
@@ -243,16 +245,17 @@ The homepage has three code-supported modes in `SITE_CONFIG.homepage.layout`:
 ## Cards and Glass
 
 Post cover cards use full-bleed imagery with a gradient and a glass content
-panel. The glass panel uses dark translucent backgrounds, subtle white borders,
-blur, and restrained shadow.
+panel. A stable dark overlay protects white titles and metadata while sampled
+image color remains decorative. The ordinary panel uses blur and restrained
+shadow without a visible border.
 
 Article heroes use the same image-first language, with a centered glass title
-panel over the image. Header, dropdown, and mobile navigation share the glass
-language, but the fixed header itself uses theme background and border tokens
-for legibility.
+panel over the image. Dropdowns and mobile navigation share the glass language.
+The header is non-fixed and uses the theme background; it gains a structural
+rule only when enhanced contrast is requested.
 
 Text cards and taxonomy cards stay quiet: neutral background, small radius,
-thin border, and modest hover movement.
+no default border, and modest hover movement.
 
 Do not create cards inside cards. Do not turn full page sections into floating
 cards.
@@ -265,8 +268,9 @@ dropdown items use 8px, regular cards use 10px to 14px, image cards use 24px to
 
 ## Component Guidance
 
-- **Header and nav:** compact height, theme background, subtle border, grouped
-  category dropdowns, search, language switcher, theme switcher, and mobile nav.
+- **Header and nav:** compact height, theme background, no ordinary border,
+  grouped category dropdowns, search, language switcher, theme switcher, and
+  mobile nav. Enhanced contrast adds a structural rule.
 - **Post cards:** image-first with readable glass panels and real imagery.
 - **Article page:** image hero, compact metadata, centered readable prose, and
   related posts.
@@ -304,3 +308,16 @@ State remains visible through color, background, opacity, focus outlines, or a
 short fade of no more than 50ms. Normal motion keeps the existing restrained
 movement. Reduced motion must not change modal focus handling, navigation
 meaning, selected state, or RTL layout.
+
+## System Transparency and Contrast Preferences
+
+When the system requests reduced transparency, dropdowns, mobile navigation,
+search, pagination, taxonomy surfaces, and image-card text panels use nearly
+opaque backgrounds and remove backdrop blur. Dynamic image color does not
+override this mode.
+
+When the system requests enhanced contrast, the same surfaces use near-solid
+backgrounds, visible structural rules, stronger semantic text tokens, and no
+decorative shadow or blur. Image-card text panels keep a near-black background
+and a light rule. Both preferences preserve light, dark, multilingual, and RTL
+behavior, and controls remain fully operable.

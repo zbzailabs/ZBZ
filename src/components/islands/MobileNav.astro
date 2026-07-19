@@ -142,6 +142,20 @@ const primaryCategories = getPrimaryCategories()
       transition-property: color;
     }
   }
+
+  @media (prefers-reduced-transparency: reduce) {
+    [data-mobile-nav-dialog]::backdrop {
+      background: color-mix(in oklab, var(--background) 72%, transparent);
+      backdrop-filter: none;
+    }
+  }
+
+  @media (prefers-contrast: more) {
+    [data-mobile-nav-dialog]::backdrop {
+      background: color-mix(in oklab, var(--background) 72%, transparent);
+      backdrop-filter: none;
+    }
+  }
 </style>
 
 <script is:inline>

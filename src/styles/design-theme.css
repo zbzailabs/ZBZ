@@ -15,8 +15,8 @@
   --color-accent: #f4f4f5;
   --color-accent-foreground: #27272a;
   --color-destructive: #dc2626;
-  --color-border: #e4e4e7;
-  --color-input: #e4e4e7;
+  --color-border: transparent;
+  --color-input: transparent;
   --color-ring: #a1a1aa;
   --color-dark-background: #18181b;
   --color-dark-foreground: #fafafa;
@@ -30,8 +30,8 @@
   --color-dark-muted-foreground: #a1a1aa;
   --color-dark-accent: #3f3f46;
   --color-dark-accent-foreground: #fafafa;
-  --color-dark-border: #ffffff;
-  --color-dark-input: #ffffff;
+  --color-dark-border: transparent;
+  --color-dark-input: transparent;
   --color-dark-ring: #71717a;
   --color-glass-overlay: #000000;
   --color-glass-overlay-strong: #262626;
