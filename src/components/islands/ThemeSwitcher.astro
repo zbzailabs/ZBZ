@@ -13,10 +13,10 @@ const { lang } = Astro.props
 <div class="relative" data-dropdown-menu>
   <button
     type="button"
-    class="inline-flex size-8 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
+    class="inline-flex size-11 items-center justify-center rounded-lg text-muted-foreground transition active:scale-95 active:bg-muted hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
     aria-label={t(lang, "theme.toggle")}
-    aria-haspopup="menu"
     aria-expanded="false"
+    aria-controls="theme-options"
     data-dropdown-menu-trigger
   >
     <span data-theme-trigger-icon="light">
@@ -29,40 +29,46 @@ const { lang } = Astro.props
       <Icon name="monitor" class="size-4" dataIcon="inline-start" />
     </span>
   </button>
-  <div
-    class="nav-dropdown absolute top-full right-0 z-50 mt-2 grid w-44 gap-1 rounded-xl p-2 shadow-xl"
-    role="menu"
+  <ul
+    id="theme-options"
+    class="nav-dropdown absolute top-full end-0 z-50 mt-2 grid w-44 gap-1 rounded-xl p-2 shadow-xl"
     hidden
     data-dropdown-menu-content
   >
-    <button
-      type="button"
-      class="flex min-h-9 items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground hover:bg-muted focus:bg-muted focus:outline-none aria-current:bg-muted aria-current:font-medium"
-      role="menuitem"
-      data-theme-value="light"
-    >
-      <Icon name="sun" class="size-4" dataIcon="inline-start" />
-      <span>{t(lang, "theme.light")}</span>
-    </button>
-    <button
-      type="button"
-      class="flex min-h-9 items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground hover:bg-muted focus:bg-muted focus:outline-none aria-current:bg-muted aria-current:font-medium"
-      role="menuitem"
-      data-theme-value="dark"
-    >
-      <Icon name="moon" class="size-4" dataIcon="inline-start" />
-      <span>{t(lang, "theme.dark")}</span>
-    </button>
-    <button
-      type="button"
-      class="flex min-h-9 items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground hover:bg-muted focus:bg-muted focus:outline-none aria-current:bg-muted aria-current:font-medium"
-      role="menuitem"
-      data-theme-value="system"
-    >
-      <Icon name="monitor" class="size-4" dataIcon="inline-start" />
-      <span>{t(lang, "theme.system")}</span>
-    </button>
-  </div>
+    <li>
+      <button
+        type="button"
+        class="flex min-h-11 w-full items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring aria-pressed:bg-muted aria-pressed:font-medium"
+        aria-pressed="false"
+        data-theme-value="light"
+      >
+        <Icon name="sun" class="size-4" dataIcon="inline-start" />
+        <span>{t(lang, "theme.light")}</span>
+      </button>
+    </li>
+    <li>
+      <button
+        type="button"
+        class="flex min-h-11 w-full items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring aria-pressed:bg-muted aria-pressed:font-medium"
+        aria-pressed="false"
+        data-theme-value="dark"
+      >
+        <Icon name="moon" class="size-4" dataIcon="inline-start" />
+        <span>{t(lang, "theme.dark")}</span>
+      </button>
+    </li>
+    <li>
+      <button
+        type="button"
+        class="flex min-h-11 w-full items-center gap-2 rounded-lg px-3 text-sm whitespace-nowrap text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring aria-pressed:bg-muted aria-pressed:font-medium"
+        aria-pressed="false"
+        data-theme-value="system"
+      >
+        <Icon name="monitor" class="size-4" dataIcon="inline-start" />
+        <span>{t(lang, "theme.system")}</span>
+      </button>
+    </li>
+  </ul>
 </div>
 
 <script is:inline>
@@ -77,10 +83,10 @@ const { lang } = Astro.props
         if (!(option instanceof HTMLElement)) return
         const selected = option.dataset.themeValue === theme
         if (selected) {
-          option.setAttribute("aria-current", "true")
+          option.setAttribute("aria-pressed", "true")
           return
         }
-        option.removeAttribute("aria-current")
+        option.setAttribute("aria-pressed", "false")
       })
     }
 

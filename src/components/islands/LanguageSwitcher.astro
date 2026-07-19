@@ -1,5 +1,6 @@
 ---
 import { LOCALE_META, LOCALES, type Locale } from "@/config/locales"
+import Icon from "@/components/ui/Icon.astro"
 import { localePath } from "@/utils/routes"
 import { t } from "@/utils/translations"
 
@@ -9,59 +10,49 @@ interface Props {
 }
 
 const { lang, path = "/" } = Astro.props
-const flags: Record<Locale, string> = {
-  zh: "🇨🇳",
-  en: "🇺🇸",
-  fr: "🇫🇷",
-  es: "🇪🇸",
-  ru: "🇷🇺",
-  ja: "🇯🇵",
-  ko: "🇰🇷",
-  pt: "🇵🇹",
-  de: "🇩🇪",
-  id: "🇮🇩",
-  ar: "🇸🇦",
-}
 ---
 
 <div class="relative" data-dropdown-menu>
   <button
     type="button"
-    class="inline-flex size-8 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
+    class="inline-flex size-11 items-center justify-center gap-0.5 rounded-lg text-muted-foreground transition active:scale-95 active:bg-muted hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
     aria-label={t(lang, "language.switch")}
-    aria-haspopup="menu"
     aria-expanded="false"
+    aria-controls="language-options"
     data-dropdown-menu-trigger
   >
-    <span class="text-sm leading-none" aria-hidden="true">{flags[lang]}</span>
+    <Icon name="globe" class="size-4" dataIcon="inline-start" />
+    <span class="text-[0.625rem] leading-none font-semibold uppercase" aria-hidden="true">
+      {lang}
+    </span>
   </button>
-  <div
-    class="nav-dropdown absolute top-full right-0 z-50 mt-2 grid w-44 gap-1 rounded-xl p-2 shadow-xl"
-    role="menu"
+  <ul
+    id="language-options"
+    class="nav-dropdown absolute top-full end-0 z-50 mt-2 grid w-44 gap-1 rounded-xl p-2 shadow-xl"
     hidden
     data-dropdown-menu-content
   >
     {
       LOCALES.map((locale) => (
-        <a
-          class="flex min-h-9 items-center gap-2 rounded-lg px-3 text-sm text-foreground hover:bg-muted focus:bg-muted focus:outline-none"
-          href={localePath(locale, path)}
-          role="menuitem"
-          aria-current={locale === lang ? "true" : undefined}
-        >
-          <span aria-hidden="true">{flags[locale]}</span>
-          <span>{LOCALE_META[locale].nativeName}</span>
-        </a>
+        <li>
+          <a
+            class="flex min-h-11 items-center rounded-lg px-3 text-sm text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring aria-[current=page]:bg-muted aria-[current=page]:font-medium"
+            href={localePath(locale, path)}
+            aria-current={locale === lang ? "page" : undefined}
+          >
+            {LOCALE_META[locale].nativeName}
+          </a>
+        </li>
       ))
     }
-  </div>
+  </ul>
 </div>
 
 <script is:inline>
   ;(() => {
     window.__dropdownMenuCleanup?.()
 
-    const closeMenu = (menu) => {
+    const closeMenu = (menu, restoreFocus = false) => {
       const trigger = menu.querySelector("[data-dropdown-menu-trigger]")
       const content = menu.querySelector("[data-dropdown-menu-content]")
       if (
@@ -69,13 +60,15 @@ const flags: Record<Locale, string> = {
         !(content instanceof HTMLElement)
       )
         return
+      const wasOpen = !content.hidden
       trigger.setAttribute("aria-expanded", "false")
       content.hidden = true
+      if (restoreFocus && wasOpen) trigger.focus()
     }
 
-    const closeAll = (except) => {
+    const closeAll = (except, restoreFocus = false) => {
       document.querySelectorAll("[data-dropdown-menu]").forEach((menu) => {
-        if (menu !== except) closeMenu(menu)
+        if (menu !== except) closeMenu(menu, restoreFocus)
       })
     }
 
@@ -107,7 +100,7 @@ const flags: Record<Locale, string> = {
         return
       }
 
-      if (!target.closest("[data-dropdown-menu]")) closeAll()
+      if (!target.closest("[data-dropdown-menu]")) closeAll(undefined, true)
     }
 
     const handleKeydown = (event) => {
@@ -117,8 +110,7 @@ const flags: Record<Locale, string> = {
       )
       const menu = openMenuContent?.closest("[data-dropdown-menu]")
       if (!(menu instanceof HTMLElement)) return
-      closeMenu(menu)
-      menu.querySelector("button")?.focus()
+      closeMenu(menu, true)
     }
 
     const handleBeforeSwap = () => closeAll()
