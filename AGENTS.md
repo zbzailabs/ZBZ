@@ -38,6 +38,7 @@ addresses.
 - Check, read, or stop background dev server: `pnpm dev:status`,
   `pnpm dev:logs`, `pnpm dev:stop`
 - Start development server with JSON logs: `pnpm dev:json`
+- Start an unmanaged temporary second dev server: `pnpm dev:parallel`
 - Typecheck and build: `pnpm build`
 - Preview built site: `pnpm preview`
 - Deploy prebuilt static assets to Cloudflare Workers: `pnpm deploy`

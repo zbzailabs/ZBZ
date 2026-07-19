@@ -22,6 +22,7 @@
     "dev:logs": "astro dev logs",
     "dev:stop": "astro dev stop",
     "dev:json": "astro dev --json",
+    "dev:parallel": "astro dev --ignore-lock",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",

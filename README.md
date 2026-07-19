@@ -57,6 +57,7 @@ pnpm dev:status     # 查看后台开发服务状态
 pnpm dev:logs       # 查看后台开发服务日志
 pnpm dev:stop       # 停止后台开发服务
 pnpm dev:json       # 以 JSON 日志启动开发服务
+pnpm dev:parallel   # 启动不受 status/logs/stop 管理的临时第二开发服务
 pnpm build    # 运行 astro check 并构建静态产物
 pnpm preview  # 本地预览构建产物
 pnpm deploy   # 构建后通过 Wrangler 部署 dist
