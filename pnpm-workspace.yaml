@@ -12,7 +12,7 @@ fetchRetryMaxtimeout: 120000
 fetchRetryMintimeout: 10000
 fetchTimeout: 120000
 minimumReleaseAgeExclude:
-  - astro@7.0.3
+  - astro@7.1.1
 networkConcurrency: 8
 onlyBuiltDependencies:
   - bufferutil
