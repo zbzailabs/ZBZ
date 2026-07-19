@@ -1,4 +1,4 @@
-<script is:inline>
+<script>
   ;(() => {
     window.__dynamicGlassCleanup?.()
 
@@ -8,9 +8,9 @@
       baseOpacity: 0.24,
       blurAmount: "14px",
     }
-    const colorCache = new WeakMap()
+    const colorCache = new WeakMap<HTMLImageElement, string>()
 
-    function extractDominantColor(img) {
+    function extractDominantColor(img: HTMLImageElement) {
       if (colorCache.has(img)) return colorCache.get(img)
       const canvas = document.createElement("canvas")
       const ctx = canvas.getContext("2d", { willReadFrequently: true })
@@ -55,38 +55,42 @@
       }
     }
 
-    function apply(card) {
-      const img = card.querySelector("img")
-      const content = card.querySelector("[data-glass-target]")
+    function apply(card: Element) {
+      const img = card.querySelector<HTMLImageElement>("img")
+      const content = card.querySelector<HTMLElement>("[data-glass-target]")
       if (!img || !content) return
       const run = () => {
         const color = extractDominantColor(img)
         if (!color) return
         content.style.backgroundColor = color
         content.style.backdropFilter = `blur(${CONFIG.blurAmount})`
-        content.style.webkitBackdropFilter = `blur(${CONFIG.blurAmount})`
+        content.style.setProperty(
+          "-webkit-backdrop-filter",
+          `blur(${CONFIG.blurAmount})`
+        )
       }
       if (img.complete && img.naturalWidth > 0) requestAnimationFrame(run)
       else img.addEventListener("load", run, { once: true })
     }
 
-    let observer
+    let observer: IntersectionObserver | undefined
 
     function init() {
       observer?.disconnect()
-      observer = new IntersectionObserver(
+      const nextObserver = new IntersectionObserver(
         (entries) => {
           for (const entry of entries) {
             if (!entry.isIntersecting) continue
             apply(entry.target)
-            observer.unobserve(entry.target)
+            nextObserver.unobserve(entry.target)
           }
         },
         { rootMargin: "100px" }
       )
+      observer = nextObserver
       document
         .querySelectorAll("[data-glass-card]")
-        .forEach((card) => observer.observe(card))
+        .forEach((card) => nextObserver.observe(card))
     }
 
     function scheduleInit() {
@@ -94,7 +98,7 @@
       if ("requestIdleCallback" in window) {
         window.requestIdleCallback(run, { timeout: 1500 })
       } else {
-        window.setTimeout(run, 600)
+        globalThis.setTimeout(run, 600)
       }
     }
 
