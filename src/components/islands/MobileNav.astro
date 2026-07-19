@@ -257,6 +257,15 @@ const primaryCategories = getPrimaryCategories()
       if (root instanceof HTMLElement) closeNav(root)
     }
 
+    const handleKeydown = (event) => {
+      if (event.key !== "Escape") return
+      const dialog = document.querySelector("[data-mobile-nav-dialog][open]")
+      if (!(dialog instanceof HTMLDialogElement)) return
+      event.preventDefault()
+      const root = dialog.closest("[data-mobile-nav]")
+      if (root instanceof HTMLElement) closeNav(root)
+    }
+
     const handleBeforeSwap = () => {
       document.querySelectorAll("[data-mobile-nav]").forEach((root) => {
         if (root instanceof HTMLElement) closeNav(root, false)
@@ -264,10 +273,12 @@ const primaryCategories = getPrimaryCategories()
     }
     document.addEventListener("click", handleClick)
     document.addEventListener("cancel", handleCancel, true)
+    document.addEventListener("keydown", handleKeydown)
     document.addEventListener("astro:before-swap", handleBeforeSwap)
     window.__mobileNavCleanup = () => {
       document.removeEventListener("click", handleClick)
       document.removeEventListener("cancel", handleCancel, true)
+      document.removeEventListener("keydown", handleKeydown)
       document.removeEventListener("astro:before-swap", handleBeforeSwap)
       document.querySelectorAll("[data-mobile-nav]").forEach((root) => {
         if (root instanceof HTMLElement) closeNav(root, false)
