@@ -102,7 +102,10 @@
   "navigation": {
     "build": "Startup",
     "invest": "Investieren",
-    "life": "Leben"
+    "life": "Leben",
+    "menu": "Menü",
+    "closeMenu": "Menü schließen",
+    "mobile": "Mobile Navigation"
   },
   "pages": {
     "about": {

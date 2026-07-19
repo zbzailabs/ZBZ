@@ -102,7 +102,10 @@
   "navigation": {
     "build": "スタートアップ",
     "invest": "投資",
-    "life": "人生"
+    "life": "人生",
+    "menu": "メニュー",
+    "closeMenu": "メニューを閉じる",
+    "mobile": "モバイルナビゲーション"
   },
   "pages": {
     "about": {

@@ -17,85 +17,102 @@ const primaryCategories = getPrimaryCategories()
 <div class="lg:hidden" data-mobile-nav>
   <button
     type="button"
-    class="inline-flex size-8 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
-    aria-label="Menu"
+    class="inline-flex size-11 items-center justify-center rounded-lg text-muted-foreground transition active:scale-95 active:bg-muted hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
+    aria-label={t(lang, "navigation.menu")}
     aria-haspopup="dialog"
     aria-expanded="false"
+    aria-controls="mobile-nav-dialog"
     data-mobile-nav-trigger
   >
     <Icon name="menu" class="size-4" dataIcon="inline-start" />
   </button>
-  <div
-    class="fixed inset-0 z-50 bg-background/40 backdrop-blur-sm"
-    hidden
-    data-mobile-nav-overlay
-  >
-  </div>
-  <aside
-    class="mobile-nav-glass fixed top-0 right-0 z-50 flex h-dvh w-full max-w-sm translate-x-full flex-col transition-transform duration-200"
-    role="dialog"
-    aria-modal="true"
+  <dialog
+    id="mobile-nav-dialog"
+    class="fixed inset-0 z-50 m-0 h-dvh max-h-none w-full max-w-none border-0 bg-transparent p-0 text-foreground"
     aria-labelledby="mobile-nav-title"
-    hidden
-    data-mobile-nav-panel
+    data-mobile-nav-dialog
   >
-    <div
-      class="flex items-center justify-between gap-4 p-4"
+    <aside
+      class="mobile-nav-glass ms-auto flex h-dvh w-[calc(100%-3rem)] max-w-sm flex-col transition-transform duration-200"
+      data-mobile-nav-panel
     >
-      <p id="mobile-nav-title" class="text-base font-semibold text-foreground">
-        {SITE_CONFIG.name}
-      </p>
-      <button
-        type="button"
-        class="inline-flex size-8 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
-        aria-label="Close menu"
-        data-mobile-nav-close
+      <div
+        class="flex items-center justify-between gap-4 p-4"
       >
-        <Icon name="x" class="size-4" />
-      </button>
-    </div>
-    <nav
-      class="flex flex-col gap-2 overflow-y-auto px-4 py-4"
-      aria-label="Mobile navigation"
-    >
-      {
-        primaryCategories.map((category) => (
-          <details class="group rounded-lg">
-            <summary class="flex min-h-10 cursor-pointer list-none items-center justify-between rounded-lg px-3 text-sm font-medium text-foreground hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
-              <span>{category.labelByLocale[lang]}</span>
-              <Icon
-                name="chevron-down"
-                class="size-4 text-muted-foreground transition-transform group-open:rotate-180"
-              />
-            </summary>
-            <div class="mt-1 flex flex-col gap-1 ps-3">
-              {getTagsForCategory(category.slug).map((tag) => (
-                <a
-                  class="rounded-md px-3 py-2 text-sm text-muted-foreground hover:bg-muted hover:text-foreground"
-                  href={localePath(lang, `/tags/${tag.slug}/`)}
-                >
-                  {tag.labelByLocale[lang]}
-                </a>
-              ))}
-            </div>
-          </details>
-        ))
-      }
-      <a
-        class="rounded-lg px-3 py-2 text-sm font-medium hover:bg-muted"
-        href={localePath(lang, "/posts/")}
+        <p id="mobile-nav-title" class="text-base font-semibold text-foreground">
+          {SITE_CONFIG.name}
+        </p>
+        <button
+          type="button"
+          class="inline-flex size-11 items-center justify-center rounded-lg text-muted-foreground transition active:scale-95 active:bg-muted hover:bg-muted hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
+          aria-label={t(lang, "navigation.closeMenu")}
+          data-mobile-nav-close
+        >
+          <Icon name="x" class="size-4" />
+        </button>
+      </div>
+      <nav
+        class="flex flex-col gap-2 overflow-y-auto px-4 py-4"
+        aria-label={t(lang, "navigation.mobile")}
       >
-        {t(lang, "pages.posts.title")}
-      </a>
-      <a
-        class="rounded-lg px-3 py-2 text-sm font-medium hover:bg-muted"
-        href={localePath(lang, "/search/")}
-      >
-        {t(lang, "search.title")}
-      </a>
-    </nav>
-  </aside>
+        {
+          primaryCategories.map((category) => (
+            <details class="group rounded-lg">
+              <summary class="flex min-h-11 cursor-pointer list-none items-center justify-between rounded-lg px-3 text-sm font-medium text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
+                <span>{category.labelByLocale[lang]}</span>
+                <Icon
+                  name="chevron-down"
+                  class="size-4 text-muted-foreground transition-transform group-open:rotate-180"
+                />
+              </summary>
+              <div class="mt-1 flex flex-col gap-1 ps-3">
+                {getTagsForCategory(category.slug).map((tag) => (
+                  <a
+                    class="flex min-h-11 items-center rounded-md px-3 py-2 text-sm text-muted-foreground active:bg-muted hover:bg-muted hover:text-foreground"
+                    href={localePath(lang, `/tags/${tag.slug}/`)}
+                  >
+                    {tag.labelByLocale[lang]}
+                  </a>
+                ))}
+              </div>
+            </details>
+          ))
+        }
+        <a
+          class="flex min-h-11 items-center rounded-lg px-3 py-2 text-sm font-medium active:bg-muted hover:bg-muted"
+          href={localePath(lang, "/posts/")}
+        >
+          {t(lang, "pages.posts.title")}
+        </a>
+        <a
+          class="flex min-h-11 items-center rounded-lg px-3 py-2 text-sm font-medium active:bg-muted hover:bg-muted"
+          href={localePath(lang, "/search/")}
+        >
+          {t(lang, "search.title")}
+        </a>
+      </nav>
+    </aside>
+  </dialog>
 </div>
+
+<style>
+  [data-mobile-nav-dialog]::backdrop {
+    background: color-mix(in oklab, var(--background) 40%, transparent);
+    backdrop-filter: blur(8px);
+  }
+
+  [data-mobile-nav-panel] {
+    transform: translateX(100%);
+  }
+
+  :global(html[dir="rtl"]) [data-mobile-nav-panel] {
+    transform: translateX(-100%);
+  }
+
+  [data-mobile-nav-panel][data-open] {
+    transform: translateX(0);
+  }
+</style>
 
 <script is:inline>
   ;(() => {
@@ -103,42 +120,107 @@ const primaryCategories = getPrimaryCategories()
 
     const getParts = (root) => ({
       trigger: root.querySelector("[data-mobile-nav-trigger]"),
-      overlay: root.querySelector("[data-mobile-nav-overlay]"),
+      dialog: root.querySelector("[data-mobile-nav-dialog]"),
       panel: root.querySelector("[data-mobile-nav-panel]"),
     })
 
-    const openNav = (root) => {
-      const { trigger, overlay, panel } = getParts(root)
+    const states = new WeakMap()
+
+    const getState = (root) => {
+      const current = states.get(root)
+      if (current) return current
+      const state = {
+        phase: "closed",
+        version: 0,
+        previousOverflow: "",
+        previousBodyStyles: null,
+        scrollY: 0,
+      }
+      states.set(root, state)
+      return state
+    }
+
+    const finishClose = (root, restoreFocus) => {
+      const { trigger, dialog, panel } = getParts(root)
+      const state = getState(root)
       if (
         !(trigger instanceof HTMLElement) ||
-        !(overlay instanceof HTMLElement) ||
+        !(dialog instanceof HTMLDialogElement) ||
         !(panel instanceof HTMLElement)
       )
         return
-      overlay.hidden = false
-      panel.hidden = false
-      requestAnimationFrame(() => {
-        panel.classList.remove("translate-x-full")
-      })
+
+      panel.removeAttribute("data-open")
+      if (dialog.open) dialog.close()
+      document.documentElement.style.overflow = state.previousOverflow
+      if (state.previousBodyStyles) {
+        const { position, top, width, overflow } = state.previousBodyStyles
+        document.body.style.position = position
+        document.body.style.top = top
+        document.body.style.width = width
+        document.body.style.overflow = overflow
+        window.scrollTo({ top: state.scrollY, behavior: "instant" })
+        state.previousBodyStyles = null
+      }
+      trigger.setAttribute("aria-expanded", "false")
+      state.phase = "closed"
+      if (restoreFocus) trigger.focus()
+    }
+
+    const openNav = (root) => {
+      const { trigger, dialog, panel } = getParts(root)
+      const state = getState(root)
+      if (
+        !(trigger instanceof HTMLElement) ||
+        !(dialog instanceof HTMLDialogElement) ||
+        !(panel instanceof HTMLElement)
+      )
+        return
+
+      state.version += 1
+      const version = state.version
+      if (state.phase === "closed") {
+        state.previousOverflow = document.documentElement.style.overflow
+        state.previousBodyStyles = {
+          position: document.body.style.position,
+          top: document.body.style.top,
+          width: document.body.style.width,
+          overflow: document.body.style.overflow,
+        }
+        state.scrollY = window.scrollY
+      }
+      state.phase = "opening"
+      document.documentElement.style.overflow = "hidden"
+      document.body.style.position = "fixed"
+      document.body.style.top = `-${state.scrollY}px`
+      document.body.style.width = "100%"
+      document.body.style.overflow = "hidden"
+      if (!dialog.open) dialog.showModal()
       trigger.setAttribute("aria-expanded", "true")
       panel.querySelector("a, button, summary")?.focus()
+      requestAnimationFrame(() => {
+        if (state.version !== version) return
+        panel.setAttribute("data-open", "")
+        state.phase = "open"
+      })
     }
 
     const closeNav = (root, restoreFocus = true) => {
-      const { trigger, overlay, panel } = getParts(root)
+      const { trigger, dialog, panel } = getParts(root)
+      const state = getState(root)
       if (
         !(trigger instanceof HTMLElement) ||
-        !(overlay instanceof HTMLElement) ||
+        !(dialog instanceof HTMLDialogElement) ||
         !(panel instanceof HTMLElement)
       )
         return
-      panel.classList.add("translate-x-full")
+
+      if (state.phase === "closed" && !dialog.open) return
+      state.version += 1
+      state.phase = "closing"
+      panel.removeAttribute("data-open")
       trigger.setAttribute("aria-expanded", "false")
-      window.setTimeout(() => {
-        overlay.hidden = true
-        panel.hidden = true
-      }, 200)
-      if (restoreFocus) trigger.focus()
+      finishClose(root, restoreFocus)
     }
 
     const handleClick = (event) => {
@@ -152,21 +234,26 @@ const primaryCategories = getPrimaryCategories()
         return
       }
 
-      const closeTarget = target.closest(
-        "[data-mobile-nav-close], [data-mobile-nav-overlay]"
-      )
+      const closeTarget = target.closest("[data-mobile-nav-close]")
       if (closeTarget instanceof HTMLElement) {
         const root = closeTarget.closest("[data-mobile-nav]")
+        if (root instanceof HTMLElement) closeNav(root)
+        return
+      }
+
+      const dialog = target.closest("[data-mobile-nav-dialog]")
+      if (dialog === target) {
+        const root = dialog.closest("[data-mobile-nav]")
         if (root instanceof HTMLElement) closeNav(root)
       }
     }
 
-    const handleKeydown = (event) => {
-      if (event.key !== "Escape") return
-      const panel = document.querySelector(
-        "[data-mobile-nav-panel]:not([hidden])"
-      )
-      const root = panel?.closest("[data-mobile-nav]")
+    const handleCancel = (event) => {
+      const dialog = event.target
+      if (!(dialog instanceof HTMLDialogElement)) return
+      if (!dialog.matches("[data-mobile-nav-dialog]")) return
+      event.preventDefault()
+      const root = dialog.closest("[data-mobile-nav]")
       if (root instanceof HTMLElement) closeNav(root)
     }
 
@@ -176,12 +263,15 @@ const primaryCategories = getPrimaryCategories()
       })
     }
     document.addEventListener("click", handleClick)
-    document.addEventListener("keydown", handleKeydown)
+    document.addEventListener("cancel", handleCancel, true)
     document.addEventListener("astro:before-swap", handleBeforeSwap)
     window.__mobileNavCleanup = () => {
       document.removeEventListener("click", handleClick)
-      document.removeEventListener("keydown", handleKeydown)
+      document.removeEventListener("cancel", handleCancel, true)
       document.removeEventListener("astro:before-swap", handleBeforeSwap)
+      document.querySelectorAll("[data-mobile-nav]").forEach((root) => {
+        if (root instanceof HTMLElement) closeNav(root, false)
+      })
     }
   })()
 </script>
