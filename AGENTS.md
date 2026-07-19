@@ -67,6 +67,9 @@ Use pnpm for Node.js work. Do not add npm, yarn, or bun lockfiles.
 - Prefer small, issue-linked changes. Keep commits focused, preserve unrelated
   dirty worktree changes, and include the commands used to verify the change in
   the issue or pull request.
+- After a task is complete and its checks pass, commit the finished changes and
+  push them directly to `main` unless the user explicitly requests a pull
+  request or asks to keep the work on a separate branch.
 
 ## Agent skills
 
