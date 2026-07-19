@@ -280,7 +280,9 @@ Expected: every assertion exits `0`.
     pnpm outdated --format json
     pnpm view typescript@latest version
 
-Expected: directory pagination links keep trailing slashes; TypeScript is the sole intentional exception and registry latest is 7.0.2.
+Expected: directory pagination links keep trailing slashes. Registry output only
+lists TypeScript 7 plus Solana Kit/sysvars 7, which remain on 5.5.1 because the
+x402 Solana program packages require the 5.x peer range.
 
 - [ ] **Step 4: Smoke-test the unmanaged server**
 
@@ -304,6 +306,6 @@ Expected: clean implementation state and focused commits for dependencies, featu
 
 - [ ] **Step 6: Record verification and close issue #3**
 
-    gh issue close 3 --comment "Upgraded Astro and stable dependencies, retained TypeScript 6.0.3 for Astro tooling compatibility, enabled deferred collection rendering and scoped CSP, and added the unmanaged parallel development command. Verified with pnpm install --frozen-lockfile, pnpm build, optional-integration build checks, generated-output assertions, and a dev:parallel startup smoke test."
+    gh issue close 3 --comment "Upgraded Astro and compatible stable dependencies, retained TypeScript 6.0.3 for Astro tooling compatibility and Solana Kit/sysvars 5.5.1 for x402 peer compatibility, enabled deferred collection rendering and scoped CSP, and added the unmanaged parallel development command. Verified with pnpm install --frozen-lockfile, pnpm build, optional-integration build checks, generated-output assertions, and a dev:parallel startup smoke test."
 
 Expected: issue #3 closes with verification evidence.

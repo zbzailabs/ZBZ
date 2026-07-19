@@ -95,7 +95,9 @@ generated design theme files because this upgrade does not change appearance.
   that satisfies the installed stable toolchain.
 - If a major upgrade changes behavior, update the affected code and verify its
   generated output before considering a downgrade.
-- TypeScript 7 is the sole planned version exception.
+- TypeScript 7 is the planned toolchain exception. If the x402 Solana program
+  packages require Solana Kit 5.x, retain the newest compatible 5.x releases
+  and record the peer constraints in issue #3.
 - Do not weaken SEO parsing, static generation, locale routing, CSP protection,
   or optional-feature defaults to make a check pass.
 
@@ -123,7 +125,8 @@ Run fresh checks after installation:
 3. A build with valid placeholder values for the optional GTM and AdSense
    environment settings
 4. Registry comparison confirming direct dependencies are on the selected
-   latest stable releases, except TypeScript 7
+   latest compatible stable releases, with TypeScript 7 and any documented
+   Solana peer-compatibility exceptions
 5. Generated-output inspection for CSP meta tags, pagination links, locale
    routes, article metadata, RSS, sitemap, robots, llms files, and Pagefind
 6. A short startup check of the new unmanaged parallel development command on
