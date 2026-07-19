@@ -298,6 +298,10 @@ tests.
 
 ## System Motion Preference
 
+Primary content entries respond on press with a restrained compositor scale and
+opacity change. This response is shared by image cards, archive rows, taxonomy
+entries, and pagination without changing layout dimensions.
+
 When the system requests reduced motion, public interactions remove decorative
 translation, scale, and rotation. This includes image cards and article heroes,
 archive and taxonomy links, pagination, header selectors, and mobile navigation.

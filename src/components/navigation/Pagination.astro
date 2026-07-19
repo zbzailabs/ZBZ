@@ -18,7 +18,7 @@ interface Props {
 const { lang, prev, next, pages = [], currentPage, totalPages } = Astro.props
 const isRtl = getLocaleMeta(lang).dir === "rtl"
 const itemClass =
-  "inline-flex size-11 shrink-0 items-center justify-center rounded-lg bg-background/80 text-sm font-medium text-foreground shadow-sm backdrop-blur-md transition active:scale-95 active:bg-accent hover:-translate-y-0.5 hover:bg-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-40 dark:bg-white/5"
+  "heos-press inline-flex size-11 shrink-0 items-center justify-center rounded-lg bg-background/80 text-sm font-medium text-foreground shadow-sm backdrop-blur-md transition active:bg-accent hover:-translate-y-0.5 hover:bg-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:pointer-events-none disabled:opacity-40 dark:bg-white/5"
 const disabledClass = `${itemClass} opacity-35`
 const pageItems =
   pages.length > 0

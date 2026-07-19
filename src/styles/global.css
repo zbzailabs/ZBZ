@@ -660,6 +660,26 @@ html:lang(ar) :where(.card-title, .page-title, .article-title) {
   @apply scale-110 blur-[20px] transition-opacity duration-[400ms] ease-out;
 }
 
+.heos-press {
+  transform-origin: center;
+  transition-property:
+    scale, opacity, color, background-color, border-color, transform, translate,
+    filter, backdrop-filter;
+  transition-duration: 100ms;
+  transition-timing-function: ease-out;
+}
+
+.heos-press:active {
+  scale: 0.985;
+  opacity: 0.88;
+}
+
+.heos-press:focus-visible,
+.heos-press:has(> a:focus-visible) {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .blur-placeholder {
     @apply transition-opacity duration-50;
@@ -711,6 +731,15 @@ html:lang(ar) :where(.card-title, .page-title, .article-title) {
     translate: -50% 0;
     transition-duration: 50ms;
     transition-property: opacity;
+  }
+
+  .heos-press,
+  .heos-press:active {
+    scale: 1;
+  }
+
+  .heos-press:active {
+    opacity: 0.78;
   }
 }
 
