@@ -217,6 +217,13 @@ document `dir="rtl"` value and start-aligned prose. Headings are compact and
 strong. Navigation and metadata stay small, with normal or slight positive
 tracking only where the current UI already uses uppercase labels.
 
+Article links always use a visible muted underline, independent of the general
+border token. Hover darkens the underline, press softens the text, and keyboard
+focus adds an outline without moving the surrounding prose.
+The transparent default `border` and `input` tokens remain available for
+structure that intentionally has no visible rule; they must not provide the
+only visible affordance for interactive text.
+
 Do not use viewport-scaled font sizes. Do not use negative letter spacing.
 
 ## Layout
