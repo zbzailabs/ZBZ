@@ -203,7 +203,7 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
           {
             author?.data.socials.map((social) => (
               <a
-                class="inline-flex size-11 items-center justify-center rounded-full bg-muted text-muted-foreground transition hover:-translate-y-0.5 hover:bg-accent hover:text-foreground"
+                class="inline-flex size-11 items-center justify-center rounded-full bg-muted text-muted-foreground transition hover:-translate-y-0.5 hover:bg-accent hover:text-foreground motion-reduce:hover:translate-y-0"
                 href={social.url}
                 aria-label={social.label}
                 target={social.url.startsWith("http") ? "_blank" : undefined}
@@ -355,7 +355,7 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
               {currentActivity.posts.map((post) => (
                 <a
                   href={post.href}
-                  class="grid gap-1 rounded-lg bg-background/70 px-4 py-3 text-sm transition hover:-translate-y-0.5 hover:bg-accent/70 dark:bg-white/[0.03]"
+                  class="grid gap-1 rounded-lg bg-background/70 px-4 py-3 text-sm transition hover:-translate-y-0.5 hover:bg-accent/70 motion-reduce:hover:translate-y-0 dark:bg-white/[0.03]"
                 >
                   <span class="text-xs font-medium text-muted-foreground">
                     {post.publishedAt}
@@ -540,7 +540,7 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
               const link = document.createElement("a")
               link.href = post.href
               link.className =
-                "grid gap-1 rounded-lg bg-background/70 px-4 py-3 text-sm transition hover:-translate-y-0.5 hover:bg-accent/70 dark:bg-white/[0.03]"
+                "grid gap-1 rounded-lg bg-background/70 px-4 py-3 text-sm transition hover:-translate-y-0.5 hover:bg-accent/70 motion-reduce:hover:translate-y-0 dark:bg-white/[0.03]"
 
               const meta = document.createElement("span")
               meta.className = "text-xs font-medium text-muted-foreground"

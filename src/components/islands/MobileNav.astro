@@ -60,10 +60,15 @@ const primaryCategories = getPrimaryCategories()
             <details class="group rounded-lg">
               <summary class="flex min-h-11 cursor-pointer list-none items-center justify-between rounded-lg px-3 text-sm font-medium text-foreground active:bg-muted hover:bg-muted focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
                 <span>{category.labelByLocale[lang]}</span>
-                <Icon
-                  name="chevron-down"
-                  class="size-4 text-muted-foreground transition-transform group-open:rotate-180"
-                />
+                <span
+                  class="inline-flex transition-transform group-open:rotate-180"
+                  data-mobile-nav-chevron
+                >
+                  <Icon
+                    name="chevron-down"
+                    class="size-4 text-muted-foreground"
+                  />
+                </span>
               </summary>
               <div class="mt-1 flex flex-col gap-1 ps-3">
                 {getTagsForCategory(category.slug).map((tag) => (
@@ -109,8 +114,33 @@ const primaryCategories = getPrimaryCategories()
     transform: translateX(-100%);
   }
 
-  [data-mobile-nav-panel][data-open] {
+  [data-mobile-nav-panel][data-open],
+  :global(html[dir="rtl"]) [data-mobile-nav-panel][data-open] {
     transform: translateX(0);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    [data-mobile-nav-panel],
+    :global(html[dir="rtl"]) [data-mobile-nav-panel],
+    [data-mobile-nav-panel][data-open] {
+      transform: translateX(0);
+      transition-duration: 50ms;
+      transition-property: opacity;
+    }
+
+    [data-mobile-nav-panel]:not([data-open]) {
+      opacity: 0;
+    }
+
+    [data-mobile-nav-panel][data-open] {
+      opacity: 1;
+    }
+
+    [data-mobile-nav-chevron] {
+      rotate: none;
+      transform: none;
+      transition-property: color;
+    }
   }
 </style>
 

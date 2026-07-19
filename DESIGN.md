@@ -291,3 +291,16 @@ tests.
 - Preserve real image-led surfaces for post cards and article heroes.
 - Avoid decorative background blobs, one-note color palettes, and nested cards.
 - Avoid visible UI text that explains implementation details.
+
+## System Motion Preference
+
+When the system requests reduced motion, public interactions remove decorative
+translation, scale, and rotation. This includes image cards and article heroes,
+archive and taxonomy links, pagination, header selectors, and mobile navigation.
+The mobile navigation panel appears in place instead of crossing the viewport,
+and disclosure chevrons do not rotate.
+
+State remains visible through color, background, opacity, focus outlines, or a
+short fade of no more than 50ms. Normal motion keeps the existing restrained
+movement. Reduced motion must not change modal focus handling, navigation
+meaning, selected state, or RTL layout.

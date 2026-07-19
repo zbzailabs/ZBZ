@@ -657,4 +657,52 @@ html:lang(ar) :where(.card-title, .page-title, .article-title) {
   .blur-placeholder {
     @apply transition-opacity duration-50;
   }
+
+  .post-card picture img,
+  .post-card > img,
+  .post-card:hover picture img,
+  .post-card:hover > img {
+    scale: none;
+    transition-duration: 50ms;
+    transition-property: opacity;
+  }
+
+  .archive-row,
+  .taxonomy-card,
+  .taxonomy-link,
+  .taxonomy-pill,
+  .not-found-link,
+  .not-found-search__button,
+  [data-pagination] a,
+  [data-header-action],
+  [data-dropdown-menu-trigger],
+  [data-mobile-nav-trigger],
+  [data-mobile-nav-close] {
+    transition-duration: 50ms;
+    transition-property: color, background-color, border-color, opacity,
+      box-shadow;
+  }
+
+  .archive-row:hover,
+  .taxonomy-card:hover,
+  .taxonomy-link:hover,
+  .taxonomy-pill:hover,
+  .not-found-link:hover,
+  .not-found-search__button:hover,
+  [data-pagination] a:hover,
+  [data-pagination] a:active,
+  [data-header-action]:active,
+  [data-dropdown-menu-trigger]:active,
+  [data-mobile-nav-trigger]:active,
+  [data-mobile-nav-close]:active {
+    scale: none;
+    translate: none;
+    transform: none;
+  }
+
+  [data-header-dropdown] {
+    translate: -50% 0;
+    transition-duration: 50ms;
+    transition-property: opacity;
+  }
 }
