@@ -62,8 +62,9 @@
       const run = () => {
         const color = extractDominantColor(img)
         if (!color) return
-        content.style.setProperty("--dynamic-glass-color", color)
-        content.style.setProperty("--dynamic-glass-blur", CONFIG.blurAmount)
+        content.style.backgroundColor = color
+        content.style.backdropFilter = `blur(${CONFIG.blurAmount})`
+        content.style.webkitBackdropFilter = `blur(${CONFIG.blurAmount})`
       }
       if (img.complete && img.naturalWidth > 0) requestAnimationFrame(run)
       else img.addEventListener("load", run, { once: true })

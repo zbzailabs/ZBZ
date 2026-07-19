@@ -245,9 +245,11 @@ The homepage has three code-supported modes in `SITE_CONFIG.homepage.layout`:
 ## Cards and Glass
 
 Post cover cards use full-bleed imagery with a gradient and a glass content
-panel. A stable dark overlay protects white titles and metadata while sampled
-image color remains decorative. The ordinary panel uses blur and restrained
-shadow without a visible border.
+panel. The panel samples its cover image and uses the darkened result as a
+translucent background so the image color remains visible behind white titles
+and metadata. The ordinary panel uses blur and restrained shadow without a
+visible border. Reduced-transparency and enhanced-contrast preferences replace
+the sampled color with a stable opaque dark surface.
 
 Article heroes use the same image-first language, with a centered glass title
 panel over the image. Dropdowns and mobile navigation share the glass language.
