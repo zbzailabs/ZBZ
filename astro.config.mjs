@@ -30,6 +30,33 @@ export default defineConfig({
   site: SITE_CONFIG.url,
   trailingSlash: "always",
   compressHTML: true,
+  security: {
+    csp: {
+      algorithm: "SHA-256",
+      directives: [
+        "default-src 'self'",
+        "base-uri 'self'",
+        "object-src 'none'",
+        "frame-src 'self' https://www.googletagmanager.com https://googleads.g.doubleclick.net",
+        "img-src 'self' data: https:",
+        "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googlesyndication.com",
+      ],
+      scriptDirective: {
+        resources: [
+          { resource: "'self'", kind: "element" },
+          { resource: "https://www.googletagmanager.com", kind: "element" },
+          { resource: "https://pagead2.googlesyndication.com", kind: "element" },
+        ],
+        strictDynamic: false,
+      },
+      styleDirective: {
+        resources: [
+          { resource: "'self'", kind: "element" },
+          { resource: "'unsafe-inline'", kind: "attribute" },
+        ],
+      },
+    },
+  },
   vite: {
     plugins: [tailwindcss()],
   },
