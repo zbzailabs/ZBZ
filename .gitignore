@@ -6,6 +6,7 @@ dist/
 astro_cache/
 .superpowers/
 .wrangler/
+.worktrees/
 
 # dependencies
 node_modules/
