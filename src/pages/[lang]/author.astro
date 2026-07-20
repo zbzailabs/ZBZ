@@ -379,7 +379,8 @@ const activityDataJson = JSON.stringify(activityByYear).replace(/</g, "\\u003c")
   </PageSection>
 </Layout>
 
-<script is:inline>
+<script>
+  // @ts-nocheck -- existing browser controller, bundled to satisfy CSP
   ;(() => {
     window.__authorActivityCleanup?.()
     const cleanups = []

@@ -16,7 +16,6 @@ const {
   class: className = "",
 } = Astro.props
 const hint = getLocaleMeta(lang).searchHint
-const bundlePath = `/pagefind/${lang}/`
 ---
 
 <div
@@ -24,7 +23,12 @@ const bundlePath = `/pagefind/${lang}/`
   role="search"
   aria-label={label}
 >
-  <div id={id} class="pagefind-ui pagefind-init w-full" data-locale={lang}>
+  <div
+    id={id}
+    class="pagefind-ui pagefind-init w-full"
+    data-locale={lang}
+    data-pagefind-search
+  >
     <p
       class="rounded-lg bg-background/70 p-6 text-sm text-muted-foreground shadow-sm backdrop-blur-md"
     >
@@ -33,14 +37,38 @@ const bundlePath = `/pagefind/${lang}/`
   </div>
 </div>
 <link href={`/pagefind/${lang}/pagefind-ui.css`} rel="stylesheet" />
-<script is:inline define:vars={{ id, lang, bundlePath }}>
+<script>
+  // @ts-nocheck -- Pagefind publishes its browser API at runtime
   ;(() => {
     window.__pagefindSearchCleanup?.()
 
+    const ensurePagefindUI = (bundlePath) => {
+      if (window.PagefindUI) return Promise.resolve()
+      const existing = document.querySelector("script[data-pagefind-ui-script]")
+      if (existing) {
+        return new Promise((resolve, reject) => {
+          existing.addEventListener("load", resolve, { once: true })
+          existing.addEventListener("error", reject, { once: true })
+        })
+      }
+      return new Promise((resolve, reject) => {
+        const script = document.createElement("script")
+        script.src = `${bundlePath}pagefind-ui.js`
+        script.async = true
+        script.dataset.pagefindUiScript = "true"
+        script.addEventListener("load", resolve, { once: true })
+        script.addEventListener("error", reject, { once: true })
+        document.head.appendChild(script)
+      })
+    }
+
     const initPagefindSearch = async () => {
-      const target = document.querySelector(`#${id}`)
+      const target = document.querySelector("[data-pagefind-search]")
       if (!target) return
       if (target.dataset.pagefindStatus === "loading") return
+      const id = target.id
+      const lang = target.dataset.locale
+      const bundlePath = `/pagefind/${lang}/`
 
       const activeSearch = window.__pagefindSearch
       if (
@@ -64,7 +92,7 @@ const bundlePath = `/pagefind/${lang}/`
       const fallback = target.innerHTML
 
       try {
-        await import(`${bundlePath}pagefind-ui.js`)
+        await ensurePagefindUI(bundlePath)
         target.innerHTML = ""
         const PagefindUI = window.PagefindUI
         if (!PagefindUI) throw new Error("Pagefind UI failed to load.")

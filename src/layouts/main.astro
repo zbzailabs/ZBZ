@@ -136,7 +136,8 @@ const alternateOgLocales = LOCALES.filter((locale) => locale !== lang).map(
         imageAlt: imageAlt ?? pageTitle,
       }}
     />
-    <script is:inline>
+    <script>
+      // @ts-nocheck -- early browser theme initialization
       ;(() => {
         const theme = localStorage.getItem("theme") || "system"
         const resolved =

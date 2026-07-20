@@ -158,7 +158,8 @@ const primaryCategories = getPrimaryCategories()
   }
 </style>
 
-<script is:inline>
+<script>
+  // @ts-nocheck -- existing browser controller, bundled to satisfy CSP
   ;(() => {
     window.__mobileNavCleanup?.()
 

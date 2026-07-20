@@ -61,7 +61,8 @@ const commentPlaceholders = {
   </div>
 </section>
 
-<script is:inline>
+<script>
+  // @ts-nocheck -- cwd-widget has no bundled TypeScript declarations
   ;(() => {
     if (window.__zbzCwdController) {
       window.__zbzCwdController.mount()

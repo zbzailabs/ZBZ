@@ -25,6 +25,7 @@
     "dev:parallel": "ASTRO_DEV_BACKGROUND=false astro dev --ignore-lock",
     "start": "astro dev",
     "build": "astro check && astro build",
+    "check:csp-interactions": "node --test scripts/csp-interactions.test.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "deploy:worker": "wrangler deploy",

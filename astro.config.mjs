@@ -39,11 +39,12 @@ export default defineConfig({
         "object-src 'none'",
         "frame-src 'self' https://www.googletagmanager.com https://googleads.g.doubleclick.net",
         "img-src 'self' data: https:",
-        "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googlesyndication.com",
+        "connect-src 'self' https://api-cmt.zbz.ai https://*.google-analytics.com https://*.analytics.google.com https://*.googlesyndication.com",
       ],
       scriptDirective: {
         resources: [
           { resource: "'self'", kind: "element" },
+          { resource: "https://unpkg.com", kind: "element" },
           { resource: "https://www.googletagmanager.com", kind: "element" },
           { resource: "https://pagead2.googlesyndication.com", kind: "element" },
         ],
@@ -52,12 +53,19 @@ export default defineConfig({
       styleDirective: {
         resources: [
           { resource: "'self'", kind: "element" },
+          {
+            resource: "'sha256-XlsOZ7bTVgbsPrh7LZjju5rwvjGaGarhEwVzNLcsIxM='",
+            kind: "element",
+          },
           { resource: "'unsafe-inline'", kind: "attribute" },
         ],
       },
     },
   },
   vite: {
+    build: {
+      assetsInlineLimit: 0,
+    },
     plugins: [tailwindcss()],
   },
   i18n: {

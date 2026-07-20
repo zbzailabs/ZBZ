@@ -154,7 +154,8 @@ const legalLinks = [
   </div>
 </footer>
 
-<script is:inline>
+<script>
+  // @ts-nocheck -- cwd-widget has no bundled TypeScript declarations
   ;(() => {
     if (window.__zbzCwdViewsController) {
       window.__zbzCwdViewsController.mount()
